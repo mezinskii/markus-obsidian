@@ -1,0 +1,15 @@
+{
+  "name": "marcus-aurelius-corpus",
+  "type": "module",
+  "scripts": {
+    "build": "tsx scripts/build.ts",
+    "to-sanity": "tsx scripts/to-sanity.ts",
+    "all": "npm run build && npm run to-sanity"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0",
+    "gray-matter": "^4.0.3"
+  }
+}
