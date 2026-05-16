@@ -1,47 +1,49 @@
-# Marcus Aurelius Corpus
+# Obsidian Vault — академические корпуса
 
-Академический проект-корпус по «Размышлениям» Марка Аврелия: Obsidian-vault для работы с текстом + TypeScript-скрипты, собирающие материал в JSON и NDJSON для импорта в [Sanity CMS](https://www.sanity.io/).
+Мета-vault для нескольких независимых исследовательских проектов. Каждый проект — отдельная папка в корне со своей структурой, шаблонами и скриптами сборки. Общими остаются только Obsidian-конфиг (`.obsidian/`) и Node-окружение (`package.json`, `node_modules/`, `tsconfig.json`).
 
-## Структура
+## Проекты
 
-```
-passages/   — пассажи «Размышлений» (NN-NN.md, напр. 04-03.md)
-terms/      — греческие стоические термины
-dogmas/     — стоические догматы
-exercises/  — духовные упражнения по Адо
-sources/    — античные источники и параллели (Эпиктет, Сенека и др.)
-images/     — образы и метафоры Марка
-templates/  — Obsidian-шаблоны для новых записей
-scripts/    — TypeScript-скрипты сборки
-build/      — генерируемые JSON и NDJSON (в .gitignore)
-```
+- [marcus-aurelius/](marcus-aurelius/) — корпус по «Размышлениям» Марка Аврелия (пассажи, термины, догматы, упражнения по Адо).
 
 ## Открыть в Obsidian
 
-«Open folder as vault» → выбрать корень этого репозитория. Папка `.obsidian/` уже создана.
+«Open folder as vault» → выбрать корень этого репозитория. Граф связей охватывает все проекты сразу — можно ссылаться `[[Зевс]]` из заметки про Марка и наоборот.
 
 ### Рекомендованные плагины
 
-- **Templater** — раскрывает маркеры `<% ... %>` в `templates/` при создании новой записи.
-- **Dataview** — запросы по frontmatter (напр. все пассажи с дисциплиной `assent`).
+- **Templater** — раскрывает маркеры `<% ... %>` в `*/templates/` при создании новой записи. В настройках плагина установите Template folder location на конкретный проект (`marcus-aurelius/templates`) либо используйте Folder Templates, чтобы привязать набор шаблонов к каждой проектной папке.
+- **Dataview** — запросы по frontmatter (например, все пассажи Марка с дисциплиной `assent`).
 - **Obsidian Git** — синхронизация со внешним репозиторием.
 
 ## Сборка
 
+Сначала установить зависимости (один раз):
+
 ```bash
 npm install
-npm run all
 ```
 
-`npm run all` выполняет два шага последовательно:
-
-1. `npm run build` — парсит `passages/`, `terms/`, `dogmas/`, `exercises/` и пишет JSON в `build/`.
-2. `npm run to-sanity` — превращает JSON в NDJSON-документы Sanity (`build/import.ndjson`) с детерминированными `_id` и `reference`-связями.
-
-## Импорт в Sanity
+Затем — собрать конкретный проект:
 
 ```bash
-npx sanity dataset import build/import.ndjson production --replace
+npm run marcus:all
 ```
 
-Флаг `--replace` позволяет повторный импорт: `_id` стабильны (`passage-04-03`, `term-hegemonikon`, и т.д.), и существующие документы будут перезаписаны на месте.
+У каждого проекта свои npm-скрипты с префиксом-именем: `marcus:build`, `marcus:to-sanity`, `marcus:all`. Подробности — в README соответствующего проекта.
+
+## Как добавить новый проект
+
+Например, проект по античному пантеону:
+
+1. Создать папку `pantheon/` с нужной структурой (`gods/`, `epithets/`, `cults/`, `templates/`, `scripts/`).
+2. Написать `pantheon/scripts/build.ts` и `pantheon/scripts/to-sanity.ts` под схему пантеона — у богов своя модель данных, скрипты не переиспользуются между проектами.
+3. Добавить в корневой `package.json` скрипты:
+   ```json
+   "pantheon:build": "tsx pantheon/scripts/build.ts",
+   "pantheon:to-sanity": "tsx pantheon/scripts/to-sanity.ts",
+   "pantheon:all": "npm run pantheon:build && npm run pantheon:to-sanity"
+   ```
+4. Добавить ссылку на проект в раздел «Проекты» этого README.
+
+Шаблон `tsconfig.json` уже включает любые `.ts` под `*/scripts/`, отдельные настройки не нужны. Папки `*/build/` уже игнорируются гитом.

@@ -1,5 +1,5 @@
 node_modules/
-build/
+*/build/
 .DS_Store
 .obsidian/workspace*
 .obsidian/cache

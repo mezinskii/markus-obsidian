@@ -1,10 +1,11 @@
 {
-  "name": "marcus-aurelius-corpus",
+  "name": "obsidian-corpora",
   "type": "module",
+  "private": true,
   "scripts": {
-    "build": "tsx scripts/build.ts",
-    "to-sanity": "tsx scripts/to-sanity.ts",
-    "all": "npm run build && npm run to-sanity"
+    "marcus:build": "tsx marcus-aurelius/scripts/build.ts",
+    "marcus:to-sanity": "tsx marcus-aurelius/scripts/to-sanity.ts",
+    "marcus:all": "npm run marcus:build && npm run marcus:to-sanity"
   },
   "devDependencies": {
     "tsx": "^4.0.0",
