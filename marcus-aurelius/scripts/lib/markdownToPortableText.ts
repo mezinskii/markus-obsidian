@@ -111,6 +111,20 @@ const preprocess = (input: string): PreprocessResult => {
     },
   )
 
+  // Wiki-links inside a backticked code span — substitute the WHOLE span with
+  // the alias text wrapped in backticks (drop the link). markdown-it does not
+  // parse markdown syntax inside code spans, so converting these to
+  // `[alias](xref://id)` would leave raw markdown leaking through. Authors who
+  // write `` `[[term|alias]]` `` mean "render this term name as code"; the link
+  // to the entity page is redundant with the related-concepts sidebar.
+  text = text.replace(
+    /`\[\[([^|\]\n]+?)(?:\|([^\]\n]+?))?\]\]`/g,
+    (_match, rawId: string, rawAlias?: string) => {
+      const alias = (rawAlias ?? rawId).trim()
+      return `\`${alias}\``
+    },
+  )
+
   // Wiki-links: [[id|alias]] or [[id]]
   text = text.replace(
     /\[\[([^|\]\n]+?)(?:\|([^\]\n]+?))?\]\]/g,
@@ -126,10 +140,17 @@ const preprocess = (input: string): PreprocessResult => {
     },
   )
 
-  // Inline footnote refs: [^id] -> empty link
+  // Inline footnote refs: [^id] -> link with a zero-width-space placeholder
+  // text. CommonMark allows empty link text, but markdown-it then emits a
+  // link_open/link_close pair with no inline tokens between, so the inline
+  // walker never creates a span carrying the footnoteRef mark — the marker
+  // ends up "orphaned" and the renderer falls back to appending it at the
+  // block end. Inserting a ZWSP gives the walker a real (invisible) span to
+  // attach the mark to; the <sup>N</sup> then renders precisely where the
+  // [^id] sat in the source text.
   text = text.replace(/\[\^([^\]\n]+)\]/g, (_match, key: string) => {
     const encoded = encodeURIComponent(key.trim())
-    return `[](${URL_SCHEME_FN}${encoded})`
+    return `[​](${URL_SCHEME_FN}${encoded})`
   })
 
   // Collapse blank-line runs created by removed footnote defs
