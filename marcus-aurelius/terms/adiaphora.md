@@ -1,7 +1,8 @@
 ---
 greek: ἀδιάφορα (ед. ч. ἀδιάφορον)
 translit: adiaphora (adiaphoron)
-translation: безразличное, индифферентное
+translation_ru: безразличное, индифферентное
+translation_en: indifferents, indifferent things
 part_of_philosophy: ethics
 related_terms:
   - agathon
@@ -33,9 +34,35 @@ related_terms:
 
 Эта шкала позволяет стоику **одновременно** (а) действовать в мире разумно, предпочитая здоровье болезни и стремясь к процветанию; и (б) не приходить в [[pathos|страсть]] при их получении или потере — потому что они не τἀγαθά, не блага в техническом смысле. Различие между «предпочитаемое» и «благое» — линза, через которую возможна стоическая ἀπάθεια.
 
+## Definition
+
+*Adiaphora* literally means "things that admit of no differentiation," from ἀ-διά-φορον. In Stoic ethics it is the technical term for everything that **is neither virtue nor vice**, and which therefore does not determine whether a life counts as successful or failed. The Stoics draw a radically narrow classification of value:
+
+| Category | Content |
+|----------|---------|
+| [[agathon|τὰ ἀγαθά]] (the good) | only virtue (ἀρετή) and what partakes in it |
+| [[kakon|τὰ κακά]] (the bad) | only vice (κακία) and what partakes in it |
+| **ἀδιάφορα** (the indifferents) | **everything else** — health, wealth, reputation, children, country; illness, poverty, disgrace, the loss of those dear to us, death |
+
+This is a **challenge** to ordinary moral vocabulary. What people commonly call "goods" (health, success, kin) and "evils" (sickness, want, death) are, on the Stoic view, neither: they **do not affect the quality of the soul**, the sole site at which good and evil are localised.
+
+## Internal structure of the *adiaphora*
+
+The Stoics do not maintain that the indifferents are "all the same." That would be an absurd position: a reasonable person **naturally** prefers health to sickness and friendship to solitude. Zeno therefore introduced a fine three-part classification **within** *adiaphora*:
+
+- **προηγμένα** (preferred, Lat. *praeposita*) — what one naturally pursues: health, strength, natural gifts, ability;
+- **ἀποπροηγμένα** (dispreferred, Lat. *reiecta*) — what one naturally avoids: illness, mutilation, ugliness, poverty;
+- **οὐδέτερα** / strictly indifferent — what is genuinely equal: the length of a hair, whether a heap of objects is odd or even.
+
+This scale lets the Stoic **simultaneously** (a) act in the world rationally, preferring health to sickness and pursuing flourishing; and (b) not be thrown into a [[pathos|passion]] when these come or go — because they are not τἀγαθά, not goods in the technical sense. The distinction between "preferred" and "good" is the lens through which Stoic [[apatheia|ἀπάθεια]] becomes possible.
+
 ## Источник определения
 
 SVF I 191, 192 (Зенон вводит ἀδιάφορα); III 117–168 (Хрисипп — обширный корпус); III 127–139 (классификация προηγμένα / ἀποπροηγμένα — Хрисипп, Антипатр); DL VII 101–107; Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–58 (Катон у Цицерона разворачивает учение); III 51–53 (классификация); IV 25–32, 39–48 (антистоическая критика); LS 58 («Value and indifferents»). Анти-стоическая полемика: Plut. *De Stoic. rep.* 1047a–1050a — Плутарх атакует тонкие различения как противоречивые.
+
+## Source
+
+SVF I 191, 192 (Zeno introduces *adiaphora*); III 117–168 (Chrysippus' extensive corpus); III 127–139 (the classification προηγμένα / ἀποπροηγμένα — Chrysippus, Antipater); DL VII 101–107; Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–58 (Cato in Cicero unfolds the doctrine); III 51–53 (the classification); IV 25–32, 39–48 (anti-Stoic critique); LS 58 ("Value and indifferents"). Anti-Stoic polemic: Plut. *De Stoic. rep.* 1047a–1050a — Plutarch attacks the fine distinctions as inconsistent.
 
 ## Примечания
 
@@ -48,3 +75,15 @@ SVF I 191, 192 (Зенон вводит ἀδιάφορα); III 117–168 (Хр�
 Связь с [[dichotomy-of-control]]: у Эпиктета учение об ἀδιάφορα разворачивается через формулу τὰ ἐφ' ἡμῖν / τὰ οὐκ ἐφ' ἡμῖν: ἀδιάφορα = то, что не в нашей власти = всё внешнее по отношению к [[hegemonikon|правящему началу]]. Это рабочая операционализация: списки совпадают, потому что благо и зло, по стоикам, локализованы исключительно в актах согласия, а согласие — единственное, что собственно в нашей власти. У Марка тема ἀδιάφορα возвращается: *Med.* 4.20; 5.36; 7.66; 9.1 (новый список); 11.16.
 
 Цицеронова латинизация — *indifferentia* / *adiaphora*; *praeposita* (= προηγμένα) / *reiecta* (= ἀποπροηγμένα). От «adiaphora» — современное «adiaphorism», теологический термин для «вещей не существенных для веры».
+
+## Notes
+
+In [[02-11]], the doctrine of *adiaphora* is the final conclusion of the longest passage in Book II:
+
+> θάνατος δέ γε καὶ ζωή, δόξα καὶ ἀδοξία, πόνος καὶ ἡδονή, πλοῦτος καὶ πενία, πάντα ταῦτα ἐπίσης συμβαίνει ἀνθρώπων τοῖς τε ἀγαθοῖς καὶ τοῖς κακοῖς, οὔτε καλὰ ὄντα οὔτε αἰσχρά. οὔτ' ἄρ' ἀγαθὰ οὔτε κακά ἐστι.
+
+This is the **canonical list of *adiaphora*** in the Stoic tradition — four oppositions covering the whole spectrum of what is ordinarily taken to be fortune and misfortune: life/death, reputation/disgrace, pleasure/pain, wealth/poverty. Marcus derives the indifference of the list from Stoic theodicy: if it were genuine [[kakon|evil]], divine nature would not have allowed it to fall equally on the good and the bad; the distribution is **equal and indiscriminate** — therefore not evil; and therefore (by the converse law) not good either.
+
+Connection with [[dichotomy-of-control]]: in Epictetus, the doctrine of *adiaphora* is unfolded through the formula τὰ ἐφ' ἡμῖν / τὰ οὐκ ἐφ' ἡμῖν: *adiaphora* = what is not up to us = everything external to the [[hegemonikon|ruling part]]. This is its operational form: the two lists coincide because, on the Stoic account, good and evil are localised exclusively in acts of assent, and assent is the only thing that is truly up to us. In Marcus the theme of *adiaphora* returns: *Med.* 4.20; 5.36; 7.66; 9.1 (a fresh list); 11.16.
+
+Cicero's Latinisation: *indifferentia* / *adiaphora*; *praeposita* (= προηγμένα) / *reiecta* (= ἀποπροηγμένα). From *adiaphora* comes the modern "adiaphorism," a theological term for "things not essential to faith."

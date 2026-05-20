@@ -1,5 +1,6 @@
 ---
-title: Единство космоса — все вещи связаны единым логосом
+title_ru: Единство космоса — все вещи связаны единым логосом
+title_en: The unity of the cosmos — all things bound by a single Logos
 source_svf: SVF II 473, 528, 532, 1027
 source_ls: LS 47, 54
 related_terms:
@@ -13,10 +14,22 @@ related_terms:
 
 Космос — единое живое существо, проникнутое единой пневмой и единым логосом. Все его части связаны симпатией (συμπάθεια): движение одной отзывается во всех. Разумные существа причастны этому единству на высшем уровне — через общность ума ([[nous]]), который есть [[theia-apomoira|удел]] мирового Логоса. Поэтому всякое разделение — между человеком и человеком, между человеком и природой — иллюзорно: каждый есть часть («член», μέρος / μέλος) одного тела.
 
+## Formulation
+
+The cosmos is a single living being, pervaded by a single *pneuma* and a single Logos. All its parts are bound by sympathy (συμπάθεια): a movement in one resonates through all. Rational beings share in this unity at the highest level — through their common intellect ([[nous]]), which is a [[theia-apomoira|portion]] of the cosmic Logos. Every separation, therefore — between human and human, between human and nature — is illusory: each is a part (μέρος / μέλος, "member" or "limb") of a single body.
+
 ## Источники в традиции
 
 SVF II 473, 528, 532, 546 (учение о συμπάθεια и пневматическом континууме); 1027 (космос как живое существо); DL VII 138–143; LS 47, 54. У Марка догмат повторяется как лейтмотив: *Med.* 4.40; 6.38; 7.9 («всё переплетено, и связь свята»); 9.1; 9.9; 12.30.
 
+## Sources in tradition
+
+SVF II 473, 528, 532, 546 (the doctrine of συμπάθεια and of the pneumatic continuum); 1027 (the cosmos as a living being); DL VII 138–143; LS 47, 54. In Marcus the doctrine recurs as a leitmotif: *Med.* 4.40; 6.38; 7.9 ("all things are interwoven, and the bond is sacred"); 9.1; 9.9; 12.30.
+
 ## Примечания
 
 В [[02-01]] этот догмат — несущая онтология аргумента: если все люди суть частицы единого Логоса, то взаимное противодействие ([[antiprassein]]) есть саморасщепление целого. Образы тела ([[body-parts]], [[cooperation]]) — антропоморфное выражение космического единства: ряды зубов, веки и руки сотрудничают, потому что они одно тело, и так же люди — потому что один Логос. См. [[oikeiosis]] — этический коррелят, и [[view-from-above]] — упражнение, делающее единство интуитивно очевидным.
+
+## Notes
+
+In [[02-01]] this doctrine is the load-bearing ontology of the argument: if all human beings are particles of a single Logos, then mutual [[antiprassein|counter-action]] is the self-fission of the whole. The body-images ([[body-parts]], [[cooperation]]) are the anthropomorphic expression of cosmic unity: rows of teeth, eyelids, and hands cooperate because they are one body — and so do human beings, because they share one Logos. See [[oikeiosis]] (the ethical correlate) and [[view-from-above]] (the exercise that makes the unity intuitively evident).
