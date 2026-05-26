@@ -8,6 +8,7 @@
     "marcus-aurelius/templates/",
     "package.json",
     "package-lock.json",
-    "tsconfig.json"
+    "tsconfig.json",
+    "/README\\.md$/i"
   ]
 }

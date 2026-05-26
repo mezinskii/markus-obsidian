@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-Aristot. *Ethic. Nic.* VIII 12, 1161b–1162a (στοργή как родовая любовь); Plut. *De am. prol.* 495a–b (естественная привязанность); SVF III 731 (στοργή у Хрисиппа в контексте ойкейосиса). У Марка φιλοστοργία — частотный термин: *Med.* 1.9; 1.13; 1.16 (характеризует Антонина — «много φιλόστοργος, но без слащавости»); 2.5; 5.31; 6.30; 11.18.
+Aristot. *Ethic. Nic.* VIII 12, 1161b–1162a (στοργή как родовая любовь); Plut. *De am. prol.* 495a–b (естественная привязанность); SVF III 731 (στοργή у Хрисиппа в контексте ойкейосиса). У Марка φιλοστοργία — частотный термин: *Med.* 1.9; 1.16 (характеризует [[antoninus-pius|Антонина]] — «много φιλόστοργος, но без слащавости» — атрибуция требует сверки с критическим изданием, см. ниже); 1.17 (характеризует Фаустину как жену — «οὕτω δὲ φιλόστοργον»); 2.5; 5.31; 6.30; 11.18.
 
 ## Source
 
-Aristot. *Eth. Nic.* VIII 12, 1161b–1162a (στοργή as kin-love); Plut. *De am. prol.* 495a–b (natural attachment); SVF III 731 (στοργή in Chrysippus, in the context of *oikeiōsis*). *Philostorgia* is a frequent term in Marcus: *Med.* 1.9; 1.13; 1.16 (characterising Antoninus — "very φιλόστοργος, but without sweetness"); 2.5; 5.31; 6.30; 11.18.
+Aristot. *Eth. Nic.* VIII 12, 1161b–1162a (στοργή as kin-love); Plut. *De am. prol.* 495a–b (natural attachment); SVF III 731 (στοργή in Chrysippus, in the context of *oikeiōsis*). *Philostorgia* is a frequent term in Marcus: *Med.* 1.9; 1.16 (characterising [[antoninus-pius|Antoninus]] — "very φιλόστοργος, but without sweetness" — the attribution requires verification against a critical edition, see below); 1.17 (characterising Faustina the wife — "οὕτω δὲ φιλόστοργον"); 2.5; 5.31; 6.30; 11.18.
 
 ## Примечания
 
