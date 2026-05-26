@@ -1,4 +1,13 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "marcus-aurelius/build/",
+    "marcus-aurelius/scripts/",
+    "marcus-aurelius/templates/",
+    "package.json",
+    "package-lock.json",
+    "tsconfig.json"
+  ]
 }
