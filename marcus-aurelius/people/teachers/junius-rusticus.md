@@ -66,13 +66,13 @@ This last detail is **pivotal**. Before Rusticus Marcus apparently did not have 
 
 - [[01-07]] — главный, развёрнутый портрет; длиннейший после [[01-16]] (Антонин Пий) и [[01-17]] (благодарения богам).
 - [[01-17]] — благодарения богам за «получить хороших учителей»; Рустик имплицитно среди них.
-- Косвенно — *Med.* 1.17.4–5 (вне Книги I) — благодарность за встречу с правильной философской компанией.
+- Косвенно — *Med.* 1.17 — благодарность за встречу с правильной философской компанией.
 
 ## Mentions in Marcus
 
 - [[01-07]] — the principal, developed portrait; the longest after [[01-16]] (Antoninus Pius) and [[01-17]] (the thanksgiving to the gods).
 - [[01-17]] — the thanksgiving to the gods for "having received good teachers"; Rusticus implicitly among them.
-- Indirectly — *Med.* 1.17.4–5 — gratitude for the meeting with the right philosophical company.
+- Indirectly — *Med.* 1.17 — gratitude for the meeting with the right philosophical company.
 
 ## Литература
 
