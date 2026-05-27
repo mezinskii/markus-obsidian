@@ -8,8 +8,8 @@ dates_en: c. 117 — c. 181 CE (the exact dates of birth and death are uncertain
 birthplace_ru: Адриано́и в Мисии (северо-западная Малая Азия)
 birthplace_en: Hadrianoi in Mysia (north-west Asia Minor)
 school: Вторая Софистика (не философ — оратор-софист; платонико-эклектический фон)
-role_ru: главный представитель Второй Софистики антониновского поколения; не учитель Marcus'a, но косвенно связан с его кругом: ученик [[alexander-the-grammarian|Александра-грамматика]] (Marcus'ова учителя греческого) и автор погребальной речи в его честь; автор «Римской речи» — современного панегирика на Антониновскую империю
-role_en: the principal representative of the Second Sophistic of the Antonine generation; not a teacher of Marcus, but indirectly connected to his circle: pupil of [[alexander-the-grammarian|Alexander the Grammarian]] (Marcus's teacher of Greek) and author of the funeral oration in his honour; author of the "Roman Oration" — a panegyric on the Antonine empire contemporary with the reign
+role_ru: главный представитель Второй Софистики антониновского поколения; не учитель Marcus'a, но косвенно связан с его кругом — ученик [[alexander-the-grammarian|Александра-грамматика]] (Marcus'ова учителя греческого) и автор погребальной речи в его честь; автор «Римской речи» — современного панегирика на Антониновскую империю
+role_en: the principal representative of the Second Sophistic of the Antonine generation; not a teacher of Marcus, but indirectly connected to his circle — pupil of [[alexander-the-grammarian|Alexander the Grammarian]] (Marcus's teacher of Greek) and author of the funeral oration in his honour; author of the "Roman Oration" — a panegyric on the Antonine empire contemporary with the reign
 ---
 
 ## Биография

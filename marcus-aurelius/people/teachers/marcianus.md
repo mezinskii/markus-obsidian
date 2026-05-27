@@ -27,7 +27,7 @@ role_en: the third of Marcus Aurelius's philosophical teachers in the list at Me
 
 **Гатакер-Казобоновская эмендация.** Как и в случае с [[bacchius|Бакхием]] и [[tandasis|Тандасидом]], XVII-вечная редакторская традиция предлагала отождествить Маркиана с **Мецианом** (L. Volusius Maecianus) — известным римским юристом, учителем Marcus'a в области права (упомянутым в *SHA Marcus* 3.6). Эта эмендация: (а) меняет имя без manuscript-оснований; (б) перемещает фигуру из философской последовательности в юридическую, что противоречит контексту 01-06 (οἰκειωθῆναι φιλοσοφίᾳ, διαλόγους ἐν παιδί). Modern editors эмендацию отвергают; подробнее — в [[01-06]], коррекция к Роговинской сноске ¹⁰.
 
-Отдельная карточка для [[volusius-maecianus|Волузия Мециана]] (учителя права) будет создана при работе с соответствующим параграфом — он у Marcus'a упоминается, по-видимому, в благодарственной части [[01-17]].
+Отдельная карточка для Волузия Мециана (учителя права) будет создана при работе с соответствующим параграфом — он у Marcus'a упоминается, по-видимому, в благодарственной части [[01-17]].
 
 ## Biography
 
@@ -44,7 +44,7 @@ The modern consensus (Farquharson, Hadot, Hard): the identification is not estab
 
 **The Gataker-Casaubon emendation.** As with [[bacchius|Bacchius]] and [[tandasis|Tandasis]], the seventeenth-century editorial tradition proposed identifying Marcianus with **Maecianus** (L. Volusius Maecianus) — the well-known Roman jurist, Marcus's teacher of law (mentioned in *SHA Marcus* 3.6). The emendation: (a) changes the name without manuscript ground; (b) transfers the figure from the philosophical sequence into the juristic one, which contradicts the context of 01-06 (οἰκειωθῆναι φιλοσοφίᾳ, διαλόγους ἐν παιδί). Modern editors reject the emendation; more in [[01-06]], the correction to Rogovin's footnote ¹⁰.
 
-A separate card for [[volusius-maecianus|Volusius Maecianus]] (the teacher of law) will be created when the corresponding paragraph is worked through — he is, apparently, mentioned by Marcus in the thanksgiving part of [[01-17]].
+A separate card for Volusius Maecianus (the teacher of law) will be created when the corresponding paragraph is worked through — he is, apparently, mentioned by Marcus in the thanksgiving part of [[01-17]].
 
 ## Образовательная роль
 
