@@ -75,7 +75,7 @@ The Heraclitean background: Heracl. fr. 12, 49a, 91 DK; the reception runs throu
 
 Связь с догматами: образ-реки требует [[unity-of-cosmos|онтологии]] единого космоса как непрерывного процесса и нормативной установки [[live-according-to-nature]]. Эпистемологически он опирается на [[metabole|доктрину превращений]] и физику [[stoicheia|элементов]] — реальная «вещь» есть временная конфигурация элементов в общем круговороте.
 
-Гераклит у Марка — постоянный собеседник: помимо этого образа, см. *Med.* 4.46 (явное цитирование Гераклита), 6.42 (диалог с Гераклитом о сне), 8.3 (Гераклит наряду с Сократом, Пифагором, Архимедом и Александром — все мертвы).
+[[heraclitus|Гераклит]] у Марка — постоянный собеседник: помимо этого образа, см. *Med.* 4.46 (явное цитирование Гераклита), 6.42 (диалог с Гераклитом о сне), 8.3 ([[heraclitus|Гераклит]] наряду с [[socrates|Сократом]], Пифагором, Архимедом и [[alexander-the-great|Александром]] — все мертвы), и [[03-03]] (смерть Гераклита от водянки).
 
 ## Usage
 
@@ -92,4 +92,4 @@ The paired image is [[abscess-on-cosmos]] (02-16): there the soul is an **outgro
 
 Connection with the doctrines: the river-image requires the [[unity-of-cosmos|ontology]] of the single cosmos as a continuous process and the normative posture of [[live-according-to-nature]]. Epistemologically it rests on the [[metabole|doctrine of transformations]] and on the physics of the [[stoicheia|elements]]: a real "thing" is a temporary configuration of elements in the common cycle.
 
-Heraclitus is a constant interlocutor in Marcus: besides this image, see *Med.* 4.46 (an explicit citation of Heraclitus), 6.42 (a dialogue with Heraclitus on sleep), 8.3 (Heraclitus together with Socrates, Pythagoras, Archimedes, and Alexander — all dead).
+[[heraclitus|Heraclitus]] is a constant interlocutor in Marcus: besides this image, see *Med.* 4.46 (an explicit citation of Heraclitus), 6.42 (a dialogue with Heraclitus on sleep), 8.3 ([[heraclitus|Heraclitus]] together with [[socrates|Socrates]], Pythagoras, Archimedes, and [[alexander-the-great|Alexander]] — all dead), and [[03-03]] (Heraclitus' death by dropsy).

@@ -29,6 +29,14 @@ The doctrine goes back to Zeno and is developed by Chrysippus (SVF III 178–189
 
 Пассаж [[02-01]] — этический вывод из ойкейосиса: люди [[syngenes|родственны]] друг другу не по крови, а по разуму, и потому раздражение на ближнего противоречит структуре «своего». Связан с [[unity-of-cosmos]] (онтологическое основание родства) и [[synergia]] (его деятельное выражение). См. также упражнение [[view-from-above]], раскрывающее концентрические круги в визуальной форме.
 
+Пассаж [[03-02]] даёт **редкое космически-эстетическое расширение** ойкейосиса: побочную красоту природных процессов (трещины хлеба, перезрелые маслины, старость) видит «лишь тот, кто подлинно сроднён с природой и её делами» (γνησίως ᾠκειωμένῳ). Здесь освоение направлено не на себя и не на человеческое сообщество, а на саму [[physis|φύσις]] как целое; восприятие природной красоты оказывается функцией нравственной близости к ней.
+
+В [[03-09]] стоит само слово **οἰκείωσις** (один из немногих случаев у Марка): «приязнь к людям» (ἡ πρὸς ἀνθρώπους οἰκείωσις) названа как один из трёх плодов оберегаемой [[hypolepsis|способности суждения]] — рядом с ἀπροπτωσία (согласие) и ἀκολουθία богам (желание). Ойкейосис тут — **социальная** дисциплина (действие), вытекающая из правильного суждения о том, что́ есть другие.
+
 ## Notes
 
 Passage [[02-01]] is the ethical consequence drawn from *oikeiōsis*: human beings are [[syngenes|kindred]] to one another not by blood but by reason, and so irritation toward one's neighbour contradicts the structure of "what is one's own." Linked to [[unity-of-cosmos]] (the ontological ground of kinship) and to [[synergia]] (its active expression). See also the exercise [[view-from-above]], which unfolds the concentric circles in visual form.
+
+Passage [[03-02]] gives a **rare cosmic-aesthetic extension** of *oikeiōsis*: the incidental beauty of natural processes (the cracks of baked bread, over-ripe olives, old age) is seen "only by one who has become genuinely made akin to nature and her works" (γνησίως ᾠκειωμένῳ). Here the appropriation is directed neither at the self nor at the human community, but at [[physis|φύσις]] herself as a whole; the perception of natural beauty turns out to be a function of moral intimacy with her.
+
+In [[03-09]] the very word **οἰκείωσις** appears (one of the few instances in Marcus): "affection toward human beings" (ἡ πρὸς ἀνθρώπους οἰκείωσις) is named as one of the three fruits of the guarded [[hypolepsis|faculty of judgement]] — alongside ἀπροπτωσία (assent) and ἀκολουθία toward the gods (desire). Here *oikeiōsis* is the **social** discipline (action), flowing from a correct judgement about what others are.

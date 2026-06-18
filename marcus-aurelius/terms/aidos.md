@@ -33,8 +33,12 @@ Hom. *Il.* 13.121–124 (*aidōs* as a martial force); Plat. *Prot.* 322c (the m
 
 В том же пассаже Марк ставит αἰδώς в одну пару с [[time|τιμή]] (τιμᾶν ἑαυτήν — «почтить себя»). Это не лексические синонимы (разные корни: αἰδ- vs τιμ-), а смысловые дополнения: αἰδώς — внутренняя диспозиция, τιμή — её актовое выражение. Утрата αἰδώς приводит к тому, что человек перестаёт быть способен τιμᾶν ἑαυτόν — у него не остаётся внутри той инстанции, которая могла бы оценить себя как достойную.
 
+В [[03-07]] αἰδώς открывает «список цельности»: ничто внешнее нельзя ценить как полезное, если оно заставит τὴν αἰδῶ ἐγκαταλιπεῖν («оставить стыд») — рядом с предательством πίστις (верности). Тест на постыдность дан образно: желание «того, что нуждается в стенах и завесах». И кольцо: в конце правильное действие (включая смерть) совершается **αἰδημόνως** — «совестливо, с достоинством».
+
 ## Notes
 
 In [[02-06]] *aidōs* is the central concept of the passage: μὴ αἰδουμένῃ σεαυτήν — "[a soul that] has no self-respect." The logic of self-reproach: I am not offended by anything external — I offend myself by the very absence of *aidōs*, by placing my [[eudaimonia|εὐμοιρία]] "in the souls of others." Link with [[dichotomy-of-control]]: *aidōs* is the inner correlate of a properly drawn distinction "mine / not mine"; so long as self-respect is in place, it naturally refuses any attempt to locate one's own worth in the external. In Epictetus (*Disc.* 1.5) we find a characteristic diagnosis: "if a person has lost *aidōs*, you have nothing to say to him — he is philosophically dead."
 
 In the same passage Marcus pairs *aidōs* with [[time|τιμή]] (τιμᾶν ἑαυτήν — "to honour oneself"). They are not lexical synonyms (the roots are different, αἰδ- vs τιμ-) but complement each other in meaning: *aidōs* is an inner disposition, τιμή its outward expression. The loss of *aidōs* leads a person no longer to be capable of τιμᾶν ἑαυτόν: he no longer has within him an instance that could evaluate himself as worthy.
+
+In [[03-07]] *aidōs* opens the "integrity-list": nothing external may be valued as beneficial if it forces one τὴν αἰδῶ ἐγκαταλιπεῖν ("to abandon shame") — alongside the betrayal of πίστις (good faith). The test of shamefulness is given by an image: the desire "for something that needs walls and curtains." And a ring: at the close, right action (death included) is performed **αἰδημόνως** — "with shame/reverence, decently."

@@ -23,8 +23,8 @@ An imagined ascent: look down on cities, armies, festivals, and funerals as on a
 
 ## Примеры у Марка
 
-*Med.* 7.48 («Прекрасно сказал Платон…»); 9.30 («Взгляни сверху…»); 12.24. Также 4.48 (поток поколений) и 6.36 (Азия и Европа — точки в космосе) функционируют как варианты того же упражнения.
+*Med.* 7.48 («Прекрасно сказал Платон…»); 9.30 («Взгляни сверху…»); 12.24. Также 4.48 (поток поколений) и 6.36 (Азия и Европа — точки в космосе) функционируют как варианты того же упражнения. [[03-10]] — сжатый вариант: тройное μικρόν умаляет долгую жизнь, «уголок земли» (γῆς γωνίδιον) и самую долгую посмертную славу; пространственный и временно́й взгляд сверху соединён с дисциплиной [[paron|настоящего]].
 
 ## Examples in Marcus
 
-*Med.* 7.48 ("Plato put it well…"); 9.30 ("Look down from above…"); 12.24. Likewise *Med.* 4.48 (the stream of generations) and 6.36 (Asia and Europe as points in the cosmos) function as variants of the same exercise.
+*Med.* 7.48 ("Plato put it well…"); 9.30 ("Look down from above…"); 12.24. Likewise *Med.* 4.48 (the stream of generations) and 6.36 (Asia and Europe as points in the cosmos) function as variants of the same exercise. [[03-10]] — a compressed variant: a threefold μικρόν shrinks long life, the "corner of the earth" (γῆς γωνίδιον), and the longest posthumous fame; the spatial and temporal view from above is joined to the discipline of the [[paron|present]].

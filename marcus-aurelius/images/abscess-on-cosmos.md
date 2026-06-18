@@ -57,6 +57,8 @@ The image recurs in close forms:
 
 Парный к [[aimless-wandering]] (02-07): там душа изображалась в **движении** — бесцельные дрейф и кружение; здесь — в **состоянии**, как пневматическая опухоль. Оба образа диагностируют расстройство связи души с целым, но с разных углов: один кинематический, другой патологический.
 
+**Инверсия — [[03-08]]:** портрет **здоровой** души даётся через отрицание тех же медицинских образов: в очищенном уме нет ничего πυῶδες (гнойного), μεμολυσμένον (осквернённого), ὕπουλον (нагнаивающегося под кожей), и он οὐδὲ **ἀπεσχισμένον** — «не отколотый» (тот же корень ἀπο-σχ-, что у ἀπόσχισμα в *Med.* 4.29), но и не προσδεδεμένον (не сверх-привязанный). Здоровье — это встроенность-без-цепляния: ни нарыва, ни отрыва.
+
 Связь с догматами: эта картина имеет смысл только при [[unity-of-cosmos|онтологии единого космоса]] (часть-целое реальны как пневматический континуум) и [[cosmopolis|космополисе]] (разумная душа как со-гражданка). Без обоих фоновых тезисов «нарыв на космосе» был бы пустой метафорой, а не диагнозом.
 
 ## Usage
@@ -64,5 +66,7 @@ The image recurs in close forms:
 The image performs precisely the opposite work of the ordinary consolatory "don't be vexed, or you'll have it worse." Marcus shows: murmuring does not make me "worse off" — it makes me **ontologically not myself**. A healthy soul is a **built-in** part of the cosmos; a murmuring soul **falls out** of it, becoming a pathological formation. Not "you will suffer," but "you cease to be yourself" — this is a structural argument that bypasses ordinary consolatory squabbling.
 
 Paired with [[aimless-wandering]] (02-07): there the soul was depicted in **motion** — aimless drift and circling; here, in **a state**, as a pneumatic tumour. Both images diagnose a disordering of the soul's link with the whole, but from different angles: one kinematic, the other pathological.
+
+**The inverse — [[03-08]]:** the portrait of the **healthy** soul is given through the negation of the same medical images: in the purified mind there is nothing πυῶδες (purulent), μεμολυσμένον (defiled), ὕπουλον (festering beneath the skin), and it is οὐδὲ **ἀπεσχισμένον** — "not split off" (the same ἀπο-σχ- root as the ἀπόσχισμα of *Med.* 4.29), yet also not προσδεδεμένον (not over-attached). Health is embeddedness-without-clinging: neither abscess nor severance.
 
 Connection with the doctrines: this picture only makes sense within the [[unity-of-cosmos|ontology of the single cosmos]] (where part and whole are real as a pneumatic continuum) and within the [[cosmopolis|cosmopolis]] (the rational soul as a co-citizen). Without both background theses, "an abscess on the cosmos" would be an empty metaphor, not a diagnosis.

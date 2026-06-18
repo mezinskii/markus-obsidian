@@ -47,6 +47,8 @@ Aristot. *De an.* III 3, 427b25 — 428b9 (the classical statement of ὑπόλ�
 
 «πάντα ὑπόληψις» — **не релятивизм** («всё субъективно»), а стоическое утверждение **локуса работы**: с миром непосредственно я ничего не делаю, но я работаю с собственными ὑπολήψεις, и через них перестраиваю своё отношение к миру. Это конструктивистский тезис не онтологического, а операционального типа: мир объективен, но **моё переживание** мира конституируется моими суждениями о нём, и **только** на этом уровне я могу что-то изменить.
 
+В [[03-09]] ὑπόληψις поставлена в **основание всей системы**: «чти способность суждения (ὑποληπτικὴ δύναμις), в ней — всё». Из единственной задачи — не допустить в [[hegemonikon|правящее начало]] суждения, рассогласованного с природой, — Марк выводит **все три дисциплины Адо**: ἀπροπτωσία (неопрометчивое согласие — дисциплина согласия), [[oikeiosis|οἰκείωσις]] к людям (действие), ἀκολουθία богам (желание). Так дисциплина согласия оказывается корнем, из которого растут две другие.
+
 ## Notes
 
 In [[02-12]] ὑπόληψις makes its **first** appearance in Book II, and at once in **two** functions:
@@ -57,3 +59,5 @@ In [[02-12]] ὑπόληψις makes its **first** appearance in Book II, and at
 The link with Epictetus: the famous formula of *Ench.* 5 — «**ταράσσει τοὺς ἀνθρώπους οὐ τὰ πράγματα, ἀλλὰ τὰ περὶ τῶν πραγμάτων δόγματα**» ("people are disturbed not by things, but by their opinions about things") — is the same doctrine in the vocabulary of δόγμα. In Marcus, δόγμα and ὑπόληψις overlap functionally: both designate an evaluative judgment fixed in the [[hegemonikon|ruling part]]. The nuance differs: δόγμα foregrounds the *settledness*, ὑπόληψις the *act of taking into consciousness*. Marcus prefers ὑπόληψις.
 
 "πάντα ὑπόληψις" is **not relativism** ("everything is subjective"), but a Stoic assertion of the **locus of work**: I do nothing directly to the world, but I work on my own ὑπολήψεις, and through them I rebuild my relation to the world. It is a constructivist thesis not in the ontological but in the operational sense: the world is objective, but **my experience** of the world is constituted by my judgments about it, and **only at that level** can I change anything.
+
+In [[03-09]] ὑπόληψις is placed at the **foundation of the whole system**: "revere the faculty of judgement (ὑποληπτικὴ δύναμις) — on it everything depends." From the single task — to let no judgement inconsistent with nature arise in the [[hegemonikon|ruling part]] — Marcus derives **all three Hadotian disciplines**: ἀπροπτωσία (non-rash assent — the discipline of assent), [[oikeiosis|οἰκείωσις]] toward human beings (action), ἀκολουθία toward the gods (desire). Thus the discipline of assent is the root from which the other two grow.

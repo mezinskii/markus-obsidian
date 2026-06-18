@@ -43,6 +43,8 @@ Aristot. *Phys.* IV 10–14, 217b29–224a17 (the classical statement of the que
 
 Связь с практикой: [[prosokhe|внимание]] и [[no-more-delay|отказ от промедления]] оба опираются на τὸ παρόν, но с другого угла. Παρόν у [[prosokhe]] — это **где** нужно быть вниманием (не в прошлых обидах, не в будущих планах); παρόν у [[no-more-delay]] — это **когда** действовать (сейчас, не «потом»); παρόν у 02-14 — это **метафизическая** опора первых двух: настоящее не просто «удобная фокусировка», а **единственное наличествующее**.
 
+В [[03-10]] настоящее названо **τὸ ἀκαριαῖον** — «мгновенное, нерассекаемое» (неделимая точка «теперь»), и соединено со [[view-from-above|взглядом сверху]]: каждый живёт лишь этот миг, и мала́ не только прожитая жизнь, но и уголок земли, и самая долгая посмертная слава. Так дисциплина настоящего смыкается с релятивизацией пространства и славы — единственное «теперь» противопоставлено всему тому малому, к чему тянется тщеславие.
+
 ## Notes
 
 In [[02-14]] τὸ παρόν receives its most condensed and elegant formulation in **two arguments**:
@@ -54,3 +56,5 @@ In [[02-14]] τὸ παρόν receives its most condensed and elegant formulatio
 The ethical turn: this analysis **redefines the fear of death**. Death is ordinarily feared as "the thing that takes away my whole life." In Marcus, death takes away **only the present** — a moment the length of a blink. The length of the lived past does not enter the reckoning of losses, because the past is no longer mine. With this, [[meditatio-mortis|the memory of death]] in Marcus takes on a very specific turn: death is **easy** not because it does not exist, but because it takes away **the minimum** — the one moment that is at hand, which is in any case continually departing.
 
 Connection with practice: [[prosokhe|attention]] and [[no-more-delay|refusal of postponement]] both rest on τὸ παρόν, but from different angles. The παρόν of [[prosokhe]] is **where** the attention is to be (not in past offences, not in future plans); the παρόν of [[no-more-delay]] is **when** to act (now, not "later"); the παρόν of 02-14 is the **metaphysical** support of the first two: the present is not merely a "convenient focus" but the **sole thing that is at hand**.
+
+In [[03-10]] the present is called **τὸ ἀκαριαῖον** — "the instantaneous, the uncuttable" (the indivisible point of the "now") — and is joined to the [[view-from-above|view from above]]: each lives only this instant, and small is not only the life lived but the corner of the earth and the longest after-fame. Thus the discipline of the present meets the relativization of space and fame: the single "now" is set against all the small things toward which vanity reaches.
