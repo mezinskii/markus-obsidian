@@ -247,6 +247,7 @@ interface SanityPerson {
   dates?: I18n<string>
   birthplace?: I18n<string>
   school?: string
+  category?: 'family' | 'teachers' | 'figures'
   role?: I18n<string>
   biography: I18n<PTBlock[]>
   philosophicalSignificance: I18n<PTBlock[]>
@@ -647,6 +648,13 @@ const motifToSanity = (m: Motif, registry: Registry, warnings: string[]): Sanity
   }
 }
 
+/** Map the people/ subfolder to the web's people-hub category
+ *  (family | teachers | figures). Deriving it here means a re-upload never wipes
+ *  the `category` the /people hub filters on (`defined(category)`), and new
+ *  people are categorised automatically by where they live in the vault. */
+const personCategory = (subFolder: string): 'family' | 'teachers' | 'figures' =>
+  subFolder === 'family' ? 'family' : subFolder === 'teachers' ? 'teachers' : 'figures'
+
 const personToSanity = (
   p: Person,
   registry: Registry,
@@ -664,6 +672,7 @@ const personToSanity = (
   dates: undef(p.dates),
   birthplace: undef(p.birthplace),
   school: undef(p.school),
+  category: personCategory(p.subFolder),
   role: undef(p.role),
   biography: i18nBlocks(p.biography, registry, warnings),
   philosophicalSignificance: i18nBlocks(p.philosophicalSignificance, registry, warnings),
