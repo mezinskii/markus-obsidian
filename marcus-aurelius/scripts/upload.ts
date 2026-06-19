@@ -138,21 +138,74 @@ const main = async (): Promise<void> => {
     return
   }
 
-  // Upload everything in a single transaction.  Sanity validates references
-  // atomically inside a transaction, so a passageCard that points at a term
-  // included in the same commit doesn't trip the "non-existent document"
-  // check — even though the term is technically created later in the batch.
-  console.log('\nUploading (one transaction)…')
-  const tx = client.transaction()
-  for (const doc of selected) tx.createOrReplace(doc)
+  // Sanity caps a single mutation request body at 4 MB; the corpus no longer
+  // fits in one transaction. Batch ordering alone cannot satisfy strong-
+  // reference integrity, because references are bidirectional: a term's
+  // "mentions" link to passageCards and passageCards link back to terms. So we
+  // first bootstrap a bare {_id,_type} stub for every new document (existing
+  // ones are left untouched), then write full content with createOrReplace in
+  // size-bounded batches — by then every reference target already exists.
+  const BUDGET = 3_500_000 // bytes of doc JSON per transaction (< 4 MB, leaves room for wrappers)
+
+  const docSize = (d: SanityDoc): number => Buffer.byteLength(JSON.stringify(d), 'utf8')
+
+  const packBatches = (docs: SanityDoc[]): SanityDoc[][] => {
+    const batches: SanityDoc[][] = []
+    let cur: SanityDoc[] = []
+    let curSize = 0
+    for (const doc of docs) {
+      const s = docSize(doc)
+      if (s > BUDGET) {
+        console.error(`Document ${doc._id} is ${s} bytes — exceeds per-transaction budget ${BUDGET}.`)
+        process.exit(1)
+      }
+      if (curSize + s > BUDGET && cur.length > 0) {
+        batches.push(cur)
+        cur = []
+        curSize = 0
+      }
+      cur.push(doc)
+      curSize += s
+    }
+    if (cur.length > 0) batches.push(cur)
+    return batches
+  }
+
+  // Bootstrap: create a bare {_id,_type} stub for every document so that, once
+  // we write full content in batches, every (strong) reference target already
+  // exists. createIfNotExists leaves already-published documents untouched.
+  console.log(`\nBootstrapping ${selected.length} document stubs…`)
+  const stubTx = client.transaction()
+  for (const doc of selected) stubTx.createIfNotExists({_id: doc._id, _type: doc._type})
   try {
-    const result = await tx.commit({visibility: 'async', autoGenerateArrayKeys: false})
-    console.log(`\nDone. Transaction id: ${result.transactionId}`)
-    console.log(`Mutations committed: ${selected.length}`)
+    await stubTx.commit({visibility: 'async'})
   } catch (err) {
-    console.error(`\nTransaction failed: ${(err as Error).message}`)
+    console.error(`\nStub bootstrap failed: ${(err as Error).message}`)
     process.exit(1)
   }
+
+  const batches = packBatches(selected)
+  console.log(`Uploading full content in ${batches.length} batch(es) (≤ ${(BUDGET / 1e6).toFixed(1)} MB each)…`)
+  let committed = 0
+  for (let bi = 0; bi < batches.length; bi++) {
+    const batch = batches[bi]
+    const bytes = batch.reduce((n, d) => n + docSize(d), 0)
+    const tx = client.transaction()
+    for (const doc of batch) tx.createOrReplace(doc)
+    try {
+      const result = await tx.commit({visibility: 'async', autoGenerateArrayKeys: false})
+      committed += batch.length
+      console.log(
+        `  batch ${bi + 1}/${batches.length}: ${batch.length} docs, ` +
+          `~${(bytes / 1e6).toFixed(2)} MB — tx ${result.transactionId}`,
+      )
+    } catch (err) {
+      console.error(`\nBatch ${bi + 1} failed: ${(err as Error).message}`)
+      console.error(`Committed ${committed}/${selected.length} before the failure.`)
+      process.exit(1)
+    }
+  }
+  console.log(`\nDone. Mutations committed: ${committed}/${selected.length}`)
 }
 
 main().catch((err: unknown) => {
