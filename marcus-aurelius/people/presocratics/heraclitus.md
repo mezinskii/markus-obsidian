@@ -54,7 +54,7 @@ For understanding Marcus, Heraclitus matters more than any other Presocratic: th
 - *Med.* 4.46 — самое **развёрнутое** обращение: Марк прямо цитирует Гераклита (смерть земли — стать водой, воды — стать воздухом; «они расходятся с тем логосом, с которым более всего связаны»; «не должно поступать как дети своих родителей»).
 - *Med.* 6.42 — образ спящих, которые тоже соработники мирового процесса (гераклитов мотив сна и бодрствования).
 - *Med.* 6.47 — в перечне умерших.
-- Образ реки/потока — *Med.* 2.17, 4.43, 5.23, 6.15, 7.19, 9.29 [verify:med]; см. карточку [[body-as-river]].
+- Образ реки/потока — *Med.* 2.17, 4.43, 5.23, 6.15, 9.29; см. карточку [[body-as-river]].
 
 ## Mentions in Marcus
 
@@ -62,7 +62,7 @@ For understanding Marcus, Heraclitus matters more than any other Presocratic: th
 - *Med.* 4.46 — the most **developed** treatment: Marcus quotes Heraclitus directly (the death of earth is to become water, of water to become air; "they are at variance with the logos with which they most constantly associate"; "we ought not to act like children of our parents").
 - *Med.* 6.42 — the image of sleepers, who too are fellow-workers in the cosmic process (the Heraclitean motif of sleeping and waking).
 - *Med.* 6.47 — in the roll-call of the dead.
-- The river/stream image — *Med.* 2.17, 4.43, 5.23, 6.15, 7.19, 9.29 [verify:med]; see the card [[body-as-river]].
+- The river/stream image — *Med.* 2.17, 4.43, 5.23, 6.15, 9.29; see the card [[body-as-river]].
 
 ## Источники и фрагменты
 
