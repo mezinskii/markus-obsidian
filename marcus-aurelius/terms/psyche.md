@@ -20,11 +20,11 @@ The soul — for the Stoics a warm [[pneuma|pneuma]] pervading the body and form
 
 ## Источник определения
 
-SVF II 826–833 (восьмичастная душа); DL VII 110, 156–157; LS 53. У Марка: *Med.* 2.6; 2.16; 3.16; 11.20.
+SVF II 826–833 (восьмичастная душа); DL VII 110, 156–157; LS 53. У Марка: *Med.* 2.6; 2.16; 3.16; 11.20; уменьшит. ψυχάριον («душонка») — [[04-41]] (цитата Эпиктета).
 
 ## Source
 
-SVF II 826–833 (the eight-part soul); DL VII 110, 156–157; LS 53. In Marcus: *Med.* 2.6; 2.16; 3.16; 11.20.
+SVF II 826–833 (the eight-part soul); DL VII 110, 156–157; LS 53. In Marcus: *Med.* 2.6; 2.16; 3.16; 11.20; the diminutive ψυχάριον ("little soul") at [[04-41]] (a quotation of Epictetus).
 
 ## Примечания
 

@@ -33,21 +33,21 @@ The threefold consonance ἀπό-στημα / φῦμα / ἀπό-στασις i
 
 ## Источник
 
-*Med.* 2.16 — главный текст образа: ψυχὴ ... γίνεται ἀπόστημα καὶ οἷον φῦμα τοῦ κόσμου. Механизм образа сразу разъясняется: **τὸ δυσχεραίνειν τινὶ τῶν γινομένων ἀπόστασίς ἐστι τῆς φύσεως** — «возмущаться чем-то происходящим есть отступление от природы [целого]». То есть **недовольство = отделение = патологический нарост**. Логика трёхступенчатая: ропот против природы → разрыв связи с целым → пневматическое отслоение, и душа становится «не своей» космосу.
+[[02-16]] — главный текст образа: ψυχὴ ... γίνεται ἀπόστημα καὶ οἷον φῦμα τοῦ κόσμου. Механизм образа сразу разъясняется: **τὸ δυσχεραίνειν τινὶ τῶν γινομένων ἀπόστασίς ἐστι τῆς φύσεως** — «возмущаться чем-то происходящим есть отступление от природы [целого]». То есть **недовольство = отделение = патологический нарост**. Логика трёхступенчатая: ропот против природы → разрыв связи с целым → пневматическое отслоение, и душа становится «не своей» космосу.
 
 Образ повторяется в близкой форме:
 
-- *Med.* 4.29 — «отщеплённая часть» (ἀπόσχισμα) от космоса; уже не нарыв, но отделённый кусок
+- [[04-29]] — «отщеплённая часть» (ἀπόσχισμα) от космоса; уже не нарыв, но отделённый кусок
 - *Med.* 8.34 — образ **отрубленной руки или ноги**: «как отделённая от тела часть лежит мертво, так и человек, отдалившийся от природы»
 - *Med.* 9.23 — выделение себя из общей τάξις (порядка) есть нарушение целостности
 
 ## Source
 
-*Med.* 2.16 — the main text of the image: ψυχὴ ... γίνεται ἀπόστημα καὶ οἷον φῦμα τοῦ κόσμου. The mechanism of the image is immediately spelled out: **τὸ δυσχεραίνειν τινὶ τῶν γινομένων ἀπόστασίς ἐστι τῆς φύσεως** — "to be vexed at any of the things that happen is a withdrawal from the nature [of the whole]." That is: **discontent = separation = pathological growth**. The logic is three-step: murmuring against nature → rupture of the bond with the whole → pneumatic detachment — and the soul becomes "not its own" with respect to the cosmos.
+[[02-16]] — the main text of the image: ψυχὴ ... γίνεται ἀπόστημα καὶ οἷον φῦμα τοῦ κόσμου. The mechanism of the image is immediately spelled out: **τὸ δυσχεραίνειν τινὶ τῶν γινομένων ἀπόστασίς ἐστι τῆς φύσεως** — "to be vexed at any of the things that happen is a withdrawal from the nature [of the whole]." That is: **discontent = separation = pathological growth**. The logic is three-step: murmuring against nature → rupture of the bond with the whole → pneumatic detachment — and the soul becomes "not its own" with respect to the cosmos.
 
 The image recurs in close forms:
 
-- *Med.* 4.29 — "a piece split off" (ἀπόσχισμα) from the cosmos; no longer an abscess, but a separated chunk
+- [[04-29]] — "a piece split off" (ἀπόσχισμα) from the cosmos; no longer an abscess, but a separated chunk
 - *Med.* 8.34 — the image of the **severed hand or foot**: "as a part separated from the body lies dead, so too the person who has stepped away from nature"
 - *Med.* 9.23 — singling oneself out from the common τάξις (order) is a violation of the integrity of the whole
 

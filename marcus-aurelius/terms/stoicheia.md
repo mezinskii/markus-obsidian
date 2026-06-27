@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-SVF II 413–425 (учение об элементах); II 580–632 (πνεῦμα как смесь активных элементов); DL VII 134–137; LS 47. Аристотелевский фон — *De gen. et corr.* II 2–4. У Марка: *Med.* 2.3; 2.17; 4.46; 6.17; 7.50; 12.30.
+SVF II 413–425 (учение об элементах); II 580–632 (πνεῦμα как смесь активных элементов); DL VII 134–137; LS 47. Аристотелевский фон — *De gen. et corr.* II 2–4. У Марка: *Med.* 2.3; 2.17; [[04-46]] (круговорот стихий, цитата Гераклита); 6.17; 7.50; 12.30.
 
 ## Source
 
-SVF II 413–425 (the doctrine of the elements); II 580–632 (*pneuma* as a mixture of the active elements); DL VII 134–137; LS 47. The Aristotelian background: *De gen. et corr.* II 2–4. In Marcus: *Med.* 2.3; 2.17; 4.46; 6.17; 7.50; 12.30.
+SVF II 413–425 (the doctrine of the elements); II 580–632 (*pneuma* as a mixture of the active elements); DL VII 134–137; LS 47. The Aristotelian background: *De gen. et corr.* II 2–4. In Marcus: *Med.* 2.3; 2.17; [[04-46]] (the cycle of the elements, a Heraclitus quotation); 6.17; 7.50; 12.30.
 
 ## Примечания
 

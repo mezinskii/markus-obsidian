@@ -43,11 +43,13 @@ The principal biographical source is Diogenes Laertius IX 34–49. There are com
 ## Упоминания у Марка
 
 - [[03-03]] — смерть «от вшей» в каталоге знаменитых смертей (рядом с Сократом, которого убили «другие вши» — люди).
+- [[04-24]] — Марк цитирует и уточняет Демокритову максиму о εὐθυμία («Ὀλίγα πρῆσσε…», DK 68 B3): не «делай немногое», а «делай необходимое и социально должное».
 - Развилка «провидение или атомы» (πρόνοια ἢ ἄτομοι) — *Med.* 4.3; 6.10; 7.32; 8.17; 9.28; 9.39; 10.6; 11.18; 12.14. По имени Демокрит здесь обычно не назван, но именно его система — «атомный» рог дилеммы.
 
 ## Mentions in Marcus
 
 - [[03-03]] — death "by lice" in the catalogue of famous deaths (beside Socrates, whom "other lice" — human ones — killed).
+- [[04-24]] — Marcus quotes and refines Democritus's εὐθυμία-maxim ("Ὀλίγα πρῆσσε…", DK 68 B3): not "do few things" but "do what is necessary and socially due."
 - The fork "providence or atoms" (πρόνοια ἢ ἄτομοι) — *Med.* 4.3; 6.10; 7.32; 8.17; 9.28; 9.39; 10.6; 11.18; 12.14. Democritus is usually not named here, but it is his system that is the "atomist" horn of the dilemma.
 
 ## Источники и фрагменты

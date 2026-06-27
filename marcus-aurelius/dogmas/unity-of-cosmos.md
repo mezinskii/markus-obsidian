@@ -20,11 +20,11 @@ The cosmos is a single living being, pervaded by a single *pneuma* and a single 
 
 ## Источники в традиции
 
-SVF II 473, 528, 532, 546 (учение о συμπάθεια и пневматическом континууме); 1027 (космос как живое существо); DL VII 138–143; LS 47, 54. У Марка догмат повторяется как лейтмотив: *Med.* 4.40; 6.38; 7.9 («всё переплетено, и связь свята»); 9.1; 9.9; 12.30.
+SVF II 473, 528, 532, 546 (учение о συμπάθεια и пневматическом континууме); 1027 (космос как живое существо); DL VII 138–143; LS 47, 54. У Марка догмат повторяется как лейтмотив: *Med.* [[04-40]] (мир как одно живое существо, одна душа); [[04-45]] (гармоничная слаженность сущего, чудесное родство); [[04-46]] (Логос, правящий Целым; Гераклит); 6.38; 7.9 («всё переплетено, и связь свята»); 9.1; 9.9; 12.30.
 
 ## Sources in tradition
 
-SVF II 473, 528, 532, 546 (the doctrine of συμπάθεια and of the pneumatic continuum); 1027 (the cosmos as a living being); DL VII 138–143; LS 47, 54. In Marcus the doctrine recurs as a leitmotif: *Med.* 4.40; 6.38; 7.9 ("all things are interwoven, and the bond is sacred"); 9.1; 9.9; 12.30.
+SVF II 473, 528, 532, 546 (the doctrine of συμπάθεια and of the pneumatic continuum); 1027 (the cosmos as a living being); DL VII 138–143; LS 47, 54. In Marcus the doctrine recurs as a leitmotif: *Med.* [[04-40]] (the world as one living being, one soul); [[04-45]] (harmonious co-ordination, a wonderful kinship); [[04-46]] (the Logos governing the Whole; Heraclitus); 6.38; 7.9 ("all things are interwoven, and the bond is sacred"); 9.1; 9.9; 12.30.
 
 ## Примечания
 

@@ -40,11 +40,11 @@ The cosmopolis has several distinguishing marks:
 
 **Хрисипп и средняя Стоя** — SVF III 333–348: умеренная интерпретация. Космополис не отменяет конкретные полисы, а **превосходит** их как высший порядок.
 
-**Цицерон** — *De legibus* I 22–23: формула «mundus communis est domicilium deorum et hominum» («космос — общее жилище богов и людей»); II 19: «omnium humani generis communis est lex». Через Цицерона концепция входит в римское публичное право.
+**Цицерон** — *De legibus* I 22–23: «universus hic mundus una civitas communis deorum atque hominum existimanda [est]» («вся эта вселенная должна считаться единым градом, общим богам и людям»); там же — общий разум есть закон, связующий богов и людей в одно государство. Через Цицерона концепция входит в римское публичное право.
 
 **Сенека** — *De otio* IV 1: «duas res publicas animo complectamur, alteram magnam et vere publicam... alteram cui nos adscripsit condicio nascendi» (две республики обнимаем умом — большую и подлинно общую... и ту, к которой нас приписало рождение). *Ep.* 28.4; 68.
 
-**Марк** — *Med.* 2.16; 3.11; **4.4** (знаменитейшее место: «ὡς Ἀντωνίνῳ μοι ἡ πόλις καὶ ἡ πατρὶς Ῥώμη, ὡς δὲ ἀνθρώπῳ ὁ κόσμος» — «как Антонину мой город и отечество — Рим; как человеку — космос»); 6.44; 10.15; 12.36.
+**Марк** — *Med.* 2.16; 3.11; **4.4** (сорит-доказательство: общий νοῦς → общий λόγος → общий закон → мы граждане → «ὁ κόσμος ὡσανεὶ πόλις» — «космос есть как бы Град»; см. [[04-04]]); **6.44** (знаменитейшее место: «ὡς Ἀντωνίνῳ μοι ἡ πόλις καὶ ἡ πατρὶς Ῥώμη, ὡς δὲ ἀνθρώπῳ ὁ κόσμος» — «как Антонину мой город и отечество — Рим; как человеку — космос»); 10.15; 12.36.
 
 ## Sources in tradition
 
@@ -54,11 +54,11 @@ The cosmopolis has several distinguishing marks:
 
 **Chrysippus and the Middle Stoa** — SVF III 333–348: a moderate reading. The cosmopolis does not abolish particular cities but **surpasses** them as a higher order.
 
-**Cicero** — *De legibus* I 22–23: the formula "mundus communis est domicilium deorum et hominum" ("the cosmos is the common dwelling-place of gods and human beings"); II 19: "omnium humani generis communis est lex" ("the law is common to the whole human race"). Through Cicero the conception enters Roman public law.
+**Cicero** — *De legibus* I 22–23: "universus hic mundus una civitas communis deorum atque hominum existimanda [est]" ("this whole universe must be regarded as one city common to gods and human beings"); in the same place, shared reason is the law that binds gods and humans into a single commonwealth. Through Cicero the conception enters Roman public law.
 
 **Seneca** — *De otio* IV 1: "duas res publicas animo complectamur, alteram magnam et vere publicam... alteram cui nos adscripsit condicio nascendi" ("we embrace two commonwealths in our mind — the great and truly common one … and the one to which the condition of birth has assigned us"). *Ep.* 28.4; 68.
 
-**Marcus** — *Med.* 2.16; 3.11; **4.4** (the most celebrated place: «ὡς Ἀντωνίνῳ μοι ἡ πόλις καὶ ἡ πατρὶς Ῥώμη, ὡς δὲ ἀνθρώπῳ ὁ κόσμος» — "as Antoninus, my city and fatherland is Rome; as a human being, the cosmos"); 6.44; 10.15; 12.36.
+**Marcus** — *Med.* 2.16; 3.11; **4.4** (the sorites-proof: common νοῦς → common λόγος → common law → we are citizens → «ὁ κόσμος ὡσανεὶ πόλις» — "the cosmos is in a manner a state"; see [[04-04]]); **6.44** (the most celebrated place: «ὡς Ἀντωνίνῳ μοι ἡ πόλις καὶ ἡ πατρὶς Ῥώμη, ὡς δὲ ἀνθρώπῳ ὁ κόσμος» — "as Antoninus, my city and fatherland is Rome; as a human being, the cosmos"); 10.15; 12.36.
 
 ## Примечания
 

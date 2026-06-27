@@ -1,6 +1,6 @@
 ---
-greek: εἱμαρμένη
-translit: heimarmenē
+greek: εἱμαρμένη (глагол εἵμαρται; συγκαθείμαρτο, «со-суждено», у Марка)
+translit: heimarmenē (heimartai)
 translation_ru: судьба, удел, предопределённое
 translation_en: fate, the destined
 part_of_philosophy: physics

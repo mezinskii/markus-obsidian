@@ -98,6 +98,7 @@ In *Med.* 6.30 (beyond Book I) Marcus returns to Antoninus as the supporting fig
 - 01-16 (когда будет написан) — главный, развёрнутый портрет; длиннейший параграф Книги I.
 - *Med.* 6.30 — второй портрет (за пределами Книги I); сцепка с императивом μὴ ἀποκαισαρωθῇς.
 - 01-17 (когда будет написан) — благодарения богам; Антонин упомянут эксплицитно (благодарность за «то, что мне досталось такое отчим, как Антонин»).
+- [[04-33]] — имя Антонина в ряду угасающих славных имён (Август → Адриан → Антонин): даже ближайшее, родное имя «вскоре походит на миф» и становится «глоссой».
 - Косвенно — [[01-07]] (через Рустика), а также во всех местах, где Marcus говорит «во дворце» или «при дворе»: антониновская среда — фон.
 
 ## Mentions in Marcus
@@ -105,6 +106,7 @@ In *Med.* 6.30 (beyond Book I) Marcus returns to Antoninus as the supporting fig
 - 01-16 (to be written) — the principal, developed portrait; the longest entry of Book I.
 - *Med.* 6.30 — the second portrait (beyond Book I); the linkage with the imperative μὴ ἀποκαισαρωθῇς.
 - 01-17 (to be written) — the thanksgiving to the gods; Antoninus is mentioned explicitly (thanks for "having received such a stepfather as Antoninus").
+- [[04-33]] — the name of Antoninus in the series of fading famous names (Augustus → Hadrian → Antoninus): even the nearest, kindred name "soon becomes a mere tale" and turns into a "gloss."
 - Indirectly — [[01-07]] (through Rusticus), and also in all places where Marcus says "at the palace" or "at court": the Antonine environment is the background.
 
 ## Литература
