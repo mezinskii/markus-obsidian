@@ -54,11 +54,11 @@ The Stoic ideal is **never** to give assent to weak impressions. In Epictetus th
 
 ## Источник определения
 
-SVF I 60–61 (Зенон о συγκατάθεσις); II 53–70, 99–105 (Хрисипп — обширная разработка); II 870, 974 (роль συγκατάθεσις в формировании ὁρμή); DL VII 49–54; Stob. *Ecl.* II 88, 111 W; Cic. *Acad.* I 40–42, II 38 («ἐπέχειν» — воздержание от согласия); LS 39–41, 53. У Марка συγκατάθεσις как термин **встречается редко** (он не цитирует школьную терминологию строго), но концепт активно работает: *Med.* 5.27; 8.7; 8.49 («не прибавляй к тому, что говорит φαντασία, ничего от себя» — это и есть отказ от лишнего συγκατάθεσις); 11.3.
+SVF I 60–61 (Зенон о συγκατάθεσις); II 53–70, 99–105 (Хрисипп — обширная разработка); II 870, 974 (роль συγκατάθεσις в формировании ὁρμή); DL VII 49–54; Stob. *Ecl.* II 88, 111 W; Cic. *Acad.* I 40–42, II 38 («ἐπέχειν» — воздержание от согласия); LS 39–41, 53. У Марка συγκατάθεσις как термин **встречается редко** (он не цитирует школьную терминологию строго), но концепт активно работает: *Med.* 5.10 (редкое явное употребление термина: «πᾶσα ἡ ἡμετέρα συγκατάθεσις μεταπτώτη»); 5.27; 8.7; 8.49 («не прибавляй к тому, что говорит φαντασία, ничего от себя» — это и есть отказ от лишнего συγκατάθεσις); 11.3.
 
 ## Source
 
-SVF I 60–61 (Zeno on συγκατάθεσις); II 53–70, 99–105 (Chrysippus' extensive development); II 870, 974 (the role of συγκατάθεσις in the formation of ὁρμή); DL VII 49–54; Stob. *Ecl.* II 88, 111 W; Cic. *Acad.* I 40–42, II 38 (ἐπέχειν — the suspension of assent); LS 39–41, 53. The term συγκατάθεσις is **rare** in Marcus (he does not cite school terminology strictly), but the concept is hard at work: *Med.* 5.27; 8.7; 8.49 ("add nothing of yourself to what the φαντασία says" — this is the refusal of unwarranted συγκατάθεσις); 11.3.
+SVF I 60–61 (Zeno on συγκατάθεσις); II 53–70, 99–105 (Chrysippus' extensive development); II 870, 974 (the role of συγκατάθεσις in the formation of ὁρμή); DL VII 49–54; Stob. *Ecl.* II 88, 111 W; Cic. *Acad.* I 40–42, II 38 (ἐπέχειν — the suspension of assent); LS 39–41, 53. The term συγκατάθεσις is **rare** in Marcus (he does not cite school terminology strictly), but the concept is hard at work: *Med.* 5.10 (a rare explicit use of the term: «πᾶσα ἡ ἡμετέρα συγκατάθεσις μεταπτώτη»); 5.27; 8.7; 8.49 ("add nothing of yourself to what the φαντασία says" — this is the refusal of unwarranted συγκατάθεσις); 11.3.
 
 ## Примечания
 

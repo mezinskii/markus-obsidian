@@ -19,11 +19,11 @@ related_terms:
 
 ## Источники в традиции
 
-SVF I 187 (Зенон); III 49–67 (Хрисипп — обширная аргументация); классические формулы — DL VII 127; Stob. *Ecl.* II 71, 99 W; Cic. *De fin.* III 27; *Tusc.* V (целиком — «De virtute ad beate vivendum satis», основной трактат); Sen. *Ep.* 9 (о самодостаточности мудреца); LS 63. У Марка тезис всюду подразумевается, но особенно явно: *Med.* 1.16; [[02-05]] («сколь немногое нужно для благотекущей жизни»); [[04-32]] (довольство своим делом, не гнаться за пустым); 7.67; 9.42; 12.27.
+SVF I 187 (Зенон); III 49–67 (Хрисипп — обширная аргументация); классические формулы — DL VII 127; Stob. *Ecl.* II 71, 99 W; Cic. *De fin.* III 27; *Tusc.* V (целиком — «De virtute ad beate vivendum satis», основной трактат); Sen. *Ep.* 9 (о самодостаточности мудреца); LS 63. У Марка тезис всюду подразумевается, но особенно явно: *Med.* 1.16; [[02-05]] («сколь немногое нужно для благотекущей жизни»); [[04-32]] (довольство своим делом, не гнаться за пустым); [[05-34]]; [[05-36]]; 7.67; 9.42; 12.27.
 
 ## Sources in tradition
 
-SVF I 187 (Zeno); III 49–67 (Chrysippus' extensive argumentation); the classical formulations: DL VII 127; Stob. *Ecl.* II 71, 99 W; Cic. *De fin.* III 27; *Tusc.* V (the whole — "*De virtute ad beate vivendum satis*," the principal treatise); Sen. *Ep.* 9 (on the self-sufficiency of the sage); LS 63. In Marcus the thesis is everywhere assumed, but especially explicit at *Med.* 1.16; [[02-05]] ("how few things are needed for the smooth-flowing life"); [[04-32]] (contentment with one's own task, not chasing vanities); 7.67; 9.42; 12.27.
+SVF I 187 (Zeno); III 49–67 (Chrysippus' extensive argumentation); the classical formulations: DL VII 127; Stob. *Ecl.* II 71, 99 W; Cic. *De fin.* III 27; *Tusc.* V (the whole — "*De virtute ad beate vivendum satis*," the principal treatise); Sen. *Ep.* 9 (on the self-sufficiency of the sage); LS 63. In Marcus the thesis is everywhere assumed, but especially explicit at *Med.* 1.16; [[02-05]] ("how few things are needed for the smooth-flowing life"); [[04-32]] (contentment with one's own task, not chasing vanities); [[05-34]]; [[05-36]]; 7.67; 9.42; 12.27.
 
 ## Примечания
 

@@ -21,11 +21,11 @@ Cooperation (συνέργια) is not a moral ideal but a constitutive feature o
 
 ## Источник
 
-*Med.* 2.1 (конец пассажа); 5.16 («что не вредит городу, не вредит и гражданину»); 6.42 («все мы содействуем одному делу — одни сознательно, другие невольно… ты же позаботься быть среди первых»); 7.13; 9.23 («всякое действие, не относящееся непосредственно или опосредованно к общественной цели, разрывает жизнь»). Греческий фон — Аристотель *Pol.* I 2 (человек как ζῷον πολιτικόν), переосмысленный стоиками в терминах [[oikeiosis]] и общности логоса.
+*Med.* 2.1 (конец пассажа); 5.22 («что не вредит городу, не вредит и гражданину»); 6.42 («все мы содействуем одному делу — одни сознательно, другие невольно… ты же позаботься быть среди первых»); 7.13; 9.23 («всякое действие, не относящееся непосредственно или опосредованно к общественной цели, разрывает жизнь»). Греческий фон — Аристотель *Pol.* I 2 (человек как ζῷον πολιτικόν), переосмысленный стоиками в терминах [[oikeiosis]] и общности логоса.
 
 ## Source
 
-*Med.* 2.1 (the end of the passage); 5.16 ("what does not harm the city does not harm the citizen either"); 6.42 ("we are all cooperating in a single work — some consciously, others unwillingly… see that you are among the first"); 7.13; 9.23 ("every action that does not relate directly or indirectly to the social end tears one's life apart"). The Greek background: Aristotle *Pol.* I 2 (the human being as ζῷον πολιτικόν, the political animal), reinterpreted by the Stoics in the terms of [[oikeiosis]] and the community of the Logos.
+*Med.* 2.1 (the end of the passage); 5.22 ("what does not harm the city does not harm the citizen either"); 6.42 ("we are all cooperating in a single work — some consciously, others unwillingly… see that you are among the first"); 7.13; 9.23 ("every action that does not relate directly or indirectly to the social end tears one's life apart"). The Greek background: Aristotle *Pol.* I 2 (the human being as ζῷον πολιτικόν, the political animal), reinterpreted by the Stoics in the terms of [[oikeiosis]] and the community of the Logos.
 
 ## Использование
 

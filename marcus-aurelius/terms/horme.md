@@ -21,11 +21,11 @@ A Stoic technical term: ὁρμή is the movement of the soul toward action, the
 
 ## Источник определения
 
-SVF III 169–177 (учение об ὁρμή как κίνησις ψυχῆς πρός τι); DL VII 110–116; Stob. *Ecl.* II 86–87 W; LS 33, 53Q, 65. У Марка: *Med.* 2.2; 3.1; 6.50; 8.7 (известное правило τέλος ἐν ὁρμῇ τὸ κοινωνικόν); 9.6; 11.37.
+SVF III 169–177 (учение об ὁρμή как κίνησις ψυχῆς πρός τι); DL VII 110–116; Stob. *Ecl.* II 86–87 W; LS 33, 53Q, 65. У Марка: *Med.* 2.2; 3.1; 5.3; 6.50; 8.7 (известное правило τέλος ἐν ὁρμῇ τὸ κοινωνικόν); 9.6; 11.37.
 
 ## Source
 
-SVF III 169–177 (the doctrine of ὁρμή as κίνησις ψυχῆς πρός τι, "a movement of the soul toward something"); DL VII 110–116; Stob. *Ecl.* II 86–87 W; LS 33, 53Q, 65. In Marcus: *Med.* 2.2; 3.1; 6.50; 8.7 (the well-known rule τέλος ἐν ὁρμῇ τὸ κοινωνικόν, "the end in impulse is the common good"); 9.6; 11.37.
+SVF III 169–177 (the doctrine of ὁρμή as κίνησις ψυχῆς πρός τι, "a movement of the soul toward something"); DL VII 110–116; Stob. *Ecl.* II 86–87 W; LS 33, 53Q, 65. In Marcus: *Med.* 2.2; 3.1; 5.3; 6.50; 8.7 (the well-known rule τέλος ἐν ὁρμῇ τὸ κοινωνικόν, "the end in impulse is the common good"); 9.6; 11.37.
 
 ## Примечания
 

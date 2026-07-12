@@ -30,7 +30,7 @@ In Marcus the doctrine is most often cast as the disjunction **"providence or at
 - **Сенека**, *De providentia* — почему добрым выпадают беды, если миром правит провидение.
 - **Эпиктет**, *Disc.* 1.16 («о провидении»); 1.6. DL VII 138–139, 147 (космос управляется νοῦς и πρόνοια); LS 54.
 
-У Марка: [[02-03]] («дела богов полны провидения»); дизъюнкция «провидение или атомы» — [[04-27]]; [[04-45]] (разумная связь, не слепая необходимость); 6.10; 9.28; 9.39; 10.6; 11.18; 12.14; провидение и благо Целого — [[04-09]]; 5.8; 6.44; 9.1; 12.5.
+У Марка: [[02-03]] («дела богов полны провидения»); дизъюнкция «провидение или атомы» — [[04-27]]; [[04-45]] (разумная связь, не слепая необходимость); 6.10; 9.28; 9.39; 10.6; 11.18; 12.14; провидение и благо Целого — [[04-09]]; 5.8; [[05-30]]; 6.44; 9.1; 12.5.
 
 ## Sources in tradition
 
@@ -40,7 +40,7 @@ In Marcus the doctrine is most often cast as the disjunction **"providence or at
 - **Seneca**, *De providentia* — why ills befall the good if the world is ruled by providence.
 - **Epictetus**, *Disc.* 1.16 ("on providence"); 1.6. DL VII 138–139, 147 (the cosmos governed by νοῦς and πρόνοια); LS 54.
 
-In Marcus: [[02-03]] ("the works of the gods are full of providence"); the disjunction "providence or atoms" — [[04-27]]; [[04-45]] (a rational connection, not blind necessity); 6.10; 9.28; 9.39; 10.6; 11.18; 12.14; providence and the good of the Whole — [[04-09]]; 5.8; 6.44; 9.1; 12.5.
+In Marcus: [[02-03]] ("the works of the gods are full of providence"); the disjunction "providence or atoms" — [[04-27]]; [[04-45]] (a rational connection, not blind necessity); 6.10; 9.28; 9.39; 10.6; 11.18; 12.14; providence and the good of the Whole — [[04-09]]; 5.8; [[05-30]]; 6.44; 9.1; 12.5.
 
 ## Примечания
 

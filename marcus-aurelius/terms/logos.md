@@ -48,11 +48,11 @@ This distinction allows them to speak of a kind of rationality in animals (they 
 
 ## Источник определения
 
-SVF I 85, 87 (Зенон о λόγος как τεχνικῷ πυρί); II 1009 (космический Логос); II 458, 632 (λόγος как пневма); III 4–9 (роль логоса в стоической этике — жить κατὰ λόγον); DL VII 134–140 (учение о λόγος и δύο ἀρχαί); Cic. *De nat. deor.* II 19, 47–58 (изложение Бальба); LS 44 («The Stoic universe»), 53 («Soul»). У Марка λόγος — лейтмотив: *Med.* 2.1; 3.16; 4.4; 4.13 («κοινός λόγος»); 4.40; 5.27; 7.9 («σύνδεσμος ἱερὸς»); 12.5; 12.30 («ἕν φῶς ἡλίου ... ἕν τὸ νοερόν»).
+SVF I 85, 87 (Зенон о λόγος как τεχνικῷ πυρί); II 1009 (космический Логос); II 458, 632 (λόγος как пневма); III 4–9 (роль логоса в стоической этике — жить κατὰ λόγον); DL VII 134–140 (учение о λόγος и δύο ἀρχαί); Cic. *De nat. deor.* II 19, 47–58 (изложение Бальба); LS 44 («The Stoic universe»), 53 («Soul»). У Марка λόγος — лейтмотив: *Med.* 2.1; 3.16; 4.4; 4.13 («κοινός λόγος»); 4.40; [[05-27]]; [[05-28]]; [[05-32]]; 7.9 («σύνδεσμος ἱερὸς»); 12.5; 12.30 («ἕν φῶς ἡλίου ... ἕν τὸ νοερόν»).
 
 ## Source
 
-SVF I 85, 87 (Zeno on λόγος as τεχνικῷ πυρί, the artificing fire); II 1009 (the cosmic Logos); II 458, 632 (λόγος as *pneuma*); III 4–9 (the role of the Logos in Stoic ethics — to live κατὰ λόγον); DL VII 134–140 (the doctrine of the Logos and the δύο ἀρχαί, two first principles); Cic. *De nat. deor.* II 19, 47–58 (Balbus' exposition); LS 44 ("The Stoic universe"), 53 ("Soul"). In Marcus the Logos is a leitmotif: *Med.* 2.1; 3.16; 4.4; 4.13 ("the common λόγος"); 4.40; 5.27; 7.9 ("a sacred bond"); 12.5; 12.30 ("one light of the sun … one intellectual element").
+SVF I 85, 87 (Zeno on λόγος as τεχνικῷ πυρί, the artificing fire); II 1009 (the cosmic Logos); II 458, 632 (λόγος as *pneuma*); III 4–9 (the role of the Logos in Stoic ethics — to live κατὰ λόγον); DL VII 134–140 (the doctrine of the Logos and the δύο ἀρχαί, two first principles); Cic. *De nat. deor.* II 19, 47–58 (Balbus' exposition); LS 44 ("The Stoic universe"), 53 ("Soul"). In Marcus the Logos is a leitmotif: *Med.* 2.1; 3.16; 4.4; 4.13 ("the common λόγος"); 4.40; [[05-27]]; [[05-28]]; [[05-32]]; 7.9 ("a sacred bond"); 12.5; 12.30 ("one light of the sun … one intellectual element").
 
 ## Примечания
 

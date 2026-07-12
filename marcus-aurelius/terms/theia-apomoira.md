@@ -21,11 +21,11 @@ related_terms:
 
 ## Источник определения
 
-SVF I 135, 495; II 633, 774 (учение о душе как ἀπόσπασμα θεοῦ); DL VII 156; Epict. *Disc.* 1.14.6 («ты — отрывок бога»); 2.8.10–14. У Марка: *Med.* 2.1; 5.27; 12.26.
+SVF I 135, 495; II 633, 774 (учение о душе как ἀπόσπασμα θεοῦ); DL VII 156; Epict. *Disc.* 1.14.6 («ты — отрывок бога»); 2.8.10–14. У Марка: *Med.* 2.1; [[05-27]]; 12.26.
 
 ## Source
 
-SVF I 135, 495; II 633, 774 (the doctrine of the soul as ἀπόσπασμα θεοῦ); DL VII 156; Epict. *Disc.* 1.14.6 ("you are a fragment of god"); 2.8.10–14. In Marcus: *Med.* 2.1; 5.27; 12.26.
+SVF I 135, 495; II 633, 774 (the doctrine of the soul as ἀπόσπασμα θεοῦ); DL VII 156; Epict. *Disc.* 1.14.6 ("you are a fragment of god"); 2.8.10–14. In Marcus: *Med.* 2.1; [[05-27]]; 12.26.
 
 ## Примечания
 

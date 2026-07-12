@@ -44,11 +44,11 @@ As with virtue, *kakia* in the Stoics **obeys the thesis of unity**: a person vi
 
 ## Источник определения
 
-SVF III 91–105 (Хрисипп о κακία как состоянии); III 256, 262 (страсти как κρίσεις, порок как стойкая ложная диспозиция); DL VII 93, 100–101; Stob. *Ecl.* II 58–60, 96 W; Cic. *De fin.* III 39; *Tusc.* IV 14, 28–32; LS 61. У Марка κακία — не очень частотный термин (он предпочитает [[kakon]] и [[pathos]]), но появляется в важных местах: *Med.* 2.1 (порок как незнание блага и зла); 4.49; 9.42; 12.27.
+SVF III 91–105 (Хрисипп о κακία как состоянии); III 256, 262 (страсти как κρίσεις, порок как стойкая ложная диспозиция); DL VII 93, 100–101; Stob. *Ecl.* II 58–60, 96 W; Cic. *De fin.* III 39; *Tusc.* IV 14, 28–32; LS 61. У Марка κακία — не очень частотный термин (он предпочитает [[kakon]] и [[pathos]]), но появляется в важных местах: *Med.* 2.1 (порок как незнание блага и зла); 4.49; [[05-35]]; 9.42; 12.27.
 
 ## Source
 
-SVF III 91–105 (Chrysippus on κακία as a state); III 256, 262 (passions as κρίσεις, vice as a settled false disposition); DL VII 93, 100–101; Stob. *Ecl.* II 58–60, 96 W; Cic. *De fin.* III 39; *Tusc.* IV 14, 28–32; LS 61. *Kakia* is not very frequent in Marcus (he prefers [[kakon]] and [[pathos]]), but appears in important places: *Med.* 2.1 (vice as ignorance of good and evil); 4.49; 9.42; 12.27.
+SVF III 91–105 (Chrysippus on κακία as a state); III 256, 262 (passions as κρίσεις, vice as a settled false disposition); DL VII 93, 100–101; Stob. *Ecl.* II 58–60, 96 W; Cic. *De fin.* III 39; *Tusc.* IV 14, 28–32; LS 61. *Kakia* is not very frequent in Marcus (he prefers [[kakon]] and [[pathos]]), but appears in important places: *Med.* 2.1 (vice as ignorance of good and evil); 4.49; [[05-35]]; 9.42; 12.27.
 
 ## Примечания
 

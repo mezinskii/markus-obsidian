@@ -32,11 +32,11 @@ The double "nature" is not self-contradictory, because human nature is "to be a 
 
 ## Источники в традиции
 
-SVF I 179 (Zenon), 552 (Cleanthes); III 4–16 (Chrysippus); классические формулировки — DL VII 87–89; Stob. *Ecl.* II 75–76, 86 W; Cic. *De fin.* III 26, 31. У Марка тема постоянна: *Med.* 2.9; 2.16 (как живёт τὸ κατὰ φύσιν); [[04-51]] (кратчайший путь = путь по природе); 5.3; 5.9; 6.42; 7.55; 10.6; 11.16; 12.1. Латинская трансляция формулы у Сенеки — *Ep.* 5.4; *Ep.* 41.9 («secundum naturam vivere»).
+SVF I 179 (Zenon), 552 (Cleanthes); III 4–16 (Chrysippus); классические формулировки — DL VII 87–89; Stob. *Ecl.* II 75–76, 86 W; Cic. *De fin.* III 26, 31. У Марка тема постоянна: *Med.* 2.9; 2.16 (как живёт τὸ κατὰ φύσιν); [[04-51]] (кратчайший путь = путь по природе); 5.3; 5.4; 5.9; [[05-25]] (имею, что велит κοινὴ φύσις; делаю, что велит ἐμὴ φύσις); [[05-29]]; 6.42; 7.55; 10.6; 11.16; 12.1. Латинская трансляция формулы у Сенеки — *Ep.* 5.4; *Ep.* 41.9 («secundum naturam vivere»).
 
 ## Sources in tradition
 
-SVF I 179 (Zeno), 552 (Cleanthes); III 4–16 (Chrysippus); the classical formulations: DL VII 87–89; Stob. *Ecl.* II 75–76, 86 W; Cic. *De fin.* III 26, 31. In Marcus the theme is constant: *Med.* 2.9; 2.16 (how τὸ κατὰ φύσιν lives); [[04-51]] (the short road = the road according to nature); 5.3; 5.9; 6.42; 7.55; 10.6; 11.16; 12.1. Seneca's Latin transposition of the formula: *Ep.* 5.4; *Ep.* 41.9 ("*secundum naturam vivere*").
+SVF I 179 (Zeno), 552 (Cleanthes); III 4–16 (Chrysippus); the classical formulations: DL VII 87–89; Stob. *Ecl.* II 75–76, 86 W; Cic. *De fin.* III 26, 31. In Marcus the theme is constant: *Med.* 2.9; 2.16 (how τὸ κατὰ φύσιν lives); [[04-51]] (the short road = the road according to nature); 5.3; 5.4; 5.9; [[05-25]] (I have what κοινὴ φύσις wills, I do what ἐμὴ φύσις wills); [[05-29]]; 6.42; 7.55; 10.6; 11.16; 12.1. Seneca's Latin transposition of the formula: *Ep.* 5.4; *Ep.* 41.9 ("*secundum naturam vivere*").
 
 ## Примечания
 

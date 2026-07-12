@@ -19,11 +19,11 @@ related_terms:
 
 ## Источники в традиции
 
-Учение восходит к Зенону и развёрнуто Хрисиппом (SVF III 178–189). Классическое изложение — Cic. *De fin.* III 16–22 и III 62–68; ср. Hierocles, *Elementa Ethica*, со знаменитым образом концентрических кругов (Stob. IV 27.23 H). У Марка догмат не формулируется явно, но пронизывает книгу: *Med.* 2.1; 3.4; 6.44; 7.55; 9.9; 12.30. См. также Sen. *Ep.* 95.52.
+Учение восходит к Зенону и развёрнуто Хрисиппом (SVF III 178–189). Классическое изложение — Cic. *De fin.* III 16–22 и III 62–68; ср. Hierocles, *Elementa Ethica*, со знаменитым образом концентрических кругов (Stob. IV 27.23 H). У Марка догмат не формулируется явно, но пронизывает книгу: *Med.* 2.1; 3.4; [[05-20]]; [[05-33]]; 6.44; 7.55; 9.9; 12.30. См. также Sen. *Ep.* 95.52.
 
 ## Sources in tradition
 
-The doctrine goes back to Zeno and is developed by Chrysippus (SVF III 178–189). The classical exposition is in Cic. *De fin.* III 16–22 and III 62–68; cf. Hierocles, *Elementa Ethica*, with the famous image of the concentric circles (Stob. IV 27.23 H). In Marcus the doctrine is not formulated explicitly, but pervades the book: *Med.* 2.1; 3.4; 6.44; 7.55; 9.9; 12.30. See also Sen. *Ep.* 95.52.
+The doctrine goes back to Zeno and is developed by Chrysippus (SVF III 178–189). The classical exposition is in Cic. *De fin.* III 16–22 and III 62–68; cf. Hierocles, *Elementa Ethica*, with the famous image of the concentric circles (Stob. IV 27.23 H). In Marcus the doctrine is not formulated explicitly, but pervades the book: *Med.* 2.1; 3.4; [[05-20]]; [[05-33]]; 6.44; 7.55; 9.9; 12.30. See also Sen. *Ep.* 95.52.
 
 ## Примечания
 

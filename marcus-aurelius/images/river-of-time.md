@@ -25,7 +25,7 @@ The therapeutic point: since all is but water flowing by, it is senseless to cli
 
 [[04-43]] — образ в чистом виде. Когнатный ряд потока/бренности:
 
-- *Med.* 5.23 — субстанция вещей как река в непрерывном течении, ничто не стои́т;
+- *Med.* [[05-23]] — субстанция вещей как река в непрерывном течении, ничто не стои́т;
 - *Med.* 6.15 — одни вещи спешат возникнуть, другие — исчезнуть; в потоке нет устойчивого;
 - *Med.* 2.17 — субстанция течёт, всё непостоянно;
 - *Med.* 4.46 — Марк прямо цитирует [[heraclitus|Гераклита]] (смерть земли — стать водой и т. д.).
@@ -36,7 +36,7 @@ The therapeutic point: since all is but water flowing by, it is senseless to cli
 
 [[04-43]] — the image in pure form. The cognate series of flux / transience:
 
-- *Med.* 5.23 — the substance of things like a river in perpetual flow, nothing stands still;
+- *Med.* [[05-23]] — the substance of things like a river in perpetual flow, nothing stands still;
 - *Med.* 6.15 — some things hurrying into being, others out of it; in the stream nothing is stable;
 - *Med.* 2.17 — the substance flowing, all impermanent;
 - *Med.* 4.46 — Marcus quotes [[heraclitus|Heraclitus]] directly (the death of earth is to become water, and so on).

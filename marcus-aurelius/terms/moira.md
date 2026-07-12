@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-Hom. *Il.* 16.434 (μοῖρα как удел смерти); Hes. *Theog.* 904–906 (три Мойры); Plat. *Resp.* 617c (миф об Эре — Мойры и веретено Ананки). У стоиков: SVF II 913–917 (учение о судьбе с использованием обоих терминов); Stob. *Ecl.* I 79 W. У Марка μοῖρα как самостоятельное слово редко (он предпочитает производные формы: συμμεμοιραμένα, εὐμοιρία); важные места — [[04-34]] (отдаться Клото); 5.8.
+Hom. *Il.* 16.434 (μοῖρα как удел смерти); Hes. *Theog.* 904–906 (три Мойры); Plat. *Resp.* 617c (миф об Эре — Мойры и веретено Ананки). У стоиков: SVF II 913–917 (учение о судьбе с использованием обоих терминов); Stob. *Ecl.* I 79 W. У Марка μοῖρα как самостоятельное слово редко (он предпочитает производные формы: συμμεμοιραμένα, εὐμοιρία); важные места — [[04-34]] (отдаться Клото); 5.8; [[05-36]] (εὔμοιρος: сам себе уделить благую μοῖρα = благие дела).
 
 ## Source
 
-Hom. *Il.* 16.434 (μοῖρα as the lot of death); Hes. *Theog.* 904–906 (the three Moirai); Plat. *Resp.* 617c (the myth of Er — the Moirai and the spindle of Ananke). In the Stoics: SVF II 913–917 (the doctrine of fate, using both terms); Stob. *Ecl.* I 79 W. The simple word μοῖρα is rare in Marcus (he prefers derivatives: συμμεμοιραμένα, εὐμοιρία); the important places are [[04-34]] (giving oneself to Clotho) and 5.8.
+Hom. *Il.* 16.434 (μοῖρα as the lot of death); Hes. *Theog.* 904–906 (the three Moirai); Plat. *Resp.* 617c (the myth of Er — the Moirai and the spindle of Ananke). In the Stoics: SVF II 913–917 (the doctrine of fate, using both terms); Stob. *Ecl.* I 79 W. The simple word μοῖρα is rare in Marcus (he prefers derivatives: συμμεμοιραμένα, εὐμοιρία); the important places are [[04-34]] (giving oneself to Clotho); 5.8; [[05-36]] (εὔμοιρος: to assign oneself a good μοῖρα = good deeds).
 
 ## Примечания
 

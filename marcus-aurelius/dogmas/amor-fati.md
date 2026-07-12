@@ -19,11 +19,11 @@ Everything that happens is a link in the single chain of causes ([[heimarmene|ε
 
 ## Источники в традиции
 
-SVF II 974–975 (Хрисипп о судьбе и согласии); классическая формулировка Клеанфа в гимне Зевсу — ἄγου δέ μ', ὦ Ζεῦ, καὶ σύ γ' ἡ Πεπρωμένη («веди меня, Зевс, и ты, Судьба», SVF I 527, цит. у Epict. *Ench.* 53); Cic. *De fin.* III 75; Sen. *Ep.* 107.11; Epict. *Ench.* 8 («не желай, чтобы происходящее происходило, как ты хочешь; но желай, чтобы оно происходило, как происходит»). У Марка: *Med.* 2.2; 4.34; 5.8; 7.57 («любить лишь то, что случается с тобой»); 10.5; 12.14. Латинское выражение *amor fati* как термин — позднее (Ницше, *Ecce Homo*), но точно передаёт стоическое содержание.
+SVF II 974–975 (Хрисипп о судьбе и согласии); классическая формулировка Клеанфа в гимне Зевсу — ἄγου δέ μ', ὦ Ζεῦ, καὶ σύ γ' ἡ Πεπρωμένη («веди меня, Зевс, и ты, Судьба», SVF I 527, цит. у Epict. *Ench.* 53); Cic. *De fin.* III 75; Sen. *Ep.* 107.11; Epict. *Ench.* 8 («не желай, чтобы происходящее происходило, как ты хочешь; но желай, чтобы оно происходило, как происходит»). У Марка: *Med.* 2.2; 4.34; 5.8; 5.10; [[05-27]]; 7.57 («любить лишь то, что случается с тобой»); 10.5; 12.14. Латинское выражение *amor fati* как термин — позднее (Ницше, *Ecce Homo*), но точно передаёт стоическое содержание.
 
 ## Sources in tradition
 
-SVF II 974–975 (Chrysippus on fate and assent); the classical formulation in Cleanthes' hymn to Zeus — ἄγου δέ μ', ὦ Ζεῦ, καὶ σύ γ' ἡ Πεπρωμένη ("lead me, Zeus, and you, Destiny," SVF I 527, cited in Epict. *Ench.* 53); Cic. *De fin.* III 75; Sen. *Ep.* 107.11; Epict. *Ench.* 8 ("do not wish that what happens should happen as you would have it; wish that it should happen as it does"). In Marcus: *Med.* 2.2; 4.34; 5.8; 7.57 ("to love only what happens to you"); 10.5; 12.14. The Latin phrase *amor fati* as a *term* is late (Nietzsche, *Ecce Homo*), but it captures the Stoic content precisely.
+SVF II 974–975 (Chrysippus on fate and assent); the classical formulation in Cleanthes' hymn to Zeus — ἄγου δέ μ', ὦ Ζεῦ, καὶ σύ γ' ἡ Πεπρωμένη ("lead me, Zeus, and you, Destiny," SVF I 527, cited in Epict. *Ench.* 53); Cic. *De fin.* III 75; Sen. *Ep.* 107.11; Epict. *Ench.* 8 ("do not wish that what happens should happen as you would have it; wish that it should happen as it does"). In Marcus: *Med.* 2.2; 4.34; 5.8; 5.10; [[05-27]]; 7.57 ("to love only what happens to you"); 10.5; 12.14. The Latin phrase *amor fati* as a *term* is late (Nietzsche, *Ecce Homo*), but it captures the Stoic content precisely.
 
 ## Примечания
 
