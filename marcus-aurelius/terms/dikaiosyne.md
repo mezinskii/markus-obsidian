@@ -20,11 +20,11 @@ Justice is one of the four cardinal virtues of the Stoic system (alongside φρ�
 
 ## Источник определения
 
-SVF III 262–294 (учение о четырёх добродетелях); III 264 (определение δικαιοσύνη); DL VII 92–94; Stob. *Ecl.* II 59–60 W; LS 61. Платоновский фон — *Resp.* IV 433a–434c. Аристотель — *Ethic. Nic.* V целиком. У Марка форма δικαιότης (как сокращение от δικαιοσύνη) — *Med.* 2.5; 3.6; 10.11; 12.15.
+SVF III 262–294 (учение о четырёх добродетелях); III 264 (определение δικαιοσύνη); DL VII 92–94; Stob. *Ecl.* II 59–60 W; LS 61. Платоновский фон — *Resp.* IV 433a–434c. Аристотель — *Ethic. Nic.* V целиком. У Марка форма δικαιότης (как сокращение от δικαιοσύνη) — *Med.* 2.5; 3.6; 10.11; 12.15. Полная форма δικαιοσύνη — [[06-47]] (жить μετ’ ἀληθείας καὶ δικαιοσύνης, благожелательно даже к лжецам); [[06-50]] (действовать, когда ведёт ὁ τῆς δικαιοσύνης λόγος).
 
 ## Source
 
-SVF III 262–294 (the doctrine of the four virtues); III 264 (the definition of δικαιοσύνη); DL VII 92–94; Stob. *Ecl.* II 59–60 W; LS 61. The Platonic background: *Resp.* IV 433a–434c. Aristotle: *Eth. Nic.* V in its entirety. In Marcus the form δικαιότης (a contraction of δικαιοσύνη) at *Med.* 2.5; 3.6; 10.11; 12.15.
+SVF III 262–294 (the doctrine of the four virtues); III 264 (the definition of δικαιοσύνη); DL VII 92–94; Stob. *Ecl.* II 59–60 W; LS 61. The Platonic background: *Resp.* IV 433a–434c. Aristotle: *Eth. Nic.* V in its entirety. In Marcus the form δικαιότης (a contraction of δικαιοσύνη) at *Med.* 2.5; 3.6; 10.11; 12.15. The full form δικαιοσύνη — [[06-47]] (to live μετ’ ἀληθείας καὶ δικαιοσύνης, benevolent even to liars); [[06-50]] (to act when ὁ τῆς δικαιοσύνης λόγος leads).
 
 ## Примечания
 

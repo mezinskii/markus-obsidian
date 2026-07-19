@@ -21,11 +21,11 @@ related_terms:
 
 ## Источник определения
 
-SVF II 1106–1186 (учение о πρόνοια — обширный корпус); классическая аргументация — Cic. *De nat. deor.* II 73–80 (теория Бальба, по Хрисиппу); Sen. *De providentia* (целый трактат); Epict. *Disc.* 1.6, 1.16, 3.17. У Марка: *Med.* 2.3; 2.11; 4.27; 6.44; 9.28; 12.5.
+SVF II 1106–1186 (учение о πρόνοια — обширный корпус); классическая аргументация — Cic. *De nat. deor.* II 73–80 (теория Бальба, по Хрисиппу); Sen. *De providentia* (целый трактат); Epict. *Disc.* 1.6, 1.16, 3.17. У Марка: *Med.* 2.3; 2.11; 4.27; [[06-10]]; [[06-44]]; 9.28; 12.5.
 
 ## Source
 
-SVF II 1106–1186 (the doctrine of *pronoia* — an extensive corpus); the classical argument: Cic. *De nat. deor.* II 73–80 (Balbus' theory, after Chrysippus); Sen. *De providentia* (a whole treatise); Epict. *Disc.* 1.6, 1.16, 3.17. In Marcus: *Med.* 2.3; 2.11; 4.27; 6.44; 9.28; 12.5.
+SVF II 1106–1186 (the doctrine of *pronoia* — an extensive corpus); the classical argument: Cic. *De nat. deor.* II 73–80 (Balbus' theory, after Chrysippus); Sen. *De providentia* (a whole treatise); Epict. *Disc.* 1.6, 1.16, 3.17. In Marcus: *Med.* 2.3; 2.11; 4.27; [[06-10]]; [[06-44]]; 9.28; 12.5.
 
 ## Примечания
 

@@ -26,7 +26,7 @@ Alexander appears in Marcus **not as a philosopher** but as a **historical exemp
 
 ## Значение у Марка
 
-Александр — постоянный образ **уравнивающей силы смерти**. Самый яркий пример — *Med.* 6.24: «Александр Великий и его погонщик мулов по смерти пришли в одно и то же: либо были приняты в те же семенные основания (λόγοι σπερματικοί) мира, либо одинаково рассеялись в атомы». Завоеватель вселенной мёртв ровно так же, как последний из его слуг; величие при жизни ничего не меняет в исходе. (Заметим: и здесь Марк держит наготове ту же развилку «семенные логосы или атомы» — стоики или [[democritus|Демокрит]].)
+Александр — постоянный образ **уравнивающей силы смерти**. Самый яркий пример — [[06-24]]: «Александр Великий и его погонщик мулов по смерти пришли в одно и то же: либо были приняты в те же семенные основания (λόγοι σπερματικοί) мира, либо одинаково рассеялись в атомы». Завоеватель вселенной мёртв ровно так же, как последний из его слуг; величие при жизни ничего не меняет в исходе. (Заметим: и здесь Марк держит наготове ту же развилку «семенные логосы или атомы» — стоики или [[democritus|Демокрит]].)
 
 В [[03-03]] Александр возглавляет **триаду завоевателей** (с Помпеем и Гаем Цезарём), «столько раз дотла разрушавших города и истреблявших в битвах мириады» — и сами «вышли из жизни». Урок каталога: ни масштаб власти, ни число убитых не выкупают от смерти.
 
@@ -34,7 +34,7 @@ Alexander appears in Marcus **not as a philosopher** but as a **historical exemp
 
 ## Significance in Marcus
 
-Alexander is a recurring image of the **levelling power of death**. The most vivid instance is *Med.* 6.24: "Alexander the Great and his muleteer came, in death, to one and the same state: either they were taken up into the same seminal principles (λόγοι σπερματικοί) of the world, or were alike scattered into atoms." The conqueror of the world is exactly as dead as the least of his servants; greatness in life changes nothing in the outcome. (Note: here too Marcus keeps ready the same fork "seminal principles or atoms" — the Stoics or [[democritus|Democritus]].)
+Alexander is a recurring image of the **levelling power of death**. The most vivid instance is [[06-24]]: "Alexander the Great and his muleteer came, in death, to one and the same state: either they were taken up into the same seminal principles (λόγοι σπερματικοί) of the world, or were alike scattered into atoms." The conqueror of the world is exactly as dead as the least of his servants; greatness in life changes nothing in the outcome. (Note: here too Marcus keeps ready the same fork "seminal principles or atoms" — the Stoics or [[democritus|Democritus]].)
 
 In [[03-03]] Alexander heads the **triad of conquerors** (with Pompey and Gaius Caesar), who "so many times razed cities to the ground and slaughtered myriads in battle" — and themselves "departed from life." The lesson of the catalogue: neither the scale of power nor the number of the slain ransoms one from death.
 
@@ -43,7 +43,7 @@ In *Med.* 8.3 Alexander, Caesar, and Pompey are directly **contrasted** with the
 ## Упоминания у Марка / Mentions in Marcus
 
 - [[03-03]] — глава триады завоевателей в каталоге смертей.
-- *Med.* 6.24 — Александр и погонщик мулов уравнены смертью (самый известный образ).
+- [[06-24]] — Александр и погонщик мулов уравнены смертью (самый известный образ).
 - *Med.* 8.3 — завоеватели против мудрецов.
 - *Med.* 9.29 — Александр, Филипп, Деметрий Фалерский: понимали ли они природу? Действовали, как требовала сцена.
 

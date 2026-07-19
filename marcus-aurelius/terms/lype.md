@@ -28,11 +28,11 @@ Species of λύπη: ἔλεος (pity — distress at another's "undeserved" mi
 
 ## Источник определения
 
-SVF III 391–442; III 463 (учение об отсутствии εὐπάθεια-коррелята); DL VII 111; Stob. *Ecl.* II 90 W; Cic. *Tusc.* III (целиком — анатомия λύπη), особенно III 22–27, 76–80; LS 65. У Марка: *Med.* 2.10; 7.22; 9.42; 11.18.
+SVF III 391–442; III 463 (учение об отсутствии εὐπάθεια-коррелята); DL VII 111; Stob. *Ecl.* II 90 W; Cic. *Tusc.* III (целиком — анатомия λύπη), особенно III 22–27, 76–80; LS 65. У Марка: *Med.* 2.10; [[06-18]]; 7.22; 9.42; 11.18.
 
 ## Source
 
-SVF III 391–442; III 463 (the doctrine of the missing eupatheia-correlate); DL VII 111; Stob. *Ecl.* II 90 W; Cic. *Tusc.* III (the whole — an anatomy of λύπη), especially III 22–27, 76–80; LS 65. In Marcus: *Med.* 2.10; 7.22; 9.42; 11.18.
+SVF III 391–442; III 463 (the doctrine of the missing eupatheia-correlate); DL VII 111; Stob. *Ecl.* II 90 W; Cic. *Tusc.* III (the whole — an anatomy of λύπη), especially III 22–27, 76–80; LS 65. In Marcus: *Med.* 2.10; [[06-18]]; 7.22; 9.42; 11.18.
 
 ## Примечания
 

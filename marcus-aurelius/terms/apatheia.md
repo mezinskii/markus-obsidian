@@ -43,13 +43,13 @@ Polemic with Aristotle: the Peripatetics (Aristotle, *EN* II 6) teach **μετρ
 
 SVF III 200, 444–449 (Хрисипп об ἀπάθεια); DL VII 117 (определение); Stob. *Ecl.* II 95–96, 103 W; Cic. *Tusc.* III 12–13, IV 38–58 (полемика со стоической ἀπάθεια со стороны Перипатетиков); Sen. *Ep.* 9 (защита мудреца от обвинения в «бесчувствии»); LS 65, 66. Различение προπάθεια vs πάθος — Sen. *De ira* II 3–4; Aulus Gellius *NA* XIX 1 (знаменитый эпизод со штормом и стоиком).
 
-У Марка как термин ἀπάθεια **не используется**, но концепт центральный: вся его медитативная работа — против [[pathos|στрастей]] и за установление их εὐπάθεια-коррелятов. Особенно см. *Med.* 11.18 — девятипунктная «терапия гнева».
+У Марка существительное ἀπάθεια почти **не используется**, но концепт центральный: вся его медитативная работа — против [[pathos|στрастей]] и за установление их εὐπάθεια-коррелятов. Прилагательное ἀπαθής появляется в [[06-16]] (без него нет ни свободы, ни автаркии). Особенно см. *Med.* 11.18 — девятипунктная «терапия гнева».
 
 ## Source
 
 SVF III 200, 444–449 (Chrysippus on *apatheia*); DL VII 117 (the definition); Stob. *Ecl.* II 95–96, 103 W; Cic. *Tusc.* III 12–13, IV 38–58 (the Peripatetic polemic against Stoic *apatheia*); Sen. *Ep.* 9 (a defence of the sage against the charge of "insensibility"); LS 65, 66. The distinction προπάθεια vs πάθος: Sen. *De ira* II 3–4; Aulus Gellius *NA* XIX 1 (the famous episode of the storm and the Stoic).
 
-The term *apatheia* is **not** used in Marcus, but the concept is central: the whole of his meditative work runs against the [[pathos|passions]] and toward the installation of their eupatheia-correlates. See especially *Med.* 11.18 — the nine-point "therapy of anger."
+The noun *apatheia* is **almost never** used in Marcus, but the concept is central: the whole of his meditative work runs against the [[pathos|passions]] and toward the installation of their eupatheia-correlates. The adjective ἀπαθής does appear, at [[06-16]] (without it there is no freedom or self-sufficiency). See especially *Med.* 11.18 — the nine-point "therapy of anger."
 
 ## Примечания
 

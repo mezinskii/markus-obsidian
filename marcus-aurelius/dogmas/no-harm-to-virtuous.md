@@ -20,11 +20,11 @@ The sage — or, more broadly, the one who has understood where the genuine good
 
 ## Источники в традиции
 
-SVF III 567–579 (о неуязвимости мудреца); классически — Plat. *Apol.* 30c–d, 41d («дурному человеку лучшего повредить нельзя»); Sen. *De const. sap.* (целиком трактат об этом тезисе); Epict. *Ench.* 5; *Disc.* 1.18; 3.22.100. У Марка: *Med.* 2.1; 2.11; 4.8; 4.49; [[05-22]] (что не вредит Граду, не вредит и гражданину); [[05-35]]; 7.16; 7.22; 8.41; 8.55.
+SVF III 567–579 (о неуязвимости мудреца); классически — Plat. *Apol.* 30c–d, 41d («дурному человеку лучшего повредить нельзя»); Sen. *De const. sap.* (целиком трактат об этом тезисе); Epict. *Ench.* 5; *Disc.* 1.18; 3.22.100. У Марка: *Med.* 2.1; 2.11; 4.8; 4.49; [[05-22]] (что не вредит Граду, не вредит и гражданину); [[05-35]]; [[06-06]] (лучший способ отплатить обидчику — не уподобляться ему); [[06-21]] (истина не вредит; вредит упорство в своём заблуждении); 7.16; 7.22; 8.41; 8.55.
 
 ## Sources in tradition
 
-SVF III 567–579 (on the invulnerability of the sage); classically: Plat. *Apol.* 30c–d, 41d ("the bad person cannot harm the better"); Sen. *De const. sap.* (a whole treatise on this thesis); Epict. *Ench.* 5; *Disc.* 1.18; 3.22.100. In Marcus: *Med.* 2.1; 2.11; 4.8; 4.49; [[05-22]] (what does no harm to the city does no harm to the citizen); [[05-35]]; 7.16; 7.22; 8.41; 8.55.
+SVF III 567–579 (on the invulnerability of the sage); classically: Plat. *Apol.* 30c–d, 41d ("the bad person cannot harm the better"); Sen. *De const. sap.* (a whole treatise on this thesis); Epict. *Ench.* 5; *Disc.* 1.18; 3.22.100. In Marcus: *Med.* 2.1; 2.11; 4.8; 4.49; [[05-22]] (what does no harm to the city does no harm to the citizen); [[05-35]]; [[06-06]] (the best way to requite a wrongdoer is not to become like him); [[06-21]] (the truth harms no one; harm is persisting in one's own error); 7.16; 7.22; 8.41; 8.55.
 
 ## Примечания
 

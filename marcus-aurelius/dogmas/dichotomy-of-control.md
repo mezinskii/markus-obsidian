@@ -18,11 +18,11 @@ Some things are up to us (τὰ ἐφ' ἡμῖν); others are not (τὰ οὐ�
 
 ## Источники в традиции
 
-Канонически сформулировано Эпиктетом в начале «Энхиридиона» (Ench. 1). У Марка не встречается как формула, но пронизывает всю книгу: 6.41; 8.7; 11.37; 12.22. Восходит к классической стоической доктрине о свободе (ἐλευθερία) как несвязанности с внешним.
+Канонически сформулировано Эпиктетом в начале «Энхиридиона» (Ench. 1). У Марка не встречается как формула, но пронизывает всю книгу: [[06-08]] (правящее начало делает, чтобы всё являлось ему, каким оно хочет); [[06-20]] (в нашей власти уклоняться, не подозревая и не враждуя); [[06-32]] (действия мысли — в её власти, ἐπ’ αὐτῇ; всё прочее безразлично); [[06-41]]; [[06-50]] (стремление с оговоркой — не тянуться к невозможному); [[06-51]] (благо разумного — в своём действии, а не в чужом или в ощущении); [[06-52]] (можно не составлять мнения — душа не смутится); 8.7; 11.37; 12.22. Восходит к классической стоической доктрине о свободе (ἐλευθερία) как несвязанности с внешним.
 
 ## Sources in tradition
 
-Canonically formulated by Epictetus at the opening of the *Enchiridion* (Ench. 1). The formula does not occur as such in Marcus, but pervades the whole book: 6.41; 8.7; 11.37; 12.22. It goes back to the classical Stoic doctrine of freedom (ἐλευθερία) as unattachment to externals.
+Canonically formulated by Epictetus at the opening of the *Enchiridion* (Ench. 1). The formula does not occur as such in Marcus, but pervades the whole book: [[06-08]] (the ruling part makes all that happens appear to it as it wills); [[06-20]] (it is in our power to draw aside, without suspicion or hatred); [[06-32]] (the mind's activities are in its power, ἐπ’ αὐτῇ; all else indifferent); [[06-41]]; [[06-50]] (impulse with a reserve-clause — not reaching for the impossible); [[06-51]] (the good of the rational being lies in his own action, not another's or in sensation); [[06-52]] (hold no opinion — the soul is untroubled); 8.7; 11.37; 12.22. It goes back to the classical Stoic doctrine of freedom (ἐλευθερία) as unattachment to externals.
 
 ## Примечания
 

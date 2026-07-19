@@ -43,11 +43,11 @@ The Stoics maintain a radical thesis: **all *hamartēmata* are equal** (πάντ
 
 ## Источник определения
 
-Aristot. *Poet.* 1453a8–10 (трагическая ἁμαρτία); SVF III 524–543 (стоическое учение о проступках и их равенстве); III 528 (определения); DL VII 120 (учение о равенстве ἁμαρτημάτων); Stob. *Ecl.* II 93, 106 W; Cic. *Tusc.* IV 36; *De fin.* IV 56–57; *Pro Mur.* 61. У Марка: *Med.* 2.10; [[05-25]] (другой грешит против меня — пусть сам смотрит); 8.51; 9.4; 9.42; 10.13; 11.18.
+Aristot. *Poet.* 1453a8–10 (трагическая ἁμαρτία); SVF III 524–543 (стоическое учение о проступках и их равенстве); III 528 (определения); DL VII 120 (учение о равенстве ἁμαρτημάτων); Stob. *Ecl.* II 93, 106 W; Cic. *Tusc.* IV 36; *De fin.* IV 56–57; *Pro Mur.* 61. У Марка: *Med.* 2.10; [[05-25]] (другой грешит против меня — пусть сам смотрит); [[06-27]]; 8.51; 9.4; 9.42; 10.13; 11.18.
 
 ## Source
 
-Aristot. *Poet.* 1453a8–10 (the tragic *hamartia*); SVF III 524–543 (the Stoic doctrine of faults and of their equality); III 528 (definitions); DL VII 120 (the doctrine of the equality of *hamartēmata*); Stob. *Ecl.* II 93, 106 W; Cic. *Tusc.* IV 36; *De fin.* IV 56–57; *Pro Mur.* 61. In Marcus: *Med.* 2.10; [[05-25]] (another does wrong to me — let him look to it); 8.51; 9.4; 9.42; 10.13; 11.18.
+Aristot. *Poet.* 1453a8–10 (the tragic *hamartia*); SVF III 524–543 (the Stoic doctrine of faults and of their equality); III 528 (definitions); DL VII 120 (the doctrine of the equality of *hamartēmata*); Stob. *Ecl.* II 93, 106 W; Cic. *Tusc.* IV 36; *De fin.* IV 56–57; *Pro Mur.* 61. In Marcus: *Med.* 2.10; [[05-25]] (another does wrong to me — let him look to it); [[06-27]]; 8.51; 9.4; 9.42; 10.13; 11.18.
 
 ## Примечания
 

@@ -20,11 +20,11 @@ For the Stoics, the good is what benefits and cannot be put to evil use; strictl
 
 ## Источник определения
 
-SVF III 74–77 (Хрисипп); DL VII 94–101; Stob. *Ecl.* II 69–70 W; LS 60. У Марка: *Med.* 2.1; 2.11; 5.15; 6.41.
+SVF III 74–77 (Хрисипп); DL VII 94–101; Stob. *Ecl.* II 69–70 W; LS 60. У Марка: *Med.* 2.1; 2.11; 5.15; [[06-30]]; [[06-41]]; [[06-51]].
 
 ## Source
 
-SVF III 74–77 (Chrysippus); DL VII 94–101; Stob. *Ecl.* II 69–70 W; LS 60. In Marcus: *Med.* 2.1; 2.11; 5.15; 6.41.
+SVF III 74–77 (Chrysippus); DL VII 94–101; Stob. *Ecl.* II 69–70 W; LS 60. In Marcus: *Med.* 2.1; 2.11; 5.15; [[06-30]]; [[06-41]]; [[06-51]].
 
 ## Примечания
 

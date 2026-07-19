@@ -20,11 +20,11 @@ The soul — for the Stoics a warm [[pneuma|pneuma]] pervading the body and form
 
 ## Источник определения
 
-SVF II 826–833 (восьмичастная душа); DL VII 110, 156–157; LS 53. У Марка: *Med.* 2.6; 2.16; 3.16; 5.11; 11.20; уменьшит. ψυχάριον («душонка») — [[04-41]] (цитата Эпиктета).
+SVF II 826–833 (восьмичастная душа); DL VII 110, 156–157; LS 53. У Марка: *Med.* 2.6; 2.16; 3.16; 5.11; [[06-14]] (градусы души — ἕξις/φύσις/ψυχή/λόγος; ценить разумно-социальную душу); [[06-29]] (постыдно душе сдаться прежде тела); [[06-32]] (я — из тельца и души; телу всё безразлично, мысли — то, что не её действие); [[06-52]] (можно не составлять мнения — душа (ψυχή) не будет взбаламучена); [[06-53]] (войти в душу говорящего); 11.20; уменьшит. ψυχάριον («душонка») — [[04-41]] (цитата Эпиктета).
 
 ## Source
 
-SVF II 826–833 (the eight-part soul); DL VII 110, 156–157; LS 53. In Marcus: *Med.* 2.6; 2.16; 3.16; 5.11; 11.20; the diminutive ψυχάριον ("little soul") at [[04-41]] (a quotation of Epictetus).
+SVF II 826–833 (the eight-part soul); DL VII 110, 156–157; LS 53. In Marcus: *Med.* 2.6; 2.16; 3.16; 5.11; [[06-14]] (the grades of soul — ἕξις/φύσις/ψυχή/λόγος; to value the rational-social soul); [[06-29]] (shameful for the soul to give way before the body); [[06-32]] (I am of a little body and a soul; to the body all is indifferent, to the mind what is not its activity); [[06-52]] (hold no opinion — the soul (ψυχή) will not be stirred up); [[06-53]] (get inside the soul of the speaker); 11.20; the diminutive ψυχάριον ("little soul") at [[04-41]] (a quotation of Epictetus).
 
 ## Примечания
 

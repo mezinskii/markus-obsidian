@@ -29,11 +29,11 @@ Species of ἡδονή: θέλξις (enchantment), ἀσμενισμός (self-
 
 ## Источник определения
 
-SVF III 391–442; специфически об ἡδονή — III 414, 416, 421; DL VII 114–115; Stob. *Ecl.* II 90, 95 W; Cic. *Tusc.* IV 11–14, 19–20; LS 65. Эпикурейская параллель — Epic. *Ep. Men.* 128–132. У Марка: *Med.* 2.10; 5.9; 5.26; 6.51; 7.55; 8.10; 9.7.
+SVF III 391–442; специфически об ἡδονή — III 414, 416, 421; DL VII 114–115; Stob. *Ecl.* II 90, 95 W; Cic. *Tusc.* IV 11–14, 19–20; LS 65. Эпикурейская параллель — Epic. *Ep. Men.* 128–132. У Марка: *Med.* 2.10; 5.9; 5.26; [[06-34]] (величайшие наслаждения — у худших людей: значит, не благо); 6.51; 7.55; 8.10; 9.7.
 
 ## Source
 
-SVF III 391–442; specifically on ἡδονή: III 414, 416, 421; DL VII 114–115; Stob. *Ecl.* II 90, 95 W; Cic. *Tusc.* IV 11–14, 19–20; LS 65. The Epicurean parallel: Epic. *Ep. Men.* 128–132. In Marcus: *Med.* 2.10; 5.9; 5.26; 6.51; 7.55; 8.10; 9.7.
+SVF III 391–442; specifically on ἡδονή: III 414, 416, 421; DL VII 114–115; Stob. *Ecl.* II 90, 95 W; Cic. *Tusc.* IV 11–14, 19–20; LS 65. The Epicurean parallel: Epic. *Ep. Men.* 128–132. In Marcus: *Med.* 2.10; 5.9; 5.26; [[06-34]] (the greatest pleasures belong to the worst people: so not a good); 6.51; 7.55; 8.10; 9.7.
 
 ## Примечания
 

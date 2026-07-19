@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-SVF I 179 (Зенон, формула «жить согласно природе»); III 4–9 (Хрисипп, развитие формулы); DL VII 87–89; LS 63. У Марка: *Med.* 2.1; 2.9; 2.16; 4.51; 5.3; [[05-25]] (κοινὴ и ἐμὴ φύσις — что велит иметь общая, что делать — собственная); 7.55; 10.6.
+SVF I 179 (Зенон, формула «жить согласно природе»); III 4–9 (Хрисипп, развитие формулы); DL VII 87–89; LS 63. У Марка: *Med.* 2.1; 2.9; 2.16; 4.51; 5.3; [[05-25]] (κοινὴ и ἐμὴ φύσις — что велит иметь общая, что делать — собственная); [[06-09]] (κατὰ τὴν τῶν ὅλων φύσιν — всё совершается по природе Целого, а не по иной); [[06-33]] (труд по своей функции — не παρὰ φύσιν, оттого и не зло); [[06-40]] (в вещах, скреплённых природой, зиждущая сила пребывает внутри); [[06-44]] (моя природа разумная и социальная); [[06-58]] (жить по разуму своей природы; ничто не против общей природы); 7.55; 10.6.
 
 ## Source
 
-SVF I 179 (Zeno, the formula "to live according to nature"); III 4–9 (Chrysippus' development of the formula); DL VII 87–89; LS 63. In Marcus: *Med.* 2.1; 2.9; 2.16; 4.51; 5.3; [[05-25]] (κοινὴ and ἐμὴ φύσις — what the common nature wills me to have, what my own wills me to do); 7.55; 10.6.
+SVF I 179 (Zeno, the formula "to live according to nature"); III 4–9 (Chrysippus' development of the formula); DL VII 87–89; LS 63. In Marcus: *Med.* 2.1; 2.9; 2.16; 4.51; 5.3; [[05-25]] (κοινὴ and ἐμὴ φύσις — what the common nature wills me to have, what my own wills me to do); [[06-09]] (κατὰ τὴν τῶν ὅλων φύσιν — all is accomplished by the nature of the Whole, not by any other); [[06-33]] (toil in one's own function is not παρὰ φύσιν, hence no evil); [[06-40]] (in things held together by nature the making power abides within); [[06-44]] (my nature is rational and social); [[06-58]] (to live by the reason of one's own nature; nothing against the common nature); 7.55; 10.6.
 
 ## Примечания
 

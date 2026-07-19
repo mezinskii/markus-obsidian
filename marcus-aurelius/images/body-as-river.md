@@ -42,7 +42,7 @@ The Stoics absorbed this picture and applied it to the material constitution of 
 
 - *Med.* 4.43 — «ποταμός τις τῶν γινομένων ... καὶ ῥεῦμα βίαιον» («некая река всего происходящего и мощный поток»);
 - *Med.* 5.23 — «θεάσασθαι ποταμὸν ὂντα τὰ τοῦ κόσμου» («увидеть, что всё космическое — река»);
-- *Med.* 6.15 — «беспрестанно течёт жизнь, как поток»;
+- *Med.* [[06-15]] — «беспрестанно течёт жизнь, как поток»;
 - *Med.* 7.19 — река всего «настолько мала» в сравнении с целым;
 - *Med.* 12.21 (заключительный мотив всех *Размышлений*).
 
@@ -54,7 +54,7 @@ The Stoics absorbed this picture and applied it to the material constitution of 
 
 - *Med.* 4.43 — «ποταμός τις τῶν γινομένων ... καὶ ῥεῦμα βίαιον» ("a kind of river of what comes to pass… a violent stream");
 - *Med.* 5.23 — «θεάσασθαι ποταμὸν ὂντα τὰ τοῦ κόσμου» ("to see that all that is in the cosmos is a river");
-- *Med.* 6.15 — "life flows on incessantly, like a stream";
+- *Med.* [[06-15]] — "life flows on incessantly, like a stream";
 - *Med.* 7.19 — the whole river is "so small" compared with the whole;
 - *Med.* 12.21 (the closing motif of the entire *Meditations*).
 

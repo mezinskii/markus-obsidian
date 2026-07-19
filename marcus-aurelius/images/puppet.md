@@ -20,11 +20,11 @@ related_dogmas:
 
 ## Источник
 
-*Med.* 2.2: μηκέτι καθ' ὁρμὴν ἀκοινώνητον νευροσπαστηθῆναι — «пусть оно [правящее начало] больше не дёргается, как кукла на нитях, антисоциальным импульсом». Ср. *Med.* 6.16, 6.28, 7.3, 7.29, 12.19 — повторяющийся образ; *Med.* 3.16: «человек, ведомый страстью, — νευρόσπαστον». Греческий фон: Plat. *Leg.* 644d–645a; Plut. *De E* 384e.
+*Med.* 2.2: μηκέτι καθ' ὁρμὴν ἀκοινώνητον νευροσπαστηθῆναι — «пусть оно [правящее начало] больше не дёргается, как кукла на нитях, антисоциальным импульсом». Ср. *Med.* [[06-16]], [[06-28]], 7.3, 7.29, 12.19 — повторяющийся образ; *Med.* 3.16: «человек, ведомый страстью, — νευρόσπαστον». Греческий фон: Plat. *Leg.* 644d–645a; Plut. *De E* 384e.
 
 ## Source
 
-*Med.* 2.2: μηκέτι καθ' ὁρμὴν ἀκοινώνητον νευροσπαστηθῆναι — "let it [the ruling part] no longer be twitched, like a puppet on strings, by an unsocial impulse." Cf. *Med.* 6.16, 6.28, 7.3, 7.29, 12.19 — the image recurs; *Med.* 3.16: "the person led by passion is a νευρόσπαστον." The Greek background: Plat. *Leg.* 644d–645a; Plut. *De E* 384e.
+*Med.* 2.2: μηκέτι καθ' ὁρμὴν ἀκοινώνητον νευροσπαστηθῆναι — "let it [the ruling part] no longer be twitched, like a puppet on strings, by an unsocial impulse." Cf. *Med.* [[06-16]], [[06-28]], 7.3, 7.29, 12.19 — the image recurs; *Med.* 3.16: "the person led by passion is a νευρόσπαστον." The Greek background: Plat. *Leg.* 644d–645a; Plut. *De E* 384e.
 
 ## Использование
 

@@ -58,11 +58,11 @@ Chrysippus gives the formula: τὰ μὲν προηγμένα τὴν ἀξία
 
 ## Источник определения
 
-SVF III 124–139 (учение о ἀξία у Хрисиппа); DL VII 105–107 (классическое изложение); Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–52 (Катон о προηγμένα и ἀξία; латинизация *aestimatio*); LS 58 («Value and indifferents»). Полемика — Plut. *De Stoic. rep.* 1048a–c (на тонкие различения как противоречивые). У Марка ἀξία как термин **не центральна** (он работает в основном через [[adiaphora|ἀδιάφορα]]), но появляется: *Med.* 3.6 («ничего не должно ценить больше, чем...»); 4.20; [[05-30]] (κατ' ἀξίαν — ум Целого уделяет каждому по достоинству).
+SVF III 124–139 (учение о ἀξία у Хрисиппа); DL VII 105–107 (классическое изложение); Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–52 (Катон о προηγμένα и ἀξία; латинизация *aestimatio*); LS 58 («Value and indifferents»). Полемика — Plut. *De Stoic. rep.* 1048a–c (на тонкие различения как противоречивые). У Марка ἀξία как термин **не центральна** (он работает в основном через [[adiaphora|ἀδιάφορα]]), но появляется: *Med.* 3.6 («ничего не должно ценить больше, чем...»); 4.20; [[05-30]] (κατ' ἀξίαν — ум Целого уделяет каждому по достоинству); [[06-03]] (ἡ ἀξία — не дать ускользнуть истинной цене вещи).
 
 ## Source
 
-SVF III 124–139 (Chrysippus on *axia*); DL VII 105–107 (the classical exposition); Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–52 (Cato on προηγμένα and *axia*; the Latinisation *aestimatio*); LS 58 ("Value and indifferents"). Polemic: Plut. *De Stoic. rep.* 1048a–c (on the fine distinctions as contradictory). In Marcus *axia* is **not central** as a term (he works mainly with [[adiaphora|ἀδιάφορα]]), but it does appear: *Med.* 3.6 ("nothing ought to be valued above…"); 4.20; [[05-30]] (κατ' ἀξίαν — the mind of the Whole assigns each its due).
+SVF III 124–139 (Chrysippus on *axia*); DL VII 105–107 (the classical exposition); Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–52 (Cato on προηγμένα and *axia*; the Latinisation *aestimatio*); LS 58 ("Value and indifferents"). Polemic: Plut. *De Stoic. rep.* 1048a–c (on the fine distinctions as contradictory). In Marcus *axia* is **not central** as a term (he works mainly with [[adiaphora|ἀδιάφορα]]), but it does appear: *Med.* 3.6 ("nothing ought to be valued above…"); 4.20; [[05-30]] (κατ' ἀξίαν — the mind of the Whole assigns each its due); [[06-03]] (ἡ ἀξία — let the true worth of a thing not escape you).
 
 ## Примечания
 

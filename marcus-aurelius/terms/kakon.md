@@ -20,11 +20,11 @@ Evil is the opposite of [[agathon|the good]]: what harms and cannot be put to go
 
 ## Источник определения
 
-SVF III 74–77; DL VII 94–101; Stob. *Ecl.* II 57–58 W; LS 60. У Марка: *Med.* 2.1; 2.11; 4.8; 9.42.
+SVF III 74–77; DL VII 94–101; Stob. *Ecl.* II 57–58 W; LS 60. У Марка: *Med.* 2.1; 2.11; 4.8; [[06-33]] (что по природе — не κακόν); [[06-41]] (мнимые «зло» и «благо» вне выбора рождают вражду с богами и людьми); 9.42.
 
 ## Source
 
-SVF III 74–77; DL VII 94–101; Stob. *Ecl.* II 57–58 W; LS 60. In Marcus: *Med.* 2.1; 2.11; 4.8; 9.42.
+SVF III 74–77; DL VII 94–101; Stob. *Ecl.* II 57–58 W; LS 60. In Marcus: *Med.* 2.1; 2.11; 4.8; [[06-33]] (what is according to nature is not κακόν); [[06-41]] (imagined "evil" and "good" outside our choice breed enmity with gods and men); 9.42.
 
 ## Примечания
 

@@ -21,11 +21,11 @@ The intellect, the rational faculty — what is highest in the human being. For 
 
 ## Источник определения
 
-SVF I 87 (Зенон о душе как пневме); II 879, 885 (νοῦς как часть мировой души); DL VII 138–139, 156–157; LS 53–54. У Марка: *Med.* 2.1; 3.6; [[05-27]]; 12.26.
+SVF I 87 (Зенон о душе как пневме); II 879, 885 (νοῦς как часть мировой души); DL VII 138–139, 156–157; LS 53–54. У Марка: *Med.* 2.1; 3.6; [[05-27]]; [[06-40]] (жить по воле зиждущей силы природы → всё κατὰ νοῦν); [[06-51]] (благо разумного — в его собственном действии, ὁ νοῦν ἔχων); 12.26.
 
 ## Source
 
-SVF I 87 (Zeno on the soul as *pneuma*); II 879, 885 (νοῦς as part of the world-soul); DL VII 138–139, 156–157; LS 53–54. In Marcus: *Med.* 2.1; 3.6; [[05-27]]; 12.26.
+SVF I 87 (Zeno on the soul as *pneuma*); II 879, 885 (νοῦς as part of the world-soul); DL VII 138–139, 156–157; LS 53–54. In Marcus: *Med.* 2.1; 3.6; [[05-27]]; [[06-40]] (to live by the making power of nature → all κατὰ νοῦν); [[06-51]] (the good of the rational being lies in his own action, ὁ νοῦν ἔχων); 12.26.
 
 ## Примечания
 

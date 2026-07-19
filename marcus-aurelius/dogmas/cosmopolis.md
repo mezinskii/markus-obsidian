@@ -44,7 +44,7 @@ The cosmopolis has several distinguishing marks:
 
 **Сенека** — *De otio* IV 1: «duas res publicas animo complectamur, alteram magnam et vere publicam... alteram cui nos adscripsit condicio nascendi» (две республики обнимаем умом — большую и подлинно общую... и ту, к которой нас приписало рождение). *Ep.* 28.4; 68.
 
-**Марк** — *Med.* 2.16; 3.11; **4.4** (сорит-доказательство: общий νοῦς → общий λόγος → общий закон → мы граждане → «ὁ κόσμος ὡσανεὶ πόλις» — «космос есть как бы Град»; см. [[04-04]]); [[05-22]] (гражданский критерий вреда: гражданин не терпит вреда, если его не терпит Град); [[05-30]]; [[05-35]]; **6.44** (знаменитейшее место: «ὡς Ἀντωνίνῳ μοι ἡ πόλις καὶ ἡ πατρὶς Ῥώμη, ὡς δὲ ἀνθρώπῳ ὁ κόσμος» — «как Антонину мой город и отечество — Рим; как человеку — космос»); 10.15; 12.36.
+**Марк** — *Med.* 2.16; 3.11; **4.4** (сорит-доказательство: общий νοῦς → общий λόγος → общий закон → мы граждане → «ὁ κόσμος ὡσανεὶ πόλις» — «космос есть как бы Град»; см. [[04-04]]); [[05-22]] (гражданский критерий вреда: гражданин не терпит вреда, если его не терпит Град); [[05-30]]; [[05-35]]; [[06-14]] (вершина иерархии ценимого — душа разумная, вселенская и гражданская, καθολικὴ καὶ πολιτική); [[06-44]] (знаменитейшее место: «ὡς Ἀντωνίνῳ μοι ἡ πόλις καὶ ἡ πατρὶς Ῥώμη, ὡς δὲ ἀνθρώπῳ ὁ κόσμος» — «как Антонину мой город и отечество — Рим; как человеку — космос»); 10.15; 12.36.
 
 ## Sources in tradition
 
@@ -58,7 +58,7 @@ The cosmopolis has several distinguishing marks:
 
 **Seneca** — *De otio* IV 1: "duas res publicas animo complectamur, alteram magnam et vere publicam... alteram cui nos adscripsit condicio nascendi" ("we embrace two commonwealths in our mind — the great and truly common one … and the one to which the condition of birth has assigned us"). *Ep.* 28.4; 68.
 
-**Marcus** — *Med.* 2.16; 3.11; **4.4** (the sorites-proof: common νοῦς → common λόγος → common law → we are citizens → «ὁ κόσμος ὡσανεὶ πόλις» — "the cosmos is in a manner a state"; see [[04-04]]); [[05-22]] (the civic criterion of harm: the citizen suffers no harm unless the city does); [[05-30]]; [[05-35]]; **6.44** (the most celebrated place: «ὡς Ἀντωνίνῳ μοι ἡ πόλις καὶ ἡ πατρὶς Ῥώμη, ὡς δὲ ἀνθρώπῳ ὁ κόσμος» — "as Antoninus, my city and fatherland is Rome; as a human being, the cosmos"); 10.15; 12.36.
+**Marcus** — *Med.* 2.16; 3.11; **4.4** (the sorites-proof: common νοῦς → common λόγος → common law → we are citizens → «ὁ κόσμος ὡσανεὶ πόλις» — "the cosmos is in a manner a state"; see [[04-04]]); [[05-22]] (the civic criterion of harm: the citizen suffers no harm unless the city does); [[05-30]]; [[05-35]]; [[06-14]] (the summit of the value-hierarchy — the rational, universal, and political soul, καθολικὴ καὶ πολιτική); [[06-44]] (the most celebrated place: «ὡς Ἀντωνίνῳ μοι ἡ πόλις καὶ ἡ πατρὶς Ῥώμη, ὡς δὲ ἀνθρώπῳ ὁ κόσμος» — "as Antoninus, my city and fatherland is Rome; as a human being, the cosmos"); 10.15; 12.36.
 
 ## Примечания
 

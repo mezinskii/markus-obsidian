@@ -59,7 +59,7 @@ Strikingly, the **disjunction on death** in [[03-03]] (either another life or in
 - [[03-03]] — гибель «от других вшей» (обвинителей) в каталоге знаменитых смертей; и дизъюнктивное утешение, восходящее к сократовой *Апологии*.
 - [[03-06]] — явная атрибуция: даймон «оторвал себя от обольщений чувств, **как говорил Сократ**» (ὡς ὁ Σωκράτης ἔλεγεν) — отсылка к платоновскому *Федону* (65a–67b: философия как отвлечение души от тела и чувств), вплавленная в стоическую дисциплину согласия.
 - *Med.* 1.16 — добродетели Антонина Пия описаны в духе сократовского образца.
-- *Med.* 6.47 — Сократ в перечне умерших (рядом с Гераклитом и др.).
+- [[06-47]] — Сократ в перечне умерших (рядом с Гераклитом и др.).
 - *Med.* 7.19 — среди тех, кто ушёл; 7.66 — подлинное величие Сократа (анекдот из Ксенофонта о его выносливости и самообладании).
 - *Med.* 8.3 — Сократ, Диоген, Гераклит противопоставлены Александру, Цезарю, Помпею: мудрецы против завоевателей.
 - *Med.* 11.23, 11.25, 11.28 — сократические анекдоты и изречения.
@@ -69,7 +69,7 @@ Strikingly, the **disjunction on death** in [[03-03]] (either another life or in
 - [[03-03]] — death "by other lice" (his accusers) in the catalogue of famous deaths; and the disjunctive consolation that goes back to Socrates' *Apology*.
 - [[03-06]] — an explicit attribution: the daimon has detached itself from the persuasions of the senses, "**as Socrates said**" (ὡς ὁ Σωκράτης ἔλεγεν) — a reference to the Platonic *Phaedo* (65a–67b: philosophy as the soul's withdrawal from the body and the senses), folded into the Stoic discipline of assent.
 - *Med.* 1.16 — the virtues of Antoninus Pius are described after a Socratic model.
-- *Med.* 6.47 — Socrates in the roll-call of the dead (beside Heraclitus and others).
+- [[06-47]] — Socrates in the roll-call of the dead (beside Heraclitus and others).
 - *Med.* 7.19 — among those who have departed; 7.66 — the true greatness of Socrates (the anecdote from Xenophon on his endurance and self-command).
 - *Med.* 8.3 — Socrates, Diogenes, Heraclitus set against Alexander, Caesar, Pompey: the sages against the conquerors.
 - *Med.* 11.23, 11.25, 11.28 — Socratic anecdotes and sayings.
