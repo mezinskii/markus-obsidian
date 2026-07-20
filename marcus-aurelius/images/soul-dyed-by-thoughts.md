@@ -25,11 +25,11 @@ The metaphor is exact in that dyeing is a process of **dipping and soaking**: th
 
 ## Источник
 
-*Med.* 5.16 — образ в чистом виде: «каковы привычные мысли, таков и ум; ведь душа окрашивается мыслями». Родственно — практика «пропитывания» ума верными догматами ([[prokheiron]]). Греческий фон — Платон, *Resp.* IV 429d–430b: образ красильщиков, делающих окраску шерсти **стойкой** (несмываемой), как аналогия воспитания, при котором убеждения становятся «прочно окрашенными». Ср. [[06-30]]: «μὴ βαφῇς» — та же фигура βάπτω, но об окраске характера **властью/пурпуром**: не дай сану «прокрасить» тебя (не «оцезарься»).
+*Med.* [[05-16]] — образ в чистом виде: «каковы привычные мысли, таков и ум; ведь душа окрашивается мыслями». Родственно — практика «пропитывания» ума верными догматами ([[prokheiron]]). Греческий фон — Платон, *Resp.* IV 429d–430b: образ красильщиков, делающих окраску шерсти **стойкой** (несмываемой), как аналогия воспитания, при котором убеждения становятся «прочно окрашенными». Ср. [[06-30]]: «μὴ βαφῇς» — та же фигура βάπτω, но об окраске характера **властью/пурпуром**: не дай сану «прокрасить» тебя (не «оцезарься»).
 
 ## Source
 
-*Med.* 5.16 — the image in pure form: "such as your habitual thoughts, such your mind; for the soul is dyed by the thoughts." Kin to the practice of "soaking" the mind in right teachings ([[prokheiron]]). The Greek background: Plato, *Resp.* IV 429d–430b — the image of dyers making the colour of wool **fast** (indelible), as an analogy for the education by which convictions become "colourfast." Cf. [[06-30]]: "μὴ βαφῇς" — the same βάπτω figure, but of the character dyed by **power/the purple**: do not let the office "dye" you (do not be "Caesarified").
+*Med.* [[05-16]] — the image in pure form: "such as your habitual thoughts, such your mind; for the soul is dyed by the thoughts." Kin to the practice of "soaking" the mind in right teachings ([[prokheiron]]). The Greek background: Plato, *Resp.* IV 429d–430b — the image of dyers making the colour of wool **fast** (indelible), as an analogy for the education by which convictions become "colourfast." Cf. [[06-30]]: "μὴ βαφῇς" — the same βάπτω figure, but of the character dyed by **power/the purple**: do not let the office "dye" you (do not be "Caesarified").
 
 ## Использование
 

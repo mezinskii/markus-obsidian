@@ -21,11 +21,11 @@ Ignorance — not knowing what is [[agathon|good]] and what is [[kakon|evil]]. F
 
 ## Источник определения
 
-SVF III 256, 262 (Хрисипп о πάθη как κρίσεις); DL VII 93; Cic. *Tusc.* IV 11–14. Сократический фон: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. У Марка: *Med.* 2.1; 4.3; [[06-21]]; [[06-22]]; 7.22; 11.18.
+SVF III 256, 262 (Хрисипп о πάθη как κρίσεις); DL VII 93; Cic. *Tusc.* IV 11–14. Сократический фон: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. У Марка: *Med.* 2.1; 4.3; [[05-18]] (грешащий — либо в неведении (ἀγνοῶν), либо напоказ); [[06-21]]; [[06-22]]; 7.22; 11.18.
 
 ## Source
 
-SVF III 256, 262 (Chrysippus on πάθη as κρίσεις, "judgments"); DL VII 93; Cic. *Tusc.* IV 11–14. The Socratic background: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. In Marcus: *Med.* 2.1; 4.3; [[06-21]]; [[06-22]]; 7.22; 11.18.
+SVF III 256, 262 (Chrysippus on πάθη as κρίσεις, "judgments"); DL VII 93; Cic. *Tusc.* IV 11–14. The Socratic background: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. In Marcus: *Med.* 2.1; 4.3; [[05-18]] (the wrongdoer errs either in ignorance (ἀγνοῶν) or for show); [[06-21]]; [[06-22]]; 7.22; 11.18.
 
 ## Примечания
 

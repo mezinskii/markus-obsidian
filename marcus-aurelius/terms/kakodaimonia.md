@@ -21,11 +21,11 @@ related_terms:
 
 ## Источник определения
 
-SVF III 117–138 (κακία как противоположность ἀρετή); 377–490 (учение о πάθη как составляющих κακοδαιμονία); DL VII 110–115; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* III–IV (целиком — анатомия κακοδαιμονία через анализ страстей). Платоновский фон — *Resp.* IX 580a–c (тиран как наиболее κακοδαίμων). У Марка: *Med.* 2.8; 4.49; 5.34; 9.4.
+SVF III 117–138 (κακία как противоположность ἀρετή); 377–490 (учение о πάθη как составляющих κακοδαιμονία); DL VII 110–115; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* III–IV (целиком — анатомия κακοδαιμονία через анализ страстей). Платоновский фон — *Resp.* IX 580a–c (тиран как наиболее κακοδαίμων). У Марка: *Med.* 2.8; 4.49; [[05-34]]; 9.4.
 
 ## Source
 
-SVF III 117–138 (κακία as the opposite of ἀρετή); 377–490 (the doctrine of the πάθη as constituents of *kakodaimonia*); DL VII 110–115; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* III–IV (the whole — an anatomy of *kakodaimonia* through the analysis of the passions). The Platonic background: *Resp.* IX 580a–c (the tyrant as the most *kakodaimōn*). In Marcus: *Med.* 2.8; 4.49; 5.34; 9.4.
+SVF III 117–138 (κακία as the opposite of ἀρετή); 377–490 (the doctrine of the πάθη as constituents of *kakodaimonia*); DL VII 110–115; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* III–IV (the whole — an anatomy of *kakodaimonia* through the analysis of the passions). The Platonic background: *Resp.* IX 580a–c (the tyrant as the most *kakodaimōn*). In Marcus: *Med.* 2.8; 4.49; [[05-34]]; 9.4.
 
 ## Примечания
 
@@ -37,7 +37,7 @@ SVF III 117–138 (κακία as the opposite of ἀρετή); 377–490 (the do
 - [[02-07]] — отсутствие [[skopos|σκοπός]] (дрейф и кружение, см. [[aimless-wandering]]);
 - [[02-08]] — отсутствие [[parakolouthesis|παρακολούθησις]] (самоотслеживания);
 - *Med.* 4.49 — мнение, что внешнее есть зло;
-- *Med.* 5.34 — отдалённость от собственной [[physis|природы]].
+- *Med.* [[05-34]] — отдалённость от собственной [[physis|природы]].
 
 Все эти пути сводятся к одной структуре: разум, не функционирующий как разум. Поэтому терапевтическая логика стоиков работает в обратную сторону — устранить любой из этих дефектов значит устранить κακοδαιμονία, потому что разум по природе склонен к εὐδαιμονία и удерживается в κακοδαιμονία только активной поддержкой ошибочных согласий.
 
@@ -51,6 +51,6 @@ In different passages Marcus diagnoses different roads into *kakodaimonia*:
 - [[02-07]] — the absence of a [[skopos|σκοπός]] (drift and circling, see [[aimless-wandering]]);
 - [[02-08]] — the absence of [[parakolouthesis|παρακολούθησις]] (self-monitoring);
 - *Med.* 4.49 — the opinion that what is external is evil;
-- *Med.* 5.34 — estrangement from one's own [[physis|nature]].
+- *Med.* [[05-34]] — estrangement from one's own [[physis|nature]].
 
 All these roads reduce to a single structure: a reason that does not function as reason. So the therapeutic logic of the Stoics works in the reverse direction: to remove any one of these defects is to remove the *kakodaimonia*, because reason is by nature inclined toward *eudaimonia* and is held in *kakodaimonia* only by the active maintenance of erroneous assents.

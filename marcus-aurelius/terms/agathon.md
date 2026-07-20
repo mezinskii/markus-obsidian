@@ -20,11 +20,11 @@ For the Stoics, the good is what benefits and cannot be put to evil use; strictl
 
 ## Источник определения
 
-SVF III 74–77 (Хрисипп); DL VII 94–101; Stob. *Ecl.* II 69–70 W; LS 60. У Марка: *Med.* 2.1; 2.11; 5.15; [[06-30]]; [[06-41]]; [[06-51]].
+SVF III 74–77 (Хрисипп); DL VII 94–101; Stob. *Ecl.* II 69–70 W; LS 60. У Марка: *Med.* 2.1; 2.11; [[05-12]] (что толпа считает благом — не благо: испытай, вообразив обладателя); [[05-15]]; [[05-16]] (благо разумного — в разумно-социальной душе); [[05-37]] (благо — благие движения души, порывы, дела); [[06-30]]; [[06-41]]; [[06-51]].
 
 ## Source
 
-SVF III 74–77 (Chrysippus); DL VII 94–101; Stob. *Ecl.* II 69–70 W; LS 60. In Marcus: *Med.* 2.1; 2.11; 5.15; [[06-30]]; [[06-41]]; [[06-51]].
+SVF III 74–77 (Chrysippus); DL VII 94–101; Stob. *Ecl.* II 69–70 W; LS 60. In Marcus: *Med.* 2.1; 2.11; [[05-12]] (what the many think good is no good: test it by imagining its possessor); [[05-15]]; [[05-16]] (the good of the rational being lies in the rational-social soul); [[05-37]] (the good is good turns of soul, impulses, deeds); [[06-30]]; [[06-41]]; [[06-51]].
 
 ## Примечания
 

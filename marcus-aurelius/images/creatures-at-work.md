@@ -21,11 +21,11 @@ Little plants, little birds, ants, spiders, bees — each creature does "its own
 
 ## Источник
 
-*Med.* 5.1. Пчела возникает у Марка и в других местах как образ общего дела и жизни «по природе» (напр. [[05-06]]). Философский фон — аристотелевский «аргумент от эргона» (*EN* I 7): у каждого рода существ есть своё дело, и благо — в его исполнении; стоики связывают это с [[oikeiosis|οἰκείωσις]] и жизнью κατὰ φύσιν.
+*Med.* [[05-01]]. Пчела возникает у Марка и в других местах как образ общего дела и жизни «по природе» (напр. [[05-06]]). Философский фон — аристотелевский «аргумент от эргона» (*EN* I 7): у каждого рода существ есть своё дело, и благо — в его исполнении; стоики связывают это с [[oikeiosis|οἰκείωσις]] и жизнью κατὰ φύσιν.
 
 ## Source
 
-*Med.* 5.1. The bee recurs elsewhere in Marcus as an image of common work and of life "according to nature" (e.g. [[05-06]]). The philosophical background is the Aristotelian "function argument" (*NE* I 7): each kind of being has its own work, and its good lies in performing it; the Stoics tie this to [[oikeiosis|οἰκείωσις]] and life κατὰ φύσιν.
+*Med.* [[05-01]]. The bee recurs elsewhere in Marcus as an image of common work and of life "according to nature" (e.g. [[05-06]]). The philosophical background is the Aristotelian "function argument" (*NE* I 7): each kind of being has its own work, and its good lies in performing it; the Stoics tie this to [[oikeiosis|οἰκείωσις]] and life κατὰ φύσιν.
 
 ## Использование
 

@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-*Med.* 5.2 (стереть представление — и тотчас в полной γαλήνη); 12.22 (γαλήνη и «тихая пристань» души). Фон — образ «спокойного моря» как идеала душевного состояния; ср. ἀταραξία у Эпикура и [[eurhoia|εὔροια βίου]] у стоиков. Развёрнутая техника, ведущая к тиши, — *Med.* 9.7 (ἐξάλειψον φαντασίαν).
+*Med.* [[05-02]] (стереть представление — и тотчас в полной γαλήνη); 12.22 (γαλήνη и «тихая пристань» души). Фон — образ «спокойного моря» как идеала душевного состояния; ср. ἀταραξία у Эпикура и [[eurhoia|εὔροια βίου]] у стоиков. Развёрнутая техника, ведущая к тиши, — *Med.* 9.7 (ἐξάλειψον φαντασίαν).
 
 ## Source
 
-*Med.* 5.2 (wipe out the impression and be at once in perfect γαλήνη); 12.22 (γαλήνη and the "quiet anchorage" of the soul). The background: the image of the "calm sea" as an ideal state of the soul; cf. ἀταραξία in Epicurus and [[eurhoia|εὔροια βίου]] in the Stoics. The fuller technique that leads to the calm is *Med.* 9.7 (ἐξάλειψον φαντασίαν).
+*Med.* [[05-02]] (wipe out the impression and be at once in perfect γαλήνη); 12.22 (γαλήνη and the "quiet anchorage" of the soul). The background: the image of the "calm sea" as an ideal state of the soul; cf. ἀταραξία in Epicurus and [[eurhoia|εὔροια βίου]] in the Stoics. The fuller technique that leads to the calm is *Med.* 9.7 (ἐξάλειψον φαντασίαν).
 
 ## Примечания
 

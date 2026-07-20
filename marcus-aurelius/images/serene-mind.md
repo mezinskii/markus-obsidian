@@ -19,11 +19,11 @@ The mind is an inner sky; the passions, cares, and tangled impressions are cloud
 
 ## Источник
 
-*Med.* 2.4: ᾧ ἐὰν εἰς τὸ ἀπαιθριάσαι μὴ χρήσῃ, οἰχήσεται («если ты не воспользуешься временем для прояснения [внутреннего неба], оно уйдёт»). Глагол редкий, у Марка встречается только здесь, но образ повторяется: *Med.* 4.3 (внутреннее убежище — «нет более тихого и безмятежного пристанища, чем собственная душа»); 5.34 («тебе, как солнцу, свойственно сиять»); 8.5 («что мешает моему уму быть смышлёным, дружелюбным, бесстрастным?»); 11.16 (свет души как погода). Греческий фон — Plat. *Phaedr.* 247c (взгляд души на «ясное небо» истинно сущего); философская традиция «безмятежности» как ясности (ἀταραξία у Эпикура, ἀπάθεια у стоиков).
+*Med.* 2.4: ᾧ ἐὰν εἰς τὸ ἀπαιθριάσαι μὴ χρήσῃ, οἰχήσεται («если ты не воспользуешься временем для прояснения [внутреннего неба], оно уйдёт»). Глагол редкий, у Марка встречается только здесь, но образ повторяется: *Med.* 4.3 (внутреннее убежище — «нет более тихого и безмятежного пристанища, чем собственная душа»); [[05-34]] («тебе, как солнцу, свойственно сиять»); 8.5 («что мешает моему уму быть смышлёным, дружелюбным, бесстрастным?»); 11.16 (свет души как погода). Греческий фон — Plat. *Phaedr.* 247c (взгляд души на «ясное небо» истинно сущего); философская традиция «безмятежности» как ясности (ἀταραξία у Эпикура, ἀπάθεια у стоиков).
 
 ## Source
 
-*Med.* 2.4: ᾧ ἐὰν εἰς τὸ ἀπαιθριάσαι μὴ χρήσῃ, οἰχήσεται ("if you do not use [your time] for the clearing of the inner sky, it will be gone"). The verb is rare; in Marcus it occurs only here, but the image recurs: *Med.* 4.3 (the inner refuge — "no more quiet and unperturbed retreat than one's own soul"); 5.34 ("it is yours, like the sun's, to shine"); 8.5 ("what hinders my mind from being shrewd, friendly, free of passion?"); 11.16 (the light of the soul as weather). The Greek background: Plat. *Phaedr.* 247c (the soul's vision of "the bright sky" of true being); the philosophical tradition of *serenity* as clarity (ἀταραξία in Epicurus, ἀπάθεια in the Stoics).
+*Med.* 2.4: ᾧ ἐὰν εἰς τὸ ἀπαιθριάσαι μὴ χρήσῃ, οἰχήσεται ("if you do not use [your time] for the clearing of the inner sky, it will be gone"). The verb is rare; in Marcus it occurs only here, but the image recurs: *Med.* 4.3 (the inner refuge — "no more quiet and unperturbed retreat than one's own soul"); [[05-34]] ("it is yours, like the sun's, to shine"); 8.5 ("what hinders my mind from being shrewd, friendly, free of passion?"); 11.16 (the light of the soul as weather). The Greek background: Plat. *Phaedr.* 247c (the soul's vision of "the bright sky" of true being); the philosophical tradition of *serenity* as clarity (ἀταραξία in Epicurus, ἀπάθεια in the Stoics).
 
 ## Использование
 

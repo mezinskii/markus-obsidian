@@ -18,11 +18,11 @@ The highest, rational part of the soul, which the Stoics identify with reason (�
 
 ## Источник определения
 
-SVF II 836; DL VII 110; Marc. Aur. *Med.* 2.2; 5.3; 5.11; [[06-08]]; [[06-36]]; 8.48.
+SVF II 836; DL VII 110; Marc. Aur. *Med.* 2.2; [[05-03]]; [[05-11]]; [[05-26]]; [[06-08]]; [[06-36]]; 8.48.
 
 ## Source
 
-SVF II 836; DL VII 110; Marc. Aur. *Med.* 2.2; 5.3; 5.11; [[06-08]]; [[06-36]]; 8.48.
+SVF II 836; DL VII 110; Marc. Aur. *Med.* 2.2; [[05-03]]; [[05-11]]; [[05-26]]; [[06-08]]; [[06-36]]; 8.48.
 
 ## Примечания
 

@@ -1,5 +1,5 @@
 ---
-greek: θεία ἀπομοῖρα
+greek: ἀπόσπασμα θεοῦ (θεία ἀπομοῖρα)
 translit: theia apomoira
 translation_ru: божественный удел, божественная часть
 translation_en: the divine portion, the portion broken off from god
@@ -29,8 +29,8 @@ SVF I 135, 495; II 633, 774 (the doctrine of the soul as ἀπόσπασμα θ�
 
 ## Примечания
 
-В [[02-01]] formula μετοχὴ νοῦ καὶ θείας ἀπομοίρας — «причастность ума и божественного удела» — служит обоснованием [[syngenes|родства]] людей по разуму, а не по плоти. Это одна из самых сжатых формулировок стоического теистического гуманизма у Марка: каждый разумный — носитель частицы бога, и потому неприкосновенен в своём ядре. Ср. *Med.* 5.27: «живи с богами; а живёт с богами тот, кто… делает всё по воле δαίμων'а, которого Зевс даёт каждому как стража и поводыря — это и есть ум и логос каждого».
+В [[02-01]] formula μετοχὴ νοῦ καὶ θείας ἀπομοίρας — «причастность ума и божественного удела» — служит обоснованием [[syngenes|родства]] людей по разуму, а не по плоти. Это одна из самых сжатых формулировок стоического теистического гуманизма у Марка: каждый разумный — носитель частицы бога, и потому неприкосновенен в своём ядре. Ср. *Med.* [[05-27]]: «живи с богами; а живёт с богами тот, кто… делает всё по воле δαίμων'а, которого Зевс даёт каждому как стража и поводыря — это и есть ум и логос каждого».
 
 ## Notes
 
-In [[02-01]] the formula μετοχὴ νοῦ καὶ θείας ἀπομοίρας — "a share in intellect and the divine portion" — serves as the ground for the [[syngenes|kinship]] of human beings by reason rather than by flesh. It is one of Marcus' most condensed formulations of Stoic theistic humanism: every rational being carries a particle of god, and is therefore inviolable in his core. Compare *Med.* 5.27: "live with the gods; and he lives with the gods who… does all things according to the will of the *daimōn* that Zeus has given each person as guardian and guide — and this is each person's intellect and Logos."
+In [[02-01]] the formula μετοχὴ νοῦ καὶ θείας ἀπομοίρας — "a share in intellect and the divine portion" — serves as the ground for the [[syngenes|kinship]] of human beings by reason rather than by flesh. It is one of Marcus' most condensed formulations of Stoic theistic humanism: every rational being carries a particle of god, and is therefore inviolable in his core. Compare *Med.* [[05-27]]: "live with the gods; and he lives with the gods who… does all things according to the will of the *daimōn* that Zeus has given each person as guardian and guide — and this is each person's intellect and Logos."

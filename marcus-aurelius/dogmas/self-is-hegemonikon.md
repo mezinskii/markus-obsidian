@@ -19,11 +19,11 @@ Out of all the constituents of the human composition — body, breath, sensation
 
 ## Источники в традиции
 
-SVF II 836 (учение о ἡγεμονικόν как локусе личности); III 169 (ὁρμή как функция гегемоникона); Epict. *Disc.* 1.1.7, 4.5.12 («ты — не плоть, не волосы, но прохайресис»); *Ench.* 1; *Disc.* 2.5.4–5 («мой удел — пользоваться представлениями»). У Марка: *Med.* 2.2; 3.6; 4.41 (с эпиктетовским «ψυχάριον εἶ βαστάζον νεκρόν»); 5.10; [[05-26]]; [[05-27]]; [[06-16]]; 6.32; 7.16; 10.38; 12.3 (одна из самых ясных версий тройного деления). У Платона предтеча — *Алкивиад I* 130c («человек — это душа», и притом её разумная часть).
+SVF II 836 (учение о ἡγεμονικόν как локусе личности); III 169 (ὁρμή как функция гегемоникона); Epict. *Disc.* 1.1.7, 4.5.12 («ты — не плоть, не волосы, но прохайресис»); *Ench.* 1; *Disc.* 2.5.4–5 («мой удел — пользоваться представлениями»). У Марка: *Med.* 2.2; 3.6; 4.41 (с эпиктетовским «ψυχάριον εἶ βαστάζον νεκρόν»); [[05-10]]; [[05-21]] (чти могущественнейшее в космосе — и сродное ему в себе); [[05-26]]; [[05-27]]; [[06-16]]; 6.32; 7.16; 10.38; 12.3 (одна из самых ясных версий тройного деления). У Платона предтеча — *Алкивиад I* 130c («человек — это душа», и притом её разумная часть).
 
 ## Sources in tradition
 
-SVF II 836 (the doctrine of the ἡγεμονικόν as the locus of personhood); III 169 (ὁρμή as a function of the ruling part); Epict. *Disc.* 1.1.7, 4.5.12 ("you are not flesh, not hair, but *prohairesis*"); *Ench.* 1; *Disc.* 2.5.4–5 ("my lot is to use impressions"). In Marcus: *Med.* 2.2; 3.6; 4.41 (with the Epictetan "you are a little soul carrying a corpse"); 5.10; [[05-26]]; [[05-27]]; [[06-16]]; 6.32; 7.16; 10.38; 12.3 (one of the clearest versions of the tripartite division). The Platonic precursor: *Alcibiades I* 130c ("the human being is the soul" — and specifically its rational part).
+SVF II 836 (the doctrine of the ἡγεμονικόν as the locus of personhood); III 169 (ὁρμή as a function of the ruling part); Epict. *Disc.* 1.1.7, 4.5.12 ("you are not flesh, not hair, but *prohairesis*"); *Ench.* 1; *Disc.* 2.5.4–5 ("my lot is to use impressions"). In Marcus: *Med.* 2.2; 3.6; 4.41 (with the Epictetan "you are a little soul carrying a corpse"); [[05-10]]; [[05-21]] (honour the mightiest in the cosmos — and what is akin to it in yourself); [[05-26]]; [[05-27]]; [[06-16]]; 6.32; 7.16; 10.38; 12.3 (one of the clearest versions of the tripartite division). The Platonic precursor: *Alcibiades I* 130c ("the human being is the soul" — and specifically its rational part).
 
 ## Примечания
 

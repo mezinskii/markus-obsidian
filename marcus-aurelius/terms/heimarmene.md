@@ -25,11 +25,11 @@ Lexically, εἱμαρμένη is verbal (a perfect-passive participial substant
 
 ## Источник определения
 
-SVF II 912–1007 (учение о судьбе, провидении и совпадающей с природой необходимости); Cic. *De div.* I 125–127 (Хрисипп); DL VII 149; LS 55, 62. У Марка: *Med.* 2.2; 4.34; 5.8 (известное «нити твоей жизни сплетены вместе с целым»); [[05-24]] (какой малой частью судьбы ты являешься); 7.57; 10.5; 12.14.
+SVF II 912–1007 (учение о судьбе, провидении и совпадающей с природой необходимости); Cic. *De div.* I 125–127 (Хрисипп); DL VII 149; LS 55, 62. У Марка: *Med.* 2.2; 4.34; [[05-08]] (известное «нити твоей жизни сплетены вместе с целым»); [[05-24]] (какой малой частью судьбы ты являешься); 7.57; 10.5; 12.14.
 
 ## Source
 
-SVF II 912–1007 (the doctrine of fate, providence, and a necessity coincident with nature); Cic. *De div.* I 125–127 (Chrysippus); DL VII 149; LS 55, 62. In Marcus: *Med.* 2.2; 4.34; 5.8 (the well-known "the threads of your life are woven together with the whole"); [[05-24]] (how small a part of fate you are); 7.57; 10.5; 12.14.
+SVF II 912–1007 (the doctrine of fate, providence, and a necessity coincident with nature); Cic. *De div.* I 125–127 (Chrysippus); DL VII 149; LS 55, 62. In Marcus: *Med.* 2.2; 4.34; [[05-08]] (the well-known "the threads of your life are woven together with the whole"); [[05-24]] (how small a part of fate you are); 7.57; 10.5; 12.14.
 
 ## Примечания
 
