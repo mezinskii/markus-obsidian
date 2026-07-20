@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-Hom. *Il.* 1.118–187 (ссора Ахилла и Агамемнона — целиком о τιμή); Aristot. *Ethic. Nic.* IV 3 (магнанимность и отношение к чести); SVF III 117–124 (учение о τιμή как ἀδιάφορον προηγμένον); Epict. *Disc.* 1.2.11–18; 4.5.21 (внутренняя τιμή vs внешняя); *Ench.* 24. У Марка: *Med.* 2.6; 4.20; 5.18; [[06-16]]; [[06-36]]; [[06-49]]; [[06-59]]; 8.16; 9.14.
+Hom. *Il.* 1.118–187 (ссора Ахилла и Агамемнона — целиком о τιμή); Aristot. *Ethic. Nic.* IV 3 (магнанимность и отношение к чести); SVF III 117–124 (учение о τιμή как ἀδιάφορον προηγμένον); Epict. *Disc.* 1.2.11–18; 4.5.21 (внутренняя τιμή vs внешняя); *Ench.* 24. У Марка: *Med.* 2.6; 4.20; 5.18; [[06-16]]; 8.16; 9.14.
 
 ## Source
 
-Hom. *Il.* 1.118–187 (the quarrel of Achilles and Agamemnon — wholly about *timē*); Aristot. *Eth. Nic.* IV 3 (magnanimity and the relation to honour); SVF III 117–124 (the doctrine of *timē* as a preferred indifferent); Epict. *Disc.* 1.2.11–18; 4.5.21 (inner *timē* vs. outer); *Ench.* 24. In Marcus: *Med.* 2.6; 4.20; 5.18; [[06-16]]; [[06-36]]; [[06-49]]; [[06-59]]; 8.16; 9.14.
+Hom. *Il.* 1.118–187 (the quarrel of Achilles and Agamemnon — wholly about *timē*); Aristot. *Eth. Nic.* IV 3 (magnanimity and the relation to honour); SVF III 117–124 (the doctrine of *timē* as a preferred indifferent); Epict. *Disc.* 1.2.11–18; 4.5.21 (inner *timē* vs. outer); *Ench.* 24. In Marcus: *Med.* 2.6; 4.20; 5.18; [[06-16]]; 8.16; 9.14.
 
 ## Примечания
 
