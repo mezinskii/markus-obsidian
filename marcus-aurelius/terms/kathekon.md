@@ -72,6 +72,7 @@ Each *kathēkon* is determined not abstractly, but **from a concrete σχέσι�
 - [[03-05]] — имплицитно, как [[01-13]]: стопка ролей (ἄρρην, πρεσβύτης, πολιτικός, Ῥωμαῖος, ἄρχων), из которых выводятся καθήκοντα, — каноническая эпиктетовская «этика из имён»; самого термина καθῆκον в тексте нет.
 - [[06-22]] — **прямое** употребление в Книге VI: «τὸ ἐμαυτοῦ καθῆκον ποιῶ» («делаю своё надлежащее») — сосредоточенность на своей функции, неотвлекаемость на «прочее» (неодушевлённое, неразумное, заблудшее).
 - [[06-26]] — «πᾶν καθῆκον ἐξ ἀριθμῶν τινῶν συμπληροῦται» («всякий καθῆκον слагается из известных частей»): тот же оборот **ἀριθμοί надлежащего**, что в [[03-01]]; долг исполняется по частям, методично и без ответного гнева.
+- [[06-55]] — образ кормчего и врача: исполнять своё **надлежащее** (спасение плывущих, здоровье лечимых), не отступая перед бранью тех, кому служишь.
 
 Учение о καθήκοντα — структурная основа того, что́ Адо называет **дисциплиной действия** (см. Hadot, *The Inner Citadel*, гл. 8). Все три стоические дисциплины (согласия, желания, действия) у Marcus'a кодифицированы через производные от καθῆκον лексемы: «согласие» — на надлежащую φαντασία; «желание» — направленное на каθήκον результат; «действие» — само исполнение καθῆκον в данной σχέσις.
 
@@ -87,6 +88,7 @@ In Marcus the technical term **καθήκοντα** appears in many places, most
 - [[03-05]] — implicitly, like [[01-13]]: the stack of roles (ἄρρην, πρεσβύτης, πολιτικός, Ῥωμαῖος, ἄρχων), from which the καθήκοντα are derived — the canonical Epictetan "ethics from the names"; the term καθῆκον itself does not appear in the text.
 - [[06-22]] — a **direct** use in Book VI: «τὸ ἐμαυτοῦ καθῆκον ποιῶ» ("I do my own *kathēkon*") — concentration on one's own function, undistracted by "the rest" (the lifeless, the irrational, the strayed).
 - [[06-26]] — "πᾶν καθῆκον ἐξ ἀριθμῶν τινῶν συμπληροῦται" ("every *kathēkon* is made up of certain parts"): the same phrase, **the ἀριθμοί of the appropriate**, as at [[03-01]]; the duty is done part by part, methodically and without returning anger.
+- [[06-55]] — the image of the helmsman and the physician: to work one's own *kathēkon* (the safety of those aboard, the health of the treated), not giving way before the abuse of those one serves.
 
 The doctrine of καθήκοντα is the structural basis of what Hadot calls the **discipline of action** (see Hadot, *The Inner Citadel*, ch. 8). All three Stoic disciplines (of assent, desire, action) in Marcus are codified through derivatives of the *kathēkon* lexicon: "assent" — to the appropriate φαντασία; "desire" — directed at the *kathēkon* outcome; "action" — the very performance of the *kathēkon* in the given σχέσις.
 
