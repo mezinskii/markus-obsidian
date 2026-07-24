@@ -21,11 +21,11 @@ Ignorance — not knowing what is [[agathon|good]] and what is [[kakon|evil]]. F
 
 ## Источник определения
 
-SVF III 256, 262 (Хрисипп о πάθη как κρίσεις); DL VII 93; Cic. *Tusc.* IV 11–14. Сократический фон: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. У Марка: *Med.* 2.1; 4.3; [[05-18]] (грешащий — либо в неведении (ἀγνοῶν), либо напоказ); [[06-21]]; [[06-22]]; 7.22; 11.18.
+SVF III 256, 262 (Хрисипп о πάθη как κρίσεις); DL VII 93; Cic. *Tusc.* IV 11–14. Сократический фон: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. У Марка: *Med.* 2.1; 4.3; [[05-18]] (грешащий — либо в неведении (ἀγνοῶν), либо напоказ); [[06-21]]; [[06-22]]; [[07-22]] (грешат δι’ ἄγνοιαν и против воли — потому их любить); [[07-66]] (Сократ не рабствовал чьему-либо ἀγνοίᾳ); 11.18.
 
 ## Source
 
-SVF III 256, 262 (Chrysippus on πάθη as κρίσεις, "judgments"); DL VII 93; Cic. *Tusc.* IV 11–14. The Socratic background: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. In Marcus: *Med.* 2.1; 4.3; [[05-18]] (the wrongdoer errs either in ignorance (ἀγνοῶν) or for show); [[06-21]]; [[06-22]]; 7.22; 11.18.
+SVF III 256, 262 (Chrysippus on πάθη as κρίσεις, "judgments"); DL VII 93; Cic. *Tusc.* IV 11–14. The Socratic background: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. In Marcus: *Med.* 2.1; 4.3; [[05-18]] (the wrongdoer errs either in ignorance (ἀγνοῶν) or for show); [[06-21]]; [[06-22]]; [[07-22]] (they err δι’ ἄγνοιαν and against their will — hence to be loved); [[07-66]] (Socrates no slave to anyone's ἀγνοία); 11.18.
 
 ## Примечания
 

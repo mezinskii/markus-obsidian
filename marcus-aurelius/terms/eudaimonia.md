@@ -27,11 +27,11 @@ The morphological antonym is [[kakodaimonia|κακοδαιμονία]] (κακο
 
 ## Источник определения
 
-Aristot. *Ethic. Nic.* I 4–13 (классическая постановка вопроса); SVF I 184 (Зенонова формула — εὐδαιμονία как εὔροια βίου); III 16, 49–67 (Хрисипп); DL VII 87–89; Stob. *Ecl.* II 77 W (классическое стоическое определение). У Марка εὐδαιμονία как термин редка; чаще встречаются её специфические формы — εὔρους βίος ([[02-05]]), εὐμοιρία ([[02-06]]).
+Aristot. *Ethic. Nic.* I 4–13 (классическая постановка вопроса); SVF I 184 (Зенонова формула — εὐδαιμονία как εὔροια βίου); III 16, 49–67 (Хрисипп); DL VII 87–89; Stob. *Ecl.* II 77 W (классическое стоическое определение). У Марка εὐδαιμονία как термин редка; чаще встречаются её специфические формы — εὔρους βίος ([[02-05]]), εὐμοιρία ([[02-06]]); сам термин с этимологической разбивкой — [[07-17]] (εὐδαιμονία = δαίμων ἀγαθός).
 
 ## Source
 
-Aristot. *Eth. Nic.* I 4–13 (the classical statement of the question); SVF I 184 (Zeno's formula — *eudaimonia* as εὔροια βίου); III 16, 49–67 (Chrysippus); DL VII 87–89; Stob. *Ecl.* II 77 W (the classical Stoic definition). The term *eudaimonia* itself is rare in Marcus; its specific Stoic forms — εὔρους βίος ([[02-05]]) and εὐμοιρία ([[02-06]]) — appear more often.
+Aristot. *Eth. Nic.* I 4–13 (the classical statement of the question); SVF I 184 (Zeno's formula — *eudaimonia* as εὔροια βίου); III 16, 49–67 (Chrysippus); DL VII 87–89; Stob. *Ecl.* II 77 W (the classical Stoic definition). The term *eudaimonia* itself is rare in Marcus; its specific Stoic forms — εὔρους βίος ([[02-05]]) and εὐμοιρία ([[02-06]]) — appear more often; the term itself, with its etymology unpacked, at [[07-17]] (εὐδαιμονία = δαίμων ἀγαθός).
 
 ## Примечания
 

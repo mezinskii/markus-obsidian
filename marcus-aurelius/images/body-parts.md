@@ -21,11 +21,11 @@ Human beings are members (μέλη) of a single body: hands, feet, eyelids, the 
 
 ## Источник
 
-*Med.* 2.1: «мы созданы для совместной деятельности, как ноги, как руки, как веки, как ряды верхних и нижних зубов» (γεγόναμεν γὰρ πρὸς συνέργιαν ὡς πόδες, ὡς χεῖρες…). Развёрнут в *Med.* 7.13: «как члены в едином теле, так разумные существа в раздельных телах устроены для одного содействия» — и здесь же Марк отмечает греческую игру слов: μέλος (член) и μέρος (часть) — стать членом, а не просто частью, значит любить ближнего из природы, а не по принуждению. См. также 8.34 (отрубленная рука как образ человека, отделившего себя от общества).
+*Med.* 2.1: «мы созданы для совместной деятельности, как ноги, как руки, как веки, как ряды верхних и нижних зубов» (γεγόναμεν γὰρ πρὸς συνέργιαν ὡς πόδες, ὡς χεῖρες…). Развёрнут в *Med.* [[07-13]]: «как члены в едином теле, так разумные существа в раздельных телах устроены для одного содействия» — и здесь же Марк отмечает греческую игру слов: μέλος (член) и μέρος (часть) — стать членом, а не просто частью, значит любить ближнего из природы, а не по принуждению. Ср. [[07-19]] (тела содействуют Целому, «подобно нашим членам в их отношении друг к другу»). См. также 8.34 (отрубленная рука как образ человека, отделившего себя от общества).
 
 ## Source
 
-*Med.* 2.1: "we have been brought into being for cooperation, like feet, like hands, like eyelids, like the rows of upper and lower teeth" (γεγόναμεν γὰρ πρὸς συνέργιαν ὡς πόδες, ὡς χεῖρες…). Unfolded at *Med.* 7.13: "as members in a single body, so are rational beings, in their separate bodies, arranged for one common cooperation." Here Marcus also notes the Greek play on words: μέλος (member, limb) and μέρος (part) — to become a *member*, not merely a *part*, is to love one's neighbour from nature, not from constraint. See also *Med.* 8.34 (the severed hand as the image of the person who has cut himself off from society).
+*Med.* 2.1: "we have been brought into being for cooperation, like feet, like hands, like eyelids, like the rows of upper and lower teeth" (γεγόναμεν γὰρ πρὸς συνέργιαν ὡς πόδες, ὡς χεῖρες…). Unfolded at *Med.* [[07-13]]: "as members in a single body, so are rational beings, in their separate bodies, arranged for one common cooperation." Here Marcus also notes the Greek play on words: μέλος (member, limb) and μέρος (part) — to become a *member*, not merely a *part*, is to love one's neighbour from nature, not from constraint. Cf. [[07-19]] (bodies cooperating with the Whole "as the parts of our body with one another"). See also *Med.* 8.34 (the severed hand as the image of the person who has cut himself off from society).
 
 ## Использование
 

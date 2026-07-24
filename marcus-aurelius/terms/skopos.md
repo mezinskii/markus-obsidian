@@ -35,11 +35,11 @@ The logic: τέλος includes the attainment (which is not entirely up to me �
 
 ## Источник определения
 
-SVF III 2–19, 44 (учение о τέλος и σκοπός); Antipater Tars. apud Stob. *Ecl.* II 76 W; Cic. *De fin.* III 22 («ut si propositum sit sagittario aliquid ita ferire ut feriat»); Sen. *Ep.* 71.3 («ignoranti quem portum petat nullus suus ventus est»); 95.5; LS 64. У Марка σκοπός — частотный термин: *Med.* 2.7; 2.16 (одно из худших — не иметь σκοπός); 7.4; 7.55; 7.69; 8.7; 8.41 («один σκοπός — общественная польза»); 10.37; 11.21 (последовательность жизни через единый σκοπός); 12.20 (нет действия без цели).
+SVF III 2–19, 44 (учение о τέλος и σκοπός); Antipater Tars. apud Stob. *Ecl.* II 76 W; Cic. *De fin.* III 22 («ut si propositum sit sagittario aliquid ita ferire ut feriat»); Sen. *Ep.* 71.3 («ignoranti quem portum petat nullus suus ventus est»); 95.5; LS 64. У Марка σκοπός — частотный термин: *Med.* 2.7; 2.16 (одно из худших — не иметь σκοπός); [[07-04]] (при каждом стремлении — на какой σκοπός отнесение); 7.55; 7.69; 8.7; 8.41 («один σκοπός — общественная польза»); 10.37; 11.21 (последовательность жизни через единый σκοπός); 12.20 (нет действия без цели).
 
 ## Source
 
-SVF III 2–19, 44 (the doctrine of τέλος and σκοπός); Antipater Tars. apud Stob. *Ecl.* II 76 W; Cic. *De fin.* III 22 ("ut si propositum sit sagittario aliquid ita ferire ut feriat" — "as if it were proposed to an archer to strike some mark in such a way that he hit it"); Sen. *Ep.* 71.3 ("for the one who does not know which port he is making for, no wind is his"); 95.5; LS 64. *Skopos* is a frequent term in Marcus: *Med.* 2.7; 2.16 (one of the worst things — to have no σκοπός); 7.4; 7.55; 7.69; 8.7; 8.41 ("there is one σκοπός — the common benefit"); 10.37; 11.21 (the coherence of a life through a single σκοπός); 12.20 (no action without an end).
+SVF III 2–19, 44 (the doctrine of τέλος and σκοπός); Antipater Tars. apud Stob. *Ecl.* II 76 W; Cic. *De fin.* III 22 ("ut si propositum sit sagittario aliquid ita ferire ut feriat" — "as if it were proposed to an archer to strike some mark in such a way that he hit it"); Sen. *Ep.* 71.3 ("for the one who does not know which port he is making for, no wind is his"); 95.5; LS 64. *Skopos* is a frequent term in Marcus: *Med.* 2.7; 2.16 (one of the worst things — to have no σκοπός); [[07-04]] (at every impulse — to what σκοπός the reference); 7.55; 7.69; 8.7; 8.41 ("there is one σκοπός — the common benefit"); 10.37; 11.21 (the coherence of a life through a single σκοπός); 12.20 (no action without an end).
 
 ## Примечания
 

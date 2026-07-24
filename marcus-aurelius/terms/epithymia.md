@@ -30,11 +30,11 @@ The eupatheia-correlate (the sage's correct disposition occupying the same slot)
 
 ## Источник определения
 
-SVF III 391–442 (учение о страстях); специфически об ἐπιθυμία — III 394–397, 412; DL VII 113; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* IV 11–14, 19–22; LS 65. У Марка: *Med.* 2.10; 2.16; [[05-28]]; 9.7; 11.20.
+SVF III 391–442 (учение о страстях); специфически об ἐπιθυμία — III 394–397, 412; DL VII 113; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* IV 11–14, 19–22; LS 65. У Марка: *Med.* 2.10; 2.16; [[05-28]]; [[07-16]] (ἡγεμονικόν не ввергает себя в ἐπιθυμίαν); 9.7; 11.20.
 
 ## Source
 
-SVF III 391–442 (the doctrine of the passions); specifically on ἐπιθυμία: III 394–397, 412; DL VII 113; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* IV 11–14, 19–22; LS 65. In Marcus: *Med.* 2.10; 2.16; [[05-28]]; 9.7; 11.20.
+SVF III 391–442 (the doctrine of the passions); specifically on ἐπιθυμία: III 394–397, 412; DL VII 113; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* IV 11–14, 19–22; LS 65. In Marcus: *Med.* 2.10; 2.16; [[05-28]]; [[07-16]] (the ἡγεμονικόν does not throw itself into ἐπιθυμία); 9.7; 11.20.
 
 ## Примечания
 

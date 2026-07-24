@@ -52,6 +52,7 @@ Epictetus is the **only Stoic philosopher Marcus quotes by name** (rather than m
 
 - [[01-07]] — Рустик дал Marcus'у читать «записки Эпиктета» (главный канал влияния).
 - [[04-41]] — прямая цитата: «душонка, влачащая труп».
+- [[07-19]] — «сколько Эпиктетов поглотила уже вечность»: имя во множественном числе, в перекличке величайших рядом с Хрисиппом и Сократом.
 - *Med.* 11.33–38 — подборка эпиктетовских выдержек (несколько — с именем Эпиктета).
 - Косвенно — всюду, где работает дихотомия τὰ ἐφ' ἡμῖν / οὐκ ἐφ' ἡμῖν и три дисциплины.
 
@@ -59,6 +60,7 @@ Epictetus is the **only Stoic philosopher Marcus quotes by name** (rather than m
 
 - [[01-07]] — Rusticus gave Marcus "the memoirs of Epictetus" to read (the chief channel of influence).
 - [[04-41]] — a direct quotation: "a little soul carrying a corpse."
+- [[07-19]] — "how many Epictetuses has eternity already swallowed": the name in the plural, in the roll-call of the greatest beside Chrysippus and Socrates.
 - *Med.* 11.33–38 — a set of Epictetan excerpts (several naming Epictetus).
 - Indirectly — wherever the dichotomy of τὰ ἐφ' ἡμῖν / οὐκ ἐφ' ἡμῖν and the three disciplines are at work.
 

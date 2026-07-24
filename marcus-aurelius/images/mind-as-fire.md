@@ -30,6 +30,8 @@ The background is Heraclitean-Stoic: fire as the cosmic principle (the Stoic π�
 
 - *Med.* [[05-20]] — ἡ ἔνστασις… ὑπόθεσις: «помеха действию продвигает действие; что стоит на пути, становится путём»;
 - *Med.* 6.50 — делай возможное; если что-то мешает — переходи к тому, что в твоей власти, μεθ' ὑπεξαιρέσεως;
+- *Med.* [[07-58]] — «употребишь хорошо, и станет тебе материалом (ὕλη)»: любое происшествие — сырьё для добродетельного акта;
+- *Med.* [[07-68]] — «наличное мне всегда ὕλη добродетели»: употребление говорит событию «тебя-то я и искал»;
 - *Med.* 8.35 — разумная душа обращает противящееся ей в собственный материал;
 - *Med.* 10.33 — ум делает своим материалом то, что выпадает.
 
@@ -39,6 +41,8 @@ The background is Heraclitean-Stoic: fire as the cosmic principle (the Stoic π�
 
 - *Med.* [[05-20]] — ἡ ἔνστασις… ὑπόθεσις: "the impediment to action advances action; what stands in the way becomes the way";
 - *Med.* 6.50 — do what is possible; if something hinders, transfer to what is in your power, μεθ' ὑπεξαιρέσεως;
+- *Med.* [[07-58]] — "you will use it well, and it will become material (ὕλη) for you": any occurrence is raw stuff for a virtuous act;
+- *Med.* [[07-68]] — "the present is always to me the ὕλη of virtue": the use says to the event "you are the thing I was seeking";
 - *Med.* 8.35 — the rational soul turns whatever opposes it into material for itself;
 - *Med.* 10.33 — the mind makes its own material of what befalls it.
 

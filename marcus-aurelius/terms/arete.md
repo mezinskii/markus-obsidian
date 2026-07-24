@@ -42,11 +42,11 @@ The four cardinal *aretai* are inherited from Plato: φρόνησις (practical
 
 ## Источник определения
 
-Plat. *Resp.* IV 427d–445e (учение о четырёх добродетелях); *Meno* (можно ли учить ἀρετή); Aristot. *Ethic. Nic.* II–VI (ἀρετή как μεσότης, середина); SVF III 197–261 (стоический корпус о добродетелях); специально III 30, 38, 49, 65 (ἀρετὴ μόνη ἀγαθόν); DL VII 90–100; Stob. *Ecl.* II 58–65 W; Cic. *De fin.* III; *Tusc.* IV–V; LS 60, 61. У Марка ἀρετή — постоянный фон: *Med.* 2.5, 2.11, 2.13, 2.17; 3.6 («ничего не предпочитать собственной внутренней ἀρετή»); [[05-01]]; [[05-09]]; [[05-34]]; [[06-17]]; [[06-48]]; 7.74; 8.32; 10.16; 11.10.
+Plat. *Resp.* IV 427d–445e (учение о четырёх добродетелях); *Meno* (можно ли учить ἀρετή); Aristot. *Ethic. Nic.* II–VI (ἀρετή как μεσότης, середина); SVF III 197–261 (стоический корпус о добродетелях); специально III 30, 38, 49, 65 (ἀρετὴ μόνη ἀγαθόν); DL VII 90–100; Stob. *Ecl.* II 58–65 W; Cic. *De fin.* III; *Tusc.* IV–V; LS 60, 61. У Марка ἀρετή — постоянный фон: *Med.* 2.5, 2.11, 2.13, 2.17; 3.6 («ничего не предпочитать собственной внутренней ἀρετή»); [[05-01]]; [[05-09]]; [[05-34]]; [[06-17]]; [[06-48]]; [[07-31]]; [[07-68]] (наличное — ὕλη ἀρετῆς разумной и гражданской); 7.74; 8.32; 10.16; 11.10.
 
 ## Source
 
-Plat. *Resp.* IV 427d–445e (the doctrine of the four virtues); *Meno* (whether *aretē* can be taught); Aristot. *Eth. Nic.* II–VI (*aretē* as μεσότης, the mean); SVF III 197–261 (the Stoic corpus on the virtues); specifically III 30, 38, 49, 65 (ἀρετὴ μόνη ἀγαθόν); DL VII 90–100; Stob. *Ecl.* II 58–65 W; Cic. *De fin.* III; *Tusc.* IV–V; LS 60, 61. In Marcus, *aretē* is a constant background: *Med.* 2.5, 2.11, 2.13, 2.17; 3.6 ("prefer nothing above your own inner *aretē*"); [[05-01]]; [[05-09]]; [[05-34]]; [[06-17]]; [[06-48]]; 7.74; 8.32; 10.16; 11.10.
+Plat. *Resp.* IV 427d–445e (the doctrine of the four virtues); *Meno* (whether *aretē* can be taught); Aristot. *Eth. Nic.* II–VI (*aretē* as μεσότης, the mean); SVF III 197–261 (the Stoic corpus on the virtues); specifically III 30, 38, 49, 65 (ἀρετὴ μόνη ἀγαθόν); DL VII 90–100; Stob. *Ecl.* II 58–65 W; Cic. *De fin.* III; *Tusc.* IV–V; LS 60, 61. In Marcus, *aretē* is a constant background: *Med.* 2.5, 2.11, 2.13, 2.17; 3.6 ("prefer nothing above your own inner *aretē*"); [[05-01]]; [[05-09]]; [[05-34]]; [[06-17]]; [[06-48]]; [[07-31]]; [[07-68]] (наличное — ὕλη ἀρετῆς разумной и гражданской); 7.74; 8.32; 10.16; 11.10.
 
 ## Примечания
 

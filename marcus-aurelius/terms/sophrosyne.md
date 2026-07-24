@@ -25,11 +25,11 @@ The Stoic definition: ἐπιστήμη αἱρετῶν καὶ φευκτῶν
 
 ## Источник определения
 
-SVF III 262 sqq., 264–266 (учение о четырёх добродетелях); DL VII 92–93 (определения кардинальных добродетелей); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. Платоновский фон — *Resp.* IV 430e–432a (σωφροσύνη как согласие частей души). У Марка — в перечнях кардинальных добродетелей: *Med.* 3.6 (истина, справедливость, благоразумие, мужество); [[05-12]].
+SVF III 262 sqq., 264–266 (учение о четырёх добродетелях); DL VII 92–93 (определения кардинальных добродетелей); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. Платоновский фон — *Resp.* IV 430e–432a (σωφροσύνη как согласие частей души). У Марка — в перечнях кардинальных добродетелей: *Med.* 3.6 (истина, справедливость, благоразумие, мужество); [[05-12]]; [[07-63]] (души лишаются и σωφροσύνης невольно — как истины).
 
 ## Source
 
-SVF III 262 ff., 264–266 (the doctrine of the four virtues); DL VII 92–93 (the definitions of the cardinal virtues); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. The Platonic background: *Resp.* IV 430e–432a (σωφροσύνη as the concord of the parts of the soul). In Marcus, in the lists of the cardinal virtues: *Med.* 3.6 (truth, justice, temperance, fortitude); [[05-12]].
+SVF III 262 ff., 264–266 (the doctrine of the four virtues); DL VII 92–93 (the definitions of the cardinal virtues); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. The Platonic background: *Resp.* IV 430e–432a (σωφροσύνη as the concord of the parts of the soul). In Marcus, in the lists of the cardinal virtues: *Med.* 3.6 (truth, justice, temperance, fortitude); [[05-12]]; [[07-63]] (souls are deprived of σωφροσύνη too against their will — as of truth).
 
 ## Примечания
 

@@ -60,7 +60,8 @@ Strikingly, the **disjunction on death** in [[03-03]] (either another life or in
 - [[03-06]] — явная атрибуция: даймон «оторвал себя от обольщений чувств, **как говорил Сократ**» (ὡς ὁ Σωκράτης ἔλεγεν) — отсылка к платоновскому *Федону* (65a–67b: философия как отвлечение души от тела и чувств), вплавленная в стоическую дисциплину согласия.
 - *Med.* 1.16 — добродетели Антонина Пия описаны в духе сократовского образца.
 - [[06-47]] — Сократ в перечне умерших (рядом с Гераклитом и др.).
-- *Med.* 7.19 — среди тех, кто ушёл; 7.66 — подлинное величие Сократа (анекдот из Ксенофонта о его выносливости и самообладании).
+- [[07-66]] — развёрнутое размышление: внешние подвиги Сократа (славная смерть, диспуты, ночь на морозе, отказ арестовать Льва, гордая походка) недостаточны; мера — какую он имел ψυχή (справедлив к людям, благочестив к богам, не раб чужому неведению).
+- [[07-19]] — «сколько Сократов поглотила уже вечность»: имя во множественном числе, в перекличке величайших рядом с Хрисиппом и Эпиктетом; 7.66 — подлинное величие Сократа (анекдот из Ксенофонта о его выносливости и самообладании).
 - *Med.* 8.3 — Сократ, Диоген, Гераклит противопоставлены Александру, Цезарю, Помпею: мудрецы против завоевателей.
 - *Med.* 11.23, 11.25, 11.28 — сократические анекдоты и изречения.
 
@@ -70,7 +71,8 @@ Strikingly, the **disjunction on death** in [[03-03]] (either another life or in
 - [[03-06]] — an explicit attribution: the daimon has detached itself from the persuasions of the senses, "**as Socrates said**" (ὡς ὁ Σωκράτης ἔλεγεν) — a reference to the Platonic *Phaedo* (65a–67b: philosophy as the soul's withdrawal from the body and the senses), folded into the Stoic discipline of assent.
 - *Med.* 1.16 — the virtues of Antoninus Pius are described after a Socratic model.
 - [[06-47]] — Socrates in the roll-call of the dead (beside Heraclitus and others).
-- *Med.* 7.19 — among those who have departed; 7.66 — the true greatness of Socrates (the anecdote from Xenophon on his endurance and self-command).
+- [[07-66]] — an extended reflection: Socrates' outward feats (the noble death, the disputes, the night in the frost, the refusal to arrest Leon, the swaggering gait) are insufficient; the measure is what ψυχή he had (just toward men, pious toward the gods, no slave to another's ignorance).
+- [[07-19]] — "how many Socrateses has eternity already swallowed": the name in the plural, in the roll-call of the greatest beside Chrysippus and Epictetus; 7.66 — the true greatness of Socrates (the anecdote from Xenophon on his endurance and self-command).
 - *Med.* 8.3 — Socrates, Diogenes, Heraclitus set against Alexander, Caesar, Pompey: the sages against the conquerors.
 - *Med.* 11.23, 11.25, 11.28 — Socratic anecdotes and sayings.
 

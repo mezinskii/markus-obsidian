@@ -24,11 +24,11 @@ The Stoics **rejected** Plato's tripartite model of the soul: for them the soul 
 
 ## Источник определения
 
-Hom. *Il.* passim (гомеровский θυμός); Plat. *Resp.* IV 439e–441c (трёхчастное деление души); Aristot. *EN* VII; *Rhet.* II 2 (ὀργή); SVF III 394–397, 411–414 (стоическая классификация θυμός как вида ὀργή / ἐπιθυμία); DL VII 114; Stob. *Ecl.* II 91 W; LS 65. У Марка: *Med.* 2.10; 9.42; 11.18 (целая «терапия гнева» в девяти пунктах); 12.27.
+Hom. *Il.* passim (гомеровский θυμός); Plat. *Resp.* IV 439e–441c (трёхчастное деление души); Aristot. *EN* VII; *Rhet.* II 2 (ὀργή); SVF III 394–397, 411–414 (стоическая классификация θυμός как вида ὀργή / ἐπιθυμία); DL VII 114; Stob. *Ecl.* II 91 W; LS 65. У Марка: *Med.* 2.10; [[07-38]] (θυμοῦσθαι на вещи не должно — им нет дела; стих Еврипида); 9.42; 11.18 (целая «терапия гнева» в девяти пунктах); 12.27.
 
 ## Source
 
-Hom. *Il. passim* (the Homeric θυμός); Plat. *Resp.* IV 439e–441c (the tripartite division of the soul); Aristot. *EN* VII; *Rhet.* II 2 (ὀργή); SVF III 394–397, 411–414 (the Stoic classification of θυμός as a species of ὀργή / ἐπιθυμία); DL VII 114; Stob. *Ecl.* II 91 W; LS 65. In Marcus: *Med.* 2.10; 9.42; 11.18 (the full "therapy of anger" in nine points); 12.27.
+Hom. *Il. passim* (the Homeric θυμός); Plat. *Resp.* IV 439e–441c (the tripartite division of the soul); Aristot. *EN* VII; *Rhet.* II 2 (ὀργή); SVF III 394–397, 411–414 (the Stoic classification of θυμός as a species of ὀργή / ἐπιθυμία); DL VII 114; Stob. *Ecl.* II 91 W; LS 65. In Marcus: *Med.* 2.10; [[07-38]] (θυμοῦσθαι at things is wrong — they care nothing; a Euripides verse); 9.42; 11.18 (the full "therapy of anger" in nine points); 12.27.
 
 ## Примечания
 
