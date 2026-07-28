@@ -78,7 +78,7 @@ The fragment in Marcus is one of the principal surviving sources for Theophrastu
 - W. W. Fortenbaugh, P. M. Huby, R. W. Sharples, D. Gutas, *Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence*, Brill, 1992–2005 (стандартное собрание фрагментов, 10 томов)
 - W. W. Fortenbaugh, *Theophrastus of Eresus: Commentary Volume 6.1, Sources on Ethics*, Brill, 2011
 - P. Huby, *Theophrastus of Eresus: Commentary Volume 4, Psychology*, Brill, 1999
-- F. Wehrli, ред., *Die Schule des Aristoteles*, Bd. I (Феофрастовы tесты ранее Fortenbaugh)
+- F. Wehrli, ред., *Die Schule des Aristoteles*, Bd. I (Феофрастовы тексты ранее Fortenbaugh)
 
 ## Literature
 
