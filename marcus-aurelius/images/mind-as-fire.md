@@ -32,7 +32,7 @@ The background is Heraclitean-Stoic: fire as the cosmic principle (the Stoic π�
 - *Med.* 6.50 — делай возможное; если что-то мешает — переходи к тому, что в твоей власти, μεθ' ὑπεξαιρέσεως;
 - *Med.* [[07-58]] — «употребишь хорошо, и станет тебе материалом (ὕλη)»: любое происшествие — сырьё для добродетельного акта;
 - *Med.* [[07-68]] — «наличное мне всегда ὕλη добродетели»: употребление говорит событию «тебя-то я и искал»;
-- *Med.* 8.35 — разумная душа обращает противящееся ей в собственный материал;
+- *Med.* [[08-35]] — разумная душа обращает противящееся ей в собственный материал (как природа Целого — со всем сопротивляющимся);
 - *Med.* 10.33 — ум делает своим материалом то, что выпадает.
 
 ## Source
@@ -43,17 +43,17 @@ The background is Heraclitean-Stoic: fire as the cosmic principle (the Stoic π�
 - *Med.* 6.50 — do what is possible; if something hinders, transfer to what is in your power, μεθ' ὑπεξαιρέσεως;
 - *Med.* [[07-58]] — "you will use it well, and it will become material (ὕλη) for you": any occurrence is raw stuff for a virtuous act;
 - *Med.* [[07-68]] — "the present is always to me the ὕλη of virtue": the use says to the event "you are the thing I was seeking";
-- *Med.* 8.35 — the rational soul turns whatever opposes it into material for itself;
+- *Med.* [[08-35]] — the rational soul turns whatever opposes it into material for itself (as the nature of the Whole does with all that resists);
 - *Med.* 10.33 — the mind makes its own material of what befalls it.
 
 ## Использование
 
 В [[04-01]] образ обосновывает **дисциплину желания** (и, во вторую очередь, действия): [[physis|κατὰ φύσιν]]-расположенное правящее начало стремится ([[horme|ὁρμή]]) к предпочтительному (προηγμένα) «с оговоркой» (ὑπεξαίρεσις) и претворяет противящееся в топливо. Это та же мысль, что в формуле [[amor-fati|любви к судьбе]] и в «препятствие есть путь» (*Med.* [[05-20]]): не выбор обстоятельств, а их **переплавка**. Огонь не нуждается в «правильном» топливе — этим он и свободен.
 
-Парный по логике образ — [[body-as-river|тело как река]]: оба о текучем составе мира, но река показывает **пассивную** растворённость материи, а огонь — **активное** усвоение её умом. Связь с догматами: образ требует [[self-is-hegemonikon|онтологии правящего начала]] как деятельного центра и нормы [[live-according-to-nature|жизни по природе]].
+Парный по логике образ — [[body-as-river|тело как река]]: оба о текучем составе мира, но река показывает **пассивную** растворённость материи, а огонь — **активное** усвоение её умом. Связь с догматами: образ требует [[self-is-hegemonikon|онтологии правящего начала]] как деятельного центра и нормы [[live-according-to-nature|жизни по природе]]. Ср. родственный образ [[mind-as-light|ума-света]] ([[08-57]]: луч как τάσις — против встречных препятствий не ломить насильственно и не рушиться, но стоять и освещать; свет *отдаёт себя*, тогда как огонь *усваивает*).
 
 ## Usage
 
 In [[04-01]] the image grounds the **discipline of desire** (and, secondarily, of action): the [[physis|κατὰ φύσιν]]-disposed ruling part sets out ([[horme|ὁρμή]]) toward the preferred things (προηγμένα) "with a reserve" (ὑπεξαίρεσις) and converts what opposes it into fuel. This is the same thought as in the formula of [[amor-fati|the love of fate]] and in "the obstacle is the way" (*Med.* [[05-20]]): not the choice of circumstances but their **transmutation**. The fire needs no "right" fuel — and in that lies its freedom.
 
-The logically paired image is [[body-as-river|the body as a river]]: both concern the flowing composition of the world, but the river shows the **passive** dissolution of matter, while the fire shows its **active** assimilation by the mind. Connection with the doctrines: the image requires the [[self-is-hegemonikon|ontology of the ruling part]] as an active centre and the norm of [[live-according-to-nature|living according to nature]].
+The logically paired image is [[body-as-river|the body as a river]]: both concern the flowing composition of the world, but the river shows the **passive** dissolution of matter, while the fire shows its **active** assimilation by the mind. Connection with the doctrines: the image requires the [[self-is-hegemonikon|ontology of the ruling part]] as an active centre and the norm of [[live-according-to-nature|living according to nature]]. Cf. the kindred image of [[mind-as-light|the mind as light]] ([[08-57]]: the ray as τάσις — against the obstacles it meets, neither to force through violently nor to collapse, but to stand and illuminate; light *gives itself*, whereas fire *assimilates*).

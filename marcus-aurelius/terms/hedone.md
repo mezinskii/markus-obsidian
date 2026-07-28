@@ -29,11 +29,11 @@ Species of ἡδονή: θέλξις (enchantment), ἀσμενισμός (self-
 
 ## Источник определения
 
-SVF III 391–442; специфически об ἡδονή — III 414, 416, 421; DL VII 114–115; Stob. *Ecl.* II 90, 95 W; Cic. *Tusc.* IV 11–14, 19–20; LS 65. Эпикурейская параллель — Epic. *Ep. Men.* 128–132. У Марка: *Med.* 2.10; [[05-09]]; [[05-26]]; [[06-34]] (величайшие наслаждения — у худших людей: значит, не благо); 6.51; 7.55; 8.10; 9.7.
+SVF III 391–442; специфически об ἡδονή — III 414, 416, 421; DL VII 114–115; Stob. *Ecl.* II 90, 95 W; Cic. *Tusc.* IV 11–14, 19–20; LS 65. Эпикурейская параллель — Epic. *Ep. Men.* 128–132. У Марка: *Med.* 2.10; [[05-09]]; [[05-26]]; [[06-34]] (величайшие наслаждения — у худших людей: значит, не благо); 6.51; 7.55; [[08-08]] (быть выше ἡδονή и πόνος — в твоей власти); [[08-10]] (наслаждение — ни полезно, ни благо: силлогизм от раскаяния); [[08-14]] (мнения о ἡδονή/πόνος объясняют поступки человека); [[08-39]] (против ἡδονή в разумном устройстве есть противо-добродетель — ἐγκράτεια); [[08-41]] (πόνος/ἡδονή касаются — «пусть смотрит ощущение», не разум); 9.7.
 
 ## Source
 
-SVF III 391–442; specifically on ἡδονή: III 414, 416, 421; DL VII 114–115; Stob. *Ecl.* II 90, 95 W; Cic. *Tusc.* IV 11–14, 19–20; LS 65. The Epicurean parallel: Epic. *Ep. Men.* 128–132. In Marcus: *Med.* 2.10; [[05-09]]; [[05-26]]; [[06-34]] (the greatest pleasures belong to the worst people: so not a good); 6.51; 7.55; 8.10; 9.7.
+SVF III 391–442; specifically on ἡδονή: III 414, 416, 421; DL VII 114–115; Stob. *Ecl.* II 90, 95 W; Cic. *Tusc.* IV 11–14, 19–20; LS 65. The Epicurean parallel: Epic. *Ep. Men.* 128–132. In Marcus: *Med.* 2.10; [[05-09]]; [[05-26]]; [[06-34]] (the greatest pleasures belong to the worst people: so not a good); 6.51; 7.55; [[08-08]] (to be above ἡδονή and πόνος is in your power); [[08-10]] (pleasure is neither useful nor good — the syllogism from repentance); [[08-14]] (opinions about ἡδονή/πόνος explain a man's acts); [[08-39]] (against ἡδονή the rational constitution has a counter-virtue — ἐγκράτεια); [[08-41]] (πόνος/ἡδονή touch you — "let sensation see to it," not reason); 9.7.
 
 ## Примечания
 

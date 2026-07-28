@@ -26,7 +26,8 @@ The logically cognate series in Marcus is "accept the nature of a thing as it is
 
 *Med.* 4.6 — образ в чистом виде: ὁ… μὴ θέλων θέλει τὴν συκῆν ὀπὸν μὴ ἔχειν («кто не хочет этого, тот хочет, чтобы у смоковницы не было сока»). Когнатный мотив «невозможно требовать, чтобы дурное не было дурным»:
 
-- *Med.* 8.50 — горький огурец, тернии: прими природу вещи, не спрашивай «зачем»;
+- *Med.* [[08-15]] — стыдно дивиться, что мир приносит своё (как смоковница — смоквы); врачу — лихорадке, кормчему — встречному ветру;
+- *Med.* [[08-50]] — горький огурец, тернии: прими природу вещи, не спрашивай «зачем»;
 - *Med.* [[05-17]] — искать невозможного — безумие; невозможно, чтобы дурные не делали дурного;
 - *Med.* 9.42 — невозможно, чтобы бесстыдных не было в мире; потому — не негодовать, а быть благосклоннее.
 
@@ -34,7 +35,8 @@ The logically cognate series in Marcus is "accept the nature of a thing as it is
 
 *Med.* 4.6 — the image in pure form: ὁ… μὴ θέλων θέλει τὴν συκῆν ὀπὸν μὴ ἔχειν ("one who does not want this wants the fig-tree to have no juice"). The cognate motif "it is impossible to demand that the bad not be bad":
 
-- *Med.* 8.50 — the bitter cucumber, the brambles: accept a thing's nature, do not ask "why";
+- *Med.* [[08-15]] — it is shameful to be surprised that the world brings forth its own (as the fig-tree its figs); the physician at a fever, the helmsman at a headwind;
+- *Med.* [[08-50]] — the bitter cucumber, the brambles: accept a thing's nature, do not ask "why";
 - *Med.* [[05-17]] — to seek the impossible is madness; it is impossible that the bad should not do such things;
 - *Med.* 9.42 — it is impossible that shameless men should not exist; therefore — not indignation but greater kindness.
 

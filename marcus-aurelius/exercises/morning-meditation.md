@@ -23,8 +23,8 @@ Immediately upon waking, not yet turning to business, take several minutes for t
 
 ## Примеры у Марка
 
-Пассаж [[02-01]] открывается прямым предписанием: «поутру следует сказать себе…» (ἕωθεν προλέγειν ἑαυτῷ). Аналогичные утренние увещевания: *Med.* [[05-01]] («утром, когда не хочется вставать…»); 8.12. Параллель у Эпиктета: *Disc.* 4.6.34–35 — пробуждаясь, сразу спросить себя, что́ предстоит сегодня; у Сенеки — *Ep.* 83 о ежеутреннем приготовлении души.
+Пассаж [[02-01]] открывается прямым предписанием: «поутру следует сказать себе…» (ἕωθεν προλέγειν ἑαυτῷ). Аналогичные утренние увещевания: *Med.* [[05-01]] («утром, когда не хочется вставать…»); [[08-12]] (вставать от сна к общественному делу — по природе, не как неразумные животные). Параллель у Эпиктета: *Disc.* 4.6.34–35 — пробуждаясь, сразу спросить себя, что́ предстоит сегодня; у Сенеки — *Ep.* 83 о ежеутреннем приготовлении души.
 
 ## Examples in Marcus
 
-Passage [[02-01]] opens with a direct prescription: "in the morning you should say to yourself…" (ἕωθεν προλέγειν ἑαυτῷ). Analogous morning exhortations: *Med.* [[05-01]] ("at dawn, when you do not want to get up…"); 8.12. A parallel in Epictetus: *Disc.* 4.6.34–35 — on waking, ask yourself at once what lies before you today; in Seneca: *Ep.* 83 on the daily morning preparation of the soul.
+Passage [[02-01]] opens with a direct prescription: "in the morning you should say to yourself…" (ἕωθεν προλέγειν ἑαυτῷ). Analogous morning exhortations: *Med.* [[05-01]] ("at dawn, when you do not want to get up…"); [[08-12]] (rising from sleep to social action — by nature, not like the irrational animals). A parallel in Epictetus: *Disc.* 4.6.34–35 — on waking, ask yourself at once what lies before you today; in Seneca: *Ep.* 83 on the daily morning preparation of the soul.

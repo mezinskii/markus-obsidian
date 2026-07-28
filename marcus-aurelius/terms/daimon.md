@@ -47,11 +47,11 @@ In Stoic technical terminology, δαίμων is **functionally identical** with 
 
 ## Источник определения
 
-Hom. *Il.* 1.222 и passim (Гомеровский δαίμων); Hes. *Op.* 122–126; Plat. *Apol.* 31c–d (Сократическое δαιμόνιον); *Phaedr.* 242b; *Resp.* X 617e; *Tim.* 90a–c (даймон как высшая часть души); SVF I 538 (Клеанф, даймон и Логос); Epict. *Disc.* 1.14.12–14; 2.8.10–14 («ты несёшь в себе бога, и не подозреваешь о нём»); LS 47, 53. У Марка δαίμων — частотный термин: *Med.* 2.13; 2.17; 3.4; 3.5; 3.6; 3.7; 3.16; [[05-10]]; [[05-27]]; [[07-17]] (εὐδαιμονία — благое состояние даймона); 8.45; 12.3; 12.26.
+Hom. *Il.* 1.222 и passim (Гомеровский δαίμων); Hes. *Op.* 122–126; Plat. *Apol.* 31c–d (Сократическое δαιμόνιον); *Phaedr.* 242b; *Resp.* X 617e; *Tim.* 90a–c (даймон как высшая часть души); SVF I 538 (Клеанф, даймон и Логос); Epict. *Disc.* 1.14.12–14; 2.8.10–14 («ты несёшь в себе бога, и не подозреваешь о нём»); LS 47, 53. У Марка δαίμων — частотный термин: *Med.* 2.13; 2.17; 3.4; 3.5; 3.6; 3.7; 3.16; [[05-10]]; [[05-27]]; [[07-17]] (εὐδαιμονία — благое состояние даймона); [[08-45]] (даймон благосклонен где угодно — «брось меня, куда хочешь»); 12.3; 12.26.
 
 ## Source
 
-Hom. *Il.* 1.222 and *passim* (the Homeric δαίμων); Hes. *Op.* 122–126; Plat. *Apol.* 31c–d (the Socratic δαιμόνιον); *Phaedr.* 242b; *Resp.* X 617e; *Tim.* 90a–c (the *daimōn* as the highest part of the soul); SVF I 538 (Cleanthes, on the *daimōn* and the Logos); Epict. *Disc.* 1.14.12–14; 2.8.10–14 ("you carry god within you and do not know it"); LS 47, 53. In Marcus, δαίμων is a frequent term: *Med.* 2.13; 2.17; 3.4; 3.5; 3.6; 3.7; 3.16; [[05-10]]; [[05-27]]; [[07-17]] (εὐδαιμονία — the good state of one's daimon); 8.45; 12.3; 12.26.
+Hom. *Il.* 1.222 and *passim* (the Homeric δαίμων); Hes. *Op.* 122–126; Plat. *Apol.* 31c–d (the Socratic δαιμόνιον); *Phaedr.* 242b; *Resp.* X 617e; *Tim.* 90a–c (the *daimōn* as the highest part of the soul); SVF I 538 (Cleanthes, on the *daimōn* and the Logos); Epict. *Disc.* 1.14.12–14; 2.8.10–14 ("you carry god within you and do not know it"); LS 47, 53. In Marcus, δαίμων is a frequent term: *Med.* 2.13; 2.17; 3.4; 3.5; 3.6; 3.7; 3.16; [[05-10]]; [[05-27]]; [[07-17]] (εὐδαιμονία — the good state of one's daimon); [[08-45]] (the daimon is propitious anywhere — "cast me where you will"); 12.3; 12.26.
 
 ## Примечания
 

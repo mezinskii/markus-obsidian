@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-*Med.* [[05-02]] (стереть представление — и тотчас в полной γαλήνη); [[07-28]] (γαλήνη из правого действия — кильватер добродетели); [[07-33]] (διάνοια хранит свою γαλήνη путём ἀπόληψις — отгораживания от боли); [[07-68]] (ум в γαλήνη, даже когда звери рвут плоть); 12.22 (γαλήνη и «тихая пристань» души). Фон — образ «спокойного моря» как идеала душевного состояния; ср. ἀταραξία у Эпикура и [[eurhoia|εὔροια βίου]] у стоиков. Развёрнутая техника, ведущая к тиши, — *Med.* 9.7 (ἐξάλειψον φαντασίαν).
+*Med.* [[05-02]] (стереть представление — и тотчас в полной γαλήνη); [[07-28]] (γαλήνη из правого действия — кильватер добродетели); [[07-33]] (διάνοια хранит свою γαλήνη путём ἀπόληψις — отгораживания от боли); [[07-68]] (ум в γαλήνη, даже когда звери рвут плоть); [[08-28]] (душе можно хранить αἰθρία и γαλήνη, не признавая боль злом); 12.22 (γαλήνη и «тихая пристань» души). Фон — образ «спокойного моря» как идеала душевного состояния; ср. ἀταραξία у Эпикура и [[eurhoia|εὔροια βίου]] у стоиков. Развёрнутая техника, ведущая к тиши, — *Med.* 9.7 (ἐξάλειψον φαντασίαν).
 
 ## Source
 
-*Med.* [[05-02]] (wipe out the impression and be at once in perfect γαλήνη); [[07-28]] (γαλήνη from just action — the wake of virtue); [[07-33]] (the mind keeps its γαλήνη by ἀπόληψις — walling the pain off); [[07-68]] (the mind in γαλήνη even as beasts tear the flesh); 12.22 (γαλήνη and the "quiet anchorage" of the soul). The background: the image of the "calm sea" as an ideal state of the soul; cf. ἀταραξία in Epicurus and [[eurhoia|εὔροια βίου]] in the Stoics. The fuller technique that leads to the calm is *Med.* 9.7 (ἐξάλειψον φαντασίαν).
+*Med.* [[05-02]] (wipe out the impression and be at once in perfect γαλήνη); [[07-28]] (γαλήνη from just action — the wake of virtue); [[07-33]] (the mind keeps its γαλήνη by ἀπόληψις — walling the pain off); [[07-68]] (the mind in γαλήνη even as beasts tear the flesh); [[08-28]] (the soul may keep its αἰθρία and γαλήνη, refusing to call pain an evil); 12.22 (γαλήνη and the "quiet anchorage" of the soul). The background: the image of the "calm sea" as an ideal state of the soul; cf. ἀταραξία in Epicurus and [[eurhoia|εὔροια βίου]] in the Stoics. The fuller technique that leads to the calm is *Med.* 9.7 (ἐξάλειψον φαντασίαν).
 
 ## Примечания
 

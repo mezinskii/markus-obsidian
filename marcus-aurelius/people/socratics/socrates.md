@@ -62,7 +62,7 @@ Strikingly, the **disjunction on death** in [[03-03]] (either another life or in
 - [[06-47]] — Сократ в перечне умерших (рядом с Гераклитом и др.).
 - [[07-66]] — развёрнутое размышление: внешние подвиги Сократа (славная смерть, диспуты, ночь на морозе, отказ арестовать Льва, гордая походка) недостаточны; мера — какую он имел ψυχή (справедлив к людям, благочестив к богам, не раб чужому неведению).
 - [[07-19]] — «сколько Сократов поглотила уже вечность»: имя во множественном числе, в перекличке величайших рядом с Хрисиппом и Эпиктетом; 7.66 — подлинное величие Сократа (анекдот из Ксенофонта о его выносливости и самообладании).
-- *Med.* 8.3 — Сократ, Диоген, Гераклит противопоставлены Александру, Цезарю, Помпею: мудрецы против завоевателей.
+- [[08-03]] — Сократ, Диоген, Гераклит противопоставлены Александру, Цезарю, Помпею: мудрецы против завоевателей.
 - *Med.* 11.23, 11.25, 11.28 — сократические анекдоты и изречения.
 
 ## Mentions in Marcus
@@ -73,7 +73,7 @@ Strikingly, the **disjunction on death** in [[03-03]] (either another life or in
 - [[06-47]] — Socrates in the roll-call of the dead (beside Heraclitus and others).
 - [[07-66]] — an extended reflection: Socrates' outward feats (the noble death, the disputes, the night in the frost, the refusal to arrest Leon, the swaggering gait) are insufficient; the measure is what ψυχή he had (just toward men, pious toward the gods, no slave to another's ignorance).
 - [[07-19]] — "how many Socrateses has eternity already swallowed": the name in the plural, in the roll-call of the greatest beside Chrysippus and Epictetus; 7.66 — the true greatness of Socrates (the anecdote from Xenophon on his endurance and self-command).
-- *Med.* 8.3 — Socrates, Diogenes, Heraclitus set against Alexander, Caesar, Pompey: the sages against the conquerors.
+- [[08-03]] — Socrates, Diogenes, Heraclitus set against Alexander, Caesar, Pompey: the sages against the conquerors.
 - *Med.* 11.23, 11.25, 11.28 — Socratic anecdotes and sayings.
 
 ## Источники
