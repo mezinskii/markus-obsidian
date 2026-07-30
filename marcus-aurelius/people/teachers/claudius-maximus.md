@@ -113,13 +113,13 @@ This external characterisation **converges** with Marcus's internal portrait in 
 
 - [[01-15]] — главный, развёрнутый портрет Максима в *Размышлениях*; третий по объёму в Книге I (после 1.16 и 1.7).
 - [[01-17]] — благодарения богам; Максим имплицитно среди «хороших учителей».
-- *Med.* 8.25 — отдельное упоминание имени Максима в связи с памятью о смертях знакомых (формальная отсылка, не развёрнутый портрет).
+- [[08-25]] — упоминание имени Максима в перекличке смертных пар (Секунда похоронила Максима, затем и сама): формальная отсылка, не развёрнутый портрет.
 
 ## Mentions in Marcus
 
 - [[01-15]] — the principal, developed portrait of Maximus in the *Meditations*; the third longest in Book I (after 1.16 and 1.7).
 - [[01-17]] — the thanksgiving to the gods; Maximus is implicitly among the "good teachers."
-- *Med.* 8.25 — a separate mention of Maximus's name in connection with the memory of the deaths of acquaintances (a formal reference, not a developed portrait).
+- [[08-25]] — a mention of Maximus's name in the roll-call of mortal pairs (Secunda buried Maximus, then she too): a formal reference, not a developed portrait.
 
 ## Литература
 
