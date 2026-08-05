@@ -52,11 +52,11 @@ This subtlety removes a potential paradox: if *telos* includes the attainment (a
 
 ## Источник определения
 
-SVF I 179 (Зенонова формула); I 552 (Клеанф); III 4–16 (Хрисипп — обширный корпус); Antipater Tars. apud Stob. *Ecl.* II 75–77 W (классическое определение τέλος и его различение со [[skopos|σκοπός]]); DL VII 87–89; Cic. *De fin.* III 21, 26, 31; *Acad.* I 36; LS 63, 64. Аристотелев фон — *Ethic. Nic.* I 1–2, 7; *Politics* I 2 (τέλος полиса). У Марка термин встречается: *Med.* 2.16 (что значит «жить κατὰ φύσιν»); 11.4; 11.21 («ἑνὶ σκοπῷ» — единый прицел, имплицитно τέλος); 12.20 (нет действия без отношения к τέλος / σκοπός).
+SVF I 179 (Зенонова формула); I 552 (Клеанф); III 4–16 (Хрисипп — обширный корпус); Antipater Tars. apud Stob. *Ecl.* II 75–77 W (классическое определение τέλος и его различение со [[skopos|σκοπός]]); DL VII 87–89; Cic. *De fin.* III 21, 26, 31; *Acad.* I 36; LS 63, 64. Аристотелев фон — *Ethic. Nic.* I 1–2, 7; *Politics* I 2 (τέλος полиса). У Марка термин встречается: *Med.* 2.16 (что значит «жить κατὰ φύσιν»); 11.4; 11.21 («ἑνὶ σκοπῷ» — единый прицел, имплицитно τέλος); [[09-23]] (всякое действие относить к κοινωνικὸν τέλος — иначе оно «разрывает» жизнь); 12.20 (нет действия без отношения к τέλος / σκοπός).
 
 ## Source
 
-SVF I 179 (Zeno's formula); I 552 (Cleanthes); III 4–16 (Chrysippus' extensive corpus); Antipater Tars. apud Stob. *Ecl.* II 75–77 W (the classical definition of *telos* and its distinction from [[skopos|σκοπός]]); DL VII 87–89; Cic. *De fin.* III 21, 26, 31; *Acad.* I 36; LS 63, 64. Aristotelian background: *Eth. Nic.* I 1–2, 7; *Politics* I 2 (the *telos* of the polis). In Marcus the term occurs at: *Med.* 2.16 (what it means to live κατὰ φύσιν); 11.4; 11.21 («ἑνὶ σκοπῷ» — "with one aim," implicitly *telos*); 12.20 (no action lacks reference to *telos* / *skopos*).
+SVF I 179 (Zeno's formula); I 552 (Cleanthes); III 4–16 (Chrysippus' extensive corpus); Antipater Tars. apud Stob. *Ecl.* II 75–77 W (the classical definition of *telos* and its distinction from [[skopos|σκοπός]]); DL VII 87–89; Cic. *De fin.* III 21, 26, 31; *Acad.* I 36; LS 63, 64. Aristotelian background: *Eth. Nic.* I 1–2, 7; *Politics* I 2 (the *telos* of the polis). In Marcus the term occurs at: *Med.* 2.16 (what it means to live κατὰ φύσιν); 11.4; 11.21 («ἑνὶ σκοπῷ» — "with one aim," implicitly *telos*); [[09-23]] (refer every act to the κοινωνικὸν τέλος — else it "tears apart" one's life); 12.20 (no action lacks reference to *telos* / *skopos*).
 
 ## Примечания
 

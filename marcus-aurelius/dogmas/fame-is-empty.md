@@ -41,10 +41,16 @@ Marcus braces the thesis with several converging arguments:
 
 - [[08-44]] — послесмертная слава (ὑστεροφημία): будущие ценители не лучше нынешних докучных и смертны (главный локус).
 - [[04-19]] — славолюбец забывает, что и помнящие о нём скоро умрут.
+- [[07-06]] — сжатая форма того же регресса: многовоспетые преданы забвению, а воспевшие их давно мертвы.
 - [[04-33]] — имена великих устаревают; «вечная память» — ὅλον κενόν (сущая пустота).
 - [[08-21]] — вся земля точка, а слава — в её уголке; малость притязания.
 - [[07-34]] — взгляни на сами́х судящих (чьё одобрение ловишь).
 - [[08-53]] — цена хвалы измеряется хвалящим: зачем одобрение того, кто сам себе не мил и трижды в час себя проклинает?
+- [[09-18]] — «проникни внутрь их ἡγεμονικά»: судьи, которых боишься, сами о своих делах судят вкривь — цена их одобрения падает.
+- [[09-27]] — при хуле «подойди к их душонкам»: их мнение о тебе не стоит того, чтобы «дёргаться» (σπᾶσθαι).
+- [[09-29]] — действуй, «не озираясь, заметит ли кто» (μὴ περιβλέπου εἴ τις εἴσεται): работа не ради зрителя.
+- [[09-30]] — взгляд сверху + сквозь время: сколько не знают твоего имени, скоро забудут, — «ни память, ни слава, ни что иное не весомы».
+- [[09-34]] — «обнажи их душонки»: какое самомнение (ὅση οἴησις) — думать, что вредят хулой или помогают хвалой.
 - [[07-21]] — близко и твоё забвение обо всём, и всех о тебе.
 - [[02-17]] — посмертная слава есть забвение.
 - [[06-18]] — противоречие славолюбия: жаждут хвалы от потомков, которых сами не почтили бы.
@@ -57,10 +63,16 @@ Stoic axiology: "good repute" among the προηγμένα — DL VII 106; Stob.
 
 - [[08-44]] — posthumous fame (ὑστεροφημία): the admirers to come are no better than today's tiresome people, and mortal (the principal locus).
 - [[04-19]] — the fame-lover forgets that those who remember him will also soon die.
+- [[07-06]] — the same regress compressed: the much-hymned are given to oblivion, and those who hymned them are long dead.
 - [[04-33]] — the names of the great grow antiquated; "eternal remembrance" is ὅλον κενόν (wholly empty).
 - [[08-21]] — the whole earth is a point, and fame is in a corner of it; the smallness of the claim.
 - [[07-34]] — look at the very judges (whose approval you are chasing).
 - [[08-53]] — the worth of praise is measured by the praiser: why the approval of one who does not please himself and curses himself thrice an hour?
+- [[09-18]] — "go in, into their ruling parts": the judges you fear judge even their own affairs awry — the worth of their approval collapses.
+- [[09-27]] — under blame, "go to their poor souls": their opinion of you is not worth being "pulled about" (σπᾶσθαι) over.
+- [[09-29]] — act "without looking round to see if anyone will notice" (μὴ περιβλέπου εἴ τις εἴσεται): work not for the onlooker.
+- [[09-30]] — the view from above + through time: how many do not know your name, will soon forget it — "neither memory, nor fame, nor anything else is of account."
+- [[09-34]] — "strip their souls bare": what conceit (ὅση οἴησις) — to think they harm by blame or help by praise.
 - [[07-21]] — near too is your forgetting of everything, and everything's forgetting of you.
 - [[02-17]] — posthumous fame is oblivion.
 - [[06-18]] — the contradiction of the fame-lover: they crave the praise of a posterity they would not themselves have honoured.

@@ -23,7 +23,7 @@ SVF I 134, 518; II 458, 716 (учение о пневматическом уст
 
 ## Source
 
-SVF I 134, 518; II 458, 716 (the doctrine of pneumatic constitution and of the body as ὕλη). Marcus prefers σαρκίον: *Med.* 2.2; 4.41; [[05-33]]; 6.13; [[06-28]] (πρὸς τὴν σάρκα λειτουργία — служение плоти прекращается со смертью); 9.36; 10.33.
+SVF I 134, 518; II 458, 716 (the doctrine of pneumatic constitution and of the body as ὕλη). Marcus prefers σαρκίον: *Med.* 2.2; 4.41; [[05-33]]; 6.13; [[06-28]] (πρὸς τὴν σάρκα λειτουργία — the service rendered to the flesh ceases at death); 9.36; 10.33.
 
 ## Примечания
 

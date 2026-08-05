@@ -35,16 +35,16 @@ But in the **therapy of suffering** Marcus openly borrows from his opponent. Twi
 ## Цитируется/упоминается у Марка
 
 - [[07-33]] — эпикурова максима о боли применена **анонимно**: «невыносимое уводит, длящееся выносимо».
-- [[07-64]] — та же максима, но **с именем** (τὸ τοῦ Ἐπικούρου): боль «ни невыносима, ни вечна, если помнить о границах и не примышлять» (KD 4). Единственное явное называние Эпикура в «Размышлениях».
-- Дизъюнкция «провидение или атомы» (πρόνοια ἢ ἄτομοι) — *Med.* 4.3; [[06-10]]; [[07-32]]; [[07-50]]; 8.17; 9.28; 9.39; 10.6; 11.18; 12.14. Эпикурова система — «атомный» рог дилеммы, обычно без имени.
-- 9.41 — Эпикур назван и как **пример стойкости в болезни** (он философствовал среди телесных мук, не бросая учения).
+- [[07-64]] — та же максима, но **с именем** (τὸ τοῦ Ἐπικούρου): боль «ни невыносима, ни вечна, если помнить о границах и не примышлять» (KD 4). Одно из двух мест, где Эпикур назван прямо.
+- Дизъюнкция «провидение или атомы» (πρόνοια ἢ ἄτομοι) — *Med.* 4.3; [[06-10]]; [[07-32]]; [[07-50]]; 8.17; [[09-28]]; [[09-39]]; 10.6; 11.18; 12.14. Эпикурова система — «атомный» рог дилеммы, обычно без имени.
+- [[09-41]] — второе прямое называние: Эпикур приведён как **пример стойкости в болезни** (он продолжал φυσιολογεῖν среди телесных мук, не давая врачам важничать). Марк заключает: «не отступать от философии, что бы ни выпало, — общее всякой школе».
 
 ## Mentions in Marcus
 
 - [[07-33]] — the Epicurean maxim on pain applied **anonymously**: "the unbearable carries off, the lasting is bearable."
-- [[07-64]] — the same maxim, but **with the name** (τὸ τοῦ Ἐπικούρου): pain is "neither unbearable nor everlasting, if you remember its limits and add nothing" (KD 4). The one explicit naming of Epicurus in the *Meditations*.
-- The disjunction "providence or atoms" (πρόνοια ἢ ἄτομοι) — *Med.* 4.3; [[06-10]]; [[07-32]]; [[07-50]]; 8.17; 9.28; 9.39; 10.6; 11.18; 12.14. The Epicurean system is the "atomist" horn of the dilemma, usually unnamed.
-- 9.41 — Epicurus named also as an **example of steadfastness in illness** (he went on philosophizing amid bodily pains, never abandoning his teaching).
+- [[07-64]] — the same maxim, but **with the name** (τὸ τοῦ Ἐπικούρου): pain is "neither unbearable nor everlasting, if you remember its limits and add nothing" (KD 4). One of the two places where Epicurus is named outright.
+- The disjunction "providence or atoms" (πρόνοια ἢ ἄτομοι) — *Med.* 4.3; [[06-10]]; [[07-32]]; [[07-50]]; 8.17; [[09-28]]; [[09-39]]; 10.6; 11.18; 12.14. The Epicurean system is the "atomist" horn of the dilemma, usually unnamed.
+- [[09-41]] — the second explicit naming: Epicurus is adduced as an **example of steadfastness in illness** (he went on doing φυσιολογία amid bodily pains and would not let the physicians preen). Marcus's upshot: "never to desert philosophy whatever befalls is common to every school."
 
 ## Литература
 

@@ -26,7 +26,9 @@ The diminutive is deliberate: ψυχ-**άριον** (a poor little soul) set aga
 
 - *Med.* 10.38 — то, что дёргает за нити, скрытое внутри, и есть человек; не включай в себя «сосуд» и приставленные органы;
 - [[02-02]] — голое определение составляющих человека (плоть, пневма, правящее начало);
-- *Med.* 8.24; 9.36 — тело в его материальной неприглядности.
+- *Med.* 8.24; 9.36 — тело в его материальной неприглядности;
+- [[09-03]] — та же уменьшительная пара: ψυχάριον выпадает из ἔλυτρον («оболочки») — снятие пафоса смерти;
+- [[09-24]] — «πνευμάτια νεκροὺς βαστάζοντα»: тот же образ во множественном — люди как душонки, таскающие трупы (взгляд сверху на «Некию»).
 
 ## Source
 
@@ -34,7 +36,9 @@ The diminutive is deliberate: ψυχ-**άριον** (a poor little soul) set aga
 
 - *Med.* 10.38 — what pulls the strings, hidden within, is the man; do not include the "vessel" and the attached organs;
 - [[02-02]] — the bare definition of the human composition (flesh, pneuma, ruling part);
-- *Med.* 8.24; 9.36 — the body in its material unsightliness.
+- *Med.* 8.24; 9.36 — the body in its material unsightliness;
+- [[09-03]] — the same diminutive pair: the ψυχάριον falls out of its ἔλυτρον ("husk") — a deflation of the pathos of death;
+- [[09-24]] — «πνευμάτια νεκροὺς βαστάζοντα»: the same image in the plural — people as little souls carrying corpses (the view from above on the Nekyia).
 
 ## Использование
 

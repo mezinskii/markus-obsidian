@@ -29,6 +29,8 @@ But the image is turned into consolation. A real severed hand is dead and will n
 
 - *Med.* 11.8 — развёрнутый двойник: **отрубленная ветвь**. Ветвь отсекает *другой*, а человек отсекает себя *сам* — ненавистью и отвращением к ближнему; но и здесь бог дал вернуться и прирасти к тому, от чего отпал (чего нет у ветви, отрезанной чужой рукой).
 - Ср. *Med.* 2.16 — иной образ того же само-отделения: недовольный происходящим делается **[[abscess-on-cosmos|нарывом на космосе]]** (ἀπόστημα). Там метафора — опухоль, здесь — ампутация; общий тезис: роптать = отделять себя от природы.
+- Ср. *Med.* [[09-09]] — тот же образ в космологическом ключе: скорее найдёшь землю, ни к чему землистому не льнущую, чем **человека, отсечённого от человека** (ἄνθρωπον ἀνθρώπου ἀπεσχισμένον); общительность — физический закон, разрыв противоестествен.
+- Ср. *Med.* [[09-23]] — поступок без отнесённости к общей цели «разрывает» жизнь и оказывается στασιώδης, «мятежным»: как гражданин, отколовшийся от согласия в народном собрании, он отсекает себя от целого.
 
 ## Source
 
@@ -36,6 +38,8 @@ But the image is turned into consolation. A real severed hand is dead and will n
 
 - *Med.* 11.8 — the developed twin: **the cut-off branch**. The branch is severed by *another*, but a human severs *himself* — by hatred and turning away from his neighbour; yet here too god has granted a return and a re-grafting to that from which one fell (which the branch, cut by another's hand, does not have).
 - Cf. *Med.* 2.16 — another image of the same self-separation: one discontented with what happens makes himself an **[[abscess-on-cosmos|abscess on the cosmos]]** (ἀπόστημα). There the metaphor is a tumour, here an amputation; the shared thesis: to murmur is to sever oneself from nature.
+- Cf. *Med.* [[09-09]] — the same image in a cosmological key: you will sooner find earth touching nothing earthy than **a man severed from a man** (ἄνθρωπον ἀνθρώπου ἀπεσχισμένον); sociability is a physical law, and the breach is against nature.
+- Cf. *Med.* [[09-23]] — an act with no reference to the common end "tears apart" one's life and turns out στασιώδης, "seditious": like a citizen who breaks from the concord in the assembly, he severs himself from the whole.
 
 ## Использование
 

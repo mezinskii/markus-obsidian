@@ -40,7 +40,7 @@ Marcus's relation is practical, without school polemic: Plato is a supplier of *
 - [[07-46]] — Gorg. 512d–e: не цепляться за долготу жизни, предоставить это богу и верить, что «никто не избегнет судьбы», а думать — как прожить наилучше отведённое.
 - [[07-63]] — «всякая душа лишается истины против воли» (φησίν): тезис, восходящий к Платону (~ *Софист* 228c / сократово «никто не заблуждается добровольно»); основание кротости.
 - [[07-48]] — «платоновское» изречение о взгляде на земное с высоты (стада, войска, свадьбы, суды): в сохранившихся диалогах его нет — либо парафраз, либо утраченный источник; по духу — Resp. 486a + *Theaet.* 173e–174a (философ, озирающий всё сверху).
-- *Med.* 9.29 — «не жди Платонова государства»: довольствуйся малейшим продвижением.
+- [[09-29]] — «не жди Платонова государства»: довольствуйся малейшим продвижением.
 - *Med.* 10.23 — цитата о «загоне на горе́» (ср. *Theaet.* 174d–e): всюду одно и то же.
 
 ## Mentions in Marcus
@@ -51,7 +51,7 @@ Marcus's relation is practical, without school polemic: Plato is a supplier of *
 - [[07-46]] — Gorg. 512d–e: not to cling to length of life but leave that to god, trusting that "no one escapes his destiny," and to consider instead how best to live the span allotted.
 - [[07-63]] — "every soul is deprived of truth against its will" (φησίν): a thesis going back to Plato (~ *Sophist* 228c / the Socratic "no one errs willingly"); the ground of gentleness.
 - [[07-48]] — the "Platonic" dictum on viewing earthly things from a height (herds, armies, weddings, law-courts): not found in the extant dialogues — either a paraphrase or a lost source; in spirit — Resp. 486a plus *Theaet.* 173e–174a (the philosopher surveying all from above).
-- *Med.* 9.29 — "do not hope for Plato's Republic": be content with the smallest step forward.
+- [[09-29]] — "do not hope for Plato's Republic": be content with the smallest step forward.
 - *Med.* 10.23 — the quotation about the "fold upon the mountain" (cf. *Theaet.* 174d–e): everywhere the same things.
 
 ## Литература

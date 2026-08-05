@@ -31,6 +31,8 @@ The image adjoins the Stoic doctrine of the **seminal reason** ([[logos|λόγο
 - *Med.* 6.24 — Александр и его конюх приняты в одни и те же семенные начала;
 - *Med.* 7.23 — природа лепит из одной материи коня, затем дерево, затем человека;
 - *Med.* 9.35 — утрата есть лишь изменение, и Природа им наслаждается.
+- *Med.* [[09-01]] — провидение «зачало семенные разумы (λόγοι) грядущего», разграничив порождающие силы: семенной разум как источник становления;
+- *Med.* [[09-10]] — плодоношение как всеобщий закон: и человек, и бог, и космос «приносят плод в свой час»; узость слова «плод» (лишь о лозе) — «ничего не значит».
 
 ## Source
 
@@ -41,6 +43,8 @@ The image adjoins the Stoic doctrine of the **seminal reason** ([[logos|λόγο
 - *Med.* 6.24 — Alexander and his groom received into the same seminal principles;
 - *Med.* 7.23 — nature moulds from one matter a horse, then a tree, then a man;
 - *Med.* 9.35 — loss is nothing but change, and Nature delights in it.
+- *Med.* [[09-01]] — providence "conceived the seminal reasons (λόγοι) of what was to be," marking off the generative powers: the seminal reason as the source of becoming;
+- *Med.* [[09-10]] — fruit-bearing as a universal law: man, god, and cosmos all "bear fruit in their season"; confining "fruit" to the vine is "nothing to the point."
 
 ## Использование
 

@@ -45,7 +45,7 @@ In [[08-03]] Alexander, Caesar, and Pompey are directly **contrasted** with the 
 - [[03-03]] — глава триады завоевателей в каталоге смертей.
 - [[06-24]] — Александр и погонщик мулов уравнены смертью (самый известный образ).
 - [[08-03]] — завоеватели против мудрецов.
-- *Med.* 9.29 — Александр, Филипп, Деметрий Фалерский: понимали ли они природу? Действовали, как требовала сцена.
+- [[09-29]] — Александр, Филипп, Деметрий Фалерский: понимали ли они, чего хочет общая природа, и воспитали ли себя? Если «играли трагедию» — подражать им никто не велит. / Alexander, Philip and Demetrius of Phalerum: did they discern what the common nature willed and school themselves? If they "played it as tragedy," no one bids us imitate them.
 
 ## Источники / Sources
 
