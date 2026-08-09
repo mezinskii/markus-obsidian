@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-SVF II 413–425 (учение об элементах); II 580–632 (πνεῦμα как смесь активных элементов); DL VII 134–137; LS 47. Аристотелевский фон — *De gen. et corr.* II 2–4. У Марка: *Med.* 2.3; 2.17; [[04-46]] (круговорот стихий, цитата Гераклита); [[06-17]]; [[07-31]]; [[07-47]] (взаимопревращения στοιχείων как очищающее созерцание); [[07-50]] (рассеяние ἀπαθῶν στοιχείων — безобидно); [[08-18]] (умершее распадается на στοιχεῖα мира и твои — и они не ропщут); 12.30.
+SVF II 413–425 (учение об элементах); II 580–632 (πνεῦμα как смесь активных элементов); DL VII 134–137; LS 47. Аристотелевский фон — *De gen. et corr.* II 2–4. У Марка: *Med.* 2.3; 2.17; [[04-46]] (круговорот стихий, цитата Гераклита); [[06-17]]; [[07-31]]; [[07-47]] (взаимопревращения στοιχείων как очищающее созерцание); [[07-50]] (рассеяние ἀπαθῶν στοιχείων — безобидно); [[08-18]] (умершее распадается на στοιχεῖα мира и твои — и они не ропщут); [[10-07]] (σκεδασμὸς στοιχείων — либо рассеяние элементов, либо превращение плотного в землистое, дыхательного в воздушное); 12.30.
 
 ## Source
 
-SVF II 413–425 (the doctrine of the elements); II 580–632 (*pneuma* as a mixture of the active elements); DL VII 134–137; LS 47. The Aristotelian background: *De gen. et corr.* II 2–4. In Marcus: *Med.* 2.3; 2.17; [[04-46]] (the cycle of the elements, a Heraclitus quotation); [[06-17]]; [[07-31]]; [[07-47]] (the mutual μεταβολαί of the στοιχεῖα as a cleansing contemplation); [[07-50]] (the dispersion of the ἀπαθῆ στοιχεῖα — harmless); [[08-18]] (what dies dissolves into στοιχεῖα of the world and of you — and they do not murmur); 12.30.
+SVF II 413–425 (the doctrine of the elements); II 580–632 (*pneuma* as a mixture of the active elements); DL VII 134–137; LS 47. The Aristotelian background: *De gen. et corr.* II 2–4. In Marcus: *Med.* 2.3; 2.17; [[04-46]] (the cycle of the elements, a Heraclitus quotation); [[06-17]]; [[07-31]]; [[07-47]] (the mutual μεταβολαί of the στοιχεῖα as a cleansing contemplation); [[07-50]] (the dispersion of the ἀπαθῆ στοιχεῖα — harmless); [[08-18]] (what dies dissolves into στοιχεῖα of the world and of you — and they do not murmur); [[10-07]] (σκεδασμὸς στοιχείων — either a scattering of the elements, or a turning of the solid into the earthy and the breath-like into the airy); 12.30.
 
 ## Примечания
 

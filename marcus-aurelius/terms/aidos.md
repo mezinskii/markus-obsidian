@@ -21,11 +21,11 @@ related_terms:
 
 ## Источник определения
 
-Hom. *Il.* 13.121–124 (αἰδώς как боевая сила); Plat. *Prot.* 322c (миф о Прометее: αἰδώς и δίκη — дары Зевса, без которых нет полисной жизни); Aristot. *Ethic. Nic.* IV 9, 1128b10 — αἰδώς как пред-добродетель; стоические тексты — SVF III 432; Epict. *Disc.* 1.5; 2.2.1–8; 3.7.27; 4.5.21; *Ench.* 24, 33. У Марка: *Med.* 1.16; 2.6; 3.4; 4.30; [[05-05]]; [[06-16]]; [[06-30]]; 6.20; [[06-40]]; [[07-31]]; 8.13; 10.34; 11.36.
+Hom. *Il.* 13.121–124 (αἰδώς как боевая сила); Plat. *Prot.* 322c (миф о Прометее: αἰδώς и δίκη — дары Зевса, без которых нет полисной жизни); Aristot. *Ethic. Nic.* IV 9, 1128b10 — αἰδώς как пред-добродетель; стоические тексты — SVF III 432; Epict. *Disc.* 1.5; 2.2.1–8; 3.7.27; 4.5.21; *Ench.* 24, 33. У Марка: *Med.* 1.16; 2.6; 3.4; 4.30; [[05-05]]; [[06-16]]; [[06-30]]; 6.20; [[06-40]]; [[07-31]]; 8.13; [[10-08]] (αἰδήμων — второе из шести имён; и уход из жизни αἰδημόνως, «с достоинством»); [[10-13]] (αἰδώς — одно из того, чем правящее начало **становится**, когда пожелает); [[10-14]] (αἰδήμων удерживает формулу «дай и возьми» от превращения в браваду); 10.34; 11.36.
 
 ## Source
 
-Hom. *Il.* 13.121–124 (*aidōs* as a martial force); Plat. *Prot.* 322c (the myth of Prometheus: *aidōs* and δίκη are Zeus' gifts, without which there is no political life); Aristot. *Eth. Nic.* IV 9, 1128b10 — *aidōs* as a pre-virtue; Stoic texts — SVF III 432; Epict. *Disc.* 1.5; 2.2.1–8; 3.7.27; 4.5.21; *Ench.* 24, 33. In Marcus: *Med.* 1.16; 2.6; 3.4; 4.30; [[05-05]]; [[06-16]]; [[06-30]]; 6.20; [[06-40]]; [[07-31]]; 8.13; 10.34; 11.36.
+Hom. *Il.* 13.121–124 (*aidōs* as a martial force); Plat. *Prot.* 322c (the myth of Prometheus: *aidōs* and δίκη are Zeus' gifts, without which there is no political life); Aristot. *Eth. Nic.* IV 9, 1128b10 — *aidōs* as a pre-virtue; Stoic texts — SVF III 432; Epict. *Disc.* 1.5; 2.2.1–8; 3.7.27; 4.5.21; *Ench.* 24, 33. In Marcus: *Med.* 1.16; 2.6; 3.4; 4.30; [[05-05]]; [[06-16]]; [[06-30]]; 6.20; [[06-40]]; [[07-31]]; 8.13; [[10-08]] (αἰδήμων — second of the six names; and the departure from life αἰδημόνως, "with self-respect"); [[10-13]] (αἰδώς — one of the things the ruling part **becomes**, whenever it wills); [[10-14]] (the αἰδήμων keeps the formula "give and take back" from turning into bravado); 10.34; 11.36.
 
 ## Примечания
 

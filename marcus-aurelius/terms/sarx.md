@@ -19,11 +19,11 @@ Flesh — bodily matter. For the Stoics σάρξ belongs to the lowest layer of 
 
 ## Источник определения
 
-SVF I 134, 518; II 458, 716 (учение о пневматическом устройстве и теле как ὕλη). Марк предпочитает σαρκίον: *Med.* 2.2; 4.41; [[05-33]]; 6.13; [[06-28]] (πρὸς τὴν σάρκα λειτουργία — служение плоти прекращается со смертью); 9.36; 10.33.
+SVF I 134, 518; II 458, 716 (учение о пневматическом устройстве и теле как ὕλη). Марк предпочитает σαρκίον: *Med.* 2.2; 4.41; [[05-33]]; 6.13; [[06-28]] (πρὸς τὴν σάρκα λειτουργία — служение плоти прекращается со смертью); 9.36; [[10-08]] (ὑπέρφρων — «перенапряжение» мыслящей части поверх гладкого и шершавого движения σαρκός); [[10-24]] (προστετηκὸς καὶ ἀνακεκραμένον τῷ σαρκιδίῳ — правящее начало «слиплось» с плотцем и качается с ним в такт); 10.33.
 
 ## Source
 
-SVF I 134, 518; II 458, 716 (the doctrine of pneumatic constitution and of the body as ὕλη). Marcus prefers σαρκίον: *Med.* 2.2; 4.41; [[05-33]]; 6.13; [[06-28]] (πρὸς τὴν σάρκα λειτουργία — the service rendered to the flesh ceases at death); 9.36; 10.33.
+SVF I 134, 518; II 458, 716 (the doctrine of pneumatic constitution and of the body as ὕλη). Marcus prefers σαρκίον: *Med.* 2.2; 4.41; [[05-33]]; 6.13; [[06-28]] (πρὸς τὴν σάρκα λειτουργία — the service rendered to the flesh ceases at death); 9.36; [[10-08]] (ὑπέρφρων — the "stretching" of the thinking part above the smooth and the rough motion of the σάρξ); [[10-24]] (προστετηκὸς καὶ ἀνακεκραμένον τῷ σαρκιδίῳ — the ruling part "stuck fast" to the poor flesh and swinging in time with it); 10.33.
 
 ## Примечания
 

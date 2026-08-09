@@ -28,6 +28,7 @@ The logically cognate series in Marcus is "accept the nature of a thing as it is
 
 - *Med.* [[08-15]] — стыдно дивиться, что мир приносит своё (как смоковница — смоквы); врачу — лихорадке, кормчему — встречному ветру;
 - *Med.* [[08-50]] — горький огурец, тернии: прими природу вещи, не спрашивай «зачем»;
+- *Med.* [[10-08]] — положительный поворот образа: смоковница **есть** то, что делает дело смоковницы, собака — собаки, пчела — пчелы, человек — человека;
 - *Med.* [[05-17]] — искать невозможного — безумие; невозможно, чтобы дурные не делали дурного;
 - *Med.* 9.42 — невозможно, чтобы бесстыдных не было в мире; потому — не негодовать, а быть благосклоннее.
 
@@ -37,6 +38,7 @@ The logically cognate series in Marcus is "accept the nature of a thing as it is
 
 - *Med.* [[08-15]] — it is shameful to be surprised that the world brings forth its own (as the fig-tree its figs); the physician at a fever, the helmsman at a headwind;
 - *Med.* [[08-50]] — the bitter cucumber, the brambles: accept a thing's nature, do not ask "why";
+- *Med.* [[10-08]] — the positive turn of the image: a fig-tree **is** what does the work of a fig-tree, a dog of a dog, a bee of a bee, a man of a man;
 - *Med.* [[05-17]] — to seek the impossible is madness; it is impossible that the bad should not do such things;
 - *Med.* 9.42 — it is impossible that shameless men should not exist; therefore — not indignation but greater kindness.
 

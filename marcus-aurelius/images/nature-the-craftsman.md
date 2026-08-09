@@ -25,11 +25,13 @@ The ethical upshot: **this workshop has no waste**. Bitterness, brambles, decay,
 ## Источник
 
 - *Med.* [[08-50]] — **полный образ**: ропщущего «зачем в мире дурное» осмеёт φυσιολόγος, как плотника — за стружки; но у природы, в отличие от ремесленника, нет свалки — она перерабатывает тлен в себя и довольствуется своим. Здесь и метафора мастерской, и αὐτάρκεια.
+- *Med.* [[10-26]] — **мастерская под покровом**: человек оставил семя и ушёл, «другая причина, переняв, доводит до конца»; ту же силу надо видеть, как видим тяжесть, — не глазами, но не менее отчётливо.
 - *Med.* [[07-25]] — **экономика без метафоры**: правящая природа «из их сущности сделает другое, и снова другое из сущности тех, дабы вечно юным был мир» — то же замкнутое хозяйство (перерабатывает свою же материю, ничего извне), взятое со стороны результата: мир не стареет, потому что ничего не пропадает.
 
 ## Source
 
 - *Med.* [[08-50]] — the **full image**: the grumbler "why is there evil in the world" is laughed at by the φυσιολόγος, as a carpenter would be over his shavings; but nature, unlike the craftsman, has no dump — she recycles the rot into herself and is content with her own. Here are both the workshop metaphor and the αὐτάρκεια.
+- *Med.* [[10-26]] — **the workshop under a covering**: a man leaves seed and departs, and "another cause, taking it up, finishes it off"; that power is to be seen as we see weight — not with the eyes, yet no less plainly.
 - *Med.* [[07-25]] — the **economy without the metaphor**: the governing nature "out of their substance will make other things, and again others from theirs, that the world may be ever new" — the same enclosed household (recycling its own matter, nothing from without), taken from the side of the result: the world does not age because nothing is lost.
 
 ## Использование

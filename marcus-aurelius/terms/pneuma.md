@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-SVF I 134–144 (учение Зенона о пневме); II 439–462 (Хрисипп, четыре степени пневмы); II 773–800 (πνεῦμα как «тело души»); DL VII 156–157; LS 47, 53. У Марка: *Med.* 2.2; 4.41; 6.15; 9.2; 12.30.
+SVF I 134–144 (учение Зенона о пневме); II 439–462 (Хрисипп, четыре степени пневмы); II 773–800 (πνεῦμα как «тело души»); DL VII 156–157; LS 47, 53. У Марка: *Med.* 2.2; 4.41; 6.15; 9.2; [[09-36]] (πνευμάτιον — уменьшительное: и «дыханьице» есть «такое же», переходящее из этого в то); [[10-07]] (τὸ πνευματικόν обращается в воздушное и вбирается в λόγος Целого; и оно набрано из вдыхаемого воздуха «вчера и третьего дня»); 12.30.
 
 ## Source
 
-SVF I 134–144 (Zeno's doctrine of the *pneuma*); II 439–462 (Chrysippus on the four grades of *pneuma*); II 773–800 (*pneuma* as "the body of the soul"); DL VII 156–157; LS 47, 53. In Marcus: *Med.* 2.2; 4.41; 6.15; 9.2; 12.30.
+SVF I 134–144 (Zeno's doctrine of the *pneuma*); II 439–462 (Chrysippus on the four grades of *pneuma*); II 773–800 (*pneuma* as "the body of the soul"); DL VII 156–157; LS 47, 53. In Marcus: *Med.* 2.2; 4.41; 6.15; 9.2; [[09-36]] (πνευμάτιον, the diminutive: the "little breath" too is "another such thing", passing from this into that); [[10-07]] (τὸ πνευματικόν turns into the airy and is taken back into the λόγος of the Whole; and it was gathered from inhaled air "yesterday and the day before"); 12.30.
 
 ## Примечания
 

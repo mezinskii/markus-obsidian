@@ -33,7 +33,8 @@ The background is Heraclitean-Stoic: fire as the cosmic principle (the Stoic π�
 - *Med.* [[07-58]] — «употребишь хорошо, и станет тебе материалом (ὕλη)»: любое происшествие — сырьё для добродетельного акта;
 - *Med.* [[07-68]] — «наличное мне всегда ὕλη добродетели»: употребление говорит событию «тебя-то я и искал»;
 - *Med.* [[08-35]] — разумная душа обращает противящееся ей в собственный материал (как природа Целого — со всем сопротивляющимся);
-- *Med.* 10.33 — ум делает своим материалом то, что выпадает.
+- *Med.* [[10-31]] — вторая, более сжатая версия того же образа: τὸ λαμπρὸν πῦρ, «яркий огонь», из чего угодно брошенного делает φλόγα καὶ αὐγήν, пламя и свет; рядом парный образ крепкого желудка, который всё ἐξοικειοῖ, делает своим;
+- *Med.* [[10-33]] — ум делает своим материалом то, что выпадает.
 
 ## Source
 
@@ -44,7 +45,8 @@ The background is Heraclitean-Stoic: fire as the cosmic principle (the Stoic π�
 - *Med.* [[07-58]] — "you will use it well, and it will become material (ὕλη) for you": any occurrence is raw stuff for a virtuous act;
 - *Med.* [[07-68]] — "the present is always to me the ὕλη of virtue": the use says to the event "you are the thing I was seeking";
 - *Med.* [[08-35]] — the rational soul turns whatever opposes it into material for itself (as the nature of the Whole does with all that resists);
-- *Med.* 10.33 — the mind makes its own material of what befalls it.
+- *Med.* [[10-31]] — a second, more compressed version of the same image: τὸ λαμπρὸν πῦρ, "the bright fire," makes φλόγα καὶ αὐγήν, flame and radiance, out of whatever is thrown in; beside it the paired image of the strong stomach, which ἐξοικειοῖ, makes everything its own;
+- *Med.* [[10-33]] — the mind makes its own material of what befalls it.
 
 ## Использование
 

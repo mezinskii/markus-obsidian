@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-SVF I 184 (Зенонова формула τέλους); III 4–9 (Хрисипп, развитие); классическое определение — Stob. *Ecl.* II 77 W: «εὐδαιμονία δ' ἐστὶν εὔροια βίου». DL VII 88; Cic. *De fin.* III 26; LS 63. У Марка форма εὔρους βίος появляется именно в [[02-05]]; родственно — *Med.* [[05-09]]; [[05-34]]; 10.6 (поток природы); 12.27.
+SVF I 184 (Зенонова формула τέλους); III 4–9 (Хрисипп, развитие); классическое определение — Stob. *Ecl.* II 77 W: «εὐδαιμονία δ' ἐστὶν εὔροια βίου». DL VII 88; Cic. *De fin.* III 26; LS 63. У Марка форма εὔρους βίος появляется именно в [[02-05]]; родственно — *Med.* [[05-09]]; [[05-34]]; [[10-06]] (ἀνάγκη τὸν βίον εὐροεῖν — εὔροια выведена как **необходимое** следствие двух посылок, а не как надежда); 12.27.
 
 ## Source
 
-SVF I 184 (Zeno's τέλος-formula); III 4–9 (Chrysippus' development); the classical definition: Stob. *Ecl.* II 77 W: "εὐδαιμονία δ' ἐστὶν εὔροια βίου" ("happiness is the smooth flow of life"). DL VII 88; Cic. *De fin.* III 26; LS 63. The form εὔρους βίος appears in Marcus precisely at [[02-05]]; the cognate idea at *Med.* [[05-09]]; [[05-34]]; 10.6 (the flow of nature); 12.27.
+SVF I 184 (Zeno's τέλος-formula); III 4–9 (Chrysippus' development); the classical definition: Stob. *Ecl.* II 77 W: "εὐδαιμονία δ' ἐστὶν εὔροια βίου" ("happiness is the smooth flow of life"). DL VII 88; Cic. *De fin.* III 26; LS 63. The form εὔρους βίος appears in Marcus precisely at [[02-05]]; the cognate idea at *Med.* [[05-09]]; [[05-34]]; [[10-06]] (ἀνάγκη τὸν βίον εὐροεῖν — εὔροια derived as a **necessary** consequence of two premises, not as a hope); 12.27.
 
 ## Примечания
 

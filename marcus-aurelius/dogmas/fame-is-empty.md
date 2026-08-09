@@ -55,6 +55,15 @@ Marcus braces the thesis with several converging arguments:
 - [[02-17]] — посмертная слава есть забвение.
 - [[06-18]] — противоречие славолюбия: жаждут хвалы от потомков, которых сами не почтили бы.
 - [[03-10]] — краткость всякой памяти; живи только текущим.
+- [[10-08]] — δοξάριον («славишка») в одном ряду с движениями плоти и смертью: то, поверх чего натягивается ὑπέρφρων; и оговорка «не льнуть к тому, чтобы другие называли тебя этими именами».
+- [[10-10]] — паук горд мухой, а иной — сарматами: гордость добычей сводится к разбою, «если исследовать основоположения».
+- [[10-13]] — утренний вопрос: затронет ли тебя, если справедливое порицают? Те, кто «фыркает» в похвалах и порицаниях, — каковы они на ложе и за столом.
+- [[10-27]] — пять дворов подряд, и два из них свои: Адриан и Антонин рядом с Филиппом, Александром, Крезом — «только через других».
+- [[10-30]] — δοξάριον в перечне ложных благ, из-за которых сам погрешаешь.
+- [[10-19]] — два кадра встык: сперва едящие и спящие, потом важничающие и распекающие «с высоты»; спесь помещена между двумя рабствами — прежним и грядущим.
+- [[10-31]] — подстановка: увидев живого, представь давно умершего, а себя — «кого-либо из Цезарей»; «где они?» — «нигде или неведомо где»; отсюда: человеческое есть καπνὸς καὶ τὸ μηδέν, дым и ничто.
+- [[10-34]] — φυλλάρια трижды: листочки — и дети, и хвалящие «убедительно», и хулящие втайне, и «те, кто унаследует посмертную славу» (ὑστεροφημία); одно имя на все три разряда.
+- [[10-35]] — «пусть все хвалят, что бы я ни делал» поставлено рядом с «пусть дети останутся живы» без градации: обе просьбы суть глаз, ищущий зелёного.
 - За пределами оформленного корпуса — *Med.* 9.30 (взгляд сверху на мельтешение), 12.27, 12.36.
 
 ## Sources in tradition
@@ -77,6 +86,15 @@ Stoic axiology: "good repute" among the προηγμένα — DL VII 106; Stob.
 - [[02-17]] — posthumous fame is oblivion.
 - [[06-18]] — the contradiction of the fame-lover: they crave the praise of a posterity they would not themselves have honoured.
 - [[03-10]] — the brevity of all remembrance; live only the present.
+- [[10-08]] — the δοξάριον ("scrap of reputation") set beside the motions of the flesh and death, as that over which ὑπέρφρων is stretched; and the proviso not to hanker to be called by these names by others.
+- [[10-10]] — a spider is proud of a fly, another of Sarmatians: pride in the catch reduces to brigandage "if you examine the principles."
+- [[10-13]] — the morning question: will it touch you if what is just is blamed? Those who "snort" in their praise and blame — see what they are like in bed and at table.
+- [[10-27]] — five courts in a row, and two of them his own: Hadrian and Antoninus beside Philip, Alexander, Croesus — "only through others."
+- [[10-30]] — the δοξάριον among the false goods over which you yourself go wrong.
+- [[10-19]] — two frames butted together: first eating and sleeping, then lording it and rebuking "from their height"; the arrogance is set between two servitudes, the past one and the coming one.
+- [[10-31]] — the substitution: on seeing a living man, picture one long dead, and yourself as "one of the Caesars"; "where are they?" — "nowhere, or who knows where"; hence human things are καπνὸς καὶ τὸ μηδέν, smoke and nothing.
+- [[10-34]] — φυλλάρια three times over: little leaves are the children, the ones who acclaim "convincingly," the ones who blame in secret, and "those who will inherit the posthumous fame" (ὑστεροφημία); one name for all three ranks.
+- [[10-35]] — "let everyone praise whatever I do" is set beside "let my children be kept safe" without gradation: both requests are an eye seeking green things.
 - Beyond the formatted corpus — *Med.* 9.30 (the view from above on the swarming), 12.27, 12.36.
 
 ## Примечания

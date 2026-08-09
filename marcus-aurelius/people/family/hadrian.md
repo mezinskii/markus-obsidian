@@ -22,6 +22,7 @@ Publius Aelius Hadrianus (76–138) — Roman emperor from 117, successor of Tra
 - [[08-25]] — «Целер похоронил Адриана, затем и сам умер»: в перекличке смертных пар.
 - [[08-31]] — рядом с «двором Августа»: вымирание целых имперских домов.
 - [[08-37]] — гробница Адриана: тщета скорби у надгробий великих.
+- [[10-27]] — «весь двор Адриана» открывает ряд из пяти дворов; собственная династия поставлена в один ряд с Крезом.
 - [[04-33]] — имена, ещё недавно звучные, выходят из обихода: власть не спасает от забвения.
 - [[01-04]] — биографический фон (немилость Катилия Севра при Адриане в 138).
 - [[01-16]] — контекст правления Антонина, наследующего Адриану.
@@ -34,6 +35,7 @@ Hadrian appears in Marcus **not as kin but as a measure**: if even the recent al
 - [[08-25]] — "Celer buried Hadrian, then he too died": in the roll-call of mortal pairs.
 - [[08-31]] — beside "the court of Augustus": the dying-out of whole imperial houses.
 - [[08-37]] — Hadrian's tomb: the futility of mourning at the graves of the great.
+- [[10-27]] — "the whole court of Hadrian" opens a series of five courts; Marcus's own dynasty is set beside Croesus.
 - [[04-33]] — names once resonant fall out of use: power is no defence against oblivion.
 - [[01-04]] — biographical background (Catilius Severus's disgrace under Hadrian in 138).
 - [[01-16]] — the context of Antoninus's reign, succeeding Hadrian.
