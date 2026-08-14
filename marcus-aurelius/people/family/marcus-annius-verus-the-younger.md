@@ -8,8 +8,8 @@ dates_en: c. 90 – c. 124 CE
 birthplace_ru: Рим (предположительно)
 birthplace_en: Rome (presumably)
 school: 
-role_ru: отец Марка Аврелия; сын [[marcus-annius-verus|М. Анния Вера-старшего]]; римский сенатор, претор, умер в молодом возрасте, когда Марку было около трёх лет
-role_en: father of Marcus Aurelius; son of [[marcus-annius-verus|M. Annius Verus the elder]]; Roman senator, praetor, died young when Marcus was about three years old
+role_ru: отец Марка Аврелия; сын М. Анния Вера-старшего; римский сенатор, претор, умер в молодом возрасте, когда Марку было около трёх лет
+role_en: father of Marcus Aurelius; son of M. Annius Verus the elder; Roman senator, praetor, died young when Marcus was about three years old
 ---
 
 ## Биография

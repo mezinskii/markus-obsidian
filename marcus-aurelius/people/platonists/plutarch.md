@@ -8,8 +8,8 @@ dates_en: c. 45 — c. 125 CE
 birthplace_ru: Херонея в Беотии
 birthplace_en: Chaeronea in Boeotia
 school: Средняя Платоническая академия (т. н. Middle Platonism)
-role_ru: главная философско-литературная фигура греческой провинции эпохи Антонинов; платоник эклектического склада, биограф (*Параллельные жизнеописания*) и эссеист (*Моралии*); дядя [[sextus|Секста из Херонеи]] — одного из главных стоических учителей Marcus'a; для Marcus'a не учитель, но косвенный фон через Секста и через корпус *Моралий*, фигурирующий в параллелях к Книге I (особенно [[01-05]], [[01-06]], [[01-09]], [[01-14]])
-role_en: the principal philosophical-literary figure of the Greek province in the Antonine age; a Platonist of eclectic cast, biographer (*Parallel Lives*) and essayist (*Moralia*); uncle of [[sextus|Sextus of Chaeronea]], one of Marcus's chief Stoic teachers; not a teacher of Marcus himself, but an indirect background through Sextus and through the corpus of the *Moralia*, recurring in the parallels to Book I (especially [[01-05]], [[01-06]], [[01-09]], [[01-14]])
+role_ru: главная философско-литературная фигура греческой провинции эпохи Антонинов; платоник эклектического склада, биограф (*Параллельные жизнеописания*) и эссеист (*Моралии*); дядя Секста из Херонеи — одного из главных стоических учителей Marcus'a; для Marcus'a не учитель, но косвенный фон через Секста и через корпус *Моралий*, фигурирующий в параллелях к Книге I (особенно 01-05, 01-06, 01-09, 01-14)
+role_en: the principal philosophical-literary figure of the Greek province in the Antonine age; a Platonist of eclectic cast, biographer (*Parallel Lives*) and essayist (*Moralia*); uncle of Sextus of Chaeronea, one of Marcus's chief Stoic teachers; not a teacher of Marcus himself, but an indirect background through Sextus and through the corpus of the *Moralia*, recurring in the parallels to Book I (especially 01-05, 01-06, 01-09, 01-14)
 ---
 
 ## Биография

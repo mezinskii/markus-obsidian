@@ -5,8 +5,8 @@ greek_name: Σέξτος ὁ Χαιρωνεύς
 latin_name: Sextus Chaeronensis
 dates_ru: вторая четверть II в. н.э. — после 170/180 гг.; преподавал в Афинах и Риме, дожил до старости (Marcus как император продолжал ходить к нему на лекции)
 dates_en: second quarter of the 2nd century CE — after 170/180; taught at Athens and Rome, lived to old age (Marcus continued attending his lectures even as emperor)
-birthplace_ru: Херонея в Беотии (тот же город, что и [[plutarch|Плутарх]] — его дядя)
-birthplace_en: Chaeronea in Boeotia (the same town as [[plutarch|Plutarch]] — his uncle)
+birthplace_ru: Херонея в Беотии (тот же город, что и Плутарх — его дядя)
+birthplace_en: Chaeronea in Boeotia (the same town as Plutarch — his uncle)
 school: Стоя (с эклектичным включением Плутархова платоно-моралистического багажа через семейное окружение)
 role_ru: один из главных стоических учителей Marcus Aurelius'a; племянник Плутарха; продолжал преподавать Marcus'у уже когда тот был императором (Dio Cass. 71.1.2)
 role_en: one of the principal Stoic teachers of Marcus Aurelius; nephew of Plutarch; continued teaching Marcus when he was already emperor (Dio Cass. 71.1.2)

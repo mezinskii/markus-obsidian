@@ -7,7 +7,7 @@ dates_ru: первая половина II в. н.э.; даты неизвест
 dates_en: first half of the 2nd century CE; dates unknown
 birthplace_ru: неизвестно
 birthplace_en: unknown
-school: неизвестна (вероятно — философская, в круге [[diognetus|Диогнета]])
+school: неизвестна (вероятно — философская, в круге Диогнета)
 role_ru: третий из философских учителей Marcus Aurelius'a по перечню в Med. 1.6; преподавал ок. 132–133 гг.
 role_en: the third of Marcus Aurelius's philosophical teachers in the list at Med. 1.6; taught around 132–133 CE
 ---
