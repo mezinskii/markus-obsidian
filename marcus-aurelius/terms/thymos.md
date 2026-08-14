@@ -24,7 +24,7 @@ The Stoics **rejected** Plato's tripartite model of the soul: for them the soul 
 
 ## Источник определения
 
-Hom. *Il.* passim (гомеровский θυμός); Plat. *Resp.* IV 439e–441c (трёхчастное деление души); Aristot. *EN* VII; *Rhet.* II 2 (ὀργή); SVF III 394–397, 411–414 (стоическая классификация θυμός как вида ὀργή / ἐπιθυμία); DL VII 114; Stob. *Ecl.* II 91 W; LS 65. У Марка: *Med.* 2.10; [[07-38]] (θυμοῦσθαι на вещи не должно — им нет дела; стих Еврипида); 9.42; 11.18 (целая «терапия гнева» в девяти пунктах); 12.27.
+Hom. *Il.* passim (гомеровский θυμός); Plat. *Resp.* IV 439e–441c (трёхчастное деление души); Aristot. *EN* VII; *Rhet.* II 2 (ὀργή); SVF III 394–397, 411–414 (стоическая классификация θυμός как вида ὀργή / ἐπιθυμία); DL VII 114; Stob. *Ecl.* II 91 W; LS 65. У Марка: *Med.* 2.10; [[07-38]] (θυμοῦσθαι на вещи не должно — им нет дела; стих Еврипида); 9.42; [[11-18]] (целая «терапия гнева» в девяти пунктах, и переопределение мужества: οὐχὶ τὸ θυμοῦσθαι ἀνδρικόν — кротость названа ἀρρενικώτερον, «более мужской»); 12.27.
 
 ## Source
 
@@ -38,6 +38,6 @@ Hom. *Il. passim* (the Homeric θυμός); Plat. *Resp.* IV 439e–441c (the tr
 
 ## Notes
 
-In [[02-10]] Marcus works within a **Theophrastean** (not strictly Stoic) frame: ἐπιθυμία and θυμός are opposed as parallel categories, where in the pure Stoic taxonomy the second is subordinated to the first. This is typical of Marcus: he retains the Peripatetic distinction wherever it has diagnostic value, and does not insist on the Stoic systematisation when it would obscure a particular analysis.
+In [[02-10]] Marcus works within a **Theophrastean** (not strictly Stoic) frame: ἐπιθυμία and θυμός are opposed as parallel categories, where in the pure Stoic taxonomy the second is subordinated to the first. This is typical of Marcus: he retains the Peripatetic distinction wherever it has diagnostic value, and does not insist on the Stoic systematisation when it would obscure a particular analysis. See [[11-18]] — the whole nine-point "therapy of anger," with its redefinition of courage: οὐχὶ τὸ θυμοῦσθαι ἀνδρικόν, gentleness being called ἀρρενικώτερον, "more masculine."
 
 The Theophrastean logic: an offence born of θυμός involves grief ([[lype|λύπη]]) and is reactive (caused by a prior injustice); an offence born of [[epithymia|ἐπιθυμία]] involves pleasure ([[hedone|ἡδονή]]) and is initiated by the agent himself. The first is therefore closer to the ἀκούσιον (involuntary), the second to the ἑκούσιον (voluntary); the voluntary offence is graver. This Aristotelian distinction ἑκούσιον / ἀκούσιον, taken at a Theophrastean angle, gives Marcus an ethical scale. See *Med.* 11.18, where Marcus unfolds a therapy specifically directed against θυμός — in nine points, a separately focused text on the management of anger.

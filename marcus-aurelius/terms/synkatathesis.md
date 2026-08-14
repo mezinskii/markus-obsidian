@@ -54,7 +54,7 @@ The Stoic ideal is **never** to give assent to weak impressions. In Epictetus th
 
 ## Источник определения
 
-SVF I 60–61 (Зенон о συγκατάθεσις); II 53–70, 99–105 (Хрисипп — обширная разработка); II 870, 974 (роль συγκατάθεσις в формировании ὁρμή); DL VII 49–54; Stob. *Ecl.* II 88, 111 W; Cic. *Acad.* I 40–42, II 38 («ἐπέχειν» — воздержание от согласия); LS 39–41, 53. У Марка συγκατάθεσις как термин **встречается редко** (он не цитирует школьную терминологию строго), но концепт активно работает: *Med.* [[05-10]] (редкое явное употребление термина: «πᾶσα ἡ ἡμετέρα συγκατάθεσις μεταπτώτη»); [[05-27]]; 8.7; 8.49 («не прибавляй к тому, что говорит φαντασία, ничего от себя» — это и есть отказ от лишнего συγκατάθεσις); 11.3.
+SVF I 60–61 (Зенон о συγκατάθεσις); II 53–70, 99–105 (Хрисипп — обширная разработка); II 870, 974 (роль συγκατάθεσις в формировании ὁρμή); DL VII 49–54; Stob. *Ecl.* II 88, 111 W; Cic. *Acad.* I 40–42, II 38 («ἐπέχειν» — воздержание от согласия); LS 39–41, 53. У Марка συγκατάθεσις как термин **встречается редко** (он не цитирует школьную терминологию строго), но концепт активно работает: *Med.* [[05-10]] (редкое явное употребление термина: «πᾶσα ἡ ἡμετέρα συγκατάθεσις μεταπτώτη»); [[05-27]]; 8.7; 8.49 («не прибавляй к тому, что говорит φαντασία, ничего от себя» — это и есть отказ от лишнего συγκατάθεσις); [[11-37]] (эпиктетовское τέχνην δεῖ περὶ τὸ συγκατατίθεσθαι εὑρεῖν — «надлежит изобрести искусство» касательно согласия: у него должны быть правила, как у всякого ремесла); 11.3.
 
 ## Source
 
@@ -76,7 +76,7 @@ SVF I 60–61 (Zeno on συγκατάθεσις); II 53–70, 99–105 (Chrysipp
 
 ## Notes
 
-*Synkatathesis* is the **technical heart** of Stoic ethics. The famous formula «πᾶν [[hypolepsis|ὑπόληψις]]» of [[02-15]] reduces operationally to «πᾶν συγκατάθεσις»: everything that depends on me is the set of assents my ruling part gives. From Epictetus onward: "people are disturbed not by things, but by their **opinions about things**" (*Ench.* 5) — and opinions are formed through συγκατάθεσις.
+*Synkatathesis* is the **technical heart** of Stoic ethics. The famous formula «πᾶν [[hypolepsis|ὑπόληψις]]» of [[02-15]] reduces operationally to «πᾶν συγκατάθεσις»: everything that depends on me is the set of assents my ruling part gives. From Epictetus onward: "people are disturbed not by things, but by their **opinions about things**" (*Ench.* 5) — and opinions are formed through συγκατάθεσις. See also [[11-37]] (the Epictetan τέχνην δεῖ περὶ τὸ συγκατατίθεσθαι εὑρεῖν — "an art must be discovered" with respect to assent: it should have rules, as any craft has).
 
 Connection with **Hadot's three disciplines**:
 

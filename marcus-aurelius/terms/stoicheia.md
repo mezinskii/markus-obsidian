@@ -20,7 +20,7 @@ related_terms:
 
 ## Источник определения
 
-SVF II 413–425 (учение об элементах); II 580–632 (πνεῦμα как смесь активных элементов); DL VII 134–137; LS 47. Аристотелевский фон — *De gen. et corr.* II 2–4. У Марка: *Med.* 2.3; 2.17; [[04-46]] (круговорот стихий, цитата Гераклита); [[06-17]]; [[07-31]]; [[07-47]] (взаимопревращения στοιχείων как очищающее созерцание); [[07-50]] (рассеяние ἀπαθῶν στοιχείων — безобидно); [[08-18]] (умершее распадается на στοιχεῖα мира и твои — и они не ропщут); [[10-07]] (σκεδασμὸς στοιχείων — либо рассеяние элементов, либо превращение плотного в землистое, дыхательного в воздушное); 12.30.
+SVF II 413–425 (учение об элементах); II 580–632 (πνεῦμα как смесь активных элементов); DL VII 134–137; LS 47. Аристотелевский фон — *De gen. et corr.* II 2–4. У Марка: *Med.* 2.3; 2.17; [[04-46]] (круговорот стихий, цитата Гераклита); [[06-17]]; [[07-31]]; [[07-47]] (взаимопревращения στοιχείων как очищающее созерцание); [[07-50]] (рассеяние ἀπαθῶν στοιχείων — безобидно); [[08-18]] (умершее распадается на στοιχεῖα мира и твои — и они не ропщут); [[10-07]] (σκεδασμὸς στοιχείων — либо рассеяние элементов, либо превращение плотного в землистое, дыхательного в воздушное); [[11-20]] (στοιχεῖα «поставлены в строй насильно» и держатся, пока оттуда же не подадут ἐνδόσιμον к роспуску — военный образ, подводящий к тому, что недовольство есть дезертирство); 12.30.
 
 ## Source
 
@@ -32,4 +32,4 @@ SVF II 413–425 (the doctrine of the elements); II 580–632 (*pneuma* as a mix
 
 ## Notes
 
-In [[02-03]] *stoicheia* appear in the physical argument for the preservation of the cosmos: "just as the changes of the [[metabole|elements]] preserve the cosmos, so too do the changes of composite bodies." The logic: what looks like destruction at the level of a particular thing (συγκρίμα — a compound body) is, at the level of the whole, a necessary link in its self-reproduction. The ethical inference: the death of an individual is not a "loss" for the nature of the whole, but the whole's own normal mode of being. See [[metabole]] (the doctrine of transformation) and [[unity-of-cosmos]] (the ontological whole).
+In [[02-03]] *stoicheia* appear in the physical argument for the preservation of the cosmos: "just as the changes of the [[metabole|elements]] preserve the cosmos, so too do the changes of composite bodies." The logic: what looks like destruction at the level of a particular thing (συγκρίμα — a compound body) is, at the level of the whole, a necessary link in its self-reproduction. The ethical inference: the death of an individual is not a "loss" for the nature of the whole, but the whole's own normal mode of being. See [[metabole]] (the doctrine of transformation) and [[unity-of-cosmos]] (the ontological whole). See also [[11-20]] (the στοιχεῖα are "posted under constraint" and hold until the ἐνδόσιμον for dismissal is sounded from that same quarter — a military image leading to the point that discontent is desertion).

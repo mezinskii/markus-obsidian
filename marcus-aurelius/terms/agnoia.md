@@ -21,7 +21,7 @@ Ignorance — not knowing what is [[agathon|good]] and what is [[kakon|evil]]. F
 
 ## Источник определения
 
-SVF III 256, 262 (Хрисипп о πάθη как κρίσεις); DL VII 93; Cic. *Tusc.* IV 11–14. Сократический фон: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. У Марка: *Med.* 2.1; 4.3; [[05-18]] (грешащий — либо в неведении (ἀγνοῶν), либо напоказ); [[06-21]]; [[06-22]]; [[07-22]] (грешат δι’ ἄγνοιαν и против воли — потому их любить); [[07-66]] (Сократ не рабствовал чьему-либо ἀγνοίᾳ); 11.18.
+SVF III 256, 262 (Хрисипп о πάθη как κρίσεις); DL VII 93; Cic. *Tusc.* IV 11–14. Сократический фон: Plat. *Prot.* 357d–358d; *Meno* 77b–78b. У Марка: *Med.* 2.1; 4.3; [[05-18]] (грешащий — либо в неведении (ἀγνοῶν), либо напоказ); [[06-21]]; [[06-22]]; [[07-22]] (грешат δι’ ἄγνοιαν и против воли — потому их любить); [[07-66]] (Сократ не рабствовал чьему-либо ἀγνοίᾳ); [[11-18]] (третий пункт: ἄκοντες καὶ ἀγνοοῦντες, подпёртый доводом от нежелания — ἄχθονται ἀκούοντες ἄδικοι, «им досадно слышать, что они несправедливы»).
 
 ## Source
 
@@ -33,4 +33,4 @@ SVF III 256, 262 (Chrysippus on πάθη as κρίσεις, "judgments"); DL VII
 
 ## Notes
 
-The famous formula of passage [[02-01]]: "all this has happened to them through ignorance of good and evil" (παρὰ τὴν ἄγνοιαν τῶν ἀγαθῶν καὶ κακῶν). The therapeutic move follows from this diagnosis — not anger but compassion: the one who does harm harms himself first, because he is ignorant of the true scale of values. Compare *Med.* 7.22: "it is proper to a human being to love even those who err."
+The famous formula of passage [[02-01]]: "all this has happened to them through ignorance of good and evil" (παρὰ τὴν ἄγνοιαν τῶν ἀγαθῶν καὶ κακῶν). The therapeutic move follows from this diagnosis — not anger but compassion: the one who does harm harms himself first, because he is ignorant of the true scale of values. Compare *Med.* 7.22: "it is proper to a human being to love even those who err." See also [[11-18]] (the third chapter: ἄκοντες καὶ ἀγνοοῦντες, propped by an argument from unwillingness — ἄχθονται ἀκούοντες ἄδικοι, "they are pained to hear themselves called unjust").

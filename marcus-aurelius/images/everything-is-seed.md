@@ -27,6 +27,7 @@ The image adjoins the Stoic doctrine of the **seminal reason** ([[logos|λόγο
 *Med.* 4.36 — образ в чистом виде. Когнатный ряд «возврата в порождающее начало и нового рождения»:
 
 - [[04-14]] — возврат в семенной разум (λόγος σπερματικός) Целого;
+- [[11-35]] — ὄμφαξ, σταφυλή, σταφίς: одна лоза в трёх состояниях, и переходы «не в несущее, а в **теперь** не-сущее»;
 - [[04-21]] — души, вбираемые в семенной разум Целого (тела же претворяются, освобождая место);
 - *Med.* 6.24 — Александр и его конюх приняты в одни и те же семенные начала;
 - *Med.* 7.23 — природа лепит из одной материи коня, затем дерево, затем человека;
@@ -52,4 +53,4 @@ The image adjoins the Stoic doctrine of the **seminal reason** ([[logos|λόγο
 
 ## Usage
 
-In [[04-36]] the image serves the [[contemplation-of-nature|contemplation of nature]] and the discipline of desire: seeing every thing as a seed, the practitioner is reconciled to change and death (death = becoming the seed of the new, nothing is lost — cf. [[metabole]], [[amor-fati]]). Logically it is the **generative** counterpart to the images of "return into the Whole" ([[04-14]], [[04-21]]): those stress the return into the elements and the reason of the world, this the answering **productivity** (every end is a beginning). A secondary move is the correction of a narrow judgement: "seed" is not only the literal kind, and whoever thinks otherwise is ἰδιωτικός (untaught).
+In [[04-36]] the image serves the [[contemplation-of-nature|contemplation of nature]] and the discipline of desire: seeing every thing as a seed, the practitioner is reconciled to change and death (death = becoming the seed of the new, nothing is lost — cf. [[metabole]], [[amor-fati]]). Logically it is the **generative** counterpart to the images of "return into the Whole" ([[04-14]], [[04-21]]): those stress the return into the elements and the reason of the world, this the answering **productivity** (every end is a beginning). A secondary move is the correction of a narrow judgement: "seed" is not only the literal kind, and whoever thinks otherwise is ἰδιωτικός (untaught). Cf. [[11-35]] (ὄμφαξ, σταφυλή, σταφίς — one vine in three states, and the changes are "not into what is not, but into what is **not yet**").

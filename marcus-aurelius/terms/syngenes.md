@@ -21,11 +21,11 @@ The adjective "kindred / akin," designating shared participation in a common nat
 
 ## Источник определения
 
-SVF III 333–339 (учение о космополисе); Cic. *De fin.* III 62–68; Sen. *Ep.* 95.52; Epict. *Disc.* 1.13.3–4; 1.9.1–6. У Марка: *Med.* 2.1; 3.4; [[07-13]] (член системы разумных — родство как со-членство); [[07-22]] (συγγενεῖς — заблуждающиеся сродни тебе, потому их и любить); [[09-09]] (πρὸς τὸ ὁμογενές/συγγενές σπεύδει — всё стремится к родственному; человек не может быть отсечён от человека); [[09-22]] (ἡγεμονικόν ближнего συγγενές — родство как основание кротости, а не гнева); 10.6.
+SVF III 333–339 (учение о космополисе); Cic. *De fin.* III 62–68; Sen. *Ep.* 95.52; Epict. *Disc.* 1.13.3–4; 1.9.1–6. У Марка: *Med.* 2.1; 3.4; [[07-13]] (член системы разумных — родство как со-членство); [[07-22]] (συγγενεῖς — заблуждающиеся сродни тебе, потому их и любить); [[09-09]] (πρὸς τὸ ὁμογενές/συγγενές σπεύδει — всё стремится к родственному; человек не может быть отсечён от человека); [[09-22]] (ἡγεμονικόν ближнего συγγενές — родство как основание кротости, а не гнева); [[11-09]] (ἀλλοτριωθεὶς πρὸς τὸν φύσει συγγενῆ καὶ φίλον — обозлившийся на мешающего назван дезертиром наравне с бежавшим от страха: родство сохраняется и в конфликте); 10.6.
 
 ## Source
 
-SVF III 333–339 (the doctrine of the cosmopolis); Cic. *De fin.* III 62–68; Sen. *Ep.* 95.52; Epict. *Disc.* 1.13.3–4; 1.9.1–6. In Marcus: *Med.* 2.1; 3.4; [[07-13]] (a member of the system of rational beings — kinship as co-membership); [[07-22]] (συγγενεῖς — those who stumble are your kin, hence to be loved); [[09-09]] (πρὸς τὸ ὁμογενές/συγγενές σπεύδει — all strives toward the akin; a human cannot be severed from a human); [[09-22]] (the neighbour's ἡγεμονικόν is συγγενές — kinship as the ground of gentleness, not anger); 10.6.
+SVF III 333–339 (the doctrine of the cosmopolis); Cic. *De fin.* III 62–68; Sen. *Ep.* 95.52; Epict. *Disc.* 1.13.3–4; 1.9.1–6. In Marcus: *Med.* 2.1; 3.4; [[07-13]] (a member of the system of rational beings — kinship as co-membership); [[07-22]] (συγγενεῖς — those who stumble are your kin, hence to be loved); [[09-09]] (πρὸς τὸ ὁμογενές/συγγενές σπεύδει — all strives toward the akin; a human cannot be severed from a human); [[09-22]] (the neighbour's ἡγεμονικόν is συγγενές — kinship as the ground of gentleness, not anger); [[11-09]] (ἀλλοτριωθεὶς πρὸς τὸν φύσει συγγενῆ καὶ φίλον — the man embittered at an obstructor is called a deserter on a par with the man who fled in fear: kinship survives the conflict); 10.6.
 
 ## Примечания
 

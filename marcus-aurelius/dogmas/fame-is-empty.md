@@ -64,6 +64,10 @@ Marcus braces the thesis with several converging arguments:
 - [[10-31]] — подстановка: увидев живого, представь давно умершего, а себя — «кого-либо из Цезарей»; «где они?» — «нигде или неведомо где»; отсюда: человеческое есть καπνὸς καὶ τὸ μηδέν, дым и ничто.
 - [[10-34]] — φυλλάρια трижды: листочки — и дети, и хвалящие «убедительно», и хулящие втайне, и «те, кто унаследует посмертную славу» (ὑστεροφημία); одно имя на все три разряда.
 - [[10-35]] — «пусть все хвалят, что бы я ни делал» поставлено рядом с «пусть дети останутся живы» без градации: обе просьбы суть глаз, ищущий зелёного.
+- [[11-14]] — четырёхкратное ἀλλήλων: презирающие друг друга **угодничают** друг перед другом (ἀρεσκεύονται), а желающие превзойти — **подкладываются** ниже (ὑποκατακλίνονται); не два разряда людей, а одни и те же в двух движениях сразу.
+- [[11-23]] — Сократово речение: τὰ τῶν πολλῶν δόγματα суть **Λαμίαι**, детские страшилки; страх перед мнением большинства назван не пороком, а остатком детской оптики.
+- [[11-28]] — Сократ в овчине: стыдно не ему, а **спутникам**, которые «застыдились и отошли»; проверяется не его невозмутимость, а их способность остаться рядом.
+- [[11-32]] — гесиодова строка, взятая как заготовка: добродетель будут хулить, «лопоча тяжкими словами» (βάζοντες), — брань как шум, а не как суд.
 - За пределами оформленного корпуса — *Med.* 9.30 (взгляд сверху на мельтешение), 12.27, 12.36.
 
 ## Sources in tradition
@@ -95,6 +99,10 @@ Stoic axiology: "good repute" among the προηγμένα — DL VII 106; Stob.
 - [[10-31]] — the substitution: on seeing a living man, picture one long dead, and yourself as "one of the Caesars"; "where are they?" — "nowhere, or who knows where"; hence human things are καπνὸς καὶ τὸ μηδέν, smoke and nothing.
 - [[10-34]] — φυλλάρια three times over: little leaves are the children, the ones who acclaim "convincingly," the ones who blame in secret, and "those who will inherit the posthumous fame" (ὑστεροφημία); one name for all three ranks.
 - [[10-35]] — "let everyone praise whatever I do" is set beside "let my children be kept safe" without gradation: both requests are an eye seeking green things.
+- [[11-14]] — a fourfold ἀλλήλων: those who despise one another **fawn** on one another (ἀρεσκεύονται), and those who want to get above one another **lay themselves lower** (ὑποκατακλίνονται); not two classes of men but the same men in two movements at once.
+- [[11-23]] — the Socratic saying: τὰ τῶν πολλῶν δόγματα are **Λαμίαι**, bogeys for children; fear of the opinion of the many is named not a vice but a residue of a child’s optics.
+- [[11-28]] — Socrates in the sheepskin: it is not he who is ashamed but **his companions**, who "were ashamed and withdrew"; what is tested is not his composure but their ability to stay beside him.
+- [[11-32]] — the Hesiodic line kept ready: they will revile virtue "prating with hard words" (βάζοντες) — abuse as noise rather than as a verdict.
 - Beyond the formatted corpus — *Med.* 9.30 (the view from above on the swarming), 12.27, 12.36.
 
 ## Примечания

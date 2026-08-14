@@ -27,14 +27,14 @@ Applied to the mind, the image carries a double sense. **Invulnerability**: noth
 
 *Med.* [[08-41]] — цитата Эмпедокла: правящего начала «ничто не касается — ни огонь, ни железо, ни тиран, ни хула, — когда оно станет σφαῖρος κυκλοτερὴς μονίῃ» («шаром совершенно круглым, покоящимся»); образ обосновывает неуязвимость ума.
 
-- *Med.* 11.12 — развёрнутый двойник: душа обретает «форму шара» (σφαῖρα εὐκύκλου), когда «не тянется ни к чему вовне и не сжимается внутрь, не рассыпается и не оседает, но светится светом (ἐκλάμπει), которым видит истину всех вещей».
+- *Med.* 11.12 — развёрнутый двойник: душа обретает «форму шара» (σφαῖρα εὐκύκλου), когда «не тянется ни к чему вовне и не сжимается внутрь, не рассыпается и не оседает, но светится светом (ἐκλάμπει), которым видит истину всех вещей» — [[11-12]]. Стоит отметить, что в 11.12 у фразы **нет главного глагола**: это назывная формула, и порча шара расписана по четырём отдельным деформациям (растянуться наружу, сбежаться внутрь, рассыпаться, осесть), а единственное положительное сказуемое — φωτὶ λάμπηται.
 - Философский фон: Парменид fr. 8 (бытие как εὐκύκλου σφαίρης); Эмпедокл fr. 27–28 DK (Σφαῖρος); Платон *Тимей* 33b (шарообразность и самодостаточность космоса).
 
 ## Source
 
 *Med.* [[08-41]] — the Empedocles quotation: nothing "touches" the ruling part — "not fire, iron, tyrant, or slander — when it has become σφαῖρος κυκλοτερὴς μονίῃ" ("a sphere rounded and at rest"); the image grounds the mind's invulnerability.
 
-- *Med.* 11.12 — the developed twin: the soul takes on "the form of a sphere" (σφαῖρα εὐκύκλου) when it "neither reaches out toward anything outside nor contracts inward, is neither scattered nor settles, but shines with the light (ἐκλάμπει) by which it sees the truth of all things."
+- *Med.* 11.12 — the developed twin: the soul takes on "the form of a sphere" (σφαῖρα εὐκύκλου) when it "neither reaches out toward anything outside nor contracts inward, is neither scattered nor settles, but shines with the light (ἐκλάμπει) by which it sees the truth of all things" — [[11-12]]. Note that in 11.12 the phrase has **no main verb**: it is a nominal formula, and the spoiling of the sphere is set out as four distinct deformations (stretched outward, run together inward, scattered, settled), while the one positive predicate is φωτὶ λάμπηται.
 - The philosophical background: Parmenides fr. 8 (Being as εὐκύκλου σφαίρης); Empedocles fr. 27–28 DK (the Sphairos); Plato *Timaeus* 33b (the sphericity and self-sufficiency of the cosmos).
 
 ## Использование

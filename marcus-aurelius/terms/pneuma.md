@@ -20,7 +20,7 @@ related_terms:
 
 ## Источник определения
 
-SVF I 134–144 (учение Зенона о пневме); II 439–462 (Хрисипп, четыре степени пневмы); II 773–800 (πνεῦμα как «тело души»); DL VII 156–157; LS 47, 53. У Марка: *Med.* 2.2; 4.41; 6.15; 9.2; [[09-36]] (πνευμάτιον — уменьшительное: и «дыханьице» есть «такое же», переходящее из этого в то); [[10-07]] (τὸ πνευματικόν обращается в воздушное и вбирается в λόγος Целого; и оно набрано из вдыхаемого воздуха «вчера и третьего дня»); 12.30.
+SVF I 134–144 (учение Зенона о пневме); II 439–462 (Хрисипп, четыре степени пневмы); II 773–800 (πνεῦμα как «тело души»); DL VII 156–157; LS 47, 53. У Марка: *Med.* 2.2; 4.41; 6.15; 9.2; [[09-36]] (πνευμάτιον — уменьшительное: и «дыханьице» есть «такое же», переходящее из этого в то); [[10-07]] (τὸ πνευματικόν обращается в воздушное и вбирается в λόγος Целого; и оно набрано из вдыхаемого воздуха «вчера и третьего дня»); [[11-20]] (πνευμάτιον и огневидное по природе стремятся вверх, но удерживаются в составе — довод a fortiori: стихии терпят чужое место, а разумная часть не хочет своего); 12.30.
 
 ## Source
 
@@ -32,4 +32,4 @@ SVF I 134–144 (Zeno's doctrine of the *pneuma*); II 439–462 (Chrysippus on t
 
 ## Notes
 
-In [[02-02]] Marcus uses precisely the diminutive πνευμάτιον ("little breath") and immediately reduces it to bare physics: "a breath that does not stay self-identical, exhaled and inhaled again hour by hour." This is not a denial of the Stoic doctrine of higher *pneuma* as rational — it is the inverse, ascetic move: so long as attention dwells on breath as a biological process, breath is stripped down to mere matter; the "I" proper is the [[hegemonikon|ruling part]], the third and only significant component. See [[unity-of-cosmos]] (*pneuma* as cosmic bond) and [[definitio]] (the exercise of the "stripped-down view").
+In [[02-02]] Marcus uses precisely the diminutive πνευμάτιον ("little breath") and immediately reduces it to bare physics: "a breath that does not stay self-identical, exhaled and inhaled again hour by hour." This is not a denial of the Stoic doctrine of higher *pneuma* as rational — it is the inverse, ascetic move: so long as attention dwells on breath as a biological process, breath is stripped down to mere matter; the "I" proper is the [[hegemonikon|ruling part]], the third and only significant component. See [[unity-of-cosmos]] (*pneuma* as cosmic bond) and [[definitio]] (the exercise of the "stripped-down view"). See also [[11-20]] (the πνευμάτιον and the fiery tend upward by nature yet are held in the compound — an a fortiori argument: the elements endure a station not their own, while the rational part will not endure its own).

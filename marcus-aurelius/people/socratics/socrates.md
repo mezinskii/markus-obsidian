@@ -63,7 +63,10 @@ Strikingly, the **disjunction on death** in [[03-03]] (either another life or in
 - [[07-66]] — развёрнутое размышление: внешние подвиги Сократа (славная смерть, диспуты, ночь на морозе, отказ арестовать Льва, гордая походка) недостаточны; мера — какую он имел ψυχή (справедлив к людям, благочестив к богам, не раб чужому неведению).
 - [[07-19]] — «сколько Сократов поглотила уже вечность»: имя во множественном числе, в перекличке величайших рядом с Хрисиппом и Эпиктетом; 7.66 — подлинное величие Сократа (анекдот из Ксенофонта о его выносливости и самообладании).
 - [[08-03]] — Сократ, Диоген, Гераклит противопоставлены Александру, Цезарю, Помпею: мудрецы против завоевателей.
-- *Med.* 11.23, 11.25, 11.28 — сократические анекдоты и изречения.
+- [[11-23]] — Сократ называл мнения большинства **ламиями**, детскими страшилками.
+- [[11-25]] — ответ Пердикке о том, почему он не едет к нему: «чтобы не погибнуть наихудшей гибелью», то есть не оказаться облагодетельствованным без возможности отблагодарить.
+- [[11-28]] — Сократ, подпоясавшийся овчиной, когда Ксантиппа ушла, взяв его плащ; Марк отмечает не его выдержку, а то, что спутники «застыдились и отошли», и **самой реплики не приводит**.
+- [[11-39]] — допрос в четыре хода, которым **кончается Книга XI**: души разумных или неразумных, здоровых или негодных, «что же вы не ищете?» — «имеем» — «что же вы деретесь и ссоритесь?».
 
 ## Mentions in Marcus
 
@@ -74,7 +77,10 @@ Strikingly, the **disjunction on death** in [[03-03]] (either another life or in
 - [[07-66]] — an extended reflection: Socrates' outward feats (the noble death, the disputes, the night in the frost, the refusal to arrest Leon, the swaggering gait) are insufficient; the measure is what ψυχή he had (just toward men, pious toward the gods, no slave to another's ignorance).
 - [[07-19]] — "how many Socrateses has eternity already swallowed": the name in the plural, in the roll-call of the greatest beside Chrysippus and Epictetus; 7.66 — the true greatness of Socrates (the anecdote from Xenophon on his endurance and self-command).
 - [[08-03]] — Socrates, Diogenes, Heraclitus set against Alexander, Caesar, Pompey: the sages against the conquerors.
-- *Med.* 11.23, 11.25, 11.28 — Socratic anecdotes and sayings.
+- [[11-23]] — Socrates used to call the opinions of the many **Lamiae**, bogeys for frightening children.
+- [[11-25]] — the reply to Perdiccas on why he would not come to him: "that I may not perish by the worst destruction," that is, be well treated without the means of returning the favour.
+- [[11-28]] — Socrates girt with a sheepskin after Xanthippe had gone out with his cloak; Marcus notes not his nerve but that his companions "were ashamed and withdrew," and **does not give the line itself**.
+- [[11-39]] — the cross-examination in four moves with which **Book XI ends**: souls rational or irrational, sound or worthless, "why then do you not seek them?" — "because we have them" — "why then do you fight and quarrel?"
 
 ## Источники
 

@@ -37,6 +37,8 @@ role_en: The foremost Stoic teacher of the imperial age. He wrote nothing himsel
 Эпиктет — **единственный философ-стоик, которого Marcus цитирует по имени** (а не просто использует). Влияние двоякое:
 
 - **Прямое знакомство через [[junius-rusticus|Рустика]].** В [[01-07]] Marcus благодарит Рустика за то, что тот дал ему прочесть «записки Эпиктета» из собственной библиотеки. То есть стоицизм Marcus'a — в значительной мере эпиктетовский, опосредованный Рустиком.
+
+**Сплошной эпиктетовский ряд в конце Книги XI** ([[11-33]]–[[11-39]]) — самое плотное присутствие Эпиктета в корпусе, и назван он там трижды, тремя разными способами: [[11-34]] — ἔλεγεν ὁ Ἐπίκτητος, «говорил Эпиктет» (с рассказом о поцелуе ребёнка); [[11-36]] — τὸ τοῦ Ἐπικτήτου, «Эпиктетово», как ярлык на цитате; [[11-37]] и [[11-38]] — только ἔφη, «сказал», без имени, которое переносится из предыдущих.
 - **Прямые цитаты.** [[04-41]] — «ψυχάριον εἶ βαστάζον νεκρόν» («душонка, влачащая труп»). В Книге XI — целая подборка эпиктетовских выдержек (*Med.* 11.33–38), часть названа по имени.
 - **Каркас.** Невидимо, но всюду: дихотомия подвластного/неподвластного и три дисциплины — эпиктетовские по происхождению.
 
@@ -61,6 +63,8 @@ Epictetus is the **only Stoic philosopher Marcus quotes by name** (rather than m
 - [[01-07]] — Rusticus gave Marcus "the memoirs of Epictetus" to read (the chief channel of influence).
 - [[04-41]] — a direct quotation: "a little soul carrying a corpse."
 - [[07-19]] — "how many Epictetuses has eternity already swallowed": the name in the plural, in the roll-call of the greatest beside Chrysippus and Socrates.
+
+**The unbroken Epictetan run at the end of Book XI** ([[11-33]]–[[11-39]]) is the densest presence of Epictetus in the corpus, and he is named there three times, in three different ways: [[11-34]] — ἔλεγεν ὁ Ἐπίκτητος, "Epictetus used to say" (with the story of kissing the child); [[11-36]] — τὸ τοῦ Ἐπικτήτου, "Epictetus’s," as a label on the quotation; [[11-37]] and [[11-38]] — only ἔφη, "he said," the name carried over from what precedes.
 - *Med.* 11.33–38 — a set of Epictetan excerpts (several naming Epictetus).
 - Indirectly — wherever the dichotomy of τὰ ἐφ' ἡμῖν / οὐκ ἐφ' ἡμῖν and the three disciplines are at work.
 

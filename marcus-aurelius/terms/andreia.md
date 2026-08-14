@@ -29,8 +29,8 @@ SVF III 262 sqq., 264–265 (учение о четырёх добродетел
 
 ## Source
 
-SVF III 262 ff., 264–265 (the doctrine of the four virtues and their species); DL VII 92–93 (the definitions of the cardinal virtues); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. The Platonic background: *Resp.* IV 429a–430c (ἀνδρεία as the preservation of a correct opinion about what is to be feared); *Lach.* 194e–199e. In Marcus, in the lists of the cardinal virtues: *Med.* 3.6; [[05-12]].
+SVF III 262 ff., 264–265 (the doctrine of the four virtues and their species); DL VII 92–93 (the definitions of the cardinal virtues); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. The Platonic background: *Resp.* IV 429a–430c (ἀνδρεία as the preservation of a correct opinion about what is to be feared); *Lach.* 194e–199e. In Marcus, in the lists of the cardinal virtues: *Med.* 3.6; [[05-12]]. [[11-18]] stands apart: there ἀνδρεία, along with ἰσχύς and νεῦρα, is assigned to the **gentle** man rather than to the angry one, and gentleness is called ἀρρενικώτερον — "more masculine" than rage.
 
 ## Примечания
 
-В [[05-12]] ἀνδρεία замыкает перечень «истинно благого» (φρόνησις, σωφροσύνη, δικαιοσύνη, ἀνδρεία) — благ, к которым не пристаёт грубая комическая присказка о богатстве. Как знание о том, что́ действительно грозно, ἀνδρεία прямо снимает страх перед внешним, которое толпа принимает то за зло, то за благо.
+В [[05-12]] ἀνδρεία замыкает перечень «истинно благого» (φρόνησις, σωφροσύνη, δικαιοσύνη, ἀνδρεία) — благ, к которым не пристаёт грубая комическая присказка о богатстве. Как знание о том, что́ действительно грозно, ἀνδρεία прямо снимает страх перед внешним, которое толпа принимает то за зло, то за благо. Отдельно стоит [[11-18]]: там ἀνδρεία вместе с ἰσχύς и νεῦρα отдана **кроткому**, а не гневающемуся, и кротость названа ἀρρενικώτερον — «более мужской», чем ярость.

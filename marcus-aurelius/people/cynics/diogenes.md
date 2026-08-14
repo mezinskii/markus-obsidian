@@ -51,12 +51,14 @@ The line of succession **Diogenes → Crates → Zeno** makes Cynicism a direct 
 ## Упоминания у Марка
 
 - [[08-03]] — в триаде истинных мудрецов **Диоген, Гераклит, Сократ**, противопоставленных завоевателям (Александр, Гай, Помпей): они «прозревали вещи, их причины и материю», и руководящее начало их было верно себе.
+- **Назван в тексте** в [[11-06]]: в очерке истории драмы древняя комедия наделена παιδαγωγικὴ παρρησία и пользой для ἀτυφίας, «для чего и Диоген кое-что у неё перенял» (παρελάμβανε) — единственное место, где Марк отмечает долг киника перед литературным жанром.
 - Кинико-стоическая **автаркия** — фон [[04-13]] (философия без хитона, книги, хлеба) и [[04-30]] (философ без средств); Диоген как образец назван в комментариях к обоим.
 
 ## Mentions in Marcus
 
 - [[08-03]] — in the triad of true sages **Diogenes, Heraclitus, Socrates**, set against the conquerors (Alexander, Gaius, Pompey): they "saw into things, their causes and their matter," and their ruling faculty was true to itself.
 - Cynic-Stoic **autarkeia** — the background of [[04-13]] (philosophy without tunic, book, or bread) and [[04-30]] (the philosopher without means); Diogenes is named as the exemplar in the commentary to both.
+- **Named in the text** at [[11-06]]: in the sketch of the history of drama, the old comedy is credited with παιδαγωγικὴ παρρησία and with usefulness toward ἀτυφία, "and for that purpose Diogenes too took things over from it" (παρελάμβανε) — the one place where Marcus records a debt of the Cynic to a literary genre.
 
 ## Источники и свидетельства
 

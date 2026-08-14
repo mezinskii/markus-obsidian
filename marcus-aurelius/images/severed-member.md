@@ -25,7 +25,7 @@ But the image is turned into consolation. A real severed hand is dead and will n
 
 ## Источник
 
-*Med.* [[08-34]] — образ в чистом виде: отрубленная рука/нога/голава; кто не приемлет происходящего или поступает противообщественно, делает себя таким; но «изящно» (κομψόν) то, что человек может вновь ἑνῶσαι себя — привилегия, данная лишь ему.
+*Med.* [[08-34]] — образ в чистом виде: отрубленная рука/нога/голава; кто не приемлет происходящего или поступает противообщественно, делает себя таким; но «изящно» (κομψόν) то, что человек может вновь ἑνῶσαι себя — привилегия, данная лишь ему. Развёрнутый ботанический вариант того же — [[11-08]]: не ампутация, а **ветвь** (κλάδος), и вместе с образом появляется прививка: ветвь отсекает другой, человек отсекает себя сам (μισήσας καὶ ἀποστραφείς), и потому может прирасти обратно — но привитое не тождественно выросшему вместе: Ὁμοθαμνεῖν μέν, μὴ ὁμοδογματεῖν δέ.
 
 - *Med.* 11.8 — развёрнутый двойник: **отрубленная ветвь**. Ветвь отсекает *другой*, а человек отсекает себя *сам* — ненавистью и отвращением к ближнему; но и здесь бог дал вернуться и прирасти к тому, от чего отпал (чего нет у ветви, отрезанной чужой рукой).
 - Ср. *Med.* 2.16 — иной образ того же само-отделения: недовольный происходящим делается **[[abscess-on-cosmos|нарывом на космосе]]** (ἀπόστημα). Там метафора — опухоль, здесь — ампутация; общий тезис: роптать = отделять себя от природы.
@@ -34,7 +34,7 @@ But the image is turned into consolation. A real severed hand is dead and will n
 
 ## Source
 
-*Med.* [[08-34]] — the image in pure form: the severed hand/foot/head; whoever will not accept what happens, or acts unsocially, makes himself such; but the "exquisite" thing (κομψόν) is that a human can ἑνῶσαι himself again — a privilege given to him alone.
+*Med.* [[08-34]] — the image in pure form: the severed hand/foot/head; whoever will not accept what happens, or acts unsocially, makes himself such; but the "exquisite" thing (κομψόν) is that a human can ἑνῶσαι himself again — a privilege given to him alone. The developed botanical version of the same is [[11-08]]: not an amputation but a **branch** (κλάδος), and with the image comes grafting — a branch is cut by another, a man cuts himself off (μισήσας καὶ ἀποστραφείς) and can therefore grow back; but the grafted branch is not identical with the one that grew together from the first: Ὁμοθαμνεῖν μέν, μὴ ὁμοδογματεῖν δέ.
 
 - *Med.* 11.8 — the developed twin: **the cut-off branch**. The branch is severed by *another*, but a human severs *himself* — by hatred and turning away from his neighbour; yet here too god has granted a return and a re-grafting to that from which one fell (which the branch, cut by another's hand, does not have).
 - Cf. *Med.* 2.16 — another image of the same self-separation: one discontented with what happens makes himself an **[[abscess-on-cosmos|abscess on the cosmos]]** (ἀπόστημα). There the metaphor is a tumour, here an amputation; the shared thesis: to murmur is to sever oneself from nature.
