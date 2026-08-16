@@ -21,11 +21,11 @@ related_terms:
 
 ## Источник определения
 
-SVF I 135, 495; II 633, 774 (учение о душе как ἀπόσπασμα θεοῦ); DL VII 156; Epict. *Disc.* 1.14.6 («ты — отрывок бога»); 2.8.10–14. У Марка: *Med.* 2.1; [[05-27]]; 12.26.
+SVF I 135, 495; II 633, 774 (учение о душе как ἀπόσπασμα θεοῦ); DL VII 156; Epict. *Disc.* 1.14.6 («ты — отрывок бога»); 2.8.10–14. У Марка: *Med.* 2.1; [[05-27]]; 12.26. В Книге XII — [[12-01]] (τὸ ἐν σοὶ θεῖον, «божественное в тебе», поставлено рядом с ἡγεμονικόν как то единственное, что чтут при выходе). И [[12-26]] (ὁ ἑκάστου νοῦς θεὸς καὶ ἐκεῖθεν ἐρρύηκεν — «ум каждого есть бог и оттуда истёк»).
 
 ## Source
 
-SVF I 135, 495; II 633, 774 (the doctrine of the soul as ἀπόσπασμα θεοῦ); DL VII 156; Epict. *Disc.* 1.14.6 ("you are a fragment of god"); 2.8.10–14. In Marcus: *Med.* 2.1; [[05-27]]; 12.26.
+SVF I 135, 495; II 633, 774 (the doctrine of the soul as ἀπόσπασμα θεοῦ); DL VII 156; Epict. *Disc.* 1.14.6 ("you are a fragment of god"); 2.8.10–14. In Marcus: *Med.* 2.1; [[05-27]]; 12.26. In Book XII — [[12-01]] (τὸ ἐν σοὶ θεῖον, "the divine in you," is set beside the ἡγεμονικόν as the one thing to be honoured at one's going-out). And [[12-26]] (ὁ ἑκάστου νοῦς θεὸς καὶ ἐκεῖθεν ἐρρύηκεν — "each man's mind is a god and has flowed from there").
 
 ## Примечания
 

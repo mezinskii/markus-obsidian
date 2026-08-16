@@ -30,11 +30,11 @@ The eupatheia-correlate (the sage's correct disposition occupying the same slot)
 
 ## Источник определения
 
-SVF III 391–442 (учение о страстях); специфически об ἐπιθυμία — III 394–397, 412; DL VII 113; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* IV 11–14, 19–22; LS 65. У Марка: *Med.* 2.10; 2.16; [[05-28]]; [[07-16]] (ἡγεμονικόν не ввергает себя в ἐπιθυμίαν); [[08-29]] (в этой душе — ни ἐπιθυμία, ни смятение: теперь в моей власти); 9.7; [[09-40]] (переделка молитвы: просить не о вещи, а о том, чтобы не ἐπιθυμεῖν её); [[10-01]] (опись ненужного: ни вещей, ни времени, ни места, ни покладистых людей); 11.20.
+SVF III 391–442 (учение о страстях); специфически об ἐπιθυμία — III 394–397, 412; DL VII 113; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* IV 11–14, 19–22; LS 65. У Марка: *Med.* 2.10; 2.16; [[05-28]]; [[07-16]] (ἡγεμονικόν не ввергает себя в ἐπιθυμίαν); [[08-29]] (в этой душе — ни ἐπιθυμία, ни смятение: теперь в моей власти); 9.7; [[09-40]] (переделка молитвы: просить не о вещи, а о том, чтобы не ἐπιθυμεῖν её); [[10-01]] (опись ненужного: ни вещей, ни времени, ни места, ни покладистых людей); 11.20. В Книге XII — [[12-19]] (ἐπιθυμία — третий из четырёх μή-вопросов самопроверки: не страх ли? не подозрение? не вожделение?). В книгах I–IV: [[03-07]] (не пожелать того, что прячут за стенами и замками, — мерило целости даймона).
 
 ## Source
 
-SVF III 391–442 (the doctrine of the passions); specifically on ἐπιθυμία: III 394–397, 412; DL VII 113; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* IV 11–14, 19–22; LS 65. In Marcus: *Med.* 2.10; 2.16; [[05-28]]; [[07-16]] (the ἡγεμονικόν does not throw itself into ἐπιθυμία); [[08-29]] (in this soul — no ἐπιθυμία, no disturbance: now it is in my power); 9.7; [[09-40]] (the reform of prayer: ask not for the thing but not to ἐπιθυμεῖν it); [[10-01]] (the inventory of the superfluous: not things, nor time, nor place, nor agreeable people); 11.20.
+SVF III 391–442 (the doctrine of the passions); specifically on ἐπιθυμία: III 394–397, 412; DL VII 113; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* IV 11–14, 19–22; LS 65. In Marcus: *Med.* 2.10; 2.16; [[05-28]]; [[07-16]] (the ἡγεμονικόν does not throw itself into ἐπιθυμία); [[08-29]] (in this soul — no ἐπιθυμία, no disturbance: now it is in my power); 9.7; [[09-40]] (the reform of prayer: ask not for the thing but not to ἐπιθυμεῖν it); [[10-01]] (the inventory of the superfluous: not things, nor time, nor place, nor agreeable people); 11.20. In Book XII — [[12-19]] (ἐπιθυμία is the third of the four μή-questions of the self-check: not fear? not suspicion? not craving?). In Books I–IV: [[03-07]] (not to desire what needs walls and locks — the measure of the daemon's integrity).
 
 ## Примечания
 

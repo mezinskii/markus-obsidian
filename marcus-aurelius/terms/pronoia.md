@@ -21,11 +21,11 @@ related_terms:
 
 ## Источник определения
 
-SVF II 1106–1186 (учение о πρόνοια — обширный корпус); классическая аргументация — Cic. *De nat. deor.* II 73–80 (теория Бальба, по Хрисиппу); Sen. *De providentia* (целый трактат); Epict. *Disc.* 1.6, 1.16, 3.17. У Марка: *Med.* 2.3; 2.11; 4.27; [[06-10]]; [[06-44]]; 9.28; 12.5.
+SVF II 1106–1186 (учение о πρόνοια — обширный корпус); классическая аргументация — Cic. *De nat. deor.* II 73–80 (теория Бальба, по Хрисиппу); Sen. *De providentia* (целый трактат); Epict. *Disc.* 1.6, 1.16, 3.17. У Марка: *Med.* 2.3; 2.11; 4.27; [[06-10]]; [[06-44]]; 9.28; [[12-05]]. Ср. [[12-01]] (τὸ μέλλον ἐπιτρέψῃς τῇ προνοίᾳ: будущее «передают» промыслу — единственное распоряжение, которое с ним возможно). И [[12-14]] (πρόνοια ἱλάσιμος — «умилостивляемая»: средний член трёхчленной развилки, и ответ на него не молитва, а ἄξιον σαυτὸν ποίησον). И [[12-24]] (дизъюнкция о внешнем: κατ’ ἐπιτυχίαν ἢ κατὰ πρόνοιαν, и обе ветви закрыты одинаково — ни случая не винить, ни промысла). В книгах I–IV: [[02-11]], [[04-03]] (ἤτοι πρόνοια ἢ ἄτομοι — «или промысел, или атомы», в самой краткой редакции дизъюнкции).
 
 ## Source
 
-SVF II 1106–1186 (the doctrine of *pronoia* — an extensive corpus); the classical argument: Cic. *De nat. deor.* II 73–80 (Balbus' theory, after Chrysippus); Sen. *De providentia* (a whole treatise); Epict. *Disc.* 1.6, 1.16, 3.17. In Marcus: *Med.* 2.3; 2.11; 4.27; [[06-10]]; [[06-44]]; 9.28; 12.5.
+SVF II 1106–1186 (the doctrine of *pronoia* — an extensive corpus); the classical argument: Cic. *De nat. deor.* II 73–80 (Balbus' theory, after Chrysippus); Sen. *De providentia* (a whole treatise); Epict. *Disc.* 1.6, 1.16, 3.17. In Marcus: *Med.* 2.3; 2.11; 4.27; [[06-10]]; [[06-44]]; 9.28; [[12-05]]. Cf. [[12-01]] (τὸ μέλλον ἐπιτρέψῃς τῇ προνοίᾳ: the future is "handed over" to providence — the only disposition possible with regard to it). And [[12-14]] (πρόνοια ἱλάσιμος, "open to entreaty" — the middle member of the threefold fork, and the answer to it is not prayer but ἄξιον σαυτὸν ποίησον). And [[12-24]] (the disjunction about externals: κατ’ ἐπιτυχίαν ἢ κατὰ πρόνοιαν, and both branches are closed alike — blame neither chance nor providence). In Books I–IV: [[02-11]], [[04-03]] (ἤτοι πρόνοια ἢ ἄτομοι — "either providence or atoms," the disjunction in its shortest form).
 
 ## Примечания
 

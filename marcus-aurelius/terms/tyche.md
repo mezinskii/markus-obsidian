@@ -20,11 +20,11 @@ related_terms:
 
 ## Источник определения
 
-Aristot. *Phys.* 195b31–197b37 (концепция αἰτία κατὰ συμβεβηκός); SVF II 965–973 (стоическое снятие τύχη как самостоятельной силы); Cic. *De div.* II 13–15; Plut. *De Stoic. rep.* 1050a–c. У Марка: *Med.* 2.3; 4.26; [[05-08]] (известное «нити твоей жизни сплетены с целым»); 9.28; 10.5.
+Aristot. *Phys.* 195b31–197b37 (концепция αἰτία κατὰ συμβεβηκός); SVF II 965–973 (стоическое снятие τύχη как самостоятельной силы); Cic. *De div.* II 13–15; Plut. *De Stoic. rep.* 1050a–c. У Марка: *Med.* 2.3; 4.26; [[05-08]] (известное «нити твоей жизни сплетены с целым»); 9.28; 10.5. И [[12-27]] (ὁποιαισοῦν τύχαις ἀκμάσαντας — «расцветшие какими бы то ни было удачами»: и они кончились дымом и золой). В книгах I–IV: [[02-17]] (τύχη названа непроглядной — δυστέκμαρτον), [[03-11]].
 
 ## Source
 
-Aristot. *Phys.* 195b31–197b37 (the conception of αἰτία κατὰ συμβεβηκός); SVF II 965–973 (the Stoic dissolution of τύχη as an independent power); Cic. *De div.* II 13–15; Plut. *De Stoic. rep.* 1050a–c. In Marcus: *Med.* 2.3; 4.26; [[05-08]] (the well-known "the threads of your life are woven together with the whole"); 9.28; 10.5.
+Aristot. *Phys.* 195b31–197b37 (the conception of αἰτία κατὰ συμβεβηκός); SVF II 965–973 (the Stoic dissolution of τύχη as an independent power); Cic. *De div.* II 13–15; Plut. *De Stoic. rep.* 1050a–c. In Marcus: *Med.* 2.3; 4.26; [[05-08]] (the well-known "the threads of your life are woven together with the whole"); 9.28; 10.5. And [[12-27]] (ὁποιαισοῦν τύχαις ἀκμάσαντας — "those who flourished by fortunes of whatever kind": and they too ended as smoke and ash). In Books I–IV: [[02-17]] (τύχη is called hard to read — δυστέκμαρτον), [[03-11]].
 
 ## Примечания
 

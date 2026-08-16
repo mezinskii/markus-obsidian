@@ -68,7 +68,7 @@ Marcus braces the thesis with several converging arguments:
 - [[11-23]] — Сократово речение: τὰ τῶν πολλῶν δόγματα суть **Λαμίαι**, детские страшилки; страх перед мнением большинства назван не пороком, а остатком детской оптики.
 - [[11-28]] — Сократ в овчине: стыдно не ему, а **спутникам**, которые «застыдились и отошли»; проверяется не его невозмутимость, а их способность остаться рядом.
 - [[11-32]] — гесиодова строка, взятая как заготовка: добродетель будут хулить, «лопоча тяжкими словами» (βάζοντες), — брань как шум, а не как суд.
-- За пределами оформленного корпуса — *Med.* 9.30 (взгляд сверху на мельтешение), 12.27, 12.36.
+- За пределами оформленного корпуса — *Med.* 9.30 (взгляд сверху на мельтешение), 12.27, 12.36. В Книге XII — [[12-02]] (платье, дом и слава названы περιβολὴ καὶ σκηνή, «обвесом и декорацией»); [[12-04]] (мы стыдимся ближних больше, чем самих себя: слава разобрана со стороны того, кто её ищет). И [[12-08]] (τί δόξα — слава поставлена четвёртым τί-вопросом наравне с болью, наслаждением и смертью). И [[12-27]] (ubi sunt в чистом виде: ποῦ νῦν πάντα ἐκεῖνα; — καπνὸς καὶ σποδὸς καὶ μῦθος ἢ οὐδὲ μῦθος).
 
 ## Sources in tradition
 
@@ -103,7 +103,7 @@ Stoic axiology: "good repute" among the προηγμένα — DL VII 106; Stob.
 - [[11-23]] — the Socratic saying: τὰ τῶν πολλῶν δόγματα are **Λαμίαι**, bogeys for children; fear of the opinion of the many is named not a vice but a residue of a child’s optics.
 - [[11-28]] — Socrates in the sheepskin: it is not he who is ashamed but **his companions**, who "were ashamed and withdrew"; what is tested is not his composure but their ability to stay beside him.
 - [[11-32]] — the Hesiodic line kept ready: they will revile virtue "prating with hard words" (βάζοντες) — abuse as noise rather than as a verdict.
-- Beyond the formatted corpus — *Med.* 9.30 (the view from above on the swarming), 12.27, 12.36.
+- Beyond the formatted corpus — *Med.* 9.30 (the view from above on the swarming), 12.27, 12.36. In Book XII — [[12-02]] (clothes, house and reputation are called περιβολὴ καὶ σκηνή, "wrapping and stage-set"); [[12-04]] (we stand in awe of our neighbours more than of ourselves: fame examined from the side of the man who wants it). And [[12-08]] (τί δόξα — fame is set as the fourth τί-question, on a level with pain, pleasure and death). And [[12-27]] (the ubi sunt in its pure form: ποῦ νῦν πάντα ἐκεῖνα; — καπνὸς καὶ σποδὸς καὶ μῦθος ἢ οὐδὲ μῦθος).
 
 ## Примечания
 

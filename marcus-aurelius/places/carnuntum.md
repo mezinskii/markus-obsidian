@@ -24,7 +24,7 @@ During the **Marcomannic Wars** (166–180 CE), Carnuntum became Marcus Aurelius
 
 ## Связь с Марком и *Размышлениями*
 
-Финальное примечание к Книге II — **Τὰ ἐν Καρνούντῳ** («Это [записано] в Карнунте») — указывает место составления данной книги. Это первая из двух датированных-по-месту записей в *Размышлениях*: Книга I также завершается локационной пометкой — Τὰ ἐν τοῖς Κουάδοις πρὸς τῷ Γρανούᾳ («[Это] среди квадов у реки Гран»). Эти два геопризнака — практически всё, что́ позволяет нам с уверенностью локализовать составление *Размышлений* в пространстве и времени, и обе пометки указывают на одну и ту же фазу Маркоманских войн (примерно 170–173 н.э.).
+Финальное примечание к Книге II ([[02-17]]) — **Τὰ ἐν Καρνούντῳ** («Это [записано] в Карнунте») — указывает место составления данной книги. Это первая из двух датированных-по-месту записей в *Размышлениях*: Книга I также завершается локационной пометкой — Τὰ ἐν τοῖς Κουάδοις πρὸς τῷ Γρανούᾳ («[Это] среди квадов у реки Гран»). Эти два геопризнака — практически всё, что́ позволяет нам с уверенностью локализовать составление *Размышлений* в пространстве и времени, и обе пометки указывают на одну и ту же фазу Маркоманских войн (примерно 170–173 н.э.).
 
 Содержательно факт «писано в Карнунте» придаёт *Размышлениям* (особенно Книге II) **драматический контекст**:
 
@@ -44,7 +44,7 @@ During the **Marcomannic Wars** (166–180 CE), Carnuntum became Marcus Aurelius
 
 ## Connection to Marcus and the *Meditations*
 
-The closing note of Book II — **Τὰ ἐν Καρνούντῳ** ("Written at Carnuntum") — indicates the place of composition of this book. It is the first of two place-dated entries in the *Meditations*: Book I also ends with a locational note — Τὰ ἐν τοῖς Κουάδοις πρὸς τῷ Γρανούᾳ ("[Written] among the Quadi by the river Gran"). These two geographical markers are practically all that allows us to locate the composition of the *Meditations* in space and time with certainty, and both markers point to the same phase of the Marcomannic Wars (roughly 170–173 CE).
+The closing note of Book II ([[02-17]]) — **Τὰ ἐν Καρνούντῳ** ("Written at Carnuntum") — indicates the place of composition of this book. It is the first of two place-dated entries in the *Meditations*: Book I also ends with a locational note — Τὰ ἐν τοῖς Κουάδοις πρὸς τῷ Γρανούᾳ ("[Written] among the Quadi by the river Gran"). These two geographical markers are practically all that allows us to locate the composition of the *Meditations* in space and time with certainty, and both markers point to the same phase of the Marcomannic Wars (roughly 170–173 CE).
 
 Substantively, the fact "written at Carnuntum" gives the *Meditations* (and especially Book II) a **dramatic context**:
 

@@ -18,12 +18,12 @@ related_terms:
 
 Четыре кардинальные κακίαι параллельны четырём кардинальным добродетелям:
 
-| Добродетель | Порок |
-|-------------|-------|
-| φρόνησις (благоразумие) | ἀφροσύνη (неразумие) |
-| [[dikaiosyne|δικαιοσύνη]] (справедливость) | ἀδικία (несправедливость) |
-| ἀνδρεία (мужество) | δειλία (трусость) |
-| σωφροσύνη (умеренность) | ἀκολασία (невоздержанность) |
+Слева добродетель, справа противостоящий ей порок:
+
+- φρόνησις (благоразумие) ↔ ἀφροσύνη (неразумие)
+- [[dikaiosyne|δικαιοσύνη]] (справедливость) ↔ ἀδικία (несправедливость)
+- ἀνδρεία (мужество) ↔ δειλία (трусость)
+- σωφροσύνη (умеренность) ↔ ἀκολασία (невоздержанность)
 
 Как и добродетель, κακία у стоиков **подчиняется тезису единства**: кто порочен в одном — порочен во всём, потому что все четыре κακίαι суть аспекты одного состояния — несогласия с λόγος. Все κακίαι — суть **ψευδεῖς ὑπολήψεις** — ложные оценочные суждения о благе и зле.
 
@@ -33,22 +33,22 @@ related_terms:
 
 The four cardinal κακίαι are parallel to the four cardinal virtues:
 
-| Virtue | Vice |
-|--------|------|
-| φρόνησις (practical wisdom) | ἀφροσύνη (folly) |
-| [[dikaiosyne|δικαιοσύνη]] (justice) | ἀδικία (injustice) |
-| ἀνδρεία (courage) | δειλία (cowardice) |
-| σωφροσύνη (temperance) | ἀκολασία (intemperance) |
+The virtue on the left, the vice opposed to it on the right:
+
+- φρόνησις (practical wisdom) ↔ ἀφροσύνη (folly)
+- [[dikaiosyne|δικαιοσύνη]] (justice) ↔ ἀδικία (injustice)
+- ἀνδρεία (courage) ↔ δειλία (cowardice)
+- σωφροσύνη (temperance) ↔ ἀκολασία (intemperance)
 
 As with virtue, *kakia* in the Stoics **obeys the thesis of unity**: a person vicious in one respect is vicious in all, because the four κακίαι are aspects of a single condition — disagreement with the Logos. All κακίαι are **ψευδεῖς ὑπολήψεις** — false evaluative judgments about good and evil.
 
 ## Источник определения
 
-SVF III 91–105 (Хрисипп о κακία как состоянии); III 256, 262 (страсти как κρίσεις, порок как стойкая ложная диспозиция); DL VII 93, 100–101; Stob. *Ecl.* II 58–60, 96 W; Cic. *De fin.* III 39; *Tusc.* IV 14, 28–32; LS 61. У Марка κακία — не очень частотный термин (он предпочитает [[kakon]] и [[pathos]]), но появляется в важных местах: *Med.* 2.1 (порок как незнание блага и зла); 4.49; [[05-35]]; [[06-01]] (κακίαν γὰρ οὐκ ἔχει — порока нет в космическом Логосе); [[07-01]] (что такое κακία? — то, что ты уже часто видел); [[07-31]] (безразличие к лежащему между ἀρετή и κακία); [[07-66]] (Сократ не досадовал впустую на κακία); [[07-71]] (смешно бежать чужой κακία — невозможного — и не бежать своей); [[08-55]] (κακία вредна лишь своему носителю — и он волен от неё избавиться, как захочет); [[08-56]] (κακία ближнего не может стать моим κακόν); [[09-02]] (κακία — истинная «чума» (λοιμός), пагубнее любой болезни воздуха); [[09-16]] (κακία существа — в ἐνέργεια, а не в претерпеваемом состоянии); 9.42; 12.27.
+SVF III 91–105 (Хрисипп о κακία как состоянии); III 256, 262 (страсти как κρίσεις, порок как стойкая ложная диспозиция); DL VII 93, 100–101; Stob. *Ecl.* II 58–60, 96 W; Cic. *De fin.* III 39; *Tusc.* IV 14, 28–32; LS 61. У Марка κακία — не очень частотный термин (он предпочитает [[kakon]] и [[pathos]]), но появляется в важных местах: *Med.* 2.1 (порок как незнание блага и зла); 4.49; [[05-35]]; [[06-01]] (κακίαν γὰρ οὐκ ἔχει — порока нет в космическом Логосе); [[07-01]] (что такое κακία? — то, что ты уже часто видел); [[07-31]] (безразличие к лежащему между ἀρετή и κακία); [[07-66]] (Сократ не досадовал впустую на κακία); [[07-71]] (смешно бежать чужой κακία — невозможного — и не бежать своей); [[08-55]] (κακία вредна лишь своему носителю — и он волен от неё избавиться, как захочет); [[08-56]] (κακία ближнего не может стать моим κακόν); [[09-02]] (κακία — истинная «чума» (λοιμός), пагубнее любой болезни воздуха); [[09-16]] (κακία существа — в ἐνέργεια, а не в претерпеваемом состоянии); 9.42; 12.27. В Книге XII — [[12-01]] (κακία ἀλλοτρία, «чужой порок», названа первой в списке того, что не должно служить препятствием). В книгах I–IV: [[04-03]] (κακία людей — первое из того, чем можно быть недовольным, и первое, что снимается доводом).
 
 ## Source
 
-SVF III 91–105 (Chrysippus on κακία as a state); III 256, 262 (passions as κρίσεις, vice as a settled false disposition); DL VII 93, 100–101; Stob. *Ecl.* II 58–60, 96 W; Cic. *De fin.* III 39; *Tusc.* IV 14, 28–32; LS 61. *Kakia* is not very frequent in Marcus (he prefers [[kakon]] and [[pathos]]), but appears in important places: *Med.* 2.1 (vice as ignorance of good and evil); 4.49; [[05-35]]; [[06-01]] (κακίαν γὰρ οὐκ ἔχει — no vice in the cosmic Logos); [[07-01]] (what is κακία? — that which you have often seen); [[07-31]] (indifference to what lies between ἀρετή and κακία); [[07-66]] (Socrates not idly vexed at κακία); [[07-71]] (ridiculous to flee others' κακία — impossible — and not one's own); [[08-55]] (κακία harms only its bearer — who is free to be rid of it when he wills); [[08-56]] (a neighbour's κακία cannot become my κακόν); [[09-02]] (κακία is the true "plague" (λοιμός), more ruinous than any distemper of the air); [[09-16]] (a being's κακία is in ἐνέργεια, not in a passive state); 9.42; 12.27.
+SVF III 91–105 (Chrysippus on κακία as a state); III 256, 262 (passions as κρίσεις, vice as a settled false disposition); DL VII 93, 100–101; Stob. *Ecl.* II 58–60, 96 W; Cic. *De fin.* III 39; *Tusc.* IV 14, 28–32; LS 61. *Kakia* is not very frequent in Marcus (he prefers [[kakon]] and [[pathos]]), but appears in important places: *Med.* 2.1 (vice as ignorance of good and evil); 4.49; [[05-35]]; [[06-01]] (κακίαν γὰρ οὐκ ἔχει — no vice in the cosmic Logos); [[07-01]] (what is κακία? — that which you have often seen); [[07-31]] (indifference to what lies between ἀρετή and κακία); [[07-66]] (Socrates not idly vexed at κακία); [[07-71]] (ridiculous to flee others' κακία — impossible — and not one's own); [[08-55]] (κακία harms only its bearer — who is free to be rid of it when he wills); [[08-56]] (a neighbour's κακία cannot become my κακόν); [[09-02]] (κακία is the true "plague" (λοιμός), more ruinous than any distemper of the air); [[09-16]] (a being's κακία is in ἐνέργεια, not in a passive state); 9.42; 12.27. In Book XII — [[12-01]] (κακία ἀλλοτρία, "another's badness," heads the list of what must not be allowed to hinder). In Books I–IV: [[04-03]] (the κακία of men — the first thing one might be vexed at, and the first the argument removes).
 
 ## Примечания
 

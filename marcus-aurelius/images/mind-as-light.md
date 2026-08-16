@@ -34,13 +34,13 @@ The mind is the **light of the sun**, more precisely a **ray** (ἀκτίς). Th
 
 - *Med.* [[08-57]] — развёрнутый образ: солнце «разлито, но не вытекло»; луч в затенённой комнате идёт прямо, упирается и стоит; таким должно быть «разлитие мысли» (διάνοια) — τάσις, не ἔκχυσις; ум *стоит и освещает*, а не пропускающий свет сам себя его лишает. Здесь — первый и главный локус.
 - *Med.* 12.30 — **иной поворот того же образа**: свет солнца **един**, хотя и «рассечён стенами, горами, тысячей преград»; так и [[nous|ум]] (и общая разумная природа) один, хотя и раздроблен по отдельным телам. Свет служит здесь не режиму ума, а **единству разумного** ([[unity-of-cosmos]]).
-- Ср. *Med.* 11.12 — самосветящая душа: «светится светом (ἐκλάμπει), которым видит истину всех вещей» (см. [[mind-as-sphere]]).
+- Ср. *Med.* 11.12 — самосветящая душа: «светится светом (ἐκλάμπει), которым видит истину всех вещей» (см. [[mind-as-sphere]]). И [[12-15]] (образ снижен до лампады: μέχρι σβεσθῇ φαίνει καὶ τὴν αὐγὴν οὐκ ἀποβάλλει — она своего света не роняет, её гасят извне). И [[12-30]] (образ поставлен первым из четырёх: ἓν φῶς ἡλίου, κἂν διείργηται τοίχοις — стена делит не свет, а его прохождение, и этим задан способ читать остальные три).
 
 ## Source
 
 - *Med.* [[08-57]] — the developed image: the sun is "diffused but not effused"; the ray in a shaded room goes straight, braces, and stands; such should be the "diffusion of the mind" (διάνοια) — τάσις, not ἔκχυσις; the mind *stands and illuminates*, while what does not pass the light on deprives itself of it. This is the first and principal locus.
 - *Med.* 12.30 — **another turn of the same image**: the sun's light is **one**, though "cut apart by walls, mountains, a thousand barriers"; so too the [[nous|mind]] (and the common rational nature) is one, though fragmented across separate bodies. Here the light serves not the mind's mode but the **unity of the rational** ([[unity-of-cosmos]]).
-- Cf. *Med.* 11.12 — the self-luminous soul: it "shines with the light (ἐκλάμπει) by which it sees the truth of all things" (see [[mind-as-sphere]]).
+- Cf. *Med.* 11.12 — the self-luminous soul: it "shines with the light (ἐκλάμπει) by which it sees the truth of all things" (see [[mind-as-sphere]]). And [[12-15]] (the image lowered to a lamp: μέχρι σβεσθῇ φαίνει καὶ τὴν αὐγὴν οὐκ ἀποβάλλει — it does not drop its own light; it is put out from outside). And [[12-30]] (the image is placed first of four: ἓν φῶς ἡλίου, κἂν διείργηται τοίχοις — a wall divides not the light but its passage, and that sets the way to read the other three).
 
 ## Использование
 

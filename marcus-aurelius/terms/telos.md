@@ -70,7 +70,7 @@ SVF I 179 (Zeno's formula); I 552 (Cleanthes); III 4–16 (Chrysippus' extensive
 - **[[arete|ἀρετή]]** — единственное достаточное **средство** достижения τέλος (см. [[virtue-is-sufficient]]).
 - **[[skopos|σκοπός]]** — операциональный коррелят τέλος (то, на что мы реально прицеливаемся в каждом действии).
 
-У Марка τέλος разумных существ программно сформулирован в [[02-16]]: τέλος δὲ λογικῶν ζῴων τὸ ἕπεσθαι τῷ τῆς πόλεως καὶ πολιτείας τῆς πρεσβυτάτης λόγῳ καὶ θεσμῷ — «τέλος разумных существ — следовать разуму и закону древнейшего полиса» (см. [[cosmopolis]]). Ср. [[05-14]] (λόγος и разумное искусство самодостаточны — движутся к своей цели); [[05-15]] (что не свойственно человеку — не входит в его τέλος); [[05-16]] (цель — разумно-социальное благо).
+У Марка τέλος разумных существ программно сформулирован в [[02-16]]: τέλος δὲ λογικῶν ζῴων τὸ ἕπεσθαι τῷ τῆς πόλεως καὶ πολιτείας τῆς πρεσβυτάτης λόγῳ καὶ θεσμῷ — «τέλος разумных существ — следовать разуму и закону древнейшего полиса» (см. [[cosmopolis]]). Ср. [[05-14]] (λόγος и разумное искусство самодостаточны — движутся к своей цели); [[05-15]] (что не свойственно человеку — не входит в его τέλος); [[05-16]] (цель — разумно-социальное благо). В Книге XII — [[12-20]] (τὸ κοινωνικὸν τέλος названо единственным допустимым адресом отнесения поступка). В книгах I–IV: [[03-14]] (εἰς τέλος — довести до цели то, что имеешь, и не отвлекаться на чужое).
 
 ## Notes
 
@@ -84,4 +84,4 @@ Connections with other Stoic concepts:
 - **[[arete|ἀρετή]]** — the only sufficient **means** of attaining the *telos* (see [[virtue-is-sufficient]]).
 - **[[skopos|σκοπός]]** — the operational correlate of *telos* (what we actually aim at in every action).
 
-In Marcus the *telos* of rational beings is programmatically formulated in [[02-16]]: τέλος δὲ λογικῶν ζῴων τὸ ἕπεσθαι τῷ τῆς πόλεως καὶ πολιτείας τῆς πρεσβυτάτης λόγῳ καὶ θεσμῷ — "the *telos* of rational beings is to follow the reason and law of the most ancient polity" (see [[cosmopolis]]). Cf. [[05-14]] (λόγος and the rational art are self-sufficient — moving to their end); [[05-15]] (what is not proper to a human is no part of his τέλος); [[05-16]] (the goal is the rational-social good).
+In Marcus the *telos* of rational beings is programmatically formulated in [[02-16]]: τέλος δὲ λογικῶν ζῴων τὸ ἕπεσθαι τῷ τῆς πόλεως καὶ πολιτείας τῆς πρεσβυτάτης λόγῳ καὶ θεσμῷ — "the *telos* of rational beings is to follow the reason and law of the most ancient polity" (see [[cosmopolis]]). Cf. [[05-14]] (λόγος and the rational art are self-sufficient — moving to their end); [[05-15]] (what is not proper to a human is no part of his τέλος); [[05-16]] (the goal is the rational-social good). In Book XII — [[12-20]] (τὸ κοινωνικὸν τέλος is named as the only admissible address for the referral of an act). In Books I–IV: [[03-14]] (εἰς τέλος — to carry what you have through to its end and not be drawn aside).

@@ -18,11 +18,9 @@ related_terms:
 
 Стоическая структура ценностей трёхступенчатая:
 
-| Категория | Ценность | Примеры |
-|-----------|----------|---------|
-| **τὸ ἀγαθόν** (благо) | абсолютная, единственная подлинная | [[arete|добродетель]], всё причастное ей |
-| **τὰ ἀδιάφορα** (безразличное) | имеют **ἀξία** (положительная или отрицательная) | здоровье, богатство, болезнь, смерть |
-| **τὸ κακόν** (зло) | абсолютная отрицательная | [[kakia|порок]], всё причастное ему |
+- **τὸ ἀγαθόν** (благо) — ценность абсолютная, единственная подлинная; примеры: [[arete|добродетель]], всё причастное ей
+- **τὰ ἀδιάφορα** (безразличное) — имеют **ἀξία**, положительную или отрицательную; примеры: здоровье, богатство, болезнь, смерть
+- **τὸ κακόν** (зло) — ценность абсолютная отрицательная; примеры: [[kakia|порок]], всё причастное ему
 
 Внутри [[adiaphora|безразличного]] **ἀξία** разделяет:
 
@@ -40,11 +38,9 @@ related_terms:
 
 The Stoic structure of value is three-tiered:
 
-| Category | Value | Examples |
-|----------|-------|----------|
-| **τὸ ἀγαθόν** (the good) | absolute, the only genuine one | [[arete|virtue]], everything that partakes in it |
-| **τὰ ἀδιάφορα** (the indifferents) | have **axia** (positive or negative) | health, wealth, illness, death |
-| **τὸ κακόν** (the bad) | absolute negative | [[kakia|vice]], everything that partakes in it |
+- **τὸ ἀγαθόν** (the good) — value absolute, the only genuine one; examples: [[arete|virtue]], everything that partakes in it
+- **τὰ ἀδιάφορα** (the indifferents) — have **axia**, positive or negative; examples: health, wealth, illness, death
+- **τὸ κακόν** (the bad) — value absolute and negative; examples: [[kakia|vice]], everything that partakes in it
 
 Within the [[adiaphora|indifferents]], **axia** distinguishes:
 
@@ -58,11 +54,11 @@ Chrysippus gives the formula: τὰ μὲν προηγμένα τὴν ἀξία
 
 ## Источник определения
 
-SVF III 124–139 (учение о ἀξία у Хрисиппа); DL VII 105–107 (классическое изложение); Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–52 (Катон о προηγμένα и ἀξία; латинизация *aestimatio*); LS 58 («Value and indifferents»). Полемика — Plut. *De Stoic. rep.* 1048a–c (на тонкие различения как противоречивые). У Марка ἀξία как термин **не центральна** (он работает в основном через [[adiaphora|ἀδιάφορα]]), но появляется: *Med.* 3.6 («ничего не должно ценить больше, чем...»); 4.20; [[05-30]] (κατ' ἀξίαν — ум Целого уделяет каждому по достоинству); [[05-36]] (помогать κατ' ἀξίαν — по достоинству, но потерю безразличного не считать вредом); [[06-03]] (ἡ ἀξία — не дать ускользнуть истинной цене вещи); [[07-03]] (каждый стоит столько, сколько стоят предметы его стремлений); [[08-29]] (χρῶμαι ἑκάστῳ κατ’ ἀξίαν — пользоваться каждым по достоинству); [[08-43]] (χρῆσθαι ἑκάστῳ κατ’ ἀξίαν — часть здравого ἡγεμονικόν); [[11-37]] (κατ’ ἀξίαν — третье из трёх условий, налагаемых на ὁρμή, наряду с ὑπεξαίρεσις и κοινωνικόν: мера предмета).
+SVF III 124–139 (учение о ἀξία у Хрисиппа); DL VII 105–107 (классическое изложение); Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–52 (Катон о προηγμένα и ἀξία; латинизация *aestimatio*); LS 58 («Value and indifferents»). Полемика — Plut. *De Stoic. rep.* 1048a–c (на тонкие различения как противоречивые). У Марка ἀξία как термин **не центральна** (он работает в основном через [[adiaphora|ἀδιάφορα]]), но появляется: *Med.* 3.6 («ничего не должно ценить больше, чем...»); 4.20; [[05-30]] (κατ' ἀξίαν — ум Целого уделяет каждому по достоинству); [[05-36]] (помогать κατ' ἀξίαν — по достоинству, но потерю безразличного не считать вредом); [[06-03]] (ἡ ἀξία — не дать ускользнуть истинной цене вещи); [[07-03]] (каждый стоит столько, сколько стоят предметы его стремлений); [[08-29]] (χρῶμαι ἑκάστῳ κατ’ ἀξίαν — пользоваться каждым по достоинству); [[08-43]] (χρῆσθαι ἑκάστῳ κατ’ ἀξίαν — часть здравого ἡγεμονικόν); [[11-37]] (κατ’ ἀξίαν — третье из трёх условий, налагаемых на ὁρμή, наряду с ὑπεξαίρεσις и κοινωνικόν: мера предмета). В Книге XII — [[12-01]] (πράσσειν τὰ κατὰ νόμον καὶ κατ’ ἀξίαν: раздача по достоинству названа содержанием справедливости наравне с правдивой речью). В книгах I–IV: [[03-11]] (у вещи спрашивают, какую ἀξία она имеет по отношению к Целому и какую по отношению к человеку).
 
 ## Source
 
-SVF III 124–139 (Chrysippus on *axia*); DL VII 105–107 (the classical exposition); Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–52 (Cato on προηγμένα and *axia*; the Latinisation *aestimatio*); LS 58 ("Value and indifferents"). Polemic: Plut. *De Stoic. rep.* 1048a–c (on the fine distinctions as contradictory). In Marcus *axia* is **not central** as a term (he works mainly with [[adiaphora|ἀδιάφορα]]), but it does appear: *Med.* 3.6 ("nothing ought to be valued above…"); 4.20; [[05-30]] (κατ' ἀξίαν — the mind of the Whole assigns each its due); [[05-36]] (help κατ' ἀξίαν — by desert, yet count the loss of an indifferent no harm); [[06-03]] (ἡ ἀξία — let the true worth of a thing not escape you); [[07-03]] (each is worth as much as the things he is earnest about); [[08-29]] (χρῶμαι ἑκάστῳ κατ’ ἀξίαν — to use each according to its worth); [[08-43]] (χρῆσθαι ἑκάστῳ κατ’ ἀξίαν — part of the sound ἡγεμονικόν); [[11-37]] (κατ’ ἀξίαν — the third of the three conditions laid on ὁρμή, beside ὑπεξαίρεσις and κοινωνικόν: the measure of the object).
+SVF III 124–139 (Chrysippus on *axia*); DL VII 105–107 (the classical exposition); Stob. *Ecl.* II 79–85 W; Cic. *De fin.* III 50–52 (Cato on προηγμένα and *axia*; the Latinisation *aestimatio*); LS 58 ("Value and indifferents"). Polemic: Plut. *De Stoic. rep.* 1048a–c (on the fine distinctions as contradictory). In Marcus *axia* is **not central** as a term (he works mainly with [[adiaphora|ἀδιάφορα]]), but it does appear: *Med.* 3.6 ("nothing ought to be valued above…"); 4.20; [[05-30]] (κατ' ἀξίαν — the mind of the Whole assigns each its due); [[05-36]] (help κατ' ἀξίαν — by desert, yet count the loss of an indifferent no harm); [[06-03]] (ἡ ἀξία — let the true worth of a thing not escape you); [[07-03]] (each is worth as much as the things he is earnest about); [[08-29]] (χρῶμαι ἑκάστῳ κατ’ ἀξίαν — to use each according to its worth); [[08-43]] (χρῆσθαι ἑκάστῳ κατ’ ἀξίαν — part of the sound ἡγεμονικόν); [[11-37]] (κατ’ ἀξίαν — the third of the three conditions laid on ὁρμή, beside ὑπεξαίρεσις and κοινωνικόν: the measure of the object). In Book XII — [[12-01]] (πράσσειν τὰ κατὰ νόμον καὶ κατ’ ἀξίαν: apportionment by worth is named as the content of justice, on a level with truthful speech). In Books I–IV: [[03-11]] (one asks of a thing what ἀξία it has in relation to the Whole and what in relation to a human being).
 
 ## Примечания
 

@@ -36,7 +36,7 @@ Distinguish it from the neighbouring doctrines by **axis**: [[dichotomy-of-contr
 - [[10-14]] — природа названа как ἡ πάντα διδοῦσα καὶ **ἀπολαμβάνουσα**: не «отнимает» (ἀφαιρεῖ), а «получает назад» своё — отсюда «дай, что хочешь; возьми назад, что хочешь».
 - [[07-56]] — счесть себя уже умершим: остаток жизни — «сверх счёта», как возвращённый долг, живомый по природе.
 - [[06-15]] — возврат дыхания той стихии, из которой оно взято: даже пневма одолжена.
-- За пределами оформленного корпуса — *Med.* 10.14 (вверивший себя природе, довольный назначенным), 11.34 (прямая перекличка с Эпиктетом Ench. 11 о ребёнке), 12.11.
+- За пределами оформленного корпуса — *Med.* 10.14 (вверивший себя природе, довольный назначенным), 11.34 (прямая перекличка с Эпиктетом Ench. 11 о ребёнке), 12.11. В Книге XII — [[12-26]] (οὐδὲν ἴδιον οὐδενός: и ребёнок, и тельце, и сама душонка «пришли оттуда же»).
 
 ## Sources in tradition
 
@@ -49,7 +49,7 @@ In Marcus the doctrine is more often cast as a **return to nature** than as Epic
 - [[10-14]] — nature is named ἡ πάντα διδοῦσα καὶ **ἀπολαμβάνουσα**: not "takes away" (ἀφαιρεῖ) but "receives back" what is her own — hence "give what you will; take back what you will."
 - [[07-56]] — to reckon oneself already dead: the remainder of life is "surplus," like a returned debt, lived according to nature.
 - [[06-15]] — the giving-back of breath to the element from which it was taken: even the *pneuma* is on loan.
-- Beyond the formatted corpus — *Med.* 10.14 (one who has entrusted himself to nature, content with the assigned), 11.34 (a direct echo of Epictetus *Ench.* 11 on the child), 12.11.
+- Beyond the formatted corpus — *Med.* 10.14 (one who has entrusted himself to nature, content with the assigned), 11.34 (a direct echo of Epictetus *Ench.* 11 on the child), 12.11. In Book XII — [[12-26]] (οὐδὲν ἴδιον οὐδενός: the little child, the poor body and the poor soul itself have all "come from there").
 
 ## Примечания
 

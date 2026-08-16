@@ -16,11 +16,9 @@ related_terms:
 
 Ἀδιάφορα — буквально «не имеющие различия», от ἀ-διά-φορον. В стоической этике — технический термин для всего, что **не есть ни добродетель, ни порок**, и потому не определяет статуса жизни как удавшейся или неудавшейся. Стоики проводят радикально узкую классификацию ценности:
 
-| Категория | Содержание |
-|-----------|------------|
-| [[agathon|τὰ ἀγαθά]] (благое) | только добродетель (ἀρετή) и то, что причастно ей |
-| [[kakon|τὰ κακά]] (дурное) | только порок (κακία) и то, что причастно ему |
-| **ἀδιάφορα** (безразличное) | **всё остальное** — здоровье, богатство, репутация, дети, родина; болезнь, бедность, бесчестье, утрата близких, смерть |
+- [[agathon|τὰ ἀγαθά]] (благое) — только добродетель (ἀρετή) и то, что причастно ей
+- [[kakon|τὰ κακά]] (дурное) — только порок (κακία) и то, что причастно ему
+- **ἀδιάφορα** (безразличное) — **всё остальное**: здоровье, богатство, репутация, дети, родина; болезнь, бедность, бесчестье, утрата близких, смерть
 
 Это **вызов** обыденному моральному словарю. То, что обычно называют «благами» (здоровье, успех, родные) и «бедствиями» (болезнь, нужда, смерть), — стоически ни то, ни другое: они **не влияют на качество души**, единственное место, где локализованы благо и зло.
 
@@ -38,11 +36,9 @@ related_terms:
 
 *Adiaphora* literally means "things that admit of no differentiation," from ἀ-διά-φορον. In Stoic ethics it is the technical term for everything that **is neither virtue nor vice**, and which therefore does not determine whether a life counts as successful or failed. The Stoics draw a radically narrow classification of value:
 
-| Category | Content |
-|----------|---------|
-| [[agathon|τὰ ἀγαθά]] (the good) | only virtue (ἀρετή) and what partakes in it |
-| [[kakon|τὰ κακά]] (the bad) | only vice (κακία) and what partakes in it |
-| **ἀδιάφορα** (the indifferents) | **everything else** — health, wealth, reputation, children, country; illness, poverty, disgrace, the loss of those dear to us, death |
+- [[agathon|τὰ ἀγαθά]] (the good) — only virtue (ἀρετή) and what partakes in it
+- [[kakon|τὰ κακά]] (the bad) — only vice (κακία) and what partakes in it
+- **ἀδιάφορα** (the indifferents) — **everything else**: health, wealth, reputation, children, country; illness, poverty, disgrace, the loss of those dear to us, death
 
 This is a **challenge** to ordinary moral vocabulary. What people commonly call "goods" (health, success, kin) and "evils" (sickness, want, death) are, on the Stoic view, neither: they **do not affect the quality of the soul**, the sole site at which good and evil are localised.
 

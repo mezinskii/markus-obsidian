@@ -26,6 +26,7 @@ Applied to the mind, the image carries a double sense. **Invulnerability**: noth
 ## Источник
 
 *Med.* [[08-41]] — цитата Эмпедокла: правящего начала «ничто не касается — ни огонь, ни железо, ни тиран, ни хула, — когда оно станет σφαῖρος κυκλοτερὴς μονίῃ» («шаром совершенно круглым, покоящимся»); образ обосновывает неуязвимость ума.
+- *Med.* 12.3 — третий и последний локус образа: та же строка Эмпедокла, что и в [[08-41]], но введена формулой οἷος ὁ Ἐμπεδόκλειος и поставлена как **цель операции отделения** — сделаться шаром значит отделить от правящего начала приставшее по προσπάθεια и время «до» и «после» — [[12-03]].
 
 - *Med.* 11.12 — развёрнутый двойник: душа обретает «форму шара» (σφαῖρα εὐκύκλου), когда «не тянется ни к чему вовне и не сжимается внутрь, не рассыпается и не оседает, но светится светом (ἐκλάμπει), которым видит истину всех вещей» — [[11-12]]. Стоит отметить, что в 11.12 у фразы **нет главного глагола**: это назывная формула, и порча шара расписана по четырём отдельным деформациям (растянуться наружу, сбежаться внутрь, рассыпаться, осесть), а единственное положительное сказуемое — φωτὶ λάμπηται.
 - Философский фон: Парменид fr. 8 (бытие как εὐκύκλου σφαίρης); Эмпедокл fr. 27–28 DK (Σφαῖρος); Платон *Тимей* 33b (шарообразность и самодостаточность космоса).
@@ -33,6 +34,7 @@ Applied to the mind, the image carries a double sense. **Invulnerability**: noth
 ## Source
 
 *Med.* [[08-41]] — the Empedocles quotation: nothing "touches" the ruling part — "not fire, iron, tyrant, or slander — when it has become σφαῖρος κυκλοτερὴς μονίῃ" ("a sphere rounded and at rest"); the image grounds the mind's invulnerability.
+- *Med.* 12.3 — the third and last locus of the image: the same Empedoclean line as at [[08-41]], but introduced by the formula οἷος ὁ Ἐμπεδόκλειος and set as **the goal of the operation of separation** — to become a sphere is to separate from the ruling part what has stuck to it by προσπάθεια, and the time before and after — [[12-03]].
 
 - *Med.* 11.12 — the developed twin: the soul takes on "the form of a sphere" (σφαῖρα εὐκύκλου) when it "neither reaches out toward anything outside nor contracts inward, is neither scattered nor settles, but shines with the light (ἐκλάμπει) by which it sees the truth of all things" — [[11-12]]. Note that in 11.12 the phrase has **no main verb**: it is a nominal formula, and the spoiling of the sphere is set out as four distinct deformations (stretched outward, run together inward, scattered, settled), while the one positive predicate is φωτὶ λάμπηται.
 - The philosophical background: Parmenides fr. 8 (Being as εὐκύκλου σφαίρης); Empedocles fr. 27–28 DK (the Sphairos); Plato *Timaeus* 33b (the sphericity and self-sufficiency of the cosmos).

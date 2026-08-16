@@ -27,7 +27,7 @@ The image has two faces. The first is a **stance toward fate**: a wrestler does 
 Ядро образа — *Med.* [[07-61]]: «жизненное искусство подобнее борьбе, чем пляске» — по способности «стоять готовым и неопрокидываемым против налетающего и непредвиденного». Родственные места:
 
 - *Med.* [[07-52]] — «искуснее в борцовском броске» (καββαλικώτερος), но не общественнее: превосходство в борьбе — на шкале безразличного, а не добродетели;
-- *Med.* [[06-20]] — развёрнутая палестра: партнёр в гимнасии царапает и бьёт, но его берегутся «не как врага»; так и в жизни — многое «не ставить в счёт» спарринг-партнёрам.
+- *Med.* [[06-20]] — развёрнутая палестра: партнёр в гимнасии царапает и бьёт, но его берегутся «не как врага»; так и в жизни — многое «не ставить в счёт» спарринг-партнёрам. И [[12-09]] (панкратиаст против гладиатора: меч можно выронить — ἀποτίθεται καὶ ἀναιρεῖται, — а руку нет; основоположение должно быть не снаряжением, а состоянием).
 
 Атлетический мотив постоянен и у Эпиктета (*Ench.* 29; *Disc.* 3.15 — «сперва взвесь, чего стоит дело, как атлет»; 1.24.1–2 — трудности являют бойца), откуда Марк его и наследует.
 
@@ -36,7 +36,7 @@ The image has two faces. The first is a **stance toward fate**: a wrestler does 
 The core of the image is *Med.* [[07-61]]: "the art of living is more like the wrestler's art than the dancer's" — in respect of standing "ready and firm to meet onsets sudden and unexpected." Kindred places:
 
 - *Med.* [[07-52]] — "more expert in casting his opponent" (καββαλικώτερος), but not more social: superiority in wrestling is on the scale of the indifferent, not of virtue;
-- *Med.* [[06-20]] — the developed palaestra: a partner in the gymnasium scratches and strikes, yet one guards against him "not as an enemy"; so too in life — one "overlooks" much in one's sparring-partners.
+- *Med.* [[06-20]] — the developed palaestra: a partner in the gymnasium scratches and strikes, yet one guards against him "not as an enemy"; so too in life — one "overlooks" much in one's sparring-partners. And [[12-09]] (the pancratiast against the gladiator: a sword can be dropped — ἀποτίθεται καὶ ἀναιρεῖται — a hand cannot; a principle must not be equipment but a condition).
 
 The athletic motif is constant in Epictetus too (*Ench.* 29; *Disc.* 3.15 — "first weigh what the matter costs, like an athlete"; 1.24.1–2 — hardships reveal the fighter), from whom Marcus inherits it.
 

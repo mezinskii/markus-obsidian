@@ -25,11 +25,11 @@ The Stoic definition: ἐπιστήμη αἱρετῶν καὶ φευκτῶν
 
 ## Источник определения
 
-SVF III 262 sqq., 264–266 (учение о четырёх добродетелях); DL VII 92–93 (определения кардинальных добродетелей); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. Платоновский фон — *Resp.* IV 430e–432a (σωφροσύνη как согласие частей души). У Марка — в перечнях кардинальных добродетелей: *Med.* 3.6 (истина, справедливость, благоразумие, мужество); [[05-12]]; [[07-63]] (души лишаются и σωφροσύνης невольно — как истины).
+SVF III 262 sqq., 264–266 (учение о четырёх добродетелях); DL VII 92–93 (определения кардинальных добродетелей); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. Платоновский фон — *Resp.* IV 430e–432a (σωφροσύνη как согласие частей души). У Марка — в перечнях кардинальных добродетелей: *Med.* 3.6 (истина, справедливость, благоразумие, мужество); [[05-12]]; [[07-63]] (души лишаются и σωφροσύνης невольно — как истины). В Книге XII — [[12-15]] (σωφροσύνη замыкает триаду ἀλήθεια — δικαιοσύνη — σωφροσύνη: три дисциплины под именами добродетелей). И [[12-27]] (σώφρονα — второе из трёх, что философичнее всякого пристрастия: δίκαιον, σώφρονα, θεοῖς ἑπόμενον).
 
 ## Source
 
-SVF III 262 ff., 264–266 (the doctrine of the four virtues); DL VII 92–93 (the definitions of the cardinal virtues); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. The Platonic background: *Resp.* IV 430e–432a (σωφροσύνη as the concord of the parts of the soul). In Marcus, in the lists of the cardinal virtues: *Med.* 3.6 (truth, justice, temperance, fortitude); [[05-12]]; [[07-63]] (souls are deprived of σωφροσύνη too against their will — as of truth).
+SVF III 262 ff., 264–266 (the doctrine of the four virtues); DL VII 92–93 (the definitions of the cardinal virtues); Stob. *Ecl.* II 59–60 W; Cic. *De off.* I; LS 61. The Platonic background: *Resp.* IV 430e–432a (σωφροσύνη as the concord of the parts of the soul). In Marcus, in the lists of the cardinal virtues: *Med.* 3.6 (truth, justice, temperance, fortitude); [[05-12]]; [[07-63]] (souls are deprived of σωφροσύνη too against their will — as of truth). In Book XII — [[12-15]] (σωφροσύνη closes the triad ἀλήθεια — δικαιοσύνη — σωφροσύνη: the three disciplines under the names of virtues). And [[12-27]] (σώφρονα — the second of the three things more philosophical than any pursuit: δίκαιον, σώφρονα, θεοῖς ἑπόμενον).
 
 ## Примечания
 

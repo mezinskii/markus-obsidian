@@ -21,11 +21,11 @@ In Stoic technical usage, πάθος is not merely "emotion" but specifically an
 
 ## Источник определения
 
-SVF III 377–490 (обширный корпус о πάθη — главная стоическая психологическая теория); классические формулы — DL VII 110–115; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* III–IV; LS 65. У Марка: *Med.* 2.5; 2.10; [[05-26]] (не прибавлять к ощущению суждения «добро/зло»); 6.16; 8.29; 11.18.
+SVF III 377–490 (обширный корпус о πάθη — главная стоическая психологическая теория); классические формулы — DL VII 110–115; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* III–IV; LS 65. У Марка: *Med.* 2.5; 2.10; [[05-26]] (не прибавлять к ощущению суждения «добро/зло»); 6.16; 8.29; 11.18. В Книге XII — [[12-19]] (то в тебе, что «лучше и божественнее» — измерено сравнением с тем, что производит πάθη и водит тебя на нитях). В книгах I–IV: [[02-13]], [[03-04]] (ἄτρωτον ὑπὸ παντὸς πόνου, ἀκαταγώνιστον πάθει — «не сражённый никакой страстью»).
 
 ## Source
 
-SVF III 377–490 (the large corpus on the πάθη — the principal Stoic psychological theory); classical formulations in DL VII 110–115; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* III–IV; LS 65. In Marcus: *Med.* 2.5; 2.10; [[05-26]] (add to the sensation no judgment of "good/bad"); 6.16; 8.29; 11.18.
+SVF III 377–490 (the large corpus on the πάθη — the principal Stoic psychological theory); classical formulations in DL VII 110–115; Stob. *Ecl.* II 88–93 W; Cic. *Tusc.* III–IV; LS 65. In Marcus: *Med.* 2.5; 2.10; [[05-26]] (add to the sensation no judgment of "good/bad"); 6.16; 8.29; 11.18. In Book XII — [[12-19]] (what in you is "better and more divine" is measured by comparison with what produces the πάθη and works you by strings). In Books I–IV: [[02-13]], [[03-04]] (unwounded by any pain, not thrown down by any πάθος).
 
 ## Примечания
 

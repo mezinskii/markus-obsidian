@@ -15,10 +15,8 @@ related_terms:
 
 Χαρά — стоический технический термин для **разумной радости** мудреца, εὐπάθεια (правильное расположение души), соответствующая [[hedone|ἡδονή]] (страсти удовольствия) в матрице нормальных состояний души. Стоики различают **четыре кардинальные страсти** ([[pathos|πάθη]]) и **три кардинальные εὐπάθειαι**:
 
-| Объект | Будущее | Настоящее |
-|--------|---------|-----------|
-| **благо** | страсть: ἐπιθυμία ↔ εὐπάθεια: βούλησις | страсть: ἡδονή ↔ εὐπάθεια: **χαρά** |
-| **зло** | страсть: φόβος ↔ εὐπάθεια: εὐλάβεια | страсть: λύπη ↔ εὐπάθεια: *(отсутствует)* |
+- **благо**, будущее — страсть ἐπιθυμία ↔ εὐπάθεια βούλησις; настоящее — страсть ἡδονή ↔ εὐπάθεια **χαρά**
+- **зло**, будущее — страсть φόβος ↔ εὐπάθεια εὐλάβεια; настоящее — страсть λύπη ↔ εὐπάθεια *(отсутствует)*
 
 Заметка о симметрии: εὐπάθεια имеется только три (вместо четырёх), потому что у [[lype|λύπη]] нет рационального коррелята — мудрец не считает ничего настоящего истинным злом и потому не может рационально «горевать».
 
@@ -30,10 +28,8 @@ related_terms:
 
 *Chara* is the Stoic technical term for the sage's **rational joy** — a εὐπάθεια (right disposition of the soul) corresponding to [[hedone|ἡδονή]] (the passion of pleasure) in the matrix of normal states of the soul. The Stoics distinguish **four cardinal passions** ([[pathos|πάθη]]) and **three cardinal εὐπάθειαι**:
 
-| Object | Future | Present |
-|--------|--------|---------|
-| **good** | passion: ἐπιθυμία ↔ eupatheia: βούλησις | passion: ἡδονή ↔ eupatheia: **χαρά** |
-| **evil** | passion: φόβος ↔ eupatheia: εὐλάβεια | passion: λύπη ↔ eupatheia: *(missing)* |
+- **good**, future — passion ἐπιθυμία ↔ eupatheia βούλησις; present — passion ἡδονή ↔ eupatheia **χαρά**
+- **evil**, future — passion φόβος ↔ eupatheia εὐλάβεια; present — passion λύπη ↔ eupatheia *(missing)*
 
 A note on the asymmetry: there are only three εὐπάθειαι (instead of four), because [[lype|λύπη]] has no rational correlate — the sage takes nothing in the present to be a genuine evil and so cannot rationally "grieve."
 
