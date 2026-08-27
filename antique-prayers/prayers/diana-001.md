@@ -1,0 +1,53 @@
+---
+sanity_id: prayer-prayer-diana-001
+prayer_id: prayer_diana_001
+slug: prayer-diana-001
+culture: roman
+form: literary
+period: 2nd c. AD
+provenance: ancient
+original_lang:
+source:
+  author: Apuleius
+  work: Metamorphoses
+  section: 11.2
+occasion:
+deities:
+  - Diana
+  - Isis
+sphere:
+  - personal
+functions:
+  - petition
+  - invocation
+themes:
+  - Ephesus
+  - Lucius
+  - transformation
+  - misery
+  - moon
+  - universal goddess
+featured: false
+created: '2026-04-20T14:35:36.944Z'
+status: imported
+---
+
+## Оригинал
+
+
+
+
+## Русский
+
+
+
+
+## Английский
+
+Diana, who are the sister of the God Phoebus, who nourishes so many people by the generation of beasts, and are now adored at the sacred places of Ephesus — You who is worshipped in divers manners, and does illuminate all the borders of the earth by Your feminine shape, You which nourishes all the fruits of the world by Your vigor and force; with whatsoever name or fashion it is lawful to call upon You, I pray You end my great travail and misery, and deliver me from the wretched fortune, which has for so long a time pursued me. Grant peace and rest if it please You to reply to my entreaties, for I have endured too much labor and peril.
+
+
+## Комментарий
+
+
+## Commentary

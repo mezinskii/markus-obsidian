@@ -1,0 +1,53 @@
+---
+sanity_id: prayer-prayer-greek-telesphoros-001
+prayer_id: prayer_greek_telesphoros_001
+slug: prayer-greek-telesphoros-001
+culture: greek
+form: ritual
+period: Hellenistic
+provenance: ancient
+original_lang:
+source:
+  author: Anonymous
+  work: Devotional Hymn to Telesphoros
+  section:
+occasion:
+deities:
+  - Telesphoros
+  - Asklepios
+sphere:
+  - healing
+functions:
+  - praise
+  - invocation
+themes:
+  - recovery
+  - Epidaurus
+  - Asklepios
+  - paian
+  - young daimon
+  - light after illness
+featured: true
+created: '2026-04-20T15:26:44.347Z'
+status: imported
+---
+
+## Оригинал
+
+
+
+
+## Русский
+
+
+
+
+## Английский
+
+We praise you, O' Makar, who illuminates all mortals, giver of all inner strength. You, who was created by Paian, glorious Telesphore, it is you who the Êpidaurians honour with songs of protection, as they call enthusiastically upon King Akesin because he heals people from brutal pain. But we do not only sing your praise, Telesphoros, but also for long-haired Paian, who brings healing to life. Io Makar, Bakkhos Himself. Telesphoros, we praise your virtues, imperishable young shoot of Asklepios, all-wise son of the god who heals all pain, illustrious Daimon, lift the generations of mortals from their weariness, repelling painful disease. The long-haired Paian is overjoyed to have you, young shoot, many times you lead mortals into the beautiful light after baneful illness. Khaire, Telesphoros, precious healer, bring laughter, befitting the sacred joy, to our faces.
+
+
+## Комментарий
+
+
+## Commentary

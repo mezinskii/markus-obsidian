@@ -1,0 +1,53 @@
+---
+sanity_id: prayer-prayer-apollo-024
+prayer_id: prayer_apollo_024
+slug: prayer-apollo-024
+culture: roman
+form: literary
+period: 1st c. BC
+provenance: ancient
+original_lang:
+source:
+  author: Tibullus
+  work: Elegiae
+  section: '2.5.1-4; 122-123'
+occasion:
+deities:
+  - Apollo
+sphere:
+  - personal
+  - arts
+functions:
+  - petition
+  - invocation
+  - praise
+themes:
+  - priest
+  - lyre
+  - poetry
+  - Diana
+  - inspiration
+featured: false
+created: '2026-04-20T14:35:36.943Z'
+status: imported
+---
+
+## Оригинал
+
+
+
+
+## Русский
+
+
+
+
+## Английский
+
+Give your favour, Phoebus, to a new priest who enters your temple. Be gracious, and with songs and lyre, come! When your fingers pluck the chords, and you give voice to song, I pray you may inspire my words into your praises. May your hair be ever flowing, Phoebus; may your sister be forever chaste.
+
+
+## Комментарий
+
+
+## Commentary

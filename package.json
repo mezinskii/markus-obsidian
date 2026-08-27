@@ -6,7 +6,10 @@
     "marcus:build": "tsx marcus-aurelius/scripts/build.ts",
     "marcus:to-sanity": "tsx marcus-aurelius/scripts/to-sanity.ts",
     "marcus:upload": "tsx marcus-aurelius/scripts/upload.ts",
-    "marcus:all": "npm run marcus:build && npm run marcus:to-sanity && npm run marcus:upload"
+    "marcus:all": "npm run marcus:build && npm run marcus:to-sanity && npm run marcus:upload",
+    "prayers:export": "tsx antique-prayers/scripts/from-sanity.ts",
+    "prayers:check": "tsx antique-prayers/scripts/check.ts",
+    "prayers:to-sanity": "tsx antique-prayers/scripts/to-sanity.ts"
   },
   "devDependencies": {
     "@sanity/client": "^7.20.0",

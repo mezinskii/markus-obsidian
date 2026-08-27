@@ -1,0 +1,52 @@
+---
+sanity_id: prayer-prayer-neptunus-002
+prayer_id: prayer_neptunus_002
+slug: prayer-neptunus-002
+culture: roman
+form: literary
+period: Augustan
+provenance: ancient
+original_lang:
+source:
+  author: Ovid
+  work: Metamorphoses
+  section: 8.595-602
+occasion:
+deities:
+  - Neptunus
+sphere:
+  - personal
+  - navigation
+functions:
+  - petition
+  - invocation
+themes:
+  - trident
+  - waves
+  - nymph transformation
+  - salvation
+  - 'father''s cruelty'
+featured: false
+created: '2026-04-20T14:50:07.562Z'
+status: imported
+---
+
+## Оригинал
+
+
+
+
+## Русский
+
+
+
+
+## Английский
+
+O Neptune, who reigns over the realm of wandering waves, Bearer of the Trident, come to our aid, I pray, and undo her father's savagery. Neptune, grant her a safe haven, or else allow her to become a place herself, to live forever as one of Your nymphs.
+
+
+## Комментарий
+
+
+## Commentary

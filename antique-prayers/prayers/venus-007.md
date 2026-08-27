@@ -1,0 +1,53 @@
+---
+sanity_id: prayer-prayer-venus-007
+prayer_id: prayer_venus_007
+slug: prayer-venus-007
+culture: roman
+form: literary
+period: Augustan
+provenance: ancient
+original_lang:
+source:
+  author: Virgil
+  work: Catalepton
+  section: 14
+occasion:
+deities:
+  - Venus
+sphere:
+  - arts
+  - civic
+functions:
+  - petition
+  - dedication
+themes:
+  - Paphos
+  - Idalium
+  - Aeneas
+  - temple
+  - bull sacrifice
+  - Amor
+featured: false
+created: '2026-04-20T14:50:07.562Z'
+status: imported
+---
+
+## Оригинал
+
+
+
+
+## Русский
+
+
+
+
+## Английский
+
+If I am to further my undertaking, to traverse all the world, O Venus, who dwells in Paphos and in Idalian groves, so that Trojan Aeneas is thought worthy at last to sail with You in song through Roman towns, not only with incense or painted tablet shall I adorn Your temple, and with pure hands bring You garlands, but a humble offering of a horned ram and a bull, the greatest sacrifice, their blood a priest shall sprinkle into the fire of an altar erected in Your honor.
+
+
+## Комментарий
+
+
+## Commentary
