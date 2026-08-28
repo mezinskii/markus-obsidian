@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Georgics
@@ -38,6 +38,14 @@ status: imported
 
 
 
+
+
+Liber et alma Ceres, vestro si munere tellus
+Chaoniam pingui glandem mutavit arista,
+poculaque inventis Acheloia miscuit uvis;
+et vos, agrestum praesentia numina, Fauni
+(ferte simul Faunique pedem Dryadesque puellae:
+munera vestra cano).
 
 ## Русский
 

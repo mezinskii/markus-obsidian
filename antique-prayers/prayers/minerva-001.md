@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Cicero
   work: De Domo sua ad Pontifices
@@ -34,6 +34,9 @@ status: imported
 
 
 
+
+
+et te, custos urbis, Minerva, quae semper adiutrix consiliorum meorum, testis laborum exstitisti, precor atque quaeso.
 
 ## Русский
 

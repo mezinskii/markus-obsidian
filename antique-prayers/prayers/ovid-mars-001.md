@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: early 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -36,6 +36,10 @@ status: imported
 
 
 
+
+
+Bellice, depositis clipeo paulisper et hasta,
+Mars, ades et nitidas casside solve comas.
 
 ## Русский
 

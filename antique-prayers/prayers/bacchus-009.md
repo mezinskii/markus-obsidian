@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Propertius
   work: Elegiae
-  section: 3.17.1-20
+  section: '3.17.1-10'
 occasion:
 deities:
   - Bacchus
@@ -38,6 +38,18 @@ status: imported
 
 
 
+
+
+Nunc, o Bacche, tuis humiles advolvimur aris:
+da mihi pacato vela secunda, pater.
+tu potes insanae Veneris compescere fastus,
+curarumque tuo fit medicina mero.
+per te iunguntur, per te solvuntur amantes:
+tu vitium ex animo dilue, Bacche, meo.
+te quoque enim non esse rudem testatur in astris
+lyncibus ad caelum vecta Ariadna tuis.
+hoc mihi, quod veteres custodit in ossibus ignes,
+funera sanabunt aut tua vina malum.
 
 ## Русский
 

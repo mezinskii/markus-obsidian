@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: early 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -44,6 +44,14 @@ status: imported
 
 
 
+
+
+«condenti, Iuppiter, urbem,
+et genitor Mavors Vestaque mater, ades,
+quosque pium est adhibere deos, advertite cuncti:
+auspicibus vobis hoc mihi surgat opus.
+longa sit huic aetas dominaeque potentia terrae,
+sitque sub hac oriens occiduusque dies».
 
 ## Русский
 

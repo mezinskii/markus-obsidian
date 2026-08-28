@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Apuleius
   work: Metamorphoses
@@ -35,6 +35,9 @@ status: imported
 
 
 
+
+
+Per ego te frugiferam tuam dexteram istam deprecor per laetificas messium caerimonias per tacita secreta cistarum et per famulorum tuorum draconum pinnata curricula et glebae Siculae sulcamina et currum rapacem et terram tenacem et inluminarum Proserpinae nuptiarum demeacula et luminosarum filiae inventionum remeacula et cetera quae silentio tegit Eleusinis Atticae sacrarium, miserandae Psyches animae supplicis tuae subsiste. Inter istam spicarum congeriem patere vel pauculos dies delitescam, quoad deae tantae saeviens ira spatio temporis mitigetur vel certe meae vires diutino labore fessae quietis intervallo leniantur.
 
 ## Русский
 

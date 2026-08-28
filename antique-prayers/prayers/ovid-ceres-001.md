@@ -6,11 +6,11 @@ culture: roman
 form: hymn
 period: early 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Metamorphoses
-  section: 5.341 ff
+  section: '5.341-343'
 occasion: 'the Muse Calliope''s hymnic prelude to the song of Ceres in the singing-contest of Metamorphoses 5'
 deities:
   - Ceres
@@ -38,6 +38,11 @@ status: imported
 
 
 
+
+
+Prima Ceres unco glaebam dimovit aratro,
+prima dedit fruges alimentaque mitia terris,
+prima dedit leges; Cereris sunt omnia munus.
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+cur, quamvis aliorum numina placem,
+Iane, tibi primum tura merumque fero?
 
 ## Русский
 

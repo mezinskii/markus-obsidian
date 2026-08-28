@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period: late 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Martial
   work: Epigrammata
-  section: 5.7.5
+  section: '5.7.5-8'
 occasion: plea to Vulcanus to forget grievances against Rome (the children of Mars) and to spare the city as descendants also of his wife Venus
 deities:
   - Vulcanus
@@ -43,6 +43,12 @@ status: imported
 
 
 
+
+
+Iam, precor, oblitus notae, Vulcane, querelae,
+parce: sumus Martis turba, sed et Veneris;
+parce, pater: sic Lemniacis lasciva catenis
+ignoscat coniunx et patienter amet.
 
 ## Русский
 

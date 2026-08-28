@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: late 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
@@ -39,6 +39,14 @@ status: imported
 
 
 
+
+
+sive neglectum genus et nepotes
+respicis, auctor,
+heu nimis longo satiate ludo,
+quem iuvat clamor galeaeque leves,
+acer et Mauri peditis cruentum
+voltus in hostem.
 
 ## Русский
 

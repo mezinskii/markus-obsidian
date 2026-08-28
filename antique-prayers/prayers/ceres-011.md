@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Seneca
   work: Hercules Furens
@@ -33,6 +33,11 @@ status: imported
 
 
 
+
+
+tibi, frugum potens,
+secreta reddam sacra: tibi muta fide
+longas Eleusin tacita iactabit faces.
 
 ## Русский
 

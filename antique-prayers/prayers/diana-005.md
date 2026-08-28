@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Grattius Faliscus
   work: Cynegetica
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+
+Dona cano divum, laetas venantibus artis,
+auspicio, Diana, tuo.
 
 ## Русский
 

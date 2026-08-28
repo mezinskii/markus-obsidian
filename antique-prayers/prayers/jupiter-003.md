@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Cicero
   work: De Domo sua ad Pontifices
@@ -33,6 +33,9 @@ status: imported
 
 
 
+
+
+te, Capitoline, quem propter beneficia populus Romanus optimum, propter vim maximum nominavit.
 
 ## Русский
 

@@ -5,7 +5,7 @@ slug: prayer-carmenta-007
 culture: roman
 form: ritual
 period: Archaic
-provenance: ancient
+provenance: modern
 original_lang:
 source:
   author: Anonymous
@@ -49,5 +49,8 @@ Hail, Carmentis, Goddess of song and prophecy. From Your father Sebathus, Telon,
 
 ## Комментарий
 
+
+
+Провенанс исправлен с ancient на modern. «Ritus Carmentis» — не античное сочинение: под этим названием ходят современные реконструкции обряда Карменталий (Nova Roma), собранные по разрозненным местам Вергилия и Овидия. Дословного античного оригинала у текста нет и не будет.
 
 ## Commentary

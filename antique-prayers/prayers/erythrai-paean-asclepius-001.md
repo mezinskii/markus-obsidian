@@ -6,6 +6,7 @@ culture: greek
 form: hymn
 period: Greek (BC, exact date uncertain)
 provenance: ancient
+original_unavailable: 'издано в Greek Lyric V (Campbell, Loeb); открытой оцифровки античного текста не найдено'
 original_lang:
 source:
   author: Anonymous (inscription from Erythrai)

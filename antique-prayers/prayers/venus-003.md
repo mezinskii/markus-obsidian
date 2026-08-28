@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+
+Intermissa, Venus, diu
+rursus bella moves? Parce precor, precor.
 
 ## Русский
 

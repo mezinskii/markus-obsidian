@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Cicero
   work: De Domo sua ad Pontifices
@@ -35,6 +35,14 @@ status: imported
 
 
 
+
+
+
+teque, Vesta mater, cuius castissimas sacerdotes ab hominum amentium furore et scelere defendi, cuiusque ignem illum sempiternum non sum passus aut sanguine civium restingui aut cum totius urbis incendio commisceri,
+
+[…]
+
+vos sum testatus, vobis me ac meos commendavi, meque atque meum caput ea condicione devovi ut, si et eo ipso tempore et ante in consulatu meo commodis meis omnibus, emolumentis, praemiis praetermissis cura, cogitatione, vigiliis omnibus nihil nisi de salute meorum civium laborassem, tum mihi re publica aliquando restituta liceret frui, sin autem mea consilia patriae non profuissent, ut perpetuum dolorem avulsus a meis sustinerem: hanc ego devotionem capitis mei, cum ero in meas sedis restitutus, tum denique convictam esse et commissam putabo.
 
 ## Русский
 

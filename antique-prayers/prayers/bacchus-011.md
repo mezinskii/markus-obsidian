@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tibullus
   work: Elegiae
@@ -34,6 +34,12 @@ status: imported
 
 
 
+
+
+Candide Liber, ades — sic sit tibi mystica vitis
+semper, sic hedera tempora vincta feras —
+aufer et, ipse, meum, pariter medicande, dolorem:
+saepe tuo cecidit munere victus amor.
 
 ## Русский
 

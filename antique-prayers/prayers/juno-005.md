@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Seneca
   work: Hercules on Oeta
@@ -33,6 +33,15 @@ status: imported
 
 
 
+
+
+Quamcumque partem sedis aetheriae premis,
+coniunx Tonantis, mitte in Alciden feram
+quae mihi satis sit. si qua fecundum caput
+palude tota vastior serpens movet,
+ignara vinci, si quid excessit feras
+immane dirum horribile, quo viso Hercules
+avertat oculos, hoc specu immenso exeat.
 
 ## Русский
 

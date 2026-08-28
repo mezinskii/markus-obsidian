@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tibullus
   work: Elegiae
@@ -36,6 +36,19 @@ status: imported
 
 
 
+
+
+Sed patrii servate Lares: aluistis et idem,
+Cursarem vestros cum tener ante pedes.
+Neu pudeat prisco vos esse e stipite factos:
+Sic veteris sedes incoluistis avi.
+Tum melius tenuere fidem, cum paupere cultu
+Stabat in exigua ligneus aede deus.
+Hic placatus erat, seu quis libaverat uva,
+Seu dederat sanctae spicea serta comae,
+Atque aliquis voti compos liba ipse ferebat
+Postque comes purum filia parva favum.
+At nobis aerata, Lares, depellite tela.
 
 ## Русский
 

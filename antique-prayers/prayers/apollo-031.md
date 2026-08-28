@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -38,6 +38,29 @@ status: imported
 
 
 
+
+
+Phoebe, gravis Troiae semper miserate labores,
+Dardana qui Paridis derexti tela manusque
+corpus in Aeacidae, magnas obeuntia terras
+tot maria intravi duce te penitusque repostas
+Massylum gentis praetentaque Syrtibus arva:
+iam tandem Italiae fugientis prendimus oras.
+hac Troiana tenus fuerit fortuna secuta;
+vos quoque Pergameae iam fas est parcere genti,
+dique deaeque omnes, quibus obstitit Ilium et ingens
+gloria Dardaniae. tuque, o sanctissima vates,
+praescia venturi, da (non indebita posco
+regna meis fatis) Latio considere Teucros
+errantisque deos agitataque numina Troiae.
+tum Phoebo et Triviae solido de marmore templum
+instituam festosque dies de nomine Phoebi.
+te quoque magna manent regnis penetralia nostris:
+hic ego namque tuas sortis arcanaque fata
+dicta meae genti ponam, lectosque sacrabo,
+alma, viros. foliis tantum ne carmina manda,
+ne turbata volent rapidis ludibria ventis;
+ipsa canas oro.
 
 ## Русский
 

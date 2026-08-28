@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Apuleius
   work: Metamorphoses
@@ -36,6 +36,13 @@ status: imported
 
 
 
+
+
+Regina caeli, — sive tu Ceres alma frugum parens originalis, quae, repertu laetata filiae, vetustae glandis ferino remoto pabulo, miti commonstrato cibo nunc Eleusiniam glebam percolis,
+
+[…]
+
+quoquo nomine, quoquo ritu, quaqua facie te fas est invocare: tu meis iam nunc extremis aerumnis subsiste, tu fortunam collapsam adfirma, tu saevis exanclatis casibus pausam pacemque tribue; sit satis laborum, sit satis periculorum. Depelle quadripedis diram faciem, redde me conspectui meorum, redde me meo Lucio, ac si quod offensum numen inexorabili me saevitia premit, mori saltem liceat, si non licet vivere.
 
 ## Русский
 

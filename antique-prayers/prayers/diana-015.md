@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period:
 provenance: ancient
-original_lang:
+original_lang: la
 source:
-  author: Servius Honoratus
-  work: Ad Aeneis
-  section: 1.33
+  author: Virgil
+  work: Aeneid
+  section: 1.329-330
 occasion:
 deities:
   - Diana
@@ -35,6 +35,12 @@ status: imported
 
 
 
+
+[…]
+an Phoebi soror? an nympharum sanguinis una?
+sis felix, nostrumque leves, quaecumque, laborem,
+[…]
+
 ## Русский
 
 
@@ -47,5 +53,10 @@ Whoever you may be, whether Diana or a Nymph, may You favor us and lighten our l
 
 ## Комментарий
 
+«Энеида» I.329-330. Атрибуция в карточке была неверной: значился Сервий, комментатор, но слова принадлежат Вергилию. Строка 33 первой книги, на которую вела ссылка, — «tantae molis erat Romanam condere gentem», к Диане отношения не имеющая.
+
+Говорит Эней, встретив в ливийском лесу деву-охотницу: «сестра ли Феба ты, или одна из рода нимф? Будь благосклонна и облегчи наш труд, кто бы ты ни была». Английское «Diana» — толкование выражения «Phoebi soror», в латыни имени нет.
+
+**Молитва обращена не к Диане.** Охотница — это Венера, явившаяся сыну неузнанной, и Эней об этом не знает; он перебирает возможности вслепую. Перед нами редкий случай — обращение к божеству, чьё имя молящемуся неизвестно, отсюда и «quaecumque», «кто бы ты ни была». Поле deities оставлено как есть, но читать его нужно с этой оговоркой.
 
 ## Commentary

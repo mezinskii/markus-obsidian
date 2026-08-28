@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Valerius Flaccus
   work: Argonautica
@@ -34,6 +34,12 @@ status: imported
 
 
 
+
+
+haec tibi fatorum, genitor, tutela meorum,
+omnituens, tua nunc terris, tua lumina toto
+sparge mari. seu nostra dolos molitur opertos
+sive externa manus, primus mihi nuntius esto.
 
 ## Русский
 

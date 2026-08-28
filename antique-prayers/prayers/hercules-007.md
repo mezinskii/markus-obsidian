@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+
+salve, vera Iovis proles, decus addite divis,
+et nos et tua dexter adi pede sacra secundo.
 
 ## Русский
 

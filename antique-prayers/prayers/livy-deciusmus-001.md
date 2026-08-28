@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: late 1st c. BC (recording events of 340 BC)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
@@ -57,6 +57,9 @@ status: imported
 
 
 
+
+
+Iane, Iuppiter, Mars pater, Quirine, Bellona, Lares, Divi Novensiles, Di Indigetes, Divi, quorum est potestas nostrorum hostiumque, Dique Manes, vos precor veneror, veniam peto feroque, uti populo Romano Quiritium vim victoriam prosperetis hostesque populi Romani Quiritium terrore formidine morteque adficiatis. Sicut verbis nuncupavi, ita pro re publica populi Romani Quiritium, exercitu, legionibus, auxiliis populi Romani Quiritium, legiones auxiliaque hostium mecum Deis Manibus Tellurique devoveo.
 
 ## Русский
 

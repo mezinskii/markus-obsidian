@@ -6,6 +6,7 @@ culture: roman
 form: ritual
 period: 2nd c. BC
 provenance: ancient
+original_unavailable: 'формулы к Церере в Cato Agr. 134 не существует; английский — реконструкция по образцу Янусовой'
 original_lang:
 source:
   author: Cato
@@ -53,5 +54,8 @@ Ceres Mater, for the same reasons given in the good prayers I prayed while offer
 
 ## Комментарий
 
+
+
+Дословного оригинала не существует. У Катона в De Agricultura 134 развёрнутая формула с bonas preces обращена к Янусу и к Юпитеру; о Церере сказано лишь, что ей приносят внутренности и вино. Английский текст карточки — реконструкция формулы по образцу Янусовой. Раздел «Оригинал» намеренно оставлен пустым; карточка помечена original_unavailable.
 
 ## Commentary

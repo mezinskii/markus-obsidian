@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Plautus
   work: Mercator
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+Apollo, quaeso te, ut des pacem propitius,
+salutem et sanitatem nostrae familiae.
 
 ## Русский
 

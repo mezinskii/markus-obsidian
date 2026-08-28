@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+tu, dea, tu praesens nostro succurre labori,
+astrorum decus et nemorum Latonia custos.
 
 ## Русский
 

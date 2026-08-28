@@ -6,11 +6,11 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
-  section: VI.32323, lines 105-107
+  section: 'CIL VI 32323, Iuppiter O.M.'
 occasion: Ludi Saeculares
 deities:
   - Jupiter
@@ -35,6 +35,9 @@ status: imported
 
 
 
+
+
+Iuppiter Optime Maxime ut[i t]ibi in illeis libreis scriptum est quarumque rerum [ergo] quodque melius siet populo R(omano) Quiritibus tibi hoc bov[e] mare pulchro sacrum fiat te quaeso precorque ceter[a u]ti supra.
 
 ## Русский
 

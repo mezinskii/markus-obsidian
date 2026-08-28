@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 2nd c. AD (preserving archaic formula)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Aulus Gellius
   work: Noctes Atticae
@@ -38,6 +38,9 @@ status: imported
 
 
 
+
+
+Neria Martis, te obsecro, pacem da, te uti liceat nuptiis propriis et prosperis uti, quod de tui coniugis consilio contigit, uti nos itidem integras raperent, unde liberos sibi et suis, posteros patriae pararent.
 
 ## Русский
 

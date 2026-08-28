@@ -6,6 +6,7 @@ culture: greek
 form: ritual
 period: Hellenistic
 provenance: ancient
+original_unavailable: 'редкий текст, открытой оцифровки не найдено'
 original_lang:
 source:
   author: Anonymous

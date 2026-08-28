@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period:
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae
-  section: X.3796
+  section: 'CIL X 3796'
 occasion:
 deities:
   - Diana
@@ -34,6 +34,12 @@ status: imported
 
 
 
+
+
+Incola Tifatae venatibus incluta virgo,
+haec Latona tuis statuit miracula templis,
+cunctis notus homo silvarum cultor et ipse,
+laudibus inmensis vitae qui servat honorem.
 
 ## Русский
 

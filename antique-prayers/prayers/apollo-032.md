@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -36,6 +36,17 @@ status: imported
 
 
 
+
+
+summe deum, sancti custos Soractis Apollo,
+quem primi colimus, cui pineus ardor acervo
+pascitur, et medium freti pietate per ignem
+cultores multa premimus vestigia pruna,
+da, pater, hoc nostris aboleri dedecus armis,
+omnipotens. non exuvias pulsaeve tropaeum
+virginis aut spolia ulla peto, mihi cetera laudem
+facta ferent; haec dira meo dum vulnere pestis
+pulsa cadat, patrias remeabo inglorius urbes.
 
 ## Русский
 

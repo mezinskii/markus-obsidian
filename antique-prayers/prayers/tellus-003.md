@@ -6,11 +6,11 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
-  section: VI.32323, lines 136-137
+  section: 'CIL VI 32323, Terra Mater'
 occasion: Ludi Saeculares
 deities:
   - Tellus
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+Terra Mater uti tibi in ill[is libris scriptum est quarumque rerum ergo quodque melius siet p(opulo) R(omano) Quiritibus]
+uti tibi sue plena propri[a sacrum fiat te quaeso precorque c]etera [uti supra].
 
 ## Русский
 

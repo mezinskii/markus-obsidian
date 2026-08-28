@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Georgics
@@ -35,6 +35,15 @@ status: imported
 
 
 
+
+
+nunc te, Bacche, canam, nec non silvestria tecum
+virgulta et prolem tarde crescentis olivae.
+huc, pater o Lenaee: tuis hic omnia plena
+muneribus, tibi pampineo gravidus autumno
+floret ager, spumat plenis vindemia labris;
+huc, pater o Lenaee, veni, nudataque musto
+tinge novo mecum dereptis crura coturnis.
 
 ## Русский
 

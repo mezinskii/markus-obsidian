@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period:
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Numisia Afrodite
   work: Corpus Inscriptiones Latinae
-  section: VI.286
+  section: 'CIL VI 286'
 occasion:
 deities:
   - Hercules
@@ -33,6 +33,9 @@ status: imported
 
 
 
+
+
+Numisia Afrodite pro salute fili(i) m{a}ei et meorum donum Herculi posui.
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+
+dicite «tu nobis lucem, Lucina, dedisti»;
+dicite «tu voto parturientis ades».
 
 ## Русский
 

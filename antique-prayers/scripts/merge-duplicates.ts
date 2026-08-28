@@ -80,6 +80,15 @@ async function main() {
   for (const p of pairs) {
     const keepPath = join(DIR, `${p.keep}.md`)
     const remPath = join(DIR, `${p.remove}.md`)
+
+    // duplicates.json is an append-only record of the judgement calls, so most
+    // entries are already applied on any later run. Skip those instead of
+    // failing, and re-merging is then safe.
+    if (await readFile(join(GONE, `${p.remove}.md`), 'utf8').then(() => true, () => false)) {
+      console.log(`· ${p.remove} — уже изъят, пропуск`)
+      continue
+    }
+
     const keepRaw = await readFile(keepPath, 'utf8')
     const remRaw = await readFile(remPath, 'utf8')
     const K = matter(keepRaw), R = matter(remRaw)

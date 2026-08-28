@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: Archaic
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Varro
   work: Lingua Latina / Carmen Salii
@@ -34,6 +34,12 @@ status: imported
 
 
 
+
+
+Cozeui oborieso.
+Omnia vero ad Patulcium commissei.
+Ianeus iam es, duonus Cerus es, duonus Ianus.
+Venies potissimum melios eum recum ***
 
 ## Русский
 

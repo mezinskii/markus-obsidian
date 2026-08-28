@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 4th c. BC (recorded by Livy)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
@@ -36,6 +36,9 @@ status: imported
 
 
 
+
+
+Iuppiter optime maxime Iunoque regina ac Minerva ceterique di deaeque, qui Capitolium arcemque incolitis, sicine vestrum militem ac praesidem sinitis vexari ab inimicis?
 
 ## Русский
 

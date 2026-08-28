@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: late 1st c. BC (describing events of 204 BC)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
@@ -39,6 +39,9 @@ status: imported
 
 
 
+
+
+divi divaeque qui maria terrasque colitis, vos precor quaesoque uti quae in meo imperio gesta sunt geruntur postque gerentur, ea mihi populo plebique Romanae sociis nominique Latino qui populi Romani quique meam sectam imperium auspiciumque terra mari amnibusque sequuntur bene verruncent, eaque vos omnia bene iuvetis, bonis auctibus auxitis; salvos incolumesque victis perduellibus victores spoliis decoratos praeda onustos triumphantesque mecum domos reduces sistatis; inimicorum hostiumque ulciscendorum copiam faxitis; quaeque populus Carthaginiensis in civitatem nostram facere molitus est, ea ut mihi populoque Romano in civitatem Carthaginiensium exempla edendi facultatem detis.
 
 ## Русский
 

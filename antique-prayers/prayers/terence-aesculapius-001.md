@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Terence
   work: Hecyra
@@ -36,6 +36,9 @@ status: imported
 
 
 
+
+
+quod te, Aesculapi, et te, Salus, nequid sit huius oro.
 
 ## Русский
 

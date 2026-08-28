@@ -5,7 +5,7 @@ slug: prayer-carmenta-010
 culture: roman
 form: personal
 period: Archaic
-provenance: ancient
+provenance: modern
 original_lang: la
 source:
   author: Anonymous
@@ -48,5 +48,8 @@ Grant her the strength, Carmentis, to whom I ask, to whom I pray; extend your as
 
 ## Комментарий
 
+
+
+Провенанс исправлен с ancient на modern. «Ritus Carmentis» — не античное сочинение: под этим названием ходят современные реконструкции обряда Карменталий (Nova Roma), собранные по разрозненным местам Вергилия и Овидия. Дословного античного оригинала у текста нет и не будет.
 
 ## Commentary

@@ -6,7 +6,7 @@ culture: greek
 form: hymn
 period: archaic Greek (7th-6th c. BC)
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
@@ -39,6 +39,15 @@ status: imported
 
 
 
+
+
+Ἀμφὶ Ποσειδάωνα μέγαν θεὸν ἄρχομ' ἀείδειν
+γαίης κινητῆρα καὶ ἀτρυγέτοιο θαλάσσης
+πόντιον, ὅσθ' Ἑλικῶνα καὶ εὐρείας ἔχει Αἰγάς.
+διχθά τοι Ἐννοσίγαιε θεοὶ τιμὴν ἐδάσαντο
+ἵππων τε δμητῆρ' ἔμεναι σωτῆρά τε νηῶν.
+Χαῖρε Ποσείδαον γαιήοχε κυανοχαῖτα,
+καὶ μάκαρ εὐμενὲς ἦτορ ἔχων πλώουσιν ἄρηγε.
 
 ## Русский
 

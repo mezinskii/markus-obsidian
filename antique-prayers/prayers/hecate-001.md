@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -34,6 +34,12 @@ status: imported
 
 
 
+
+
+nocturnisque Hecate triviis ululata per urbes
+et Dirae ultrices et di morientis Elissae,
+accipite haec, meritumque malis advertite numen
+et nostras audite preces.
 
 ## Русский
 

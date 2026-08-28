@@ -6,11 +6,11 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
-  section: VI.32323, lines 121-122
+  section: 'CIL VI 32323, Iuno Regina'
 occasion: Ludi Saeculares 17 BCE
 deities:
   - Juno
@@ -35,6 +35,9 @@ status: imported
 
 
 
+
+
+Iuno Regina uti tibi in illis [l]ibris scriptum est quarumque rerum [ergo quodque melius siet p(opulo) R(omano) Quiritibus] tibi bove femina pulchra s[a]crum fiat te quaeso precorqu[e cetera uti supra].
 
 ## Русский
 

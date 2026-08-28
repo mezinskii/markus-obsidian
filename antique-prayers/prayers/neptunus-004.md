@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Plautus
   work: Trinummus
@@ -35,6 +35,19 @@ status: imported
 
 
 
+
+
+Salsipotenti et mulsipotenti Iovis fratri et Nerei Neptuno
+laetus lubens laudes ago et grates gratiasque habeo.
+
+[…]
+
+atque ego, Neptune, tibi ante alios deos
+gratias ago atque habeo summas.
+
+[…]
+
+abi, laudo, scis ordine, ut aequomst, tractare homines; hoc dis dignumst.
 
 ## Русский
 

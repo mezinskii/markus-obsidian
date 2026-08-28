@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
@@ -34,6 +34,11 @@ status: imported
 
 
 
+
+
+olim te, Cirrhaee pater, peritura sedentem
+ad iuga (quis tantus miseris honor?) axe trementi
+sensimus; instantes quonam usque morabere manes?
 
 ## Русский
 

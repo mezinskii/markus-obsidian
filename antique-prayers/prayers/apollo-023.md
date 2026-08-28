@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
@@ -36,6 +36,17 @@ status: imported
 
 
 
+
+
+Phoebe, tibi exuvias monstratae praemia noctis
+nondum ablutus aquis (tibi enim haec ego sacra litavi)
+trado ferus miles tripodum fidusque sacerdos.
+si non dedecui tua iussa tulique prementem,
+saepe veni, saepe hanc dignare inrumpere mentem.
+nunc tibi crudus honos, trunca arma cruorque virorum:
+at patrias si quando domos optataque, Paean,
+templa, Lycie, dabis, tot ditia dona sacratis
+postibus et totidem voti memor exige tauros.
 
 ## Русский
 

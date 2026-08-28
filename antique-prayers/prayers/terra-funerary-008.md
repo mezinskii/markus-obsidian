@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st-2nd c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Juvenal
   work: Satires
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+
+di maiorum umbris tenuem et sine pondere terram
+spirantisque crocos et in urna perpetuum ver.
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: early 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Velleius Paterculus
   work: Historiae Romanae
@@ -41,6 +41,9 @@ status: imported
 
 
 
+
+
+Iuppiter Capitoline, et auctor ac stator Romani nominis Gradive Mars, perpetuorumque custos Vesta ignium et quidquid numinum hanc Romani imperii molem in amplissimum terrarum orbis fastigium extulit, vos publica voce obtestor atque precor: custodite, servate, protegite hunc statum, hanc pacem, hunc principem, eique functo longissima statione mortali destinate successores quam serissimos, sed eos, quorum cervices tam fortiter sustinendo terrarum orbis imperio sufficiant, quam huius suffecisse sensimus, consiliaque omnium civium aut pia fovete aut impia opprimite.
 
 ## Русский
 

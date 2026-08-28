@@ -6,6 +6,7 @@ culture: greek
 form: ritual
 period: Hellenistic
 provenance: ancient
+original_unavailable: 'надпись, издана в специальном собрании; открытой оцифровки не найдено'
 original_lang:
 source:
   author: Amphepoleites of Macedon

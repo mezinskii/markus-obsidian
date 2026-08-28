@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: Regal period (recorded by Livy)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
@@ -37,6 +37,9 @@ status: imported
 
 
 
+
+
+Iuppiter, tuis iussus avibus hic in Palatio prima urbi fundamenta ieci. Arcem iam scelere emptam Sabini habent; inde huc armati superata media valle tendunt; at tu, pater deum hominumque, hinc saltem arce hostes; deme terrorem Romanis fugamque foedam siste. Hic ego tibi templum Statori Iovi, quod monumentum sit posteris tua praesenti ope servatam urbem esse, voveo.
 
 ## Русский
 

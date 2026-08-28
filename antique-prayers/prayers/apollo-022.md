@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
@@ -32,6 +32,12 @@ status: imported
 
 
 
+
+
+si licet et sanctis hic ora resolvere fas est
+manibus, o cunctis finitor maxime rerum
+(at mihi, qui quondam causas elementaque noram,
+et sator), oro, minas stimulataque corda remulce.
 
 ## Русский
 

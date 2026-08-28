@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Valerius Flaccus
   work: Argonautica
@@ -36,6 +36,11 @@ status: imported
 
 
 
+
+
+Phoebe, mone, si Cumaeae mihi conscia vatis
+stat casta cortina domo, si laurea digna
+fronte viret.
 
 ## Русский
 

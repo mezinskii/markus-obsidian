@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
@@ -36,6 +36,16 @@ status: imported
 
 
 
+
+
+Montium custos nemorumque virgo,
+quae laborantis utero puellas
+ter vocata audis adimisque leto,
+diva triformis,
+inminens villae tua pinus esto,
+quam per exactos ego laetus annos
+verris obliquom meditantis ictum
+sanguine donem.
 
 ## Русский
 

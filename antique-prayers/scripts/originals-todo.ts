@@ -7,8 +7,20 @@
  * files into a much shorter list of pages to fetch, and shows which groups are
  * worth doing first.
  *
- * `modern` provenance is excluded from the count that matters — those are
- * present-day reconstructions and no original will ever exist for them.
+ * Two kinds of card are excluded from the count that matters. `modern`
+ * provenance marks present-day reconstructions, for which no original will ever
+ * exist. `original_unavailable` marks a card whose original cannot be attached,
+ * and its reason string says which of two quite different things is meant:
+ *
+ *   - no verbatim text survives — Cato gives the harvest formula to Janus and
+ *     Jupiter and only an instruction for Ceres, so that card's English is a
+ *     reconstruction by analogy and there is nothing to quote;
+ *   - the text exists in print but no open digitisation was found — most of the
+ *     Greek lyric (Campbell, Bergk) and the Latin fragment poets. These may
+ *     become reachable later; the flag is reversible.
+ *
+ * Without the flag such a card sits in the queue for ever, and the queue stops
+ * meaning "still findable".
  *
  * Run: npx tsx antique-prayers/scripts/originals-todo.ts
  */
@@ -27,7 +39,7 @@ const sect = (c: string, h: string) => {
 async function main() {
   const files = (await readdir(DIR)).filter(f => f.endsWith('.md')).sort()
   const groups = new Map<string, {files: string[]; culture: string; prov: string}>()
-  let have = 0, skipModern = 0
+  let have = 0, skipModern = 0, skipNoOriginal = 0
 
   for (const file of files) {
     const {data, content} = matter(await readFile(join(DIR, file), 'utf8'))
@@ -35,6 +47,7 @@ async function main() {
     if (sect(content, 'Оригинал')) { have++; continue }
     const prov = String(fm.provenance ?? '—')
     if (prov === 'modern') { skipModern++; continue }
+    if (fm.original_unavailable) { skipNoOriginal++; continue }
 
     const key = `${String(fm.source?.author ?? '—')} · ${String(fm.source?.work ?? '—')}`
     if (!groups.has(key)) groups.set(key, {files: [], culture: String(fm.culture ?? ''), prov})
@@ -43,7 +56,7 @@ async function main() {
 
   const rows = [...groups.entries()].sort((a, b) => b[1].files.length - a[1].files.length)
   const total = rows.reduce((n, [, v]) => n + v.files.length, 0)
-  console.log(`Оригинал уже есть: ${have}   modern (не будет никогда): ${skipModern}   нужно найти: ${total}`)
+  console.log(`Оригинал уже есть: ${have}   modern (не будет никогда): ${skipModern}   дословного текста нет: ${skipNoOriginal}   нужно найти: ${total}`)
   console.log(`Источников (автор + сочинение): ${rows.length}\n`)
   for (const [key, v] of rows) {
     console.log(`${String(v.files.length).padStart(3)}  ${v.culture === 'greek' ? 'гр' : 'лат'}  ${key}`)

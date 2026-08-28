@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Silvae
@@ -34,6 +34,14 @@ status: imported
 
 
 
+
+
+Ergo age, seu patrios liber iam legibus Argos
+incolis et mersum tumulis Eurysthea calcas,
+sive tui solium Iovis et virtute parata
+astra tenes, haustumque tibi succincta beati
+nectaris excluso melior Phryge porrigit Hebe:
+huc ades et genium templis nascentibus infer.
 
 ## Русский
 

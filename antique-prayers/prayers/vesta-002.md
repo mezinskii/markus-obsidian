@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
-  section: 3.426-428
+  section: '3.425-428'
 occasion:
 deities:
   - Vesta
@@ -33,6 +33,12 @@ status: imported
 
 
 
+
+
+ortus ab Aenea tangit cognata sacerdos
+numina: cognatum, Vesta, tuere caput.
+quos sancta fovet ille manu, bene vivitis, ignes:
+vivite inexstincti, flammaque duxque, precor.
 
 ## Русский
 

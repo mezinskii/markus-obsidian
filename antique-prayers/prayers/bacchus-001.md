@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period:
 provenance: unclear
-original_lang:
+original_lang: la
 source:
   author: Caesius Bassius
   work: Hymn of Callimachus
@@ -35,6 +35,17 @@ status: imported
 
 
 
+
+huc ades, Lyaee,
+Bassareu, bicornis,
+Maenole, bimater,
+crine nitidus ac te
+luteis corymbis
+hedera et e coronis
+hasta viridis armet:
+placidus ades ad aras,
+Bacche, Bacche, Bacche!
+
 ## Русский
 
 
@@ -47,5 +58,10 @@ Come, O Lyaeus, bihorned Bassareus, two-mothered Maenalius, come into this place
 
 ## Комментарий
 
+Девять коротких строк, которые Цезий Басс приводит в трактате «О метрах» как образец итифаллического размера (с. 255 по изданию Кейля). Те же строки цитируют Диомед, Марий Викторин и Теренциан Мавр — значит они ходили по грамматическим руководствам как хрестоматийный пример.
+
+Кто их сочинил, неизвестно. Бэренс прямо оговаривает: неясно, написал ли их сам Цезий Басс для своих «Лирических», перевёл ли с греческого, или взял у более раннего поэта. Отсюда и разнобой в полях карточки, где стоят одновременно Цезий Басс и «гимн Каллимаха».
+
+Зов идёт по именам Вакха подряд: Ликей, Бассарей, двурогий, Менальский, двуматерний, — и завершается троекратным «Bacche, Bacche, Bacche!», как настоящий обрядовый оклик.
 
 ## Commentary

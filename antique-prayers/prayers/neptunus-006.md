@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Silvae
-  section: 3.2.1-49
+  section: '3.2.1-12'
 occasion:
 deities:
   - Neptunus
@@ -34,6 +34,20 @@ status: imported
 
 
 
+
+
+Di quibus audaces amor est servare carinas,
+saevaque ventosi mulcere pericula ponti,
+sternite molle fretum placidumque advertite votis
+concilium, et lenis non obstrepat unda precanti:
+grande tuo rarumque damus, Neptune, profundo,
+depositum; iuvenis dubio committitur alto
+Maecius atque animae partem super aequora nostrae
+maiorem transferre parat. proferte benigna
+sidera et antemnae gemino considite cornu,
+Oebalii fratres; vobis pontusque polusque
+luceat; Iliacae longe nimbosa sororis
+astra fugate, precor, totoque excludite caelo.
 
 ## Русский
 

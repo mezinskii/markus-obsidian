@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Metamorphoses
-  section: 8.595-602
+  section: '8.595-598'
 occasion:
 deities:
   - Neptunus
@@ -35,6 +35,12 @@ status: imported
 
 
 
+
+
+o proxima mundi
+regna vagae, dixi, sortite, Tridentifer, undae,
+adfer opem, mersaeque, precor, feritate paterna
+da, Neptune, locum, vel sit locus ipsa licebit!
 
 ## Русский
 

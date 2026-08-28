@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 4th c. BC (recorded by Livy, 1st c. BC)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
@@ -38,6 +38,9 @@ status: imported
 
 
 
+
+
+Tuo ductu, Pythice Apollo, tuoque numine instinctus pergo ad delendam urbem Veios, tibique hinc decimam partem praedae voveo. Te simul, Iuno regina, quae nunc Veios colis, precor, ut nos victores in nostram tuamque mox futuram urbem sequare, ubi te dignum amplitudine tua templum accipiat.
 
 ## Русский
 

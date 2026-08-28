@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Plautus
   work: Rudens
@@ -34,6 +34,14 @@ status: imported
 
 
 
+
+
+Neptuno has ago gratias meo patrono,
+qui salsis locis incolit pisculentis,
+quom me ex suis locis pulchre ornatum expedivit
+templis reducem, plurima praeda onustum,
+salute horiae, quae in mari fluctuoso
+piscatu novo me uberi compotivit.
 
 ## Русский
 

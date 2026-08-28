@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tacitus
   work: Annales
@@ -35,6 +35,9 @@ status: imported
 
 
 
+
+
+«libamus», inquit, «Iovi liberatori. specta, iuvenis; et omen quidem dii prohibeant, ceterum in ea tempora natus es quibus firmare animum expediat constantibus exemplis».
 
 ## Русский
 

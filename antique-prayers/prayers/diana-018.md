@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
@@ -36,6 +36,13 @@ status: imported
 
 
 
+
+
+diva potens nemorum (tibi enim hic, tibi crinis honori
+debitus, eque tuo venit haec iniuria voto),
+si bene quid genetrix, si quid venatibus ipse
+promerui, ne, quaeso, sinas hoc omine Thebas
+ire nec Arcadiae tantum meruisse pudorem.
 
 ## Русский
 

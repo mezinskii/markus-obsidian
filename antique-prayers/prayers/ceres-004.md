@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period:
 provenance: unclear
-original_lang:
+original_lang: la
 source:
   author: Caesius Bassius / Philicus
   work: Hymn to Ceres and Libera
@@ -35,6 +35,9 @@ status: imported
 
 
 
+
+frugiferae sacra deae quae colitis mystica iunctaeque Iovi nefasto.
+
 ## Русский
 
 
@@ -47,5 +50,10 @@ Fertile Goddesses, wives of Jove, may the mystic rite that You cherish not be de
 
 ## Комментарий
 
+Одна строка, которую Цезий Басс приводит в трактате «О метрах» (с. 263 по изданию Кейля) как образец филикова размера — по имени Филика Керкирского, эллинистического поэта.
+
+**«Philicus» в полях карточки — это название размера, а не автор.** Цезий прямо пишет, что у римских поэтов такого размера не встречает, и потому даёт собственный пример. То есть перед нами не обрывок утраченного гимна Церере, а строка, сочинённая ради метрической иллюстрации.
+
+Синтаксис поэтому оборван и не складывается в законченную фразу. Марий Викторин приводит эту же строку иначе — «mystica sunt nota Iovi potenti».
 
 ## Commentary

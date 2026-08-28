@@ -6,14 +6,14 @@ culture: roman
 form: literary
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Plautus
   work: Asinaria
   section: 545-546
 occasion:
 deities:
-  - Mercurius
+  - Perfidia
 sphere:
   - personal
 functions:
@@ -35,6 +35,11 @@ status: imported
 
 
 
+
+Perfidiae laudes gratiasque habemus merito magnas,
+quom nostris sycophantiis, dolis astutiisque,
+scapularum confidentia, virtute ulmorum freti.
+
 ## Русский
 
 
@@ -47,5 +52,8 @@ Praise and thanks we ought justly to give to the great god of treachery, Mercuri
 
 ## Комментарий
 
+
+
+Расхождение перевода с оригиналом. В латыни благодарность обращена к Perfidia — Вероломству как отвлечённому божеству; имени Меркурия у Плавта нет, его вставил переводчик. Поле deities исправлено по латыни, перевод оставлен без изменений. Отметим также, что это не молитва в собственном смысле, а комическая пародия на благодарственную формулу; в корпусе она уместна, поскольку пародия предполагает форму.
 
 ## Commentary

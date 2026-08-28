@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Valerius Flaccus
   work: Argonautica
@@ -34,6 +34,18 @@ status: imported
 
 
 
+
+
+«omnipotens regina», inquit, «quam, turbidus atro
+aethere caeruleum quateret cum Iuppiter imbrem,
+ipse ego praecipiti tumidum per Enipea nimbo
+in campos et tuta tuli nec credere quivi
+ante deam quam te tonitru nutuque reposci
+coniugis et subita raptam formidine vidi,
+da Scythiam Phasinque mihi tuque, innuba Pallas,
+eripe me! vestris egomet tunc vellera templis
+illa dabo, dabit auratis et cornibus igni
+colla pater niveique greges altaria cingent».
 
 ## Русский
 

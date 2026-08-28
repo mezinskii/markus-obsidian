@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Georgics
@@ -35,6 +35,12 @@ status: imported
 
 
 
+
+
+di patrii Indigetes et Romule Vestaque mater,
+quae Tuscum Tiberim et Romana Palatia servas,
+hunc saltem everso iuvenem succurrere saeclo
+ne prohibete.
 
 ## Русский
 

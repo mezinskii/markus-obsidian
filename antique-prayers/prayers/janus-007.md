@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -35,6 +35,14 @@ status: imported
 
 
 
+
+
+Iane biceps, anni tacite labentis origo,
+solus de superis qui tua terga vides,
+dexter ades ducibus, quorum secura labore
+otia terra ferax, otia pontus habet:
+dexter ades patribusque tuis populoque Quirini,
+et resera nutu candida templa tuo.
 
 ## Русский
 

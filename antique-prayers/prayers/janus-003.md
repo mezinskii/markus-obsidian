@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Satires
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+Matutine pater, seu Iane libentius audis,
+unde homines operum primos vitaeque labores.
 
 ## Русский
 

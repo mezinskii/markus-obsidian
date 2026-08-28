@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Achilleis
@@ -32,6 +32,10 @@ status: imported
 
 
 
+
+
+da fontes mihi, Phoebe, novos ac fronde secunda
+necte comas.
 
 ## Русский
 

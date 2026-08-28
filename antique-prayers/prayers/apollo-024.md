@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tibullus
   work: Elegiae
@@ -36,6 +36,17 @@ status: imported
 
 
 
+
+
+Phoebe, fave: novus ingreditur tua templa sacerdos:
+huc age cum cithara carminibusque veni.
+nunc te vocales impellere pollice chordas,
+nunc precor ad laudes flectere verba meas.
+
+[…]
+
+adnue: sic tibi sint intonsi, Phoebe, capilli,
+sic tua perpetuo sit tibi casta soror.
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Remedia Amoris
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+Te precor incipiens, adsit tua laurea nobis,
+Carminis et medicae, Phoebe, repertor opis.
 
 ## Русский
 

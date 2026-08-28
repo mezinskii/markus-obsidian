@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: early 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -36,6 +36,10 @@ status: imported
 
 
 
+
+
+Tertia post Idus lux est celeberrima Baccho:
+Bacche, fave vati, dum tua festa cano.
 
 ## Русский
 

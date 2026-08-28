@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+
+Vesta, fave: tibi nunc operata resolvimus ora,
+ad tua si nobis sacra venire licet.
 
 ## Русский
 

@@ -6,6 +6,7 @@ culture: roman
 form: ritual
 period:
 provenance: unclear
+original_unavailable: 'Flores Carmina, открытой оцифровки не найдено'
 original_lang:
 source:
   author: Anonymous

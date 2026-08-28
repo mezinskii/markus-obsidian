@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -36,6 +36,13 @@ status: imported
 
 
 
+
+
+da propriam, Thymbraee, domum; da moenia fessis
+et genus et mansuram urbem; serva altera Troiae
+Pergama, reliquias Danaum atque immitis Achilli.
+quem sequimur? quove ire iubes? ubi ponere sedes?
+da, pater, augurium atque animis inlabere nostris.
 
 ## Русский
 

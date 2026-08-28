@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: late 4th / early 5th c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Claudian
   work: In Rufinum
@@ -38,6 +38,14 @@ status: imported
 
 
 
+
+
+Mavors, nubifero seu tu procumbis in Haemo
+seu te cana gelu Rhodope seu remige Medo
+sollicitatus Athos seu caligantia nigris
+ilicibus Pangaea tenent, accingere mecum
+et Thracas defende tuos. si laetior adsit
+gloria, vestita spoliis donabere quercu.
 
 ## Русский
 

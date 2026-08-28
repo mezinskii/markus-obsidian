@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
-  section: 3.25.19-20
+  section: '3.25.18-20'
 occasion:
 deities:
   - Bacchus
@@ -34,6 +34,11 @@ status: imported
 
 
 
+
+
+Dulce periculum est,
+o Lenaee, sequi deum
+cingentem viridi tempora pampino.
 
 ## Русский
 

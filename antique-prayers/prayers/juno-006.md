@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Silius Italicus
   work: Punica
@@ -35,6 +35,16 @@ status: imported
 
 
 
+
+
+Huc ades, o regina deum, gens casta precamur
+et ferimus, digno quaecumque est nomine, turba
+Ausonidum pulchrumque et, acu et subtemine fulvo
+quod nostrae nevere manus, venerabile donum.
+ac dum decrescit matrum metus, hoc tibi, diva,
+interea velamen erit. si pellere nostris
+Marmaricam terris nubem dabis, omnis in auro
+pressa tibi varia fulgebit gemma corona.
 
 ## Русский
 

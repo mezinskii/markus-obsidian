@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
@@ -37,6 +37,37 @@ status: imported
 
 
 
+
+
+virgo potens nemorum, cuius non mollia signa
+militiamque trucem sexum indignata frequento
+more nihil Graio (nec te gens aspera ritu
+Colchis Amazoniaeve magis coluere catervae):
+si mihi non umquam thiasi ludusve protervae
+noctis et, inviso quamvis temerata cubili,
+non tamen aut teretes thyrsos aut mollia gessi
+pensa, sed in tetricis et post conubia lustris,
+sic quoque venatrix animumque innupta remansi,
+nec mihi secretis culpam occultare sub antris
+cura, sed ostendi prolem posuique trementem
+ante tuos confessa pedes, nec degener ille
+sanguinis inque meos reptavit protinus arcus,
+tela puer lacrimis et prima voce poposcit:
+hunc mihi (quid trepidae noctes somnusque minantur?),
+hunc, precor, audaci qui nunc ad proelia voto
+heu nimium tibi fisus abit, da visere belli
+victorem, vel, si ampla peto, da visere tantum!
+si non victorem des victum cernere saltem!
+hic sudet tuaque arma ferat. preme dira malorum
+signa; quid in nostris, nemoralis Delia, silvis
+Maenades hostiles Thebanaque numina regnant?
+ei mihi! cur penitus (simque augur cassa futuri!),
+cur penitus magnoque interpretor omine quercum?
+quod si vera sopor miserae praesagia mittit,
+per te maternos, mitis Dictynna, labores
+fraternumque decus, cunctis hunc fige sagittis
+infelicem uterum; miserae sine funera matris
+audiat ille prior!
 
 ## Русский
 

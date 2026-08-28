@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tibullus
   work: Elegiae
@@ -38,6 +38,17 @@ status: imported
 
 
 
+
+
+Bacche, veni, dulcisque tuis e cornibus uva
+pendeat, et spicis tempora cinge, Ceres.
+
+[…]
+
+cernite, fulgentes ut eat sacer agnus ad aras
+vinctaque post olea candida turba comas.
+di patrii, purgamus agros, purgamus agrestes:
+vos mala de nostris pellite limitibus.
 
 ## Русский
 

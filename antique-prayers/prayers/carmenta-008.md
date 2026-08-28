@@ -5,7 +5,7 @@ slug: prayer-carmenta-008
 culture: roman
 form: public
 period: Archaic
-provenance: ancient
+provenance: modern
 original_lang:
 source:
   author: Anonymous
@@ -48,5 +48,8 @@ Accept, O Carmentis, this offering of incense. Cheerfully have Your daughters co
 
 ## Комментарий
 
+
+
+Провенанс исправлен с ancient на modern. «Ritus Carmentis» — не античное сочинение: под этим названием ходят современные реконструкции обряда Карменталий (Nova Roma), собранные по разрозненным местам Вергилия и Овидия. Дословного античного оригинала у текста нет и не будет.
 
 ## Commentary

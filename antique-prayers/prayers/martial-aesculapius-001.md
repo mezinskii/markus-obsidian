@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: late 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Martial
   work: Epigrammata
@@ -38,6 +38,16 @@ status: imported
 
 
 
+
+
+Latonae venerande nepos, qui mitibus herbis
+Parcarum exoras pensa brevesque colos,
+hos tibi laudatos domino, rata vota, capillos
+ille tuus Latia misit ab urbe puer;
+addidit et nitidum sacratis crinibus orbem,
+quo felix facies iudice tuta fuit.
+Tu iuvenale decus serva, ne pulchrior ille
+in longa fuerit quam breviore coma.
 
 ## Русский
 

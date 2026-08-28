@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Manilius
   work: Astronomicon
@@ -34,6 +34,16 @@ status: imported
 
 
 
+
+
+tu princeps auctorque sacri, Cyllenie, tanti;
+per te iam caelum interius, iam sidera nota
+sublimis aperire vias imumque sub orbem,
+et per inane suis parentia finibus astra
+nominaque et cursus signorum, pondera, vires,
+maior uti facies mundi foret et veneranda
+non species tantum, sed et ipsa potentia rerum,
+sentirentque deum gentes quam maximus esset.
 
 ## Русский
 

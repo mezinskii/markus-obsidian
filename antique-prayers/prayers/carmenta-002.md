@@ -5,7 +5,7 @@ slug: prayer-carmenta-002
 culture: roman
 form: ritual
 period: Archaic
-provenance: ancient
+provenance: modern
 original_lang: la
 source:
   author: Anonymous
@@ -47,5 +47,8 @@ Carmentis, I make this offering of incense to You and pray with good prayers tha
 
 ## Комментарий
 
+
+
+Провенанс исправлен с ancient на modern. «Ritus Carmentis» — не античное сочинение: под этим названием ходят современные реконструкции обряда Карменталий (Nova Roma), собранные по разрозненным местам Вергилия и Овидия. Дословного античного оригинала у текста нет и не будет.
 
 ## Commentary

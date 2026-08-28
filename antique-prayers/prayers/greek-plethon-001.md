@@ -6,6 +6,7 @@ culture: greek
 form: personal
 period: 14th-15th c. AD
 provenance: unclear
+original_unavailable: 'гимны Плифона (XV в.), открытой оцифровки не найдено'
 original_lang:
 source:
   author: George Gemistos Plethon

@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Valerius Flaccus
   work: Argonautica
@@ -34,6 +34,12 @@ status: imported
 
 
 
+
+
+arquipotens adverte, precor, nunc denique Apollo!
+hoc, pater, hoc nobis refove caput, ulla laboris
+si nostri te cura movet, qui cardine summo
+vertitur atque omnis manibus nunc pendet ab unis!
 
 ## Русский
 

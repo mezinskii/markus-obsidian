@@ -6,7 +6,7 @@ culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
@@ -40,6 +40,13 @@ status: imported
 
 
 
+
+
+Ἥρην ἀείδω χρυσόθρονον ἣν τέκε Ῥείη,
+ἀθανάτων βασίλειαν ὑπείροχον εἶδος ἔχουσαν
+Ζηνὸς ἐριγδούποιο κασιγνήτην ἄλοχόν τε
+κυδρήν, ἣν πάντες μάκαρες κατὰ μακρὸν Ὄλυμπον
+ἁζόμενοι τίουσιν ὁμῶς Διὶ τερπικεραύνῳ.
 
 ## Русский
 

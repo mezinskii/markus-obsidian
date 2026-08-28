@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Satires
@@ -32,6 +32,10 @@ status: imported
 
 
 
+
+
+nil amplius oro,
+Maia nate, nisi ut propria haec mihi munera faxis.
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
@@ -36,6 +36,18 @@ status: imported
 
 
 
+
+
+per ego haec vaga sidera iuro,
+per ducis errantes instar mihi numinis umbras,
+idem animus misero; comitem circumspicit olim
+mens humili luctu, sed nunc prior ibo —
+arcanae moderatrix Cynthia noctis,
+si te tergeminis perhibent variare figuris
+numen et in silvas alio descendere vultu,
+ille comes nuper nemorumque insignis alumnus,
+ille tuus, Diana, puer (nunc respice saltem)
+quaeritur.
 
 ## Русский
 

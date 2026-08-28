@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period:
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae
-  section: III.3989
+  section: 'CIL III 3989'
 occasion: death / grave inscription
 deities:
   - Terra Mater
@@ -33,6 +33,11 @@ status: imported
 
 
 
+
+
+vos itaq(ue) Inferi
+ad quos me praecipitem di Superi coegerunt minimo cum
+tormento admittite.
 
 ## Русский
 

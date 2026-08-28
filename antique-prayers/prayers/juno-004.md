@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Plautus
   work: Amphitryon
@@ -33,6 +33,12 @@ status: imported
 
 
 
+
+
+Per supremi regis regnum iuro et matrem familias
+Iunonem, quam me vereri et metuere est par maxume,
+ut mi extra unum te mortalis nemo corpus corpore
+contigit, quo me impudicam faceret.
 
 ## Русский
 

@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Metamorphoses
-  section: "4.11-21; 31"
+  section: '4.11-17; 31'
 occasion:
 deities:
   - Bacchus
@@ -51,6 +51,19 @@ status: imported
 
 
 
+
+
+turaque dant Bacchumque vocant Bromiumque Lyaeumque
+ignigenamque satumque iterum solumque bimatrem;
+additur his Nyseus indetonsusque Thyoneus
+et cum Lenaeo genialis consitor uvae
+Nycteliusque Eleleusque parens et Iacchus et Euhan,
+et quae praeterea per Graias plurima gentes
+nomina, Liber, habes.
+
+[…]
+
+«Placatus mitisque» rogant Ismenides «adsis».
 
 ## Русский
 

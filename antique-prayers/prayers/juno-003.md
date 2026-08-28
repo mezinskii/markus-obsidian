@@ -6,11 +6,11 @@ culture: roman
 form: public
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
-  section: VI.32323, lines 125-131
+  section: 'CIL VI 32323, CX matres familias'
 occasion: 'Ludi Saeculares 17 BCE — matrons'' prayer'
 deities:
   - Juno
@@ -33,6 +33,15 @@ status: imported
 
 
 
+
+
+Iuno Regina ast quid est qu[o]d meli[us siet p(opulo) R(omano) Quiritibus 3 matres familias CX p(opuli) R(omani) Quiritium]
+nuptae genibus nixae te u[3 precamur oramus obsecramusque uti tu imperium]
+maiestatemque p(opuli) R(omani) Quiriti[um duelli domique auxis utique semper Latinus obtemperassit 3]
+sempiternam victoriam [valetudinem p(opulo) R(omano) Quiritibus duis faveasque p(opulo) R(omano) Quiritibus legionibus p(opuli) R(omani)]
+Quiritium remque publi[cam p(opuli) R(omani) Quiritium salvam serves maioremque faxis uti sies volens propitia p(opulo) R(omano)]
+Quiritibus XVvir(is) s(acris) f(aciundis) no[bis domibus familiis 3 matres familias CX p(opuli) R(omani)]
+Quiritium nuptae geni[bus nixae precamur oramus obsecramus].
 
 ## Русский
 

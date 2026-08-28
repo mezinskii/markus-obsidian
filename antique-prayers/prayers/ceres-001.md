@@ -6,11 +6,11 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
-  work: Eclogues
-  section: 1.338-350
+  work: Georgics
+  section: '1.338-350'
 occasion: spring harvest rite
 deities:
   - Ceres
@@ -36,6 +36,21 @@ status: imported
 
 
 
+
+
+in primis venerare deos, atque annua magnae
+sacra refer Cereri laetis operatus in herbis
+extremae sub casum hiemis, iam vere sereno.
+tum pingues agni et tum mollissima vina,
+tum somni dulces densaeque in montibus umbrae.
+cuncta tibi Cererem pubes agrestis adoret:
+cui tu lacte favos et miti dilue Baccho,
+terque novas circum felix eat hostia fruges,
+omnis quam chorus et socii comitentur ovantes
+et Cererem clamore vocent in tecta; neque ante
+falcem maturis quisquam supponat aristis
+quam Cereri torta redimitus tempora quercu
+det motus incompositos et carmina dicat.
 
 ## Русский
 

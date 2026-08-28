@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: late 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Silius Italicus
   work: Punica
@@ -37,6 +37,10 @@ status: imported
 
 
 
+
+
+et tibi, Mars genitor, votorum haud surde meorum,
+arma electa dicat spirantum turba virorum.
 
 ## Русский
 

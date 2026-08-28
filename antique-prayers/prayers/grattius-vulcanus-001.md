@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: late 1st c. BC / early 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Grattius Faliscus
   work: Cynegetica
@@ -43,6 +43,14 @@ status: imported
 
 
 
+
+
+te primum, Vulcane, loci, pacemque precamur,
+incola sancte, tuam: da fessis ultima rebus
+auxilia et, meriti si nulla est noxia tanti,
+tot miserare animas liceatque attingere fontis,
+sancte, tuos — ter quisque vocant, ter pinguia libant
+tura foco, struitur ramis felicibus ara.
 
 ## Русский
 

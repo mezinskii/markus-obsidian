@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Martial
   work: Epigrammata
@@ -35,6 +35,19 @@ status: imported
 
 
 
+
+
+Campis dives Apollo sic Myrinis,
+sic semper senibus fruare cycnis,
+doctae sic tibi serviant sorores
+nec Deiphis tua mentiatur ulli,
+sic Palatia te colant amentque:
+bis senos cito te rogante fasces
+det Stellae bonus adnuatque Caesar.
+felix tunc ego debitorque voti
+casurum tibi rusticas ad aras
+ducam cornibus aureis iuvencum.
+Nata est hostia, Phoebe; quid moraris?
 
 ## Русский
 

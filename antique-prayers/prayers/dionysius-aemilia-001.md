@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. BC (describing an earlier Republican event of uncertain date)
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Dionysius of Halicarnassus
   work: Roman Antiquities
@@ -40,6 +40,9 @@ status: imported
 
 
 
+
+
+Ἑστία τῆς Ῥωμαίων πόλεως φύλαξ, εἰ μὲν ὁσίως καὶ δικαίως ἐπιτετέλεκά σοι τὰ ἱερὰ χρόνον ὀλίγου δέοντα τριακονταετοῦς καὶ ψυχὴν ἔχουσα καθαρὰν καὶ σῶμα ἁγνόν, ἐπιφάνηθί μοι καὶ βοήθησον καὶ μὴ περιίδῃς τὴν σεαυτῆς ἱέρειαν τὸν οἴκτιστον μόρον ἀποθανοῦσαν· εἰ δὲ ἀνόσιόν τι πέπρακταί μοι ταῖς ἐμαῖς τιμωρίαις τὸ τῆς πόλεως ἄγος ἀφάγνισον.
 
 ## Русский
 

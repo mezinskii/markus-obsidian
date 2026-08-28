@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 3rd c. BC (recorded by Livy)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
@@ -35,6 +35,9 @@ status: imported
 
 
 
+
+
+tu, Ceres mater ac Proserpina, ceteri superi infernique di, qui hanc urbem, hos sacratos lacus lucosque colitis, ut ita nobis volentes propitii adsitis, si vitandae, non inferendae fraudis causa hoc consilii capimus.
 
 ## Русский
 

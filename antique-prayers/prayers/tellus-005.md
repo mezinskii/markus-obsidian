@@ -10,7 +10,7 @@ original_lang: la
 source:
   author: Virgil
   work: Aeneid
-  section: 7.120
+  section: '7.120-122'
 occasion:
 deities:
   - Tellus
@@ -34,8 +34,10 @@ status: imported
 
 ## Оригинал
 
-Salve, o parens, Tellus, et tu ne desere nostros.
 
+salve fatis mihi debita tellus
+vosque, ait, o fidi Troiae salvete penates.
+hic domus, haec patria est.
 
 ## Русский
 

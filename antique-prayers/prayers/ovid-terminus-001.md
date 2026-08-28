@@ -6,11 +6,11 @@ culture: roman
 form: hymn
 period: early 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
-  section: "2.639-684"
+  section: '2.659-684'
 occasion: Terminalia — song of praise to Terminus sung by neighbours at the boundary-stone after garlands, grain and wine offerings
 deities:
   - Terminus
@@ -47,6 +47,34 @@ status: imported
 
 
 
+
+
+tu populos urbesque et regna ingentia finis:
+omnis erit sine te litigiosus ager.
+nulla tibi ambitio est, nullo corrumperis auro,
+legitima servas credita rura fide.
+si tu signasses olim Thyreatida terram,
+corpora non leto missa trecenta forent,
+nec foret Othryades congestis lectus in armis.
+o quantum patriae sanguinis ille dedit!
+quid, nova cum fierent Capitolia? nempe deorum
+cuncta Iovi cessit turba locumque dedit;
+Terminus, ut veteres memorant, inventus in aede
+restitit et magno cum Iove templa tenet.
+nunc quoque, se supra ne quid nisi sidera cernat,
+exiguum templi tecta foramen habent.
+Termine, post illud levitas tibi libera non est:
+qua positus fueris in statione, mane;
+nec tu vicino quicquam concede roganti,
+ne videare hominem praeposuisse Iovi:
+et seu vomeribus seu tu pulsabere rastris,
+clamato «tuus est hic ager, ille tuus».
+est via quae populum Laurentes ducit in agros,
+quondam Dardanio regna petita duci:
+illa lanigeri pecoris tibi, Termine, fibris
+sacra videt fieri sextus ab Urbe lapis.
+gentibus est aliis tellus data limite certo:
+Romanae spatium est Urbis et orbis idem.
 
 ## Русский
 

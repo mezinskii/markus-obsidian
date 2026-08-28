@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: late 1st c. BC (recording events of 296 BC)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
@@ -36,6 +36,9 @@ status: imported
 
 
 
+
+
+Bellona, si hodie nobis victoriam duis, ast ego tibi templum voveo.
 
 ## Русский
 

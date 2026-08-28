@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period: 4th c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ausonius
-  work: Epigrammata
-  section: 3-5
+  work: Precationes
+  section: 'Precatio consulis designati, 1-2'
 occasion: New Year
 deities:
   - Janus
@@ -32,6 +32,10 @@ status: imported
 
 
 
+
+
+Iane, veni: novus anne, veni: renovate veni, Sol,
+consulis Ausonii Latiam visure curulem.
 
 ## Русский
 

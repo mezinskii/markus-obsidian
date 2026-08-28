@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: archaic Latin (preserved in inscription of 218 AD)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Fratres Arvales
   work: Carmen Arvalium (CIL VI 2104)
@@ -43,6 +43,29 @@ status: imported
 
 
 
+
+
+enos Lases iuvate
+enos Lases iuvate
+enos Lases iuvate
+
+neve lue rue Marmar sins incurrere in pleores
+neve lue rue Marmar sins incurrere in pleoris
+neve lue rue Marmar sers incurrere in pleoris
+
+satur fu, fere Mars, limen sali, sta berber
+satur fu, fere Mars, limen sali, sta berber
+satur fu, fere Mars, limen sali, sta berber
+
+semunis alternei advocapit conctos
+semunis alternei advocapit conctos
+simunis alternei advocapit conctos
+
+enos Marmor iuvato
+enos Marmor iuvato
+enos Marmor iuvato
+
+triumpe triumpe triumpe triumpe triumpe
 
 ## Русский
 

@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
-  section: 8.303-338
+  section: '8.303-324'
 occasion:
 deities:
   - Tellus
@@ -37,6 +37,30 @@ status: imported
 
 
 
+
+
+o hominum divumque aeterna creatrix,
+quae fluvios silvasque animarum et semina mundo
+cuncta Prometheasque manus Pyrrhaeaque saxa
+gignis, et impastis quae prima alimenta dedisti
+mutastique viris, quae pontum ambisque vehisque:
+te penes et pecudum gens mitis et ira ferarum
+et volucrum requies; firmum atque inmobile mundi
+robur inoccidui, te velox machina caeli
+aere pendentem vacuo, te currus uterque
+circumit, o rerum media indivisaque magnis
+fratribus! ergo simul tot gentibus alma, tot altis
+urbibus ac populis, subterque ac desuper una
+sufficis, astriferumque domos Atlas supernas
+ferre laborantem nullo vehis ipsa labore:
+nos tantum portare negas? nos, diva, gravaris?
+quod, precor, ignari luimus scelus? an quia plebes
+externa Inachiis huc adventamus ab oris?
+omne homini natale solum, nec te, optima, saevo
+tamque humili populos deceat distinguere fine
+undique ubique tuos; maneas communis et arma
+hinc atque inde feras; liceat, precor, ordine belli
+pugnaces efflare animas et reddere caelo.
 
 ## Русский
 

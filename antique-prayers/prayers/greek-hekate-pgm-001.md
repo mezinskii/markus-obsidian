@@ -6,6 +6,7 @@ culture: greek
 form: ritual
 period: 3rd-4th c. AD
 provenance: ancient
+original_unavailable: 'магический папирус PGM IV, издан Прайзенданцем; открытой оцифровки не найдено'
 original_lang:
 source:
   author: Anonymous

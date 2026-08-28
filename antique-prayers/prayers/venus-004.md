@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Amores
@@ -32,6 +32,14 @@ status: imported
 
 
 
+
+
+Iusta precor: quae me nuper praedata puella est,
+aut amet aut faciat, cur ego semper amem!
+a, nimium volui — tantum patiatur amari;
+audierit nostras tot Cytherea preces!
+Accipe, per longos tibi qui deserviat annos;
+accipe, qui pura norit amare fide!
 
 ## Русский
 

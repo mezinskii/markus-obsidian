@@ -6,7 +6,7 @@ culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
@@ -39,6 +39,13 @@ status: imported
 
 
 
+
+
+ἵληθ' εἰραφιῶτα, γυναιμανές· οἱ δέ σ' ἀοιδοὶ
+ᾄδομεν ἀρχόμενοι λήγοντές τ', οὐδέ πῃ ἔστι
+σεῖ' ἐπιληθομένῳ ἱερῆς μεμνῆσθαι ἀοιδῆς.
+καὶ σὺ μὲν οὕτω χαῖρε Διώνυσ' εἰραφιῶτα,
+σὺν μητρὶ Σεμέλῃ ἥν περ καλέουσι Θυώνην.
 
 ## Русский
 

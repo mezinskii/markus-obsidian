@@ -17,6 +17,9 @@ deities:
 sphere:
   - wilderness
   - domestic
+  - healing
+  - family
+  - personal
 functions:
   - invocation
   - petition
@@ -34,6 +37,14 @@ themes:
   - midwife
   - fruits and peace
   - drive away disease
+  - epithets
+  - torch-bearer
+  - Diktina
+  - childbirth
+  - oak groves
+  - initiates
+  - Orphic
+  - health
 featured: false
 created: '2026-04-27T18:17:10.419Z'
 status: imported

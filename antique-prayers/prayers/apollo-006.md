@@ -6,11 +6,11 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saeculares
-  section: 'I.41-46; 92-99'
+  section: 'CIL VI 32323 (Apollini et Dianae)'
 occasion: Ludi Saeculares (Secular Games)
 deities:
   - Apollo
@@ -37,6 +37,12 @@ status: imported
 
 
 
+
+
+Apollo uti tibi in illis libri[s sc]riptum est quarumque rerum ergo quodque melius siet p(opulo) R(omano) Quir[itibus]
+uti tibi VIIII popanis et V[IIII] libis et VIIII pthoibus sacrum fiat te quaeso precorque cetera uti s[up]ra.
+Apollo uti te popanis dat[i]s bona prece precatus sum eiusdem rei ergo macte {h}eis libis libandis esto
+fito volens propitius.
 
 ## Русский
 

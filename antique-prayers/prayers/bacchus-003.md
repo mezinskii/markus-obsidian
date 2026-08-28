@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Grattius
   work: Cynegetica
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+Liber tenuis e pectore curas
+exigit, et morbo Liber medicina furenti.
 
 ## Русский
 

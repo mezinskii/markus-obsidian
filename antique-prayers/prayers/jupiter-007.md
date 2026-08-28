@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: Regal period (recorded by Livy)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
@@ -34,6 +34,9 @@ status: imported
 
 
 
+
+
+Audi, Iuppiter; audi, pater patrate populi Albani; audi tu, populus Albanus. Ut illa palam prima postrema ex illis tabulis cerave recitata sunt sine dolo malo, utique ea hic hodie rectissime intellecta sunt, illis legibus populus Romanus prior non deficiet. Si prior defexit publico consilio dolo malo, tum ille Diespiter populum Romanum sic ferito ut ego hunc porcum hic hodie feriam; tantoque magis ferito quanto magis potes pollesque.
 
 ## Русский
 

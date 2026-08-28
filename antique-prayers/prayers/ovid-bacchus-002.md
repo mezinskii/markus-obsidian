@@ -6,17 +6,19 @@ culture: roman
 form: personal
 period: early 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
-  section: III (Liberalia section, closing invocation)
+  section: "3.789-790"
 occasion: 'Liberalia — poet''s closing invocation to Father Liber-Bacchus, asking the horned god to turn his kind gaze and grant favourable inspiration to the poem'
 deities:
   - Bacchus
   - Liber
 sphere:
   - literary
+  - arts
+  - personal
 functions:
   - petition
 themes:
@@ -29,6 +31,10 @@ themes:
   - sailing metaphor
   - Father Liber
   - 'Ovid''s Fasti'
+  - inspiration
+  - horns
+  - wind
+  - genius
 featured: false
 created: '2026-04-22T08:28:23.167Z'
 status: imported
@@ -38,6 +44,10 @@ status: imported
 
 
 
+
+
+mite caput, pater, huc placataque cornua vertas,
+et des ingenio vela secunda meo.
 
 ## Русский
 

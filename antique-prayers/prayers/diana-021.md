@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Terentius
   work: Andria
@@ -34,6 +34,9 @@ status: imported
 
 
 
+
+
+Iuno Lucina, fer opem, serva me, obsecro.
 
 ## Русский
 

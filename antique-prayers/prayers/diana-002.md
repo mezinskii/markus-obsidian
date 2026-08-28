@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Catullus
   work: Carmina
@@ -39,6 +39,37 @@ status: imported
 
 
 
+
+
+Dianae sumus in fide
+puellae et pueri integri:
+Dianam pueri integri
+puellaeque canamus.
+
+o Latonia, maximi
+magna progenies Iovis,
+quam mater prope Deliam
+deposiuit olivam,
+
+montium domina ut fores
+silvarumque virentium
+saltuumque reconditorum
+amniumque sonantum:
+
+tu Lucina dolentibus
+Iuno dicta puerperis,
+tu potens Trivia et notho es
+dicta lumine Luna.
+
+tu cursu, dea, menstruo
+metiens iter annuum,
+rustica agricolae bonis
+tecta frugibus exples.
+
+sis quocumque tibi placet
+sancta nomine, Romulique,
+antique ut solita es, bona
+sospites ope gentem.
 
 ## Русский
 

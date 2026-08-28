@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: 1st c. BC - 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Antonius Musa
   work: Precatio Terrae
@@ -38,6 +38,29 @@ status: imported
 
 
 
+
+Dea sancta Tellus, rerum naturae parens,
+Quae cuncta generas et regeneras indidem,
+Quod sola praestas gentibus vitalia,
+Caeli ac maris diva arbitra rerumque omnium,
+Per quam silet natura et somnos concipit,
+Itemque lucem reparas et noctem fugas:
+Tu Ditis umbras tegis et inmensum chaos
+Ventosque et imbres tempestatesque attines
+Et, cum libet, dimittis et misces freta
+Fugasque soles et procellas concitas,
+Itemque, cum vis, hilarem promittis diem.
+Tu alimenta vitae tribuis perpetua fide,
+Et, cum recesserit anima, in tete refugimus:
+Ita, quidquid tribuis, in te cuncta recidunt.
+Merito vocaris Magna tu Mater deum,
+Pietate quia vicisti divum numina;
+Tuque illa vera es gentium et divum parens,
+Sine qua nil maturatur nec nasci potest:
+Tu es Magna tuque divum regina es, dea.
+Te, diva, adoro tuumque ego numen invoco,
+Facilisque praestes hoc mihi quod te rogo;
+
 ## Русский
 
 
@@ -50,5 +73,10 @@ Holy Goddess, Tellus, Mother of all Nature, engendering all things and regenerat
 
 ## Комментарий
 
+«Precatio Terrae» — молитва Земле из позднеантичного травника, у Бэренса № VIII в первом томе Poetae Latini Minores. Всего 32 строки; здесь строки 1-21, а строки 23-29 отданы карточке tellus-002.
+
+Приписка Антонию Музе, врачу Августа, стоящая в поле author, — традиционная и недостоверная. Бэренс печатает молитву анонимно, в составе травника, где она предваряет сбор целебных трав.
+
+Текст дошёл испорченным, и многое здесь — конъектуры самого Бэренса против рукописей: «indidem» вместо рукописного «sidus», «vitalia» вместо «tutela», «concipit» вместо «capit», «attines» вместо «contines». Это видно по его аппарату и стоит помнить при переводе: спорные места — не авторские.
 
 ## Commentary

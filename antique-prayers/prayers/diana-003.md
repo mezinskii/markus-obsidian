@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period:
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae
-  section: III suppl. 8298
+  section: 'CIL III 8298'
 occasion:
 deities:
   - Diana
@@ -32,6 +32,16 @@ status: imported
 
 
 
+
+
+D(ianae) A(ugustae) s(acrum).
+T(itus) Aur(elius) Saturninus eq(ues) R(omanus) ex v(oto) l(ibens) p(osuit).
+
+dea virago Delia
+votum faventi Numine
+quod [exigor(?)] felix ago.
+
+l(ibens) p(osuit).
 
 ## Русский
 

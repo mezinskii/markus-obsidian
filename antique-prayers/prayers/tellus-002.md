@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: 1st c. BC - 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Antonius Musa
   work: Precatio Terrae
@@ -34,6 +34,17 @@ status: imported
 
 
 
+
+[…]
+Exaudi me, quaeso, et fave coeptis meis;
+Hoc quod peto a te, diva, mihi praesta volens.
+Herbas, quascumque generat maiestas tua,
+Salutis causa tribuis cunctis gentibus:
+Hanc nunc mihi permittas medicinam tuam.
+Veniat medicina cum tuis virtutibus:
+Quidque ex his fecero, habeat eventum bonum,
+[…]
+
 ## Русский
 
 
@@ -46,5 +57,10 @@ Hear me, please, and favor me. This I ask of You, Holy Mother, and may You willi
 
 ## Комментарий
 
+Продолжение той же «Precatio Terrae», что и у tellus-001: строки 23-29 из тридцати двух.
+
+Разрез между двумя карточками проходит не по швам текста. Строка 22 — «referamque gratis, diva, tibi merita fide», «и воздам тебе благодарность заслуженной верностью» — не попала ни в один из двух английских переводов и повисла между карточками. Строки 30-32, о тех, кому травы будут переданы, тоже не переведены.
+
+Не путать со следующим за ней в издании отдельным текстом — «Precatio omnium herbarum», молитвой уже самим травам, а не Земле.
 
 ## Commentary

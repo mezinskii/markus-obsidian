@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Metamorphoses
@@ -34,6 +34,11 @@ status: imported
 
 
 
+
+
+«fer opem, deprendimur», inquam
+«armigerae, Diana, tuae, cui saepe dedisti
+ferre tuos arcus inclusaque tela pharetra!»
 
 ## Русский
 

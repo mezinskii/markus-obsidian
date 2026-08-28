@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period:
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Lucius Aufidius
   work: Corpus Inscriptiones Latinae
-  section: I.1290
+  section: 'CIL IX 3569'
 occasion:
 deities:
   - Hercules
@@ -33,6 +33,16 @@ status: imported
 
 
 
+
+
+[hoce ut l]ibet do[nu]
+[3 d]edit L(ucius) Aufidi(us) D(ecimi)
+[f(ilius) 3 de]cuma facta
+[Hercul]i mer(ito) iterum
+[simul] te orat tu es
+[Sanctus] deus quei tou
+[tam(?) a te] pacem petit
+[eum] adiouta.
 
 ## Русский
 

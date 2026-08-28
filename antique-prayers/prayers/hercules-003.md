@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Metamorphoses
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+
+o cui ius caeli bis sex fecere labores,
+fer, precor, opem!
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Seneca
   work: Hercules Furens
@@ -32,6 +32,12 @@ status: imported
 
 
 
+
+
+O lucis almae rector et caeli decus,
+qui alterna curru spatia flammifero ambiens
+da, Phoebe, veniam, si quid inlicitum tui
+videre vultus.
 
 ## Русский
 

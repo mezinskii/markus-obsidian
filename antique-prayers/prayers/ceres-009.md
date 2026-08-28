@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -37,6 +37,42 @@ status: imported
 
 
 
+
+
+placentur frugum matres, Tellusque Ceresque,
+farre suo gravidae visceribusque suis:
+officium commune Ceres et Terra tuentur;
+haec praebet causam frugibus, illa locum.
+consortes operis, per quas correcta vetustas
+quernaque glans victa est utiliore cibo,
+frugibus immensis avidos satiate colonos,
+ut capiant cultus praemia digna sui.
+vos date perpetuos teneris sementibus auctus,
+nec nova per gelidas herba sit usta nives.
+cum serimus, caelum ventis aperite serenis;
+cum latet, aetheria spargite semen aqua.
+neve graves cultis Cerialia rura cavete
+agmine laesuro depopulentur aves.
+vos quoque, formicae, subiectis parcite granis:
+post messem praedae copia maior erit.
+interea crescat scabrae robiginis expers
+nec vitio caeli palleat ulla seges,
+et neque deficiat macie nec pinguior aequo
+divitiis pereat luxuriosa suis;
+et careant loliis oculos vitiantibus agri,
+nec sterilis culto surgat avena solo;
+triticeos fetus passuraque farra bis ignem
+hordeaque ingenti fenore reddat ager.
+haec ego pro vobis, haec vos optate coloni,
+efficiatque ratas utraque diva preces.
+bella diu tenuere viros: erat aptior ensis
+vomere, cedebat taurus arator equo;
+sarcula cessabant, versique in pila ligones,
+factaque de rastri pondere cassis erat.
+gratia dis domuique tuae: religata catenis
+iampridem vestro sub pede Bella iacent.
+sub iuga bos veniat, sub terras semen aratas:
+Pax Cererem nutrit, Pacis alumna Ceres.
 
 ## Русский
 

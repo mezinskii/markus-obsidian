@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Petronius Arbiter
   work: Carmina
@@ -14,6 +14,7 @@ source:
 occasion:
 deities:
   - Apollo
+  - Diana
 sphere:
   - personal
 functions:
@@ -35,6 +36,14 @@ status: imported
 
 
 
+
+Si Phoebi soror es, mando tibi, Delia, causam,
+Scilicet ut fratri quae peto verba feras:
+'Marmore Sicanio struxi tibi, Delphice, templum
+Et levibus calamis candida verba dedi.
+Nunc si nos audis atque es divinus Apollo,
+Dic mihi, qui nummos non habet, unde petat.'
+
 ## Русский
 
 
@@ -47,5 +56,10 @@ God of Delphi, I have dedicated to You a temple made of fine Sicilian marble, sp
 
 ## Комментарий
 
+Фрагмент 94 в собрании Бэренса (Poetae Latini Minores, т. IV), приписываемый Петронию. Шесть строк, три элегических дистиха.
+
+Устройство стихотворения английский теряет. Говорящий обращается не к Аполлону напрямую, а к его сестре: «Если ты сестра Феба, поручаю тебе, Делия, дело — отнеси брату вот эти слова». Дальше идёт закавыченная речь, которую и передаёт перевод. Поле deities дополнено Дианой.
+
+Соль в последней строке: выстроил храм из сицилийского мрамора, воспел под свирель — «а теперь, если слышишь и впрямь божественен, скажи: где взять денег тому, у кого их нет?»
 
 ## Commentary

@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -34,6 +34,11 @@ status: imported
 
 
 
+
+
+«Faune, precor, miserere», inquit, «tuque optima ferrum
+Terra tene, colui vestros si semper honores,
+quos contra Aeneadae bello fecere profanos».
 
 ## Русский
 

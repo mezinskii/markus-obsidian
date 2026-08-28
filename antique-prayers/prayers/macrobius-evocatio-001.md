@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: late 4th / early 5th c. AD (preserving archaic Roman formula)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Macrobius
   work: Saturnalia
@@ -39,6 +39,9 @@ status: imported
 
 
 
+
+
+Si deus si dea est cui populus civitasque Carthaginiensis est in tutela, teque maxime, ille qui urbis huius populique tutelam recepisti, precor venerorque veniamque a vobis peto ut vos populum civitatemque Carthaginiensem deseratis, loca templa sacra urbemque eorum relinquatis absque his abeatis, eique populo civitati metum formidinem oblivionem iniciatis, proditique Romam ad me meosque veniatis, nostraque vobis loca templa sacra urbs acceptior probatiorque sit, mihique populoque Romano militibusque meis praepositi sitis ut sciamus intelligamusque. Si ita feceritis, voveo vobis templa ludosque facturum.
 
 ## Русский
 

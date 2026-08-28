@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+gratia Lucinae: dedit haec tibi nomina lucus,
+aut quia principium tu, dea, lucis habes.
 
 ## Русский
 

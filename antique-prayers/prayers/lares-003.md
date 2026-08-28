@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Plautus
   work: Mercator
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+
+Invoco
+vos, Lares viales, ut me bene tutetis.
 
 ## Русский
 

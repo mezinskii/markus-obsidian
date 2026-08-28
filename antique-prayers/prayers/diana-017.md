@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
-  section: 4.746-764
+  section: '4.752-770'
 occasion:
 deities:
   - Diana
@@ -36,6 +36,27 @@ status: imported
 
 
 
+
+
+diva potens nemorum (nam te vultusque pudorque
+mortali de stirpe negant), quae laeta sub isto
+igne poli non quaeris aquas, succurre propinquis
+gentibus; Arquitenens seu te Latonia casto
+de grege transmisit thalamis, seu lapsus ab astris
+non humilis fecundat amor (neque enim ipse deorum
+arbiter Argolidum thalamis novus), aspice maesta
+agmina. nos ferro meritas excindere Thebas
+mens tulit, imbelli sed nunc sitis aspera fato
+summittitque animos et inertia robora carpit.
+da fessis in rebus opem, seu turbidus amnis,
+seu tibi foeda palus, nihil hac in sorte pudendum,
+nil humile est; tu nunc Ventis pluvioque rogaris
+pro Iove, tu refugas vires et pectora bellis
+exanimata reple: sic hoc tibi sidere dextro
+crescat onus. tantum reduces det flectere gressus
+Iuppiter, o quanta belli donabere praeda!
+Dircaeos tibi, diva, greges numerumque rependam
+plebis, et hic magna lucus signabitur ara.
 
 ## Русский
 

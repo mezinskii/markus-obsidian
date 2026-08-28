@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
-  section: '1.10.1-8; 20-24'
+  section: '1.10.1-8; 17-20'
 occasion:
 deities:
   - Mercurius
@@ -35,6 +35,23 @@ status: imported
 
 
 
+
+
+Mercuri, facunde nepos Atlantis,
+qui feros cultus hominum recentum
+voce formasti catus et decorae
+more palaestrae,
+te canam, magni Iovis et deorum
+nuntium curvaeque lyrae parentem,
+callidum quicquid placuit iocoso
+condere furto.
+
+[…]
+
+Tu pias laetis animas reponis
+sedibus virgaque levem coerces
+aurea turbam, superis deorum
+gratus et imis.
 
 ## Русский
 

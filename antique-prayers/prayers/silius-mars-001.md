@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: late 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Silius Italicus
   work: Punica
@@ -37,6 +37,10 @@ status: imported
 
 
 
+
+
+sed tu, bellorum genitor, miserere nefasque
+averte et serva caput inviolabile Teucris.
 
 ## Русский
 

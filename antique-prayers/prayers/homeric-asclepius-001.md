@@ -6,7 +6,7 @@ culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
@@ -38,6 +38,13 @@ status: imported
 
 
 
+
+
+Ἰητῆρα νόσων Ἀσκληπιὸν ἄρχομ' ἀείδειν
+υἱὸν Ἀπόλλωνος τὸν ἐγείνατο δῖα Κορωνὶς
+Δωτίῳ ἐν πεδίῳ, κούρη Φλεγύου βασιλῆος,
+χάρμα μέγ' ἀνθρώποισι, κακῶν θελκτῆρ' ὀδυνάων.
+Καὶ σὺ μὲν οὕτω χαῖρε, ἄναξ· λίτομαι δέ σ' ἀοιδῇ.
 
 ## Русский
 

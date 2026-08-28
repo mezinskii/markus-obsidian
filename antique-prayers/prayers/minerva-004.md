@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -32,6 +32,9 @@ status: imported
 
 
 
+
+
+nunc ades o coeptis, flava Minerva, meis.
 
 ## Русский
 

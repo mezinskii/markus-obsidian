@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: Regal period (recorded by Livy)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
@@ -35,6 +35,9 @@ status: imported
 
 
 
+
+
+Audi, Iuppiter, et tu, Iane Quirine, dique omnes caelestes, vosque terrestres vosque inferni, audite; ego vos testor populum illum iniustum esse neque ius persolvere.
 
 ## Русский
 

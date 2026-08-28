@@ -4,14 +4,14 @@ prayer_id: prayer_apollo_002
 slug: prayer-apollo-002
 culture: roman
 form: personal
-period:
+period: late 2nd c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
-  work: Anthologia Latina
+  work: 'Anthologia Latina, pars II (Carmina Latina Epigraphica, ed. Buecheler)'
   section: 2.1841
-occasion:
+occasion: dedication of an image of Hercules in the sanctuary of Apollo
 deities:
   - Apollo
 sphere:
@@ -34,6 +34,12 @@ status: imported
 
 
 
+
+Accipe, P[h]oebe, prec[or], Tiryn[t]hia munera pro me:
+haec tibi quae potui fortia dona dedi.
+h]ic orbem domuit, tu pacem, Phoebe, dedisti:
+utraque res votis annuat ista meis,
+
 ## Русский
 
 
@@ -46,5 +52,10 @@ Phoebus Tirynthia, I pray, please accept this offering on my behalf. This gift I
 
 ## Комментарий
 
+Вотивная надпись из Филиппополя (Carmina Latina Epigraphica 1841 в издании Бюхелера), найденная, по сообщению Бормана, в святилище Аполлона — оттуда же происходит греческая стихотворная надпись некоего прорицателя. Ростовцев относил её ко времени Коммода. Два элегических дистиха.
+
+«Tirynthia munera» — не эпитет Феба, как выходит по английскому переводу, а «тиринфские дары»: Тиринфянин это Геракл. Бюхелер поясняет к первой строке — «Herculis arma uel signum armati», оружие Геракла или изваяние его в доспехе. Посвятитель приносит Аполлону образ Геракла, и отсюда третья строка: «h]ic orbem domuit, tu pacem, Phoebe, dedisti» — «он покорил круг земной, ты, Феб, даровал мир».
+
+Английский передаёт только первый дистих и передаёт вольно: «fortia dona» это «мощные дары», а не «the good health and strength that I have had». Строки 3-4 в переводе не отражены.
 
 ## Commentary

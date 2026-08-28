@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Satires
@@ -32,6 +32,10 @@ status: imported
 
 
 
+
+
+pingue pecus domino facias et cetera praeter
+ingenium, utque soles, custos mihi maximus adsis.
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: early 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -37,6 +37,12 @@ status: imported
 
 
 
+
+
+arbiter armorum, de cuius sanguine natus
+credor et, ut credar, pignora multa dabo,
+a te principium Romano dicimus anno:
+primus de patrio nomine mensis erit.
 
 ## Русский
 

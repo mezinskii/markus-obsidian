@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Silius Italicus
   work: Punica
@@ -34,6 +34,12 @@ status: imported
 
 
 
+
+
+dive tridentipotens, cuius maria ire per alta
+ordimur, si iusta paro, decurrere classi
+da, pater, ac nostros ne sperne iuvare labores.
+per pontum pia bella veho.
 
 ## Русский
 

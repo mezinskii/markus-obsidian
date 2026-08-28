@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -35,6 +35,14 @@ status: imported
 
 
 
+
+
+Iuppiter omnipotens, si nondum exosus ad unum
+Troianos, si quid pietas antiqua labores
+respicit humanos, da flammam evadere classi
+nunc, pater, et tenuis Teucrum res eripe leto.
+vel tu, quod superest, infesto fulmine morti,
+si mereor, demitte tuaque hic obrue dextra.
 
 ## Русский
 

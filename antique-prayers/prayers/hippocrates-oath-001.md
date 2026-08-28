@@ -6,7 +6,7 @@ culture: greek
 form: ritual
 period: 5th-4th c. BC
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Hippocrates
   work: Hippocratic Oath
@@ -40,6 +40,9 @@ status: imported
 
 
 
+
+
+Ὄμνυμι Ἀπόλλωνα ἰητρὸν, καὶ Ἀσκληπιὸν, καὶ Ὑγείαν, καὶ Πανάκειαν, καὶ θεοὺς πάντας τε καὶ πάσας, ἵστορας ποιεύμενος.
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 3rd-4th c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Arnobius
   work: Adversus Nationes
@@ -37,6 +37,9 @@ status: imported
 
 
 
+
+
+Adeste, adestote dii Penates, tu Apollo tuque Neptune, omniaque haec mala quibus uror terreor vexor vestri numinis averruncate clementia.
 
 ## Русский
 

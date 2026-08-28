@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Pacuvius
   work: Medus
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+te, Sol, invoco,
+Inquirendi ut mei parentis mihi potestatem duis.
+
 ## Русский
 
 
@@ -46,5 +50,8 @@ Sol, I call to You that You may guide me on my search for my parents.
 
 ## Комментарий
 
+Фрагмент II трагедии Пакувия «Медей», сохранённый Цицероном (De officiis I.31.114). Медей, сын Медеи, взывает к Солнцу — своему прадеду по материнской линии — о позволении отыскать родителя.
+
+В латыни «parentis» единственного числа: ищут одного, мать. Английский карточки говорит «parents».
 
 ## Commentary

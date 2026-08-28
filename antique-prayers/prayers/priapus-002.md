@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tibullus
   work: Elegiae
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+Pomosisque ruber custos ponatur in hortis,
+Terreat ut saeva falce Priapus aves.
 
 ## Русский
 

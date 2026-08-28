@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Martial
   work: Epigrammata
@@ -31,6 +31,9 @@ status: imported
 
 
 
+
+
+Addas, Iane pater, tuam rogamus.
 
 ## Русский
 

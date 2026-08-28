@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: late 4th / early 5th c. AD (preserving archaic Roman formula)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Macrobius
   work: Saturnalia
@@ -46,6 +46,9 @@ status: imported
 
 
 
+
+
+Dis pater Veiovis Manes, sive quo alio nomine fas est nominare, ut omnes illam urbem Carthaginem exercitumque quem ego me sentio dicere fuga formidine terrore conpleatis, quique adversum legiones exercitumque nostrum arma telaque ferent, uti vos eum exercitum eos hostes eosque homines urbes agrosque eorum et qui in his locis regionibusque agris urbibusve habitant abducatis lumine supero privetis exercitumque hostium urbes agrosque eorum quos me sentio dicere, uti vos eas urbes agrosque capita aetatesque eorum devotas consecratasque habeatis ollis legibus quibus quandoque sunt maxime hostes devoti. Eosque ego vicarios pro me fide magistratuque meo pro populo Romano exercitibus legionibusque nostris do devoveo, ut me meamque fidem imperiumque legiones exercitumque nostrum qui in his rebus gerundis sunt bene salvos siritis esse. Si haec ita faxitis ut ego sciam sentiam intellegamque, tunc quisquis hoc votum faxit ubi faxit recte factum esto ovibus atris tribus. Tellus mater teque Iuppiter obtestor.
 
 ## Русский
 

@@ -6,11 +6,11 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
-  section: 5.435-437
+  section: '5.435-443'
 occasion: Lemuria / expelling ghosts
 deities:
   - Manes
@@ -33,6 +33,17 @@ status: imported
 
 
 
+
+
+cumque manus puras fontana perluit unda,
+vertitur et nigras accipit ante fabas,
+aversusque iacit; sed dum iacit, «haec ego mitto,
+his» inquit «redimo meque meosque fabis».
+hoc novies dicit nec respicit: umbra putatur
+colligere et nullo terga vidente sequi.
+rursus aquam tangit, Temesaeaque concrepat aera,
+et rogat ut tectis exeat umbra suis.
+cum dixit novies «manes exite paterni».
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 4th-5th c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Claudius Claudianus
   work: In Olybii et Probini fratres Consules Panegyricus
@@ -35,6 +35,15 @@ status: imported
 
 
 
+
+
+Sol, qui flammigeris mundum conplexus habenis
+volvis inexhausto redeuntia saecula motu,
+sparge diem meliore coma, crinemque repexi
+blandius elato surgant temone iugales
+efflantes roseum frenis spumantibus ignem:
+iam nova germanis vestigia torqueat annus
+consulibus, laetique petant exordia menses.
 
 ## Русский
 

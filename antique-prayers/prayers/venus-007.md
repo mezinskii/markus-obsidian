@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Catalepton
@@ -37,6 +37,20 @@ status: imported
 
 
 
+
+Si mihi susceptum fuerit decurrere munus,
+o Paphon, o sedes quae colis Idalias,
+Troius Aeneas Romana per oppida digno
+iam tandem ut tecum carmine vectus eat:
+non ego ture modo aut picta tua templa tabella
+ornabo et puris serta feram manibus;
+corniger hos aries humilis, sed maxima, taurus,
+victima sacratos sparget honore focos,
+marmoreusque tibi caput, ignicolorius alas,
+in morem picta stabit Amor pharetra.
+adsis, o Cytherea: tuus te Caesar Olympo
+et Surrentini litoris ara vocat.
+
 ## Русский
 
 
@@ -49,5 +63,10 @@ If I am to further my undertaking, to traverse all the world, O Venus, who dwell
 
 ## Комментарий
 
+Catalepton XIV из «Приложения к Вергилию» — сборника мелких стихотворений, приписывавшихся Вергилию, но в большинстве ему не принадлежащих.
+
+Обет поэта Венере: если ему дано будет довести начатое до конца и провести Троянца Энея по римским городам достойной песнью, он не ограничится ладаном и вотивной табличкой — принесёт барана и быка, а в храме поставит мраморного Амора. Последний дистих датирует стихотворение: «adsis, o Cytherea: tuus te Caesar Olympo et Surrentini litoris ara vocat» — «явись, Киферея: зовёт тебя на Олимп твой Цезарь и жертвенник Сорренто».
+
+Английский обрывается на восьмой строке. Мраморный Амор и обращение к Кифеpее в перевод не попали.
 
 ## Commentary

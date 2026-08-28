@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Metamorphoses
@@ -32,6 +32,10 @@ status: imported
 
 
 
+
+
+ad caelumque manus et splendida bracchia tollens
+«da veniam, Lenaee pater! peccavimus», inquit.
 
 ## Русский
 

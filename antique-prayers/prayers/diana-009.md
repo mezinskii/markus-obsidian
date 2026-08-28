@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd-1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Laevius
   work: Carmina
@@ -14,6 +14,7 @@ source:
 occasion:
 deities:
   - Diana
+  - Venus
 sphere:
   - personal
 functions:
@@ -35,6 +36,11 @@ status: imported
 
 
 
+
+Venerem igitur almum adorans:
+si femina si mas est,
+ita uti alma Noctiluca est.
+
 ## Русский
 
 
@@ -47,5 +53,10 @@ Therefore adoring You as though You were nurturing Venus Herself, whether You ar
 
 ## Комментарий
 
+Фрагмент 26 Левия из раздела incertae sedis у Бэренса (Fragmenta Poetarum Romanorum, с. 292).
+
+Левий играет на двуполости божества, и игра эта грамматическая: «Venerem almum» — существительное женского рода с прилагательным мужского, сразу за чем идёт «si femina si mas est», «женщина ли, мужчина ли». По-русски эффект передать трудно.
+
+«Noctiluca», «Ночесветная» — культовое имя Луны (ср. Гораций, Оды IV.6.38). Диана в тексте не названа; в поля добавлена Венера, которая названа прямо.
 
 ## Commentary

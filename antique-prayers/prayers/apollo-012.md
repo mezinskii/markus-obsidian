@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Remedia Amoris
@@ -32,6 +32,10 @@ status: imported
 
 
 
+
+
+Phoebus adest: sonuere lyrae, sonuere pharetrae;
+Signa deum nosco per sua: Phoebus adest.
 
 ## Русский
 

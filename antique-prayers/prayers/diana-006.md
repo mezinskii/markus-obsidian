@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
@@ -34,6 +34,16 @@ status: imported
 
 
 
+
+
+Dianam tenerae dicite virgines,
+
+[…]
+
+vos laetam fluviis et nemorum coma,
+quaecumque aut gelido prominet Algido,
+nigris aut Erymanthi
+silvis aut viridis Gragi.
 
 ## Русский
 

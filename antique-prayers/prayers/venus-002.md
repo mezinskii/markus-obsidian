@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
@@ -36,6 +36,16 @@ status: imported
 
 
 
+
+
+O Venus regina Cnidi Paphique,
+sperne dilectam Cypron et vocantis
+ture te multo Glycerae decoram
+transfer in aedem.
+Fervidus tecum puer et solutis
+Gratiae zonis properentque Nymphae
+et parum comis sine te Iuventas
+Mercuriusque.
 
 ## Русский
 

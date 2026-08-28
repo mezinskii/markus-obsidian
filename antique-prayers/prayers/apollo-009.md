@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Martial
   work: Epigrammata
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+
+Haec tibi pro nato plena dat laetus acerra,
+Phoebe, Palatinus munera Parthenius.
 
 ## Русский
 

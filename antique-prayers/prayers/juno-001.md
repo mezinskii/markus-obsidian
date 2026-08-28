@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Apuleius
   work: Metamorphoses
@@ -37,6 +37,9 @@ status: imported
 
 
 
+
+
+Magni Iovis germana et coniuga, sive tu Sami, quae sola partu vagituque et alimonia tua gloriatur, tenes vetusta delubra, sive celsae Carthaginis, quae te virginem vectura leonis caelo commeantem percolit, beatas sedes frequentas, seu prope ripas Inachi, qui te iam nuptam Tonantis et reginam deorum memorat, inclitis Argivorum praesides moenibus, quam cunctus oriens Zygiam veneratur et omnis occidens Lucinam appellat, sis mei extremis casibus Iuno Sospita meque in tantis exanclatis laboribus defessam imminentis periculi metu libera.
 
 ## Русский
 

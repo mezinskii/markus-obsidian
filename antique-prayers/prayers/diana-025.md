@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -36,6 +36,12 @@ status: imported
 
 
 
+
+
+alma, tibi hanc, nemorum cultrix, Latonia virgo,
+ipse pater famulam voveo; tua prima per auras
+tela tenens supplex hostem fugit. accipe, testor,
+diva tuam, quae nunc dubiis committitur auris.
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tibullus
   work: Elegiae
@@ -27,6 +27,7 @@ themes:
   - urgency
   - songs
   - purity
+  - golden hair
 featured: true
 created: '2026-04-20T14:35:36.943Z'
 status: imported
@@ -36,6 +37,23 @@ status: imported
 
 
 
+
+
+Huc ades et tenerae morbos expelle puellae,
+huc ades, intonsa Phoebe superbe coma;
+crede mihi, propera, nec te iam, Phoebe, pigebit
+formosae medicas applicuisse manus.
+Effice ne macies pallentes occupet artus,
+neu notet informis candida membra color,
+et quodcumque mali est et quidquid triste timemus,
+in pelagus rapidis evehat amnis aquis.
+Sancte, veni, tecumque feras, quicumque sapores,
+quicumque et cantus corpora fessa levant.
+
+[…]
+
+tunc te felicem dicet pia turba deorum,
+optabunt artes et sibi quisque tuas.
 
 ## Русский
 

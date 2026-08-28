@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Seneca
   work: Hercules Furens
@@ -36,6 +36,14 @@ status: imported
 
 
 
+
+
+Te te laborum socia et adiutrix precor,
+belligera Pallas, cuius in laeva ciet
+aegis feroces ore saxifico minas;
+adsit Lycurgi domitor et rubri maris,
+tectam virente cuspidem thyrso gerens,
+geminumque numen Phoebus et Phoebi soror.
 
 ## Русский
 

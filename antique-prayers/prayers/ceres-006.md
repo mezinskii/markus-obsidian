@@ -6,11 +6,11 @@ culture: roman
 form: public
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Cicero
   work: In C. Verrem
-  section: IV.72.187-188
+  section: 'II.5.187-188'
 occasion:
 deities:
   - Ceres
@@ -36,6 +36,14 @@ status: imported
 
 
 
+
+
+
+Ceres et Libera, quarum sacra, sicut opiniones hominum ac religiones ferunt, longe maximis atque occultissimis caerimoniis continentur, a quibus initia vitae atque victus, morum, legum, mansuetudinis, humanitatis hominibus et civitatibus data ac dispertita esse dicuntur,
+
+[…]
+
+vos etiam atque etiam imploro et appello, sanctissimae deae, quae illos Hennensis lacus lucosque incolitis, cunctaeque Siciliae, quae mihi defendenda tradita est, praesidetis, a quibus inventis frugibus et in orbem terrarum distributis omnes gentes ac nationes vestri religione numinis continentur.
 
 ## Русский
 

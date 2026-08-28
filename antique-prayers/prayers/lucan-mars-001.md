@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: mid 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Lucan
   work: De Bello Civili (Pharsalia)
@@ -35,6 +35,11 @@ status: imported
 
 
 
+
+
+non pacem petimus, superi: date gentibus iras,
+nunc urbes excite feras; coniuret in arma
+mundus, Achaemeniis decurrant Medica Susis.
 
 ## Русский
 

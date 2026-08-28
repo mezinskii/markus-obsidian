@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Metamorphoses
@@ -31,6 +31,10 @@ status: imported
 
 
 
+
+
+restitit et pavido «faveas mihi!» murmure dixit
+dux meus, et simili «faveas!» ego murmure dixi.
 
 ## Русский
 

@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Silius Italicus
   work: Punica
-  section: 13.13-137
+  section: '13.136'
 occasion:
 deities:
   - Diana
@@ -32,6 +32,9 @@ status: imported
 
 
 
+
+
+«Adsis», orat, «Latonia, coeptis».
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: greek
 form: personal
 period: 5th-4th c. BC
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Aristophanes
   work: Lysistrata
@@ -37,6 +37,10 @@ status: imported
 
 
 
+
+
+ὦ πότνι᾽ Εἰλείθυι᾽ ἐπίσχες τοῦ τόκου,
+ἕως ἂν εἰς ὅσιον μόλω ᾽γὼ χωρίον.
 
 ## Русский
 

@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
@@ -34,6 +34,18 @@ status: imported
 
 
 
+
+
+«ablue praeteriti periuria temporis», inquit
+«ablue praeteritae perfida verba die.
+sive ego te feci testem, falsove citavi
+non audituri numina vana Iovis,
+sive deo prudens alium divamve fefelli,
+abstulerint celeres improba dicta Noti:
+et pateant veniente die periuria nobis,
+nec curent superi siqua locutus ero.
+da modo lucra mihi, da facto gaudia lucro,
+et fac ut emptori verba dedisse iuvet».
 
 ## Русский
 

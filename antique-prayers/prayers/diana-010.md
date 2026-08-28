@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Amores
-  section: 2.14.19-24
+  section: '2.13.19-26'
 occasion: difficult childbirth
 deities:
   - Diana
@@ -37,6 +37,16 @@ status: imported
 
 
 
+
+
+Tuque laborantes utero miserata puellas,
+quarum tarda latens corpora tendit onus,
+lenis ades precibusque meis fave, Ilithyia!
+digna est, quam iubeas muneris esse tui.
+ipse ego tura dabo fumosis candidus aris,
+ipse feram ante tuos munera vota pedes.
+adiciam titulum: «servata Naso Corinna!»
+tu modo fac titulo muneribusque locum.
 
 ## Русский
 

@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
-  section: 2.471-496
+  section: '3.470-476'
 occasion:
 deities:
   - Jupiter
@@ -35,6 +35,15 @@ status: imported
 
 
 
+
+
+Iuppiter omnipotens (nam te pernicibus alis
+addere consilium volucresque implere futuri
+ominaque et causas caelo deferre latentes
+accipimus), non Cirrha deum promiserit antro
+certius, aut frondes lucis quas fama Molossis
+Chaonias sonuisse tibi, licet aridus Hammon
+invideat Lyciaeque parent contendere sortes.
 
 ## Русский
 

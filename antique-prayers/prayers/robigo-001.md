@@ -6,11 +6,11 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Fasti
-  section: 4.911-932
+  section: '4.911-926'
 occasion: Robigalia
 deities:
   - Robigo
@@ -35,6 +35,24 @@ status: imported
 
 
 
+
+
+«aspera Robigo, parcas Cerialibus herbis,
+et tremat in summa leve cacumen humo.
+tu sata sideribus caeli nutrita secundi
+crescere, dum fiant falcibus apta, sinas.
+vis tua non levis est: quae tu frumenta notasti,
+maestus in amissis illa colonus habet;
+nec venti tantum Cereri nocuere nec imbres,
+nec sic marmoreo pallet adusta gelu,
+quantum si culmos Titan incalfacit udos:
+tum locus est irae, diva timenda, tuae.
+parce, precor, scabrasque manus a messibus aufer,
+neve noce cultis; posse nocere sat est.
+nec teneras segetes, sed durum amplectere ferrum,
+quodque potest alios perdere perde prior.
+utilius gladios et tela nocentia carpes:
+nil opus est illis; otia mundus agit».
 
 ## Русский
 

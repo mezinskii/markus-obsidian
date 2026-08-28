@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Cicero
   work: In Catilinam
@@ -34,6 +34,9 @@ status: imported
 
 
 
+
+
+Tu, Iuppiter, qui isdem quibus haec urbs auspiciis a Romulo es constitutus, quem Statorem huius urbis atque imperii vere nominamus, hunc et huius socios a tuis aris ceterisque templis, a tectis urbis ac moenibus, a vita fortunisque civium omnium arcebis et homines bonorum inimicos, hostis patriae, latrones Italiae scelerum foedere inter se ac nefaria societate coniunctos aeternis suppliciis vivos mortuosque mactabis.
 
 ## Русский
 

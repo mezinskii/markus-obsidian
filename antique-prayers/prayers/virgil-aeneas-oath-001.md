@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: late 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Aeneid
@@ -49,6 +49,27 @@ status: imported
 
 
 
+
+
+esto nunc Sol testis et haec mihi terra vocanti,
+quam propter tantos potui perferre labores,
+et pater omnipotens et tu Saturnia coniunx
+(iam melior, iam, diva, precor), tuque inclute Mavors,
+cuncta tuo qui bella, pater, sub numine torques;
+fontisque fluviosque voco, quaeque aetheris alti
+religio et quae caeruleo sunt numina ponto
+
+[…]
+
+haec eadem, Aenea, terram, mare, sidera, iuro
+Latonaeque genus duplex Ianumque bifrontem,
+vimque deum infernam et duri sacraria Ditis;
+audiat haec genitor qui foedera fulmine sancit.
+tango aras, medios ignis et numina testor:
+nulla dies pacem hanc Italis nec foedera rumpet,
+quo res cumque cadent; nec me vis ulla volentem
+avertet, non, si tellurem effundat in undas
+diluvio miscens caelumque in Tartara solvat.
 
 ## Русский
 

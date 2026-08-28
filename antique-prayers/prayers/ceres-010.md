@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Ovid
   work: Amores
@@ -36,6 +36,29 @@ status: imported
 
 
 
+
+
+Flava Ceres, tenues spicis redimita capillos,
+cur inhibes sacris commoda nostra tuis?
+Te, dea, munificam gentes, ubi quaeque, loquuntur,
+nec minus humanis invidet ulla bonis.
+ante nec hirsuti torrebant farra coloni,
+nec notum terris area nomen erat,
+sed glandem quercus, oracula prima, ferebant;
+haec erat et teneri caespitis herba cibus.
+Prima Ceres docuit turgescere semen in agris
+falce coloratas subsecuitque comas;
+prima iugis tauros supponere colla coegit,
+et veterem curvo dente revellit humum.
+
+[…]
+
+optavit Minos similes sibi legifer annos;
+optasset, Cereris longus ut esset amor.
+Quod tibi secubitus tristes, dea flava, fuissent,
+hoc cogor sacris nunc ego ferre tuis?
+cur ego sim tristis, cum sit tibi nata reperta
+regnaque quam Iuno sorte minore regat?
 
 ## Русский
 

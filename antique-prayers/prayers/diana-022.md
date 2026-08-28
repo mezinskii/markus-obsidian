@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tibullus
   work: Elegiae
-  section: 4.6.1ff
+  section: '3.12.1-8'
 occasion: childbirth
 deities:
   - Diana
@@ -38,6 +38,16 @@ status: imported
 
 
 
+
+
+Natalis Iuno, sanctos cape turis acervos,
+quos tibi dat tenera docta puella manu;
+tota tibi est hodie, tibi se laetissima compsit,
+staret ut ante tuos conspicienda focos.
+Illa quidem ornandi causas tibi, diva, relegat;
+est tamen, occulte cui placuisse velit.
+At tu, sancta, fave, neu quis divellat amantes,
+sed iuveni, quaeso, mutua vincla para.
 
 ## Русский
 

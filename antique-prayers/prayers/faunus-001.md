@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
@@ -36,6 +36,16 @@ status: imported
 
 
 
+
+
+Faune, Nympharum fugientum amator,
+per meos finis et aprica rura
+lenis incedas abeasque parvis
+aequus alumnis,
+si tener pleno cadit haedus anno
+larga nec desunt Veneris sodali
+vina craterae, vetus ara multo
+fumat odore.
 
 ## Русский
 

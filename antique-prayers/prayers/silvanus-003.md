@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period:
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae
-  section: VI.18817
+  section: 'CIL VI 18817'
 occasion: death of a husband
 deities:
   - Manes
@@ -34,6 +34,18 @@ status: imported
 
 
 
+
+
+ita peto vos Manes sanctissimae
+commendat[um] habeatis
+meum ca[ru]m et vel{l}itis
+huic indulgentissimi esse
+horis nocturnis
+ut eum videam
+et etiam me fato suadere
+vel{l}it ut et ego possim
+dulcius et celerius
+aput eum pervenire.
 
 ## Русский
 

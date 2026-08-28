@@ -6,14 +6,14 @@ culture: roman
 form: public
 period: 4th-5th c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Claudius Claudianus
   work: In Olybii et Probini fratres Consules Panegyricus
   section: 71-72
 occasion:
 deities:
-  - Apollo
+  - Musa
 sphere:
   - civic
 functions:
@@ -33,6 +33,10 @@ status: imported
 
 
 
+
+Tu, precor, ignarum doceas, Parnasia, vatem,
+quis deus ambobus tanti sit muneris auctor.
+
 ## Русский
 
 
@@ -45,5 +49,8 @@ To you I pray, Apollo of Mount Parnassus, that you may inspire the pythia with s
 
 ## Комментарий
 
+
+
+Расхождение перевода с оригиналом. Латинское «Parnasia» — женского рода, то есть обращение к Музе, а «vatem» значит «поэта»; в английском переводе карточки они переданы как «Аполлон Парнасский» и «пифия». Поле deities исправлено по латыни, перевод оставлен без изменений.
 
 ## Commentary

@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tibullus
   work: Elegiae
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+Flava Ceres, tibi sit nostro de rure corona
+Spicea, quae templi pendeat ante fores.
 
 ## Русский
 

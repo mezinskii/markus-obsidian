@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Silius Italicus
   work: Punica
@@ -34,6 +34,11 @@ status: imported
 
 
 
+
+
+«Conditor Alcide, cuius vestigia sacra
+incolimus, terrae minitantem averte procellam,
+si tua non segni defenso moenia dextra».
 
 ## Русский
 

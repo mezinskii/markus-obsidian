@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 1st c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Tibullus
   work: Elegiae
@@ -35,6 +35,14 @@ status: imported
 
 
 
+
+
+Vos quoque, felicis quondam, nunc pauperis agri
+Custodes, fertis munera vestra, Lares.
+Tunc vitula innumeros lustrabat caesa iuvencos,
+Nunc agna exigui est hostia parva soli.
+Agna cadet vobis, quam circum rustica pubes
+Clamet «io messes et bona vina date».
 
 ## Русский
 

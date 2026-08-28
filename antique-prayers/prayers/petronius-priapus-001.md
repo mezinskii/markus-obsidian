@@ -6,11 +6,11 @@ culture: roman
 form: personal
 period: mid 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Petronius
   work: Satyricon
-  section: 133
+  section: '133'
 occasion: 'Encolpius''s prayer to Priapus at the threshold of a shrine — plea for forgiveness and restoration of potency, with vow of sacrifices of goat, piglets and wine festivities'
 deities:
   - Priapus
@@ -49,6 +49,9 @@ status: imported
 
 
 
+
+
+Nympharum Bacchique comes, quem pulcra Dione divitibus silvis numen dedit, inclita paret cui Lesbos viridisque Thasos, quem Lydus adorat septifluus, templumque tuis imponit Hypaepis: huc aedes et Bacchi tutor Dryadumque voluptas, et timidas admitte preces. Non sanguine tristi perfusus venio, non templis impius hostis admovi dextram, sed inops et rebus egenis attritus facinus non toto corpore feci. Quisquis peccat inops, minor est reus. Hac prece, quaeso, exonera mentem culpaeque ignosce minori, et quandoque mihi fortunae arriserit hora, non sine honore tuum patiar decus. Ibit ad aras, Sancte, tuas hircus, pecoris pater; ibit ad aras corniger et querulae fetus suis, hostia lactens. Spumabit pateris hornus liquor, et ter ovantem circa delubrum gressum feret ebria pubes.
 
 ## Русский
 

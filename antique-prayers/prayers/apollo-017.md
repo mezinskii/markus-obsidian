@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: 2nd-3rd c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Quintus Serenus Sammonicus
   work: Liber Medicinalis
@@ -14,6 +14,7 @@ source:
 occasion:
 deities:
   - Apollo
+  - Aesculapius
 sphere:
   - healing
 functions:
@@ -37,6 +38,18 @@ status: imported
 
 
 
+
+Phoebe, salutiferum, quod pangimus, adsere carmen
+Inventumque tuum prompto comitare favore.
+Tuque potens artis, reduces qui tradere vitas
+Nosti et sub caelum manes revocare sepultos,
+Qui colis Aegeas, qui Pergama quique Epidaurum,
+Qui quondam placida tectus sub pelle draconis
+Tarpeias arces atque inclita templa petisti,
+Depellens taetros praesenti numine morbos:
+Huc ades et, quicquid cupido mihi saepe locutus
+Firmasti, cunctum teneris expone papyris.
+
 ## Русский
 
 
@@ -50,5 +63,10 @@ You who formerly dwelt in the temples of Aegea, Pergamum, and Epidaurum, and who
 
 ## Комментарий
 
+Вступление к «Лечебной книге» Квинта Серена Саммоника — стихотворному лечебнику в гексаметрах.
+
+Молитва обращена к двум богам, чего английский перевод не показывает. Первые две строки — Фебу. С третьей, «tuque potens artis», начинается обращение к Асклепию: он возвращает жизнь, зовёт погребённых обратно под небо, чтит Эги, Пергам и Эпидавр — все три его знаменитые целительные святилища. Поле deities дополнено Эскулапом.
+
+Строки 6-7 английский передаёт неверно. «Qui quondam placida tectus sub pelle draconis / Tarpeias arces atque inclita templa petisti» — «ты, некогда скрытый под кроткой змеиной кожей, устремился к Тарпейским твердыням и славным храмам»: это приход Асклепия в Рим в виде змеи в 293 г. до н. э., по «Метаморфозам» Овидия XV. Английское «drove off the Python from Your peaceful house at Delphi» — совсем другое событие и другой бог.
 
 ## Commentary

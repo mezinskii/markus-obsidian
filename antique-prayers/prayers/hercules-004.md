@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Propertius
   work: Elegiae
@@ -36,6 +36,12 @@ status: imported
 
 
 
+
+
+hunc, quoniam manibus purgatum sanxerat orbem,
+sic Sanctum Tatiae composuere Cures.
+Sancte pater salve, cui iam favet aspera Iuno:
+Sancte, velis libro dexter inesse meo.
 
 ## Русский
 

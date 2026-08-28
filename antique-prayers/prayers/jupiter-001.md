@@ -6,7 +6,7 @@ culture: roman
 form: public
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Cato
   work: Origines
@@ -36,6 +36,9 @@ status: imported
 
 
 
+
+Iuppiter, si tibi magis cordi est nos ea tibi dare potius quam Mezentio, uti nos victores facias.
+
 ## Русский
 
 
@@ -48,5 +51,10 @@ The Latins vowed: Jupiter, if it is greatly pleasing to You, that we, rather tha
 
 ## Комментарий
 
+Обет латинов Юпитеру из первой книги «Начал» Катона, дошедший через Макробия («Сатурналии» III.5.10).
+
+Мезенций потребовал у рутулов, чтобы начатки урожая, которые те приносили богам, отдавали ему. Латины, ожидая от него того же, дали встречный обет: если Юпитеру милее получать это от них, а не от Мезенция, пусть сделает их победителями. Макробий приводит это, объясняя, почему Вергилий зовёт Мезенция «contemptor divum», «презритель богов».
+
+Формула построена как торг: не «даруй победу», а «если тебе так больше по сердцу — сделай нас победителями». Условие поставлено богу.
 
 ## Commentary

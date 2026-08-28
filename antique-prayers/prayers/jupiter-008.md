@@ -6,11 +6,11 @@ culture: roman
 form: public
 period: 3rd c. BC (recorded by Livy)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Livy
   work: Ab Urbe Condita
-  section: 22.53.10-12
+  section: '22.53.10-11'
 occasion: military oath / after Cannae
 deities:
   - Jupiter
@@ -34,6 +34,9 @@ status: imported
 
 
 
+
+
+ex mei animi sententia, ut ego rem publicam populi Romani non deseram neque alium civem Romanum deserere patiar; si sciens fallo, tum me, Iuppiter optime maxime, domum, familiam remque meam pessimo leto adficias.
 
 ## Русский
 

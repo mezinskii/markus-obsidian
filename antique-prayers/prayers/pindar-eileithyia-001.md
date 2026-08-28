@@ -6,7 +6,7 @@ culture: greek
 form: hymn
 period: 5th c. BC
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Pindar
   work: Nemean Odes
@@ -41,6 +41,12 @@ status: imported
 
 
 
+
+
+Ἐλείθυια, πάρεδρε Μοιρᾶν βαθυφρόνων,
+παῖ μεγαλοσθενέος, ἄκουσον, Ἥρας, γενέτειρα τέκνων· ἄνευ σέθεν
+οὐ φάος, οὐ μέλαιναν δρακέντες εὐφρόναν
+τεὰν ἀδελφεὰν ἐλάχομεν ἀγλαόγυιον Ἥβαν.
 
 ## Русский
 

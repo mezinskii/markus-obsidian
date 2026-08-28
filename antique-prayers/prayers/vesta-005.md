@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: 3rd c. BC (recorded 1st c. AD)
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Valerius Maximus
   work: Facta et Dicta Memorabilia
@@ -36,6 +36,9 @@ status: imported
 
 
 
+
+
+«Vesta», inquit, «si sacris tuis castas semper admovi manus, effice ut hoc hauriam e Tiberi aquam et in aedem tuam perferam».
 
 ## Русский
 

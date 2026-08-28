@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Plautus
   work: Rudens
@@ -34,6 +34,15 @@ status: imported
 
 
 
+
+
+Tibi auscultamus et, Venus alma, ambae te obsecramus,
+aram amplexantes hanc tuam lacrumantes, genibus nixae,
+in custodelam nos tuam ut recipias et tutere;
+illos scelestos, qui tuom fecerunt fanum parvi,
+fac ut ulciscare nosque ut hanc tua pace aram obsidere
+patiare: elautae ambae sumus opera Neptuni noctu,
+ne invisas habeas neve idcirco nobis vitio vortas.
 
 ## Русский
 

@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Virgil
   work: Eclogues
-  section: 4.8-10
+  section: '4.8-10'
 occasion:
 deities:
   - Diana
@@ -36,6 +36,11 @@ status: imported
 
 
 
+
+
+tu modo nascenti puero, quo ferrea primum
+desinet ac toto surget gens aurea mundo,
+casta fave Lucina; tuus iam regnat Apollo.
 
 ## Русский
 

@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
-  section: '1.643-645; 694-696; 716-718'
+  section: '1.693-697; 715-717'
 occasion:
 deities:
   - Apollo
@@ -37,6 +37,19 @@ status: imported
 
 
 
+
+
+Fundite vina focis, servatoremque parentum
+Letoiden votis iterumque iterumque canamus.
+Phoebe parens, seu te Lyciae Pataraea nivosis
+exercent dumeta iugis, seu rore pudico
+Castaliae flavos amor est tibi mergere crines
+
+[…]
+
+adsis o memor hospitii, Iunoniaque arva
+dexter ames, seu te roseum Titana vocari
+gentis Achaemeniae ritu.
 
 ## Русский
 

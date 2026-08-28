@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
@@ -34,6 +34,10 @@ status: imported
 
 
 
+
+
+parce Liber,
+parce, gravi metuende thyrso.
 
 ## Русский
 

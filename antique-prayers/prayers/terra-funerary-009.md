@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Propertius
   work: Elegiae
@@ -35,6 +35,10 @@ status: imported
 
 
 
+
+
+Haec tua, Persephone, maneat clementia, nec tu,
+Persephonae coniunx, saevior esse velis.
 
 ## Русский
 

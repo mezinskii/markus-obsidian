@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. BC
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Plautus
   work: Aulularia
@@ -33,6 +33,11 @@ status: imported
 
 
 
+
+
+Apollo, quaeso, subveni mi atque adiuva,
+confige sagittis fures thensaurarios,
+si cui in re tali iam subvenisti antidhac.
 
 ## Русский
 

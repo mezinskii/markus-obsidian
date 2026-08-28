@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmina
@@ -35,6 +35,19 @@ status: imported
 
 
 
+
+
+Quid dedicatum poscit Apollinem
+vates? Quid orat, de patera novum
+fundens liquorem? Non opimae
+Sardiniae segetes feraces,
+
+[…]
+
+Frui paratis et valido mihi,
+Latoe, dones, at, precor, integra
+cum mente, nec turpem senectam
+degere nec cithara carentem.
 
 ## Русский
 

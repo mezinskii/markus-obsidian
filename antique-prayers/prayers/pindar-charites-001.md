@@ -6,7 +6,7 @@ culture: greek
 form: hymn
 period: 5th c. BC
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Pindar
   work: Olympian Odes
@@ -45,6 +45,13 @@ status: imported
 
 
 
+
+
+Καφισίων ὑδάτων
+λαχοῖσαι αἵτε ναίετε καλλίπωλον ἕδραν,
+ὦ λιπαρᾶς ἀοίδιμοι βασίλειαι
+Χάριτες Ἐρχομενοῦ, παλαιγόνων Μινυᾶν ἐπίσκοποι,
+κλῦτ᾽, ἐπεὶ εὔχομαι.
 
 ## Русский
 

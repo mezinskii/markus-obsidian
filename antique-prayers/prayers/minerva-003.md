@@ -6,11 +6,11 @@ culture: roman
 form: literary
 period: 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Statius
   work: Thebaid
-  section: 2.715-742
+  section: '2.715-729'
 occasion:
 deities:
   - Minerva
@@ -36,6 +36,23 @@ status: imported
 
 
 
+
+
+diva ferox, magni decus ingeniumque parentis,
+bellipotens, cui torva genis horrore decoro
+cassis, et asperso crudescit sanguine Gorgon,
+nec magis ardentes Mavors hastataque pugnae
+impulerit Bellona tubas, huic adnue sacro,
+seu Pandionio nostras invisere caedes
+monte venis, sive Aonia devertis Itone
+laeta choris, seu tu Libyco Tritone repexas
+lota comas qua te biiugo temone frementem
+intemeratarum volucer rapit axis equarum:
+nunc tibi fracta virum spolia informesque dicamus
+exuvias. at si patriis Porthaonis arvis
+inferar et reduci pateat mihi Martia Pleuron,
+aurea tunc mediis urbis tibi templa dicabo
+collibus.
 
 ## Русский
 

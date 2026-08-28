@@ -6,7 +6,7 @@ culture: roman
 form: literary
 period: 2nd c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Apuleius
   work: Metamorphoses
@@ -36,6 +36,13 @@ status: imported
 
 
 
+
+
+seu Phoebi soror, quae partu fetarum medelis lenientibus recreato populos tantos educasti praeclarisque nunc veneraris delubris Ephesi,
+
+[…]
+
+quoquo nomine, quoquo ritu, quaqua facie te fas est invocare: tu meis iam nunc extremis aerumnis subsiste, tu fortunam collapsam adfirma, tu saevis exanclatis casibus pausam pacemque tribue; sit satis laborum, sit satis periculorum.
 
 ## Русский
 

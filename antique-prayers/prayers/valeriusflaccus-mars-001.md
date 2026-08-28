@@ -6,7 +6,7 @@ culture: roman
 form: personal
 period: late 1st c. AD
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Valerius Flaccus
   work: Argonautica
@@ -37,6 +37,11 @@ status: imported
 
 
 
+
+
+tu quoque, sacrata rutilant cui vellera quercu,
+excubias, Gradive, tene. praesentia luco
+arma tubaeque sonent, vox et tua noctibus exstet.
 
 ## Русский
 

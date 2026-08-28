@@ -6,7 +6,7 @@ culture: roman
 form: ritual
 period: Augustan
 provenance: ancient
-original_lang:
+original_lang: la
 source:
   author: Horace
   work: Carmen Saeculare
@@ -38,6 +38,26 @@ status: imported
 
 
 
+
+
+Phoebe silvarumque potens Diana,
+lucidum caeli decus, o colendi
+semper et culti, date quae precamur
+tempore sacro,
+
+[…]
+
+Rite maturos aperire partus
+lenis, Ilithyia, tuere matres,
+sive tu Lucina probas vocari
+seu Genitalis:
+
+[…]
+
+quaeque Aventinum tenet Algidumque,
+quindecim Diana preces virorum
+curat et votis puerorum amicas
+adplicat auris.
 
 ## Русский
 

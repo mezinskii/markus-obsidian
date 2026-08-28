@@ -6,7 +6,7 @@ culture: greek
 form: personal
 period: 3rd c. BC
 provenance: ancient
-original_lang:
+original_lang: el
 source:
   author: Callimachus
   work: Epigrams (Greek Anthology 6.146)
@@ -35,6 +35,12 @@ status: imported
 
 
 
+
+
+Καὶ πάλιν Εἰλήθυια Λυκαινίδος ἐλθὲ καλεύσης
+εὔλοχος ὠδίνων ὧδε σὺν εὐτοκίηι,
+ὡς τόδε νῦν μέν, ἄνασσα, κόρης ὕπερ, ἀντὶ δὲ παιδός
+ὕστερον εὐώδης ἄλλο τι νηὸς ἔχοι.
 
 ## Русский
 
