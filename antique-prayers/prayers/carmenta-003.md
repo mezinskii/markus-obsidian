@@ -4,7 +4,7 @@ prayer_id: prayer_carmenta_003
 slug: prayer-carmenta-003
 culture: roman
 form: ritual
-period: Archaic
+period: modern reconstruction (Nova Roma)
 provenance: modern
 original_lang: la
 source:
@@ -36,6 +36,9 @@ Carmentis, macte ista libatione pollicenda sint, macte lacti inferio sint.
 
 
 
+
+
+Кармента, почтена будь этим возлиянием, которое надлежит принести, почтена будь этим приношением молока.
 
 ## Английский
 

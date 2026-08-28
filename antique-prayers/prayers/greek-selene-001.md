@@ -43,6 +43,9 @@ status: imported
 
 
 
+
+Услышь нас, о богиня, светоносная царица, божественная Селена; быкорогая Мена, ночебродящая, воздушная, ночная, факелоносная, тёмная дева; Мена, что прибывает и убывает, мужская и женская; светящая, конелюбивая, мать времени; плодоносная, янтарная, воздушная, всесияющая каждую ночь; ты, всевидящая, бдительная, полная прекрасных звёзд, радующаяся тишине и счастливой ночи; светлая, радостодарящая, полнокружная, драгоценность ночи; о звёздная царица, долгопокровная, изменчивая, всемудрая дева, — приблизься с блаженством и отрадой; богатая звёздами и трояко сияющим светом, — защити твоих новых просителей, о Дева.
+
 ## Английский
 
 Hear us, O' Goddess, light-bearing Queen, divine Selene; bull-horned Mene, night-roaming, airborne, nocturnal, torch-bearing, dark maiden; Mene, who waxes and wanes, masculine and feminine; illuminating, horse-loving, mother of time; fruit-bearing, amber, atmospheric, all-shining, each night; You, the all-seeing, vigilant, filled with beautiful stars, joyful in the silence and the fortunate night; bright, joy-bringing, full-cycled, jewel of the night; O' star-queen, long-veiled, variable, all-wise maid, approach with bliss and delight; rich with stars and shining light three-fold; protect your new suppliants, O' Maid.

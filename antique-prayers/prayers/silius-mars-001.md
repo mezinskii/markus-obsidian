@@ -11,6 +11,8 @@ source:
   author: Silius Italicus
   work: Punica
   section: 3.126-127
+  note: >-
+    thelatinlibrary.com, Silius Italicus Punica III.126-127; u приведено к v
 occasion: 'Imilce''s wife''s prayer to Mars for the safety of her husband Hannibal against Roman assaults'
 deities:
   - Mars
@@ -46,6 +48,10 @@ averte et serva caput inviolabile Teucris.
 
 
 
+
+
+но ты, родитель войн, сжалься и отврати
+нечестие, и сохрани голову его неприкосновенной для тевкров.
 
 ## Английский
 

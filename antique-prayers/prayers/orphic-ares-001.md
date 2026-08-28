@@ -11,6 +11,8 @@ source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
   section: 65 (to Ares)
+  note: >-
+    el.wikisource, Ορφικοί ύμνοι/Άρεος (наш гимн 65); строка с воскурением на странице отсутствует
 occasion: Orphic hymn to Ares with fumigation of frankincense — invocation calling on the war-god to lay down strife and yield to Aphrodite (Kypris) and Dionysus (Lyaios)
 deities:
   - Ares
@@ -53,6 +55,16 @@ status: imported
 
 
 
+
+
+Несокрушимый, могучий духом, великосильный, отважный демон,
+оружелюбивый, неукротимый, смертоубийца, стенобойца,
+Арес-владыка, гремящий доспехом, вечно обагрённый убийствами,
+радующийся мужеубийственной крови, шумный в войне, страшный,
+ты, что жаждешь мечами и копьями немузыкальной схватки, —
+останови бешеный раздор, отпусти душеболящий труд
+и склонись к желанию Киприды и к шествиям Лиэя,
+променяв крепость оружия на дела Део.
 
 ## Английский
 

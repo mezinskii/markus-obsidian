@@ -38,6 +38,9 @@ Te, Terra, precor leviter super residas sentiat ut pietas praemia quae meruit
 
 
 
+
+Тебя, Земля, молю: ляг сверху легко, чтобы благочестие ощутило награду, которую заслужило
+
 ## Английский
 
 To You I pray, Mother Earth, may You settle lightly on her remains, she who knew the reward of piety and merits it.

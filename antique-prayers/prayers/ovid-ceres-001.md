@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Metamorphoses
   section: '5.341-343'
+  note: >-
+    thelatinlibrary.com, Ovidius Metamorphoses V.341-343 (карточка ссылалась на «5.341 ff»)
 occasion: 'the Muse Calliope''s hymnic prelude to the song of Ceres in the singing-contest of Metamorphoses 5'
 deities:
   - Ceres
@@ -48,6 +50,11 @@ prima dedit leges; Cereris sunt omnia munus.
 
 
 
+
+
+Первой Церера кривым плугом раздвинула глыбу,
+первой дала земле плоды и кроткую пищу,
+первой дала законы; всё — дар Цереры.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: "3.789-790"
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti III.789-790
 occasion: 'Liberalia — poet''s closing invocation to Father Liber-Bacchus, asking the horned god to turn his kind gaze and grant favourable inspiration to the poem'
 deities:
   - Bacchus
@@ -53,6 +55,10 @@ et des ingenio vela secunda meo.
 
 
 
+
+
+Кроткую голову, отец, и умиротворённые рога обрати сюда
+и дай попутные паруса моему дарованию.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Pindar
   work: Olympian Odes
   section: 14.1 ff
+  note: >-
+    greek-language.gr, Πίνδαρος Ὀλυμπιόνικος ΙΔ΄ 1-5 (зачин, обращение к Харитам). Взята только древняя колонка; новогреческий перевод на той странице под правами. Издательская помета [στρ. α] снята
 occasion: victory ode for Asopichus of Orchomenos — invocation of the three Graces by Pindar at the start of the ode
 deities:
   - Charites
@@ -57,6 +59,13 @@ status: imported
 
 
 
+
+
+Кефисских вод
+получившие удел, вы, что обитаете в краю прекрасных коней,
+о воспетые царицы блистательного
+Орхомена, Хариты, хранительницы древнерождённых Миниев, —
+услышьте, ибо я молюсь.
 
 ## Английский
 

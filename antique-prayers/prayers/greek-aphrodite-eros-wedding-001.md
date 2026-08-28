@@ -43,6 +43,9 @@ status: imported
 
 
 
+
+Восхваляем златовенчанную, скромную, брачную, безмерно прекрасную Афродиту. Ты, что носишь на бессмертной голове искусно сплетённый венец из золота, ты пробуждаешь сладкое томление равно в богах и в людях. Радуйся, кипророждённая богиня, приносящая смертным кроткие священные дары. И ты, сладостный Эрот, крылатый, могучий стрелок, наполняющий людей огнём, острый ключник всего, наполняющий нашу жизнь радостью. Придите, о блаженные боги, дарующие желанное потомство, друзья мужчин и женщин, кормильцы смертных.
+
 ## Английский
 
 We praise the Golden-wreathed, modest, matrimonial, exceedingly beautiful Aphrodite. You who wears upon your immortal head a well woven wreath of gold, You rouse a sweet yearning in Gods and men alike. Khaire, Cyprus-born Goddess, who brings gentle holy gifts to mortals. And You, sweet Eros, winged, powerful archer, who fills people with fire, keen key-bearer of all, filling our lives with joy. Come O' Blessed Gods who grants desired descendants, friends of men and women, nurturers of mortals.

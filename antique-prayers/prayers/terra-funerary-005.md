@@ -39,6 +39,9 @@ Et te, Terra, precor leviter super ossa residas, sentiat ut pietas praemia quae 
 
 
 
+
+И тебя, Земля, молю: ляг легко на эти кости, чтобы благочестие ощутило награду, которую заслужило, и чтобы всякий, кто искренне воздаёт честь своим, донёс счастливый путь до вышних.
+
 ## Английский
 
 Mother Earth, indeed to You I pray, settle lightly on these bones, as she knew that piety is the reward of she who merits it, and whoever sincerely stands out in performing her own pious duties may be carried on that happy path to the Gods above.

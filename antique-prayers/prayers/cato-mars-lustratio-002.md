@@ -41,6 +41,9 @@ Mars pater, quod tibi illoc porco neque satisfactum est, te hoc porco piaculo.
 
 
 
+
+Отец Марс, если тою свиньёю тебе не было угождено, — тебя этой свиньёю умилостивляю.
+
 ## Английский
 
 Father Mars, if aught hath not pleased thee in the offering of those sucklings, I make atonement with this pig.

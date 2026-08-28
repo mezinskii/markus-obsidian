@@ -41,6 +41,9 @@ status: imported
 
 
 
+
+Помню и не забываю Аполлона Гекатия. Приди, о блаженный Пеан, светлый Феб, ие, ие, податель блаженства, ты, что видишь сверху ширь неба и счастливую землю. С давних веков священное предание — призывать тебя. Приди ко мне молящему и рассей страшную болезнь и страдание.
+
 ## Английский
 
 I remember and do not forget Apollon Hekateios. Come, O' Blessed Paian, bright Phoibos, IE IE, bestower of bliss, Thou who sees the expanse of the sky and the happy earth from up high. From ages past, it is a sacred tradition to invoke You. Come to me who prays and disperse dread disease and suffering.

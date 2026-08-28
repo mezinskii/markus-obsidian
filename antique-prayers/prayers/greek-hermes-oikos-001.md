@@ -42,6 +42,9 @@ status: imported
 
 
 
+
+Внемли моей молитве, Гермес дорожный, вестник Зевса, ты, что имеешь всемогущее сердце, милый друг смертных. Этим скромным возлиянием призываю тебя прийти защитником этого дома и нашей земли, быстроногий вестник воли богов!
+
 ## Английский
 
 Heed my prayer, Hermes of the roads, Zeus' Messenger, You who has an almighty heart, dear friend of mortals. With this modest libation, I evoke Thee to come as Protector of this Oikos and our land, swift-footed Messenger of the Will of the Gods!

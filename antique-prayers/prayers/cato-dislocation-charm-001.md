@@ -42,6 +42,9 @@ Motas uaeta daries dardares astataries dissunapiter. Huat haut haut istasis tars
 
 
 
+
+Motas uaeta daries dardares astataries dissunapiter. Huat haut haut istasis tarsis ardannabou dannaustra.
+
 ## Английский
 
 Any kind of dislocation may be cured by the following charm: Take a green reed four or five feet long and split it down the middle, and let two men hold it to your hips. Begin to chant: "motas uaeta daries dardares astataries dissunapiter" and continue until they meet. Brandish a knife over them, and when the reeds meet so that one touches the other, grasp with the hand and cut right and left. If the pieces are applied to the dislocation or the fracture, it will heal. And none the less chant every day: "huat haut haut istasis tarsis ardannabou dannaustra."

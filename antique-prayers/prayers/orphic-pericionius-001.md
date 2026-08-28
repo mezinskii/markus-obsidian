@@ -11,6 +11,8 @@ source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
   section: 47 (to Pericionius)
+  note: >-
+    el.wikisource, Ορφικοί ύμνοι/Περικιονίου (наш гимн 47)
 occasion: 'Orphic hymn to Dionysus Perikionios (''around the pillar'') — recalling the rescue of the house of Cadmus when its pillars trembled'
 deities:
   - Dionysus
@@ -51,6 +53,16 @@ status: imported
 
 
 
+
+
+Периклонию, воскурение — благовония
+
+Призываю Вакха Столпообвивающего, дарующего опьянение,
+того, кто, обвившись кругом по всему Кадмову дому,
+крепко его удержал, отослав прочь сотрясения земли,
+когда огненосное сияние сдвинуло всю землю
+свистами перуна; и взбежал он связью всего.
+Приди, блаженный, вакхующий, с радующимся сердцем.
 
 ## Английский
 

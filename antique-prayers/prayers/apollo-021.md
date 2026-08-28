@@ -11,6 +11,8 @@ source:
   author: Statius
   work: Thebaid
   section: 7.786-788
+  note: >-
+    thelatinlibrary.com, Statius Thebais VII.786-788 (последние слова Амфиарая)
 occasion:
 deities:
   - Apollo
@@ -44,6 +46,11 @@ sensimus; instantes quonam usque morabere manes?
 
 
 
+
+
+Некогда мы, отец Киррейский, ощутили тебя, воссевшего
+на обречённых гибели хребтах — какая честь несчастным! — по дрожащей оси;
+доколе же будешь ты медлить с надвигающимися Манами?
 
 ## Английский
 

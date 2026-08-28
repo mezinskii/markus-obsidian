@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
   section: 'CIL VI 32323, Iuno Regina'
+  note: >-
+    EDCS, CIL VI 32323, молитва при жертве коровы Юноне Царице. Аппарат издания сохранён: [] — восстановленное, () — раскрытые сокращения
 occasion: Ludi Saeculares 17 BCE
 deities:
   - Juno
@@ -43,6 +45,9 @@ Iuno Regina uti tibi in illis [l]ibris scriptum est quarumque rerum [ergo quodqu
 
 
 
+
+
+Юнона Царица, как о тебе в тех книгах написано и ради каких дел — чтобы всё было лучше народу римскому квиритам, — да свершится тебе жертва прекрасной коровой; тебя прошу и молю; прочее как выше.
 
 ## Английский
 

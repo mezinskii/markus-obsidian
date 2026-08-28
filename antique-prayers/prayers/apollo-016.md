@@ -11,6 +11,8 @@ source:
   author: Plautus
   work: Mercator
   section: 678-680
+  note: >-
+    thelatinlibrary.com, Plautus Mercator 677-678 (карточка ссылается на 678-680)
 occasion:
 deities:
   - Apollo
@@ -43,6 +45,10 @@ salutem et sanitatem nostrae familiae.
 
 
 
+
+
+Аполлон, прошу тебя: даруй милостиво мир,
+благополучие и здоровье нашему дому.
 
 ## Английский
 

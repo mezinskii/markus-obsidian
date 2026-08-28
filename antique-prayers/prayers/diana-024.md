@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Aeneid
   section: '11.483-485'
+  note: >-
+    thelatinlibrary.com, Vergilius Aeneis XI.483-485 — молитва латинских матрон в храме Паллады. Карточка ссылалась на 11.583-585 и числит божеством Диану, но «Tritonia virgo» — это Минерва; ссылка и deities исправлены
 occasion:
 deities:
   - Minerva
@@ -45,6 +47,11 @@ pronum sterne solo portisque effunde sub altis.
 
 
 
+
+
+Мощная оружием, предводительница войны, Тритонийская дева,
+сломи рукою копьё фригийского разбойника, и его самого
+ниц простри на земле и низвергни под высокими вратами.
 
 ## Английский
 

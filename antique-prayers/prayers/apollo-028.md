@@ -11,6 +11,8 @@ source:
   author: Valerius Flaccus
   work: Argonautica
   section: 5.17-20
+  note: >-
+    thelatinlibrary.com, Valerius Flaccus Argonautica V.17-20
 occasion:
 deities:
   - Apollo
@@ -45,6 +47,12 @@ vertitur atque omnis manibus nunc pendet ab unis!
 
 
 
+
+
+Лукомощный, обратись, молю, ныне наконец, Аполлон!
+Эту, отец, эту голову нам оживи, если хоть сколько-нибудь
+забота о труде нашем тебя трогает — о труде, что вращается
+на последней оси и весь висит теперь на одних руках!
 
 ## Английский
 

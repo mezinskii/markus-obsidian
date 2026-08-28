@@ -11,6 +11,8 @@ source:
   author: Livy
   work: Ab Urbe Condita
   section: 8.9.6-8
+  note: >-
+    thelatinlibrary.com, Livius Ab Urbe Condita VIII.9.6-8 (девоция Деция Муса); u приведено к v
 occasion: 'devotio of Publius Decius Mus at the Battle of Veseris (340 BC) — consul''s self-sacrifice, devoting himself together with the enemy legions to the gods of the underworld for Roman victory'
 deities:
   - Ianus
@@ -65,6 +67,9 @@ Iane, Iuppiter, Mars pater, Quirine, Bellona, Lares, Divi Novensiles, Di Indiget
 
 
 
+
+
+Янус, Юпитер, отец Марс, Квирин, Беллона, Лары, боги Новенсилы, боги Индигеты, боги, во власти которых мы и враги наши, и вы, боги Маны, — вас я молю и чту, испрашиваю и приемлю милость, чтобы вы народу римскому квиритам даровали силу и победу, а врагов народа римского квиритов поразили ужасом, страхом и смертью. Как я произнёс словами, так за государство народа римского квиритов, за войско, легионы и вспомогательные силы народа римского квиритов я обрекаю легионы и вспомогательные силы врагов вместе с собою богам Манам и Земле.
 
 ## Английский
 

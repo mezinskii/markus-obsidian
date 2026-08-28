@@ -40,6 +40,9 @@ status: imported
 
 
 
+
+Приди, о блаженная Гигиея, многожеланная, возлюбленная царица всего. Тобою истребляются все смертные болезни, от тебя всякий дом расцветает и наполняется радостью, от тебя процветают и ремёсла, ибо тебя желают люди, о царица, вечно цветущая, многохвалимая, отдохновение смертных. Приди, богиня: без тебя всё прочее тщетно, — спаси просителя твоего от злосчастной болезни.
+
 ## Английский
 
 Come, O' Blessed Hygeia, much desired, beloved Queen of all. All mortal diseases are destroyed by You, and from You every home blossoms and is filled with joy, even the crafts flourish from you, for it is You that people desire, O' Queen, ever-flourishing, much-praised, repose of mortals. Come, Goddess, without You all else is futile, save your supplicant from ill-fated disease.

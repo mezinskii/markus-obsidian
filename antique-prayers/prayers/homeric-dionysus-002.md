@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 7 (to Dionysus), opening and closing
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/VII. Εις Διόνυσον — зачин и концовка; повествование о тирренских пиратах в перевод не входит, шов помечен […]
 occasion: 'Homeric Hymn 7 to Dionysus — narrative hymn telling of Dionysus''s encounter with the Tyrrhenian pirates'
 deities:
   - Dionysus
@@ -50,6 +52,15 @@ status: imported
 
 
 
+
+
+О Дионисе, сыне многославной Семелы,
+вспомню.
+
+[…]
+
+Радуйся, дитя прекрасноликой Семелы; и никак нельзя
+тому, кто тебя забыл, сложить сладкую песнь.
 
 ## Английский
 

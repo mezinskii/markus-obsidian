@@ -4,7 +4,7 @@ prayer_id: prayer_carmenta_010
 slug: prayer-carmenta-010
 culture: roman
 form: personal
-period: Archaic
+period: modern reconstruction (Nova Roma)
 provenance: modern
 original_lang: la
 source:
@@ -40,6 +40,9 @@ Da illi hasce opes, Carmentis, quas peto, quas precor porrige opitula
 
 
 
+
+
+Дай ей эти средства, Кармента, о которых прошу, о которых молю; протяни руку, пособи
 
 ## Английский
 

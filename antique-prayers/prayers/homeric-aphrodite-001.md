@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 5 (to Aphrodite), opening and closing
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/V. Εις Αφροδίτην — зачин (1-6) и концовка (292-293); повествование об Анхисе в перевод не входит, шов помечен […]
 occasion: opening and closing of the long Homeric Hymn to Aphrodite — proem on her universal power over gods, men and animals (the body narrates the affair with Anchises)
 deities:
   - Aphrodite
@@ -56,6 +58,19 @@ status: imported
 
 
 
+
+
+Муза, поведай мне дела многозлатой Афродиты
+Киприды, что и в богах пробудила сладкое влечение
+и укротила племена смертных людей,
+и птиц, летящих под небом, и всех зверей,
+сколько ни кормит их суша и сколько ни кормит море;
+всем им милы дела прекрасновенчанной Кифереи.
+
+[…]
+
+Радуйся, богиня, владеющая благоустроенным Кипром;
+с тебя начав, перейду я к другому гимну.
 
 ## Английский
 

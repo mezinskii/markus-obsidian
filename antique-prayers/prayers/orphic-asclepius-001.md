@@ -11,6 +11,8 @@ source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
   section: 67 (to Asclepius)
+  note: >-
+    el.wikisource, Ορφικοί ύμνοι/Ασκληπιού (наш гимн 67)
 occasion: Orphic hymn to Asclepius with fumigation of manna — invocation of the physician-god to bring health and restrain pestilence
 deities:
   - Asclepius
@@ -57,6 +59,18 @@ status: imported
 
 
 
+
+
+Асклепию, воскурение — манна
+
+Врачеватель всего, Асклепий, владыка Пеан,
+чарующий многоболезненные страдания людей от недугов,
+кроткодарящий, могучий, — приди, низводя здоровье
+и прекращая недуги и тяжкие керы смерти,
+цветущий юноша и отвратитель зла, блаженножребный,
+Феба Аполлона крепкий побег, светлочтимый,
+враг болезней, имеющий Гигиею безупречной супругой, —
+приди, блаженный, спаситель, даруя доброе завершение жизни.
 
 ## Английский
 

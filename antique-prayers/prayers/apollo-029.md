@@ -11,6 +11,8 @@ source:
   author: Valerius Flaccus
   work: Argonautica
   section: 5.244-249
+  note: >-
+    thelatinlibrary.com, Valerius Flaccus Argonautica V.244-249
 occasion:
 deities:
   - Apollo
@@ -45,6 +47,12 @@ sive externa manus, primus mihi nuntius esto.
 
 
 
+
+
+Тебе, родитель, вверена судьба моя, всевидящий:
+ныне рассыпь по землям, рассыпь по всему морю
+свои огни. Своя ли рука готовит скрытые козни
+или чужая — будь мне первым вестником.
 
 ## Английский
 

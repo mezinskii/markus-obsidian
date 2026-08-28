@@ -45,6 +45,9 @@ Novum vetus vinum bibo, novo veteri morbo medeor.
 
 
 
+
+Новое старое вино пью, от новой старой болезни врачуюсь.
+
 ## Английский
 
 Wine new and old I drink, of illness new and old I am cured.

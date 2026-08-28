@@ -46,6 +46,9 @@ Floreat ut toto carmen Nasonis in aevo, sparge, precor, donis pectora nostra tui
 
 
 
+
+Чтобы песнь Назона цвела во все века, окропи, молю, дарами твоими нашу грудь.
+
 ## Английский
 
 That Naso's lay may bloom for aye, O strew, I pray thee, goddess, thy boons upon my breast!

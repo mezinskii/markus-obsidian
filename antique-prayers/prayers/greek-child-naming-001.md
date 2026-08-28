@@ -40,6 +40,9 @@ status: imported
 
 
 
+
+О бессмертные боги, призываю вас прийти с добрым расположением и даровать [имя ребёнка] блаженную жизнь, жизнь в радости и жизнь в добродетели, руководимую разумом, природой и нравом. Почтенные предки, помогите этому ребёнку продолжить ваше имя и ваши дела. Да хранят и поддерживают боги [имя ребёнка] всегда.
+
 ## Английский
 
 O' Immortal Gods, I call upon you to come with good disposition and to grant to [child name] a blissful life, a life of pleasure and a life of virtue guided by reason, nature and ethos. Honoured Ancestors, help this child to continue your name and your deeds. May the Gods ever Protect and Sustain [child name].

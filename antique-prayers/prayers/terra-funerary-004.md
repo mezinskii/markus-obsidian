@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae
   section: 'CIL III 3989'
+  note: >-
+    EDCS-28800750, CIL III 3989 (= CLE 2607), Сисция в Верхней Паннонии, III в. — эпитафия Максимианы Эмилии. Приведена молитвенная часть, которую передаёт английский. Аппарат: () — раскрытые сокращения
 occasion: death / grave inscription
 deities:
   - Terra Mater
@@ -43,6 +45,11 @@ tormento admittite.
 
 
 
+
+
+Вас же, Подземные,
+к кому меня стремглав принудили боги Вышние, — с наименьшим
+мучением примите.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Silius Italicus
   work: Punica
   section: '13.136'
+  note: >-
+    thelatinlibrary.com, Silius Italicus Punica XIII.136 (в карточке ссылка была искажена: «13.13-137»)
 occasion:
 deities:
   - Diana
@@ -40,6 +42,9 @@ status: imported
 
 
 
+
+
+«Будь с нами, — молит, — Латония, в начинаниях».
 
 ## Английский
 

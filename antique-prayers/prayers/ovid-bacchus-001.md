@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: III.713-714
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti III.713-714
 occasion: 'Liberalia — poet''s opening invocation to Bacchus as he begins to sing the feast of Liber on the third day after the Ides of March'
 deities:
   - Bacchus
@@ -45,6 +47,10 @@ Bacche, fave vati, dum tua festa cano.
 
 
 
+
+
+Третий день после Ид — самый людный для Вакха:
+Вакх, будь благосклонен к поэту, пока я пою твой праздник.
 
 ## Английский
 

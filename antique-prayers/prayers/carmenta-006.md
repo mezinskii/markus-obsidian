@@ -4,7 +4,7 @@ prayer_id: prayer_carmenta_006
 slug: prayer-carmenta-006
 culture: roman
 form: ritual
-period: Archaic
+period: modern reconstruction (Nova Roma)
 provenance: modern
 original_lang: la
 source:
@@ -39,6 +39,9 @@ In tua, Mater carissime, in tua sumus custodia. Carmentis, te hoc popanae obmove
 
 
 
+
+
+В твоей, дражайшая Мать, в твоей мы охране. Кармента, поднося тебе эту попану, добрыми молитвами молю, чтобы ты была благосклонна и милостива к нам и к детям нашим, к домам и к челяди нашей, почтённая этим приношением.
 
 ## Английский
 

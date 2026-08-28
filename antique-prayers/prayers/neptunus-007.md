@@ -40,6 +40,9 @@ Domine Neptune tibi dono hominem qui solidum involavit Muconi.
 
 
 
+
+Господин Нептун, тебе отдаю человека, который украл солид у Мукония.
+
 ## Английский
 
 Lord Neptune, I commend to You the fellow who pounced upon what rightfully belongs to Muconus and therefore I remit to You the six silver coins along with the one who stole them. May You ensnare this thief who violated me in this way; may You attack him and consume his blood, Lord Neptune.

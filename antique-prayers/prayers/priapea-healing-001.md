@@ -44,6 +44,9 @@ Fer opem, Priape, parti quoius tu, pater, ipse pars videris; qua salva sine sect
 
 
 
+
+Подай помощь, Приап, тому члену, чьей частью ты сам, отец, кажешься; и когда он исцелится без разреза, тебе будет поставлено его изображение — равное, подобное и того же цвета, каким ты его облегчил.
+
 ## Английский
 
 Give assistance, Priapus, to the part of which you, father, seem to be a part yourself! If it is made healthy without surgery, a painted one, its equal in size, shape and color, shall be dedicated to you.

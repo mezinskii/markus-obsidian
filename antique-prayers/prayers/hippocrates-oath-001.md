@@ -11,6 +11,8 @@ source:
   author: Hippocrates
   work: Hippocratic Oath
   section: opening invocation
+  note: >-
+    el.wikisource, Ἱπποκράτειος ὅρκος — зачин клятвы. Английский в карточке идёт на одну клаузулу дальше («что по силе и разумению исполню эту клятву»), здесь приведено само призывание богов в свидетели
 occasion: 'opening of the Hippocratic Oath — physicians'' solemn oath sworn by Apollo the physician, Asclepius, Hygieia, Panakea and all gods and goddesses'
 deities:
   - Apollo
@@ -48,6 +50,9 @@ status: imported
 
 
 
+
+
+Клянусь Аполлоном-врачом, и Асклепием, и Гигиеей, и Панакеей, и всеми богами и богинями, беря их в свидетели.
 
 ## Английский
 

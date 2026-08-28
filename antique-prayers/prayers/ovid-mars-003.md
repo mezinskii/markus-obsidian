@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: "4.827-832"
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti IV.827-832 (молитва Ромула при основании города)
 occasion: 'Romulus''s foundational prayer at the founding of Rome — invocation of Jupiter, Mars and Vesta for the city''s eternal dominion'
 deities:
   - Iuppiter
@@ -57,6 +59,14 @@ sitque sub hac oriens occiduusque dies».
 
 
 
+
+
+«Основывающему город, Юпитер,
+и родитель Маворс, и мать Веста, будьте здесь,
+и все боги, кого благочестиво призвать, обратитесь ко мне:
+под вашими ауспициями да встанет у меня этот труд.
+Да будет ему долгий век и власть над владычицей-землёй,
+и да будут под ним восход и закат дня».
 
 ## Английский
 

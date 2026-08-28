@@ -11,6 +11,8 @@ source:
   author: Plautus
   work: Mercator
   section: 865
+  note: >-
+    thelatinlibrary.com, Plautus Mercator 864-865 (карточка ссылается на 865)
 occasion:
 deities:
   - Lares
@@ -42,6 +44,10 @@ vos, Lares viales, ut me bene tutetis.
 
 
 
+
+
+Призываю
+вас, Лары дорожные, чтобы вы хорошо меня хранили.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Aeneid
   section: 12.777-779
+  note: >-
+    thelatinlibrary.com, Vergilius Aeneis XII.777-779 (молитва Турна)
 occasion:
 deities:
   - Faunus
@@ -44,6 +46,11 @@ quos contra Aeneadae bello fecere profanos».
 
 
 
+
+
+«Фавн, молю, сжалься, — говорит, — и ты, наилучшая
+Земля, удержи железо, если я всегда чтил ваши почести,
+которые Энеады, напротив, войной осквернили».
 
 ## Английский
 

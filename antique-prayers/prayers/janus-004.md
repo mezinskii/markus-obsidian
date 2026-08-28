@@ -11,6 +11,8 @@ source:
   author: Livy
   work: Ab Urbe Condita
   section: 1.32.10
+  note: >-
+    thelatinlibrary.com, Livius Ab Urbe Condita I.32.10 (формула фециала при объявлении войны)
 occasion: declaration of war (fetial rite)
 deities:
   - Janus
@@ -43,6 +45,9 @@ Audi, Iuppiter, et tu, Iane Quirine, dique omnes caelestes, vosque terrestres vo
 
 
 
+
+
+Слушай, Юпитер, и ты, Янус Квирин, и все боги небесные, и вы, земные, и вы, подземные, слушайте; я вас призываю в свидетели, что народ тот несправедлив и не воздаёт должного по праву.
 
 ## Английский
 

@@ -41,6 +41,9 @@ Si deus, si dea es, quoiium illud sacrum est, uti tibi ius est porco piaculo fac
 
 
 
+
+Бог ли ты, богиня ли, кому посвящена эта роща, — как твоё право получить свинью в очистительную жертву ради прореживания этой священной рощи и ради этих дел, и сделаю ли это я сам или кто по моему приказу, — да будет оно сделано по правилу; ради того, принося эту свинью в очистительную жертву, добрыми молитвами молю, чтобы ты был благосклонен и милостив ко мне, к дому и челяди моей и к детям моим: ради этих дел почтён будь этой закалываемой очистительной свиньёй.
+
 ## Английский
 
 Whether thou be god or goddess to whom this grove is dedicated, as it is thy right to receive a sacrifice of a pig for the thinning of this sacred grove, and to this intent, whether I or one at my bidding do it, may it be rightly done. To this end, in offering this pig to thee I humbly beg that thou wilt be gracious and merciful to me, to my house and household, and to my children. Wilt thou deign to receive this pig which I offer thee to this end.

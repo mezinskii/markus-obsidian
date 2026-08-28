@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
   section: 'CIL VI 32323, Iuppiter O.M.'
+  note: >-
+    EDCS, CIL VI 32323 (Acta ludorum saecularium, 17 г. до н. э.), молитва при жертве быка на Капитолии. Аппарат издания сохранён: [] — восстановленное, () — раскрытые сокращения, «3» — лакуна неизвестной длины
 occasion: Ludi Saeculares
 deities:
   - Jupiter
@@ -43,6 +45,9 @@ Iuppiter Optime Maxime ut[i t]ibi in illeis libreis scriptum est quarumque rerum
 
 
 
+
+
+Юпитер Всеблагой Величайший, как о тебе в тех книгах написано и ради каких дел — чтобы всё было лучше народу римскому квиритам, — да свершится тебе жертва этим прекрасным быком; тебя прошу и молю; прочее как выше.
 
 ## Английский
 

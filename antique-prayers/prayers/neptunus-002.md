@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Metamorphoses
   section: '8.595-598'
+  note: >-
+    thelatinlibrary.com, Ovidius Metamorphoses VIII.595-598 (карточка ссылалась на 595-602)
 occasion:
 deities:
   - Neptunus
@@ -46,6 +48,12 @@ da, Neptune, locum, vel sit locus ipsa licebit!
 
 
 
+
+
+О ты, кому досталось по жребию царство,
+ближайшее к миру, — блуждающей волны, Трезубценосец, —
+подай помощь и погружённой из-за отцовской свирепости,
+молю, дай, Нептун, место — или пусть она сама станет местом!
 
 ## Английский
 

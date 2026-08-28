@@ -11,6 +11,8 @@ source:
   author: Horace
   work: Satires
   section: 2.6.20-21
+  note: >-
+    thelatinlibrary.com, Horatius Sermones II.6.20-21
 occasion:
 deities:
   - Janus
@@ -43,6 +45,10 @@ unde homines operum primos vitaeque labores.
 
 
 
+
+
+Отец Утренний, или, если охотнее откликаешься, Янус,
+от кого у людей начала дел и трудов жизни.
 
 ## Английский
 

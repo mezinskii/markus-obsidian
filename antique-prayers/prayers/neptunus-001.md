@@ -11,6 +11,8 @@ source:
   author: Arnobius
   work: Adversus Nationes
   section: III.43
+  note: >-
+    thelatinlibrary.com, Arnobius Adversus Nationes III.43 (старинная формула, приводимая Арнобием)
 occasion: plague
 deities:
   - Neptunus
@@ -45,6 +47,9 @@ Adeste, adestote dii Penates, tu Apollo tuque Neptune, omniaque haec mala quibus
 
 
 
+
+
+Будьте здесь, будьте, боги Пенаты, и ты, Аполлон, и ты, Нептун, и все эти беды, которыми я жгусь, устрашаюсь и терзаюсь, отвратите милостью вашего божества.
 
 ## Английский
 

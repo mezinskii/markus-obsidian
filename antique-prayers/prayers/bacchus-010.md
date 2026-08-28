@@ -11,6 +11,8 @@ source:
   author: Tibullus
   work: Elegiae
   section: '2.1.3-4; 17-20'
+  note: >-
+    thelatinlibrary.com, Tibullus Elegiae II.1.3-4 и 17-20; u приведено к v
 occasion: field purification / Ambarvalia
 deities:
   - Bacchus
@@ -54,6 +56,17 @@ vos mala de nostris pellite limitibus.
 
 
 
+
+
+Вакх, приди, и пусть сладкая гроздь свисает
+с рогов твоих, а ты, Церера, увей колосьями виски.
+
+[…]
+
+Глядите, как идёт к сияющим алтарям священный агнец
+и следом — белая толпа с кудрями, увитыми оливой.
+Отчие боги, мы очищаем поля, очищаем земледельцев:
+отгоните вы зло от наших рубежей.
 
 ## Английский
 

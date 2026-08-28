@@ -43,6 +43,9 @@ status: imported
 
 
 
+
+О Део, мать всего, чтимая богиня Деметра, дарующая счастье. О богиня, приносящая богатство, всё подающая и радующаяся миру, кормящая богиня многих детей, многочтимая, многообразная, плодовитая. Приди, блаженная и чистая, неся мир и желанное благоденствие, блаженное богатство и благородную Гигиею.
+
 ## Английский
 
 O' Dio, mother of all, respected Goddess, Demetra, giver of Happiness. O' Goddess, bringer of wealth, who provides everything and rejoices in peace, nurturing Goddess of many children, much respected, multi-formed, prolific. Come, blessed and pure, bringing peace, and desirable prosperity, blessed wealth and the Noble Hygeia.

@@ -11,6 +11,8 @@ source:
   author: Martial
   work: Epigrammata
   section: 8.2.8
+  note: >-
+    thelatinlibrary.com, Martialis Epigrammata VIII.2.8
 occasion:
 deities:
   - Janus
@@ -39,6 +41,9 @@ Addas, Iane pater, tuam rogamus.
 
 
 
+
+
+Прибавь, отец Янус, — просим, — своей милости.
 
 ## Английский
 

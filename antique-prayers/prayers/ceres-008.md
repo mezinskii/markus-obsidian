@@ -11,6 +11,8 @@ source:
   author: Livy
   work: Ab Urbe Condita
   section: 24.38.8
+  note: >-
+    thelatinlibrary.com, Livius Ab Urbe Condita XXIV.38.8; u приведено к v
 occasion:
 deities:
   - Ceres
@@ -43,6 +45,9 @@ tu, Ceres mater ac Proserpina, ceteri superi infernique di, qui hanc urbem, hos 
 
 
 
+
+
+Ты, Церера-мать, и Прозерпина, и прочие боги вышние и подземные, что обитаете в этом городе, у этих священных озёр и рощ, — будьте нам благосклонны и милостивы, если мы принимаем это решение ради того, чтобы избежать обмана, а не совершить его.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Ausonius
   work: Precationes
   section: 'Precatio consulis designati, 1-2'
+  note: >-
+    intratext.com, Ausonius «Precatio consulis designati pridie Kal. Ian. fascibus sumptis», зачин. ИСПРАВЛЕНО СОЧИНЕНИЕ: карточка ссылалась на «Epigrammata 3-5», но это «Precationes»
 occasion: New Year
 deities:
   - Janus
@@ -41,6 +43,10 @@ consulis Ausonii Latiam visure curulem.
 
 
 
+
+
+Янус, приди; новый год, приди; обновлённое, приди, Солнце,
+чтобы увидеть латинское курульное кресло авсонийского консула.
 
 ## Английский
 

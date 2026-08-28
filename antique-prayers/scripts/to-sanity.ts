@@ -141,6 +141,7 @@ async function main() {
         author: str((fm.source as Json)?.author) || undefined,
         work: str((fm.source as Json)?.work) || undefined,
         section: str((fm.source as Json)?.section) || undefined,
+        note: str((fm.source as Json)?.note) || undefined,
       },
       occasion: str(fm.occasion) || undefined,
       deities: list(fm.deities),

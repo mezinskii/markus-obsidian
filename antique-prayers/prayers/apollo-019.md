@@ -11,6 +11,8 @@ source:
   author: Statius
   work: Achilleis
   section: 1.9-10
+  note: >-
+    thelatinlibrary.com, Statius Achilleis I.9-10
 occasion:
 deities:
   - Apollo
@@ -41,6 +43,10 @@ necte comas.
 
 
 
+
+
+дай мне, Феб, новые источники и благосклонной листвой
+оплети мне кудри.
 
 ## Английский
 

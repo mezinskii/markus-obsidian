@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 4.747
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti IV.747
 occasion: 'Parilia / shepherds'' festival'
 deities:
   - Pales
@@ -44,6 +46,9 @@ silvicolam tepido lacte precare Palem.
 
 
 
+
+
+тёплым молоком моли лесную Палес.
 
 ## Английский
 

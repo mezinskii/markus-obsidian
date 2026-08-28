@@ -11,6 +11,8 @@ source:
   author: Macrobius
   work: Saturnalia
   section: 3.9.7-8
+  note: >-
+    penelope.uchicago.edu (LacusCurtius), Macrobius Saturnalia III.9.7-8 — формула evocatio. В издании фон Яна ритуальные формулы набраны капителью; здесь приведены обычным написанием
 occasion: evocatio of the tutelary gods of Carthage by Scipio Aemilianus at the siege of Carthage (146 BC) — ritual summons of enemy deities to cross over to Rome
 deities:
 sphere:
@@ -47,6 +49,9 @@ Si deus si dea est cui populus civitasque Carthaginiensis est in tutela, teque m
 
 
 
+
+
+Бог ли, богиня ли, под чьей опекой народ и община карфагенская, и тебя прежде всего, кто принял на себя опеку этого города и народа, — молю и чту и прошу у вас милости: покиньте народ и общину карфагенскую, оставьте места, храмы, святыни и город их, уйдите прочь от них, и на тот народ и общину наведите страх, ужас и забвение; и, покинув их, придите в Рим, ко мне и к моим, и пусть наши места, храмы, святыни и город будут вам угоднее и любезнее; и станьте покровителями мне, народу римскому и воинам моим, — так, чтобы мы это знали и разумели. Если вы так сделаете, обещаю выстроить вам храмы и учредить игры.
 
 ## Английский
 

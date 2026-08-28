@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 3.1-2
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti III.1-2
 occasion: 'poet''s opening invocation to Mars at the beginning of Fasti book III — inviting the god to set aside arms and hear the poet'
 deities:
   - Mars
@@ -45,6 +47,10 @@ Mars, ades et nitidas casside solve comas.
 
 
 
+
+
+Воинственный, отложив ненадолго щит и копьё,
+Марс, будь здесь и высвободи из шлема блестящие кудри.
 
 ## Английский
 

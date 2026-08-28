@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 20 (to Hephaestus)
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/XX. Εις Ήφαιστον
 occasion: Homeric Hymn to Hephaestus — praising him with Athena as the teachers of crafts to mankind
 deities:
   - Hephaestus
@@ -54,6 +56,16 @@ status: imported
 
 
 
+
+
+Гефеста, славного разумом, воспой, звонкая Муза,
+того, кто вместе со светлоокой Афиной блистательным ремёслам
+научил людей на земле, — а прежде они
+обитали в пещерах в горах, как звери.
+Ныне же, через Гефеста, славного искусством, изучив ремёсла,
+легко они весь год до конца
+безмятежно проводят в собственных домах.
+Но будь милостив, Гефест, и дай доблесть и благополучие.
 
 ## Английский
 

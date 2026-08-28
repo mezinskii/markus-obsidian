@@ -11,6 +11,8 @@ source:
   author: Propertius
   work: Elegiae
   section: 4.9.71-74
+  note: >-
+    thelatinlibrary.com, Propertius Elegiae IV.9.71-74; u приведено к v
 occasion:
 deities:
   - Hercules
@@ -47,6 +49,12 @@ Sancte, velis libro dexter inesse meo.
 
 
 
+
+
+Его, поскольку он руками своими освятил очищенный круг земной,
+Тациевы Куры так и нарекли Санком.
+Здравствуй, отец Санк, кому уже благоволит суровая Юнона:
+Санк, благоволи благосклонно пребыть в моей книге.
 
 ## Английский
 

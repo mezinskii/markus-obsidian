@@ -45,6 +45,9 @@ Hoc rapum mihi vico sereo.
 
 
 
+
+Эту репу сею я себе и деревне.
+
 ## Английский
 
 I sow this rape seed for myself and for my neighbors.

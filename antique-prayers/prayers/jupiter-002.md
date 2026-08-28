@@ -41,6 +41,9 @@ Iuppiter Dapalis, macte esto hac dape quam tibi appono.
 
 
 
+
+Юпитер Пиршественный, почтён будь этой трапезой, которую я тебе ставлю.
+
 ## Английский
 
 Jupiter Dapalis, it is a tradition in my family that a cup of wine be offered to You in thanksgiving for the sacred feast. For this reason may You accept this feast offering. Jupiter Dapalis, may You be strengthened by this feast, may You be warmed by this small portion of our wine that I offer.

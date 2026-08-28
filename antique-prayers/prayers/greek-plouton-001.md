@@ -42,6 +42,9 @@ status: imported
 
 
 
+
+О Плутон, держащий ключи от земли, Зевс Хтоний, скипетродержец. Ты, что царствуешь над смертными через смерть. Ты один воздаёшь за дела, явные и неявные; ты, что радуешься священным поклонениям. Призываю тебя благосклонно принять [имя усопшего] в твои владения.
+
 ## Английский
 
 O' Plouton, who holds the keys to the earth, Zeus Khthonios, wielder of the sceptre. You who reigns over mortals through death. You alone award deeds, revealed and unrevealed, You who exults in the sacred venerations. I call on You to benevolently receive [name of deceased] in your domain.

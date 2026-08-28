@@ -11,6 +11,8 @@ source:
   author: Tibullus
   work: Elegiae
   section: 1.1.15-16
+  note: >-
+    thelatinlibrary.com, Tibullus Elegiae I.1.15-16
 occasion:
 deities:
   - Ceres
@@ -43,6 +45,10 @@ Spicea, quae templi pendeat ante fores.
 
 
 
+
+
+Русая Церера, да будет тебе от нашего поля венок
+колосяной, что повиснет перед дверями храма.
 
 ## Английский
 

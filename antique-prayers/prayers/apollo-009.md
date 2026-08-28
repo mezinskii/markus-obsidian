@@ -11,6 +11,8 @@ source:
   author: Martial
   work: Epigrammata
   section: 4.45.1-2
+  note: >-
+    thelatinlibrary.com, Martialis Epigrammata IV.45.1-2
 occasion:
 deities:
   - Apollo
@@ -42,6 +44,10 @@ Phoebe, Palatinus munera Parthenius.
 
 
 
+
+
+Эти дары из полной курильницы радостно приносит тебе,
+Феб, за сына своего палатинский Парфений.
 
 ## Английский
 

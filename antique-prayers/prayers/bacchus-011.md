@@ -11,6 +11,8 @@ source:
   author: Tibullus
   work: Elegiae
   section: 3.6.1-4
+  note: >-
+    thelatinlibrary.com, Corpus Tibullianum III.6.1-4; u приведено к v
 occasion:
 deities:
   - Bacchus
@@ -45,6 +47,12 @@ saepe tuo cecidit munere victus amor.
 
 
 
+
+
+Светлый Либер, будь здесь — да будет вечно твоею
+таинственная лоза, да носишь ты виски, увитые плющом, —
+и унеси, ты сам, тоже нуждающийся в лечении, мою боль:
+часто даром твоим бывала повержена любовь.
 
 ## Английский
 

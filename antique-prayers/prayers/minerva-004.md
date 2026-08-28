@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 6.652
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti VI.652
 occasion:
 deities:
   - Minerva
@@ -40,6 +42,9 @@ nunc ades o coeptis, flava Minerva, meis.
 
 
 
+
+
+ныне будь, о русая Минерва, при моих начинаниях.
 
 ## Английский
 

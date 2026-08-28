@@ -4,7 +4,7 @@ prayer_id: prayer_carmenta_002
 slug: prayer-carmenta-002
 culture: roman
 form: ritual
-period: Archaic
+period: modern reconstruction (Nova Roma)
 provenance: modern
 original_lang: la
 source:
@@ -39,6 +39,9 @@ Carmentis, te hoc turem obmoveo bonas preces precor, ut sis volens propitius nob
 
 
 
+
+
+Кармента, тебе я подношу это воскурение и добрыми молитвами молю, чтобы ты была благосклонна и милостива к нам и к детям нашим, к домам и к челяди нашей.
 
 ## Английский
 

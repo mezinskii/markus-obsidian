@@ -11,6 +11,8 @@ source:
   author: Claudius Claudianus
   work: In Olybii et Probini fratres Consules Panegyricus
   section: 1-7
+  note: >-
+    thelatinlibrary.com, Claudianus Panegyricus dictus Olybrio et Probino consulibus 1-7 (обращение к Солнцу в зачине)
 occasion: new year / consular inauguration
 deities:
   - Sol
@@ -49,6 +51,15 @@ consulibus, laetique petant exordia menses.
 
 
 
+
+
+Солнце, ты, что объемлешь мир огненосными вожжами
+и вращаешь неистощимым движеньем возвращающиеся века,
+рассыпь этот день лучшею гривой; и, расчесав гриву,
+пусть отраднее встанут кони с поднятым дышлом,
+выдыхая розовый огонь сквозь пенные удила:
+пусть уже новый путь начертит год братьям-консулам,
+и радостные месяцы вступят в свой черёд.
 
 ## Английский
 

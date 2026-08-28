@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 10 (to Aphrodite)
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/X. Εις Αφροδίτην
 occasion: short Homeric Hymn to Aphrodite — invocation of the smiling goddess of Salamis and Cyprus
 deities:
   - Aphrodite
@@ -50,6 +52,14 @@ status: imported
 
 
 
+
+
+Кипророждённую Киферею воспою — ту, что смертным
+даёт кроткие дары; на желанном лице
+она всегда улыбается, и по нему бежит желанный цвет.
+Радуйся, богиня, владеющая благоустроенным Саламином
+и морским Кипром; дай желанную песнь.
+А я и о тебе, и о другой песне вспомню.
 
 ## Английский
 

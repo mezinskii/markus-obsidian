@@ -11,6 +11,8 @@ source:
   author: Terentius
   work: Andria
   section: 232
+  note: >-
+    thelatinlibrary.com, Terentius Andria (крик Гликерии за сценой, акт III)
 occasion:
 deities:
   - Diana
@@ -42,6 +44,9 @@ Iuno Lucina, fer opem, serva me, obsecro.
 
 
 
+
+
+Юнона Луцина, подай помощь, спаси меня, умоляю.
 
 ## Английский
 

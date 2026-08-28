@@ -44,6 +44,9 @@ status: imported
 
 
 
+
+Зову тебя, о царственная Артемида, славная дочь Зевса, скромная дева с отважным сердцем, кормилица, покровительница малых детей, — и вас, Мойры, дружественные дети Ночи: придите ко мне молящему, вы, облечённые в пурпур, вы — власти доброго порядка, совершенное око Зевса. Лахесис, Клото и Атропос, лишь вы видите всю смертную жизнь целиком. Услышьте мои молитвы, примите эти священные возлияния, даруйте светлую и цветущую жизнь, полную веселья.
+
 ## Английский
 
 I call You, O' royal Artemis, illustrious daughter of Zeus, modest maid, of the brave heart, nurturer, protectress of young children, and Moirae, friendly children of Nyx, come to me who prays, You who are clad in purple, You are the authorities of good order, perfect eye of Zeus. Lakhesis, Klotho and Atropos, only You see the whole of mortal life. Hear my prayers, accept these holy libations, grant a bright and thriving life, full of merriment.

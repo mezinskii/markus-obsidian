@@ -42,6 +42,9 @@ status: imported
 
 
 
+
+Придите, о боги-целители: Аполлон, Асклепий, многожеланная Гигиея — и ты, Телесфор. Прекратите страшные болезни, даруя здоровье нашему телу и уму.
+
 ## Английский
 
 Come, O' Healing Gods, Apollon, Asklepios, Much Desired Hygeia, and you, Telesphoros. May you terminate dire diseases granting health to our body and mind.

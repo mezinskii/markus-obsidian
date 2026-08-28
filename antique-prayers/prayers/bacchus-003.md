@@ -11,6 +11,8 @@ source:
   author: Grattius
   work: Cynegetica
   section: 475-476
+  note: >-
+    thelatinlibrary.com, Grattius Cynegetica 475-476
 occasion:
 deities:
   - Bacchus
@@ -43,6 +45,10 @@ exigit, et morbo Liber medicina furenti.
 
 
 
+
+
+Либер гонит из груди лёгкие заботы,
+и Либер — лекарство неистовому недугу.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Aeneid
   section: 8.301-302
+  note: >-
+    thelatinlibrary.com, Vergilius Aeneis VIII.301-302 (из гимна салиев)
 occasion:
 deities:
   - Hercules
@@ -42,6 +44,10 @@ et nos et tua dexter adi pede sacra secundo.
 
 
 
+
+
+Здравствуй, истинное порождение Юпитера, краса, прибавленная богам,
+и к нам, и к обрядам твоим приступи благосклонно, стопою счастливой.
 
 ## Английский
 

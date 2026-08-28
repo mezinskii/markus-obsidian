@@ -43,6 +43,9 @@ status: imported
 
 
 
+
+О Гермес, обитающий на Кокитовой неотвратимой тропе, откуда нет возврата, что ведёшь души смертных в Аид. Дитя Диониса, вакхического плясуна, и Коры с Пафоса, Афродиты с изогнутыми ресницами. Ты, что служишь в священном доме Персефоны, будучи провожатым злосчастным душам земли, с которыми нисходишь в роковой час. Носитель священного жезла сна, приносящего всему покой и снова, в свой черёд, пробуждающего спящих, — ибо тебе богиня Персефона даровала честь вести человеческие души в их неустанном и вечном шествии в широкий Тартар. О бог, проведи твоим жезлом душу [имя усопшего], дитя Урана и Геи, — проведи её на Елисейские поля, в чистое место с дивным светом, полное радостных голосов и пляски, тихих священных звуков и святых образов.
+
 ## Английский
 
 O' Hermes who dwells on Kokytos' necessary path of no return, who guides the souls of mortals to Hades. Child of Dionysos, the Bacchic dancer, and, the Kore from Paphos, Aphrodite of the curving lashes. You who serves in the holy house of Persephone, as a guide to the ill-fated souls of the earth, with whom you descend at the fateful hour. Bearer of the sacred staff of sleep, who brings rest to everything, and again, in turn, awakens those who slumber, for, to you, the goddess Persephone has granted the honour of guiding human souls in their relentless and eternal march into wide Tartarus. O' God, may you guide with your staff the soul of [name of deceased], who is a child of Ouranos and Gaia, guide them to the Elysian Fields, the pure place with wondrous light, and filled with joyful voices and dance, with hushed sacred sounds and holy images.

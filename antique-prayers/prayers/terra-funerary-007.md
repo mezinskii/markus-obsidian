@@ -38,6 +38,9 @@ Terra, precor, fecunda, levis super ossa residas, aestuet infantis ne gravitate 
 
 
 
+
+Земля плодородная, молю, ляг легко на кости, чтобы прах младенца не мучился от тяжести.
+
 ## Английский
 
 Fertile Terra, I pray, You may settle lightly on these remains, not harshly on the cremated remains of this infant.

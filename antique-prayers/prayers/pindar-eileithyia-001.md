@@ -11,6 +11,8 @@ source:
   author: Pindar
   work: Nemean Odes
   section: 7.1 ff
+  note: >-
+    el.wikisource, Πίνδαρος «Νεμεόνικοι» 7.1-4 (зачин оды, обращение к Илифии)
 occasion: 'Pindar''s invocation of Eileithyia at the opening of Nemean 7 — praising her as the gateway to life and youth'
 deities:
   - Eileithyia
@@ -52,6 +54,12 @@ status: imported
 
 
 
+
+
+Илифия, сопрестольница глубокомысленных Мойр,
+дочь могучей Геры, услышь, родительница детей; без тебя,
+не увидев ни света, ни чёрной благосклонной ночи,
+не получили бы мы в удел твою сестру, светлочленную Гебу.
 
 ## Английский
 

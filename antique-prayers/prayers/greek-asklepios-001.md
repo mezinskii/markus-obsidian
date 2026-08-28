@@ -41,6 +41,9 @@ status: imported
 
 
 
+
+Асклепий, врачеватель всего, отгоняющий болезненные страдания людей. Могучий, утешающий, целитель недуга, чтимое дитя Феба Аполлона, — прекрати тяжкую болезнь. Приди, о блаженный спаситель, и даруй просителю твоему здоровье и конец боли.
+
 ## Английский
 
 Asklepios, Healer of all, who dispels the diseased sufferings of people. Mighty, Soothing, Healer of disease, honoured child of Phoibos Apollon, terminate dire illness. Come O' Blessed Saviour, and grant health to your supplicant and an end to pain.

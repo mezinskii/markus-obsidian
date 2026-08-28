@@ -11,6 +11,8 @@ source:
   author: Claudius Claudianus
   work: In Olybii et Probini fratres Consules Panegyricus
   section: 71-72
+  note: >-
+    thelatinlibrary.com, Claudianus Panegyricus dictus Olybrio et Probino consulibus 71-72. ВНИМАНИЕ: «Parnasia» — женский род, обращение к Музе, а «vatem» значит «поэта»; в переводе карточки они переданы как «Аполлон Парнасский» и «пифия». Строки те самые, но божество в переводе названо иначе, чем в латыни
 occasion:
 deities:
   - Musa
@@ -41,6 +43,10 @@ quis deus ambobus tanti sit muneris auctor.
 
 
 
+
+
+Ты, молю, научи несведущего поэта, Парнасская,
+кто из богов обоим нам подателем стал такого дара.
 
 ## Английский
 

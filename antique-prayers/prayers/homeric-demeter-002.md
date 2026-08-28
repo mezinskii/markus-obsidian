@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 13 (to Demeter)
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/XIII. Εις Δήμητραν
 occasion: short Homeric Hymn to Demeter — civic invocation for the safety of the city and the song
 deities:
   - Demeter
@@ -47,6 +49,11 @@ status: imported
 
 
 
+
+
+Деметру пышноволосую, священную богиню, начинаю петь,
+её самоё и дочь, прекраснейшую Персефону.
+Радуйся, богиня, и храни этот город, и начни песнь.
 
 ## Английский
 

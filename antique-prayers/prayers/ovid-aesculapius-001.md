@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Metamorphoses
   section: '15.677-678'
+  note: >-
+    thelatinlibrary.com, Ovidius Metamorphoses XV.677-678
 occasion: the arrival of the god Aesculapius at Rome in the form of a serpent — priestly greeting and plea for his aid to the Roman people
 deities:
   - Aesculapius
@@ -46,6 +48,9 @@ deus en, deus est! animis linguisque favete.
 
 
 
+
+
+Вот бог, это бог! Благоговейте душою и устами.
 
 ## Английский
 

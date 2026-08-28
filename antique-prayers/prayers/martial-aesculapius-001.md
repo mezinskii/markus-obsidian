@@ -11,6 +11,8 @@ source:
   author: Martial
   work: Epigrammata
   section: 9.17
+  note: >-
+    thelatinlibrary.com, Martialis Epigrammata IX.17 (эпиграмма целиком)
 occasion: 'dedication of a boy''s golden locks and his mirror to Aesculapius in fulfilment of a vow for deliverance from illness'
 deities:
   - Aesculapius
@@ -53,6 +55,16 @@ in longa fuerit quam breviore coma.
 
 
 
+
+
+Чтимый внук Латоны, ты, что кроткими травами
+умоляешь пряжу Парок и краткую их кудель, —
+эти кудри, хвалимые господином, обетом исполненным
+послал тебе из латинского города твой мальчик;
+прибавил и блестящий круг к посвящённым волосам,
+судом которого счастливое лицо было ограждено.
+Ты сохрани юношескую красу, чтобы не был он прекраснее
+при длинных, чем при укороченных кудрях.
 
 ## Английский
 

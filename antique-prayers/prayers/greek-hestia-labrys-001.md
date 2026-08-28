@@ -43,6 +43,9 @@ status: imported
 
 
 
+
+Гестия, царственная дочь всемогущего Крона, ты, что держишь срединное жилище, великолепный вечный огонь, — возвысь почтительных просителей, чтущих тебя в священных обрядах, даруй им вечно цветущее счастье, радостное и чистое; о обитель блаженных богов, твёрдая опора смертных, вечная, светообразная, всем нужная, — приди, улыбающаяся блаженная богиня, прими эти приношения с добрым сердцем, вдохни счастье и кроткое здоровье.
+
 ## Английский
 
 Hestia, royal daughter of almighty Kronos, You who holds the central abode, the magnificent perpetual fire, elevate the respectful suppliants who worship You in their holy ceremonies, grant to them ever-flourishing happiness, glad and pure, O' dwelling of the Blissful Gods, steady support of mortals, eternal, glow-formed, needed by all, come, smiling Blessed Goddess, accept these offerings with kind heart, inspire happiness and gentle health.

@@ -11,6 +11,8 @@ source:
   author: Claudian
   work: In Rufinum
   section: 1.334-348
+  note: >-
+    thelatinlibrary.com, Claudianus In Rufinum I (обращение Стилихона к Марсу; карточка ссылается на 334-348, английский передаёт только само воззвание); u приведено к v
 occasion: 'Stilicho''s invocation of Mars before the campaign against Rufinus — promise of spolia on the sacred oak in exchange for victory'
 deities:
   - Mars
@@ -51,6 +53,14 @@ gloria, vestita spoliis donabere quercu.
 
 
 
+
+
+Маворс, склоняешься ли ты на облаконосном Гемусе,
+держит ли тебя Родопа, седая от стужи, или Афон,
+потревоженный мидийским гребцом, или Пангей,
+темнеющий чёрными дубами, — препояшься со мною
+и защити своих фракийцев. Если придёт отраднее
+слава, ты получишь дуб, одетый доспехами.
 
 ## Английский
 

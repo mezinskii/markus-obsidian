@@ -40,6 +40,9 @@ status: imported
 
 
 
+
+Прощай, возлюбленный [имя усопшего], ты пребудешь в нашей памяти всю эту жизнь. Мы будем поминать и чтить тебя, как ты того заслуживаешь. Могучая Персефона, прими [имя усопшего]; всё прекрасное течёт к тебе. Возлюбленный [имя усопшего], да будет память твоя вечной.
+
 ## Английский
 
 Farewell, beloved [name of deceased], you will be in our memories throughout this life. We shall commemorate and honour you as you deserve. Mighty Persephone, receive [name of deceased], all that is beautiful flows unto you. Beloved [name of deceased], may your memory be everlasting.

@@ -4,7 +4,7 @@ prayer_id: prayer_carmenta_004
 slug: prayer-carmenta-004
 culture: roman
 form: ritual
-period: Archaic
+period: modern reconstruction (Nova Roma)
 provenance: modern
 original_lang: la
 source:
@@ -40,6 +40,9 @@ Huc ades et tenerae morbos expelle puellae. Huc ades Carmentis, propera.
 
 
 
+
+
+Приди сюда и прогони болезнь нежной девушки. Приди сюда, Кармента, поспеши.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Horace
   work: Carmina
   section: 2.19.7-8
+  note: >-
+    thelatinlibrary.com, Horatius Carmina II.19.7-8
 occasion:
 deities:
   - Bacchus
@@ -43,6 +45,10 @@ parce, gravi metuende thyrso.
 
 
 
+
+
+пощади, Либер,
+пощади, грозный тяжёлым тирсом.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Livy
   work: Ab Urbe Condita
   section: 1.24.7-9
+  note: >-
+    thelatinlibrary.com, Livius Ab Urbe Condita I.24.7-9 (клятва фециала при договоре с Альбой)
 occasion: treaty between Rome and Alba — fetial rite
 deities:
   - Jupiter
@@ -43,6 +45,9 @@ Audi, Iuppiter; audi, pater patrate populi Albani; audi tu, populus Albanus. Ut 
 
 
 
+
+Слушай, Юпитер; слушай, отец-патрат народа альбанского; слушай и ты, народ альбанский. Как всё это, от первого до последнего, открыто прочитано с тех досок и вощаниц без злого умысла и как оно здесь сегодня понято наиправильнейшим образом, — от этих условий римский народ первым не отступит. Если он отступит первым по общему решению и со злым умыслом, то пусть Диеспитер поразит римский народ так, как я сегодня здесь поражу эту свинью; и настолько сильнее поразит, насколько ты сильнее и могущественнее.
+
 ## Английский
 
 Hear, o Jupiter; hear me, too, Pater Patratus of the people of Alba! As these provisions have been written in good faith and publicly read from beginning to end from these tablets, and inasmuch as they have today been most clearly understood, so the People of Rome will not be the first to withdraw from these treaty provisions. If, in their public council, they were to do so, with false and malicious intent break this treaty, then, Dispater, on that day, may You bring ruin on the People of Rome, even as today I shall strike this swine.
@@ -51,4 +56,19 @@ Hear, o Jupiter; hear me, too, Pater Patratus of the people of Alba! As these pr
 ## Комментарий
 
 
+
+Ливий восстанавливает слова, которыми фециал скреплял договор Рима с Альбой. Это древнейшая римская формула международного права: жрец зачитывает условия с восковых табличек, призывает Юпитера в свидетели и бьёт кремнёвым ножом свинью.
+
+Замечательна концовка. «Пусть Диеспитер поразит римский народ так, как я сегодня здесь поражу эту свинью; и настолько сильнее поразит, насколько ты сильнее и могущественнее». Клятва не просит защиты — она вручает богу оружие против собственного народа и тут же задаёт шкалу. Свинья при этом не жертва, а наглядное пособие: смотри, вот как это делается, и сделай так же, только во столько раз сильнее, во сколько ты сильнее меня.
+
+Ливий пишет в I в. до н. э. о царской эпохе, и проверить, донёс ли он подлинную формулу или сложил её сам, невозможно. Язык, впрочем, заметно архаичнее его собственного.
+
 ## Commentary
+
+
+Livy reconstructs the words with which a fetial priest sealed the treaty between Rome and Alba. It is the oldest Roman formula of international law: the priest reads the terms from wax tablets, calls Jupiter to witness, and strikes a pig with a flint knife.
+
+The ending is remarkable. "Then may Diespiter strike the Roman people as I strike this pig here today; and strike so much the harder as you are stronger and mightier." The oath does not ask for protection — it hands the god a weapon against the swearer's own people and then sets its calibration. The pig is not a sacrifice but a demonstration: look, this is how it is done, and do the same, in the proportion by which you exceed me.
+
+Livy writes in the first century BC about the regal period, and there is no way to test whether he preserved a genuine formula or composed one. The language, however, is markedly older than his own.
+

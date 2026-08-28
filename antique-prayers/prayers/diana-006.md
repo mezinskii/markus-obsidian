@@ -11,6 +11,8 @@ source:
   author: Horace
   work: Carmina
   section: '1.21.1; 5-8'
+  note: >-
+    thelatinlibrary.com, Horatius Carmina I.21.1 и 5-8
 occasion:
 deities:
   - Diana
@@ -49,6 +51,16 @@ silvis aut viridis Gragi.
 
 
 
+
+
+Диану пойте, нежные девы,
+
+[…]
+
+вы — ту, что радуется рекам и кудрям рощ,
+какие ни высятся на студёном Алгиде,
+в чёрных ли лесах Эриманфа,
+в зелёных ли Крага.
 
 ## Английский
 

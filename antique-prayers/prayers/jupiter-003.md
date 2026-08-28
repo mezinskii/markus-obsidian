@@ -11,6 +11,8 @@ source:
   author: Cicero
   work: De Domo sua ad Pontifices
   section: 144
+  note: >-
+    Perseus, Cicero De Domo Sua 144, издание Кларка (Oxford 1909). Это часть ОДНОГО периода: Цицерон обращается подряд к Юпитеру Капитолийскому, Юноне Царице, Минерве, Пенатам и Весте, а управляющее «precor atque quaeso» стоит после обращения к Минерве и относится ко всем. Здесь приведена клауза, которую передаёт английский карточки. Надстрочные цифры критического аппарата сняты
 occasion:
 deities:
   - Jupiter
@@ -41,6 +43,9 @@ te, Capitoline, quem propter beneficia populus Romanus optimum, propter vim maxi
 
 
 
+
+
+тебя, Капитолийский, кого римский народ за благодеяния назвал Всеблагим, а за мощь — Величайшим.
 
 ## Английский
 

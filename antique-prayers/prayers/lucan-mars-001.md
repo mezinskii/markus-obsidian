@@ -11,6 +11,8 @@ source:
   author: Lucan
   work: De Bello Civili (Pharsalia)
   section: 2.47-49
+  note: >-
+    thelatinlibrary.com, Lucanus De Bello Civili II.47-49
 occasion: 'despairing Roman matrons'' inverted prayer during the Civil War — asking the gods not for peace but for universal war so the city itself be spared'
 deities:
 sphere:
@@ -45,6 +47,11 @@ mundus, Achaemeniis decurrant Medica Susis.
 
 
 
+
+
+Не мира просим мы, вышние: дайте народам ярость,
+ныне поднимите дикие города; пусть весь мир
+сговорится взяться за оружие, пусть мидяне спустятся из Ахеменидовых Суз.
 
 ## Английский
 

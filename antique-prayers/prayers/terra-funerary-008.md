@@ -11,6 +11,8 @@ source:
   author: Juvenal
   work: Satires
   section: 7.207-208
+  note: >-
+    thelatinlibrary.com, Iuvenalis Saturae VII.207-208; u приведено к v
 occasion:
 deities:
   - Terra Mater
@@ -42,6 +44,10 @@ spirantisque crocos et in urna perpetuum ver.
 
 
 
+
+
+Боги, даруйте теням предков тонкую и невесомую землю,
+и благоуханные шафраны, и вечную весну в урне.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 22 (to Poseidon)
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/XXII. Εις Ποσειδώνα
 occasion: Homeric Hymn to Poseidon — invocation of the earth-shaker as tamer of horses and saviour of ships
 deities:
   - Poseidon
@@ -53,6 +55,15 @@ status: imported
 
 
 
+
+
+О Посейдоне, великом боге, начинаю петь,
+колебателе земли и бесплодного моря,
+морском, кто владеет Геликоном и широкими Эгами.
+Двойную честь тебе, Землеколебатель, уделили боги:
+быть укротителем коней и спасителем кораблей.
+Радуйся, Посейдон, земледержец, темнокудрый,
+и, блаженный, имея благосклонное сердце, помогай плывущим.
 
 ## Английский
 

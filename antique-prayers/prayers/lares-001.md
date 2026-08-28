@@ -39,6 +39,9 @@ Et vos, Lares, domum custodite quam statuistis.
 
 
 
+
+И вы, Лары, храните дом, который вы поставили.
+
 ## Английский
 
 And you Lares, care for our house that you established.

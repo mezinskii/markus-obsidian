@@ -41,6 +41,9 @@ status: imported
 
 
 
+
+Богиня Гея, мать всех богов и смертных. Всекормящая, всеподающая, всеисполняющая, седалище неумирающего мира. Бессмертная, достопочтенная, многообразная дева, многоцветная богиня счастливой доли. О богиня Гея, мы пришли принести благодарность за гостеприимство, которое ты оказываешь телу [имя усопшего].
+
 ## Английский
 
 Goddess Gaia, mother of all Gods and mortals. All-nurturing, all-giving, all-fulfilling, seat of the undying world. Immortal, venerable, multi-formed maiden, many flowered Goddess of the happy fate. O' Goddess Gaia, we have come to give thanks, for the hospitality you extend to the body of [name of deceased].

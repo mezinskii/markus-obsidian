@@ -11,6 +11,8 @@ source:
   author: Horace
   work: Carmina
   section: 1.2.35-40
+  note: >-
+    thelatinlibrary.com, Horatius Carmina I.2.35-40
 occasion: poetic invocation calling Mars back to his neglected Roman descendants — plea that the god resume his care for Roman arms
 deities:
   - Mars
@@ -52,6 +54,14 @@ voltus in hostem.
 
 
 
+
+
+или, родоначальник, обернёшься к заброшенному
+племени и потомкам,
+увы, пресыщенный слишком долгой игрой,
+ты, кого радуют клич и лёгкие шлемы,
+и грозный лик мавра-пехотинца
+против окровавленного врага.
 
 ## Английский
 

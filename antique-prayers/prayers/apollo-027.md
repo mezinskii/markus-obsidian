@@ -11,6 +11,8 @@ source:
   author: Valerius Flaccus
   work: Argonautica
   section: 1.5-7
+  note: >-
+    thelatinlibrary.com, Valerius Flaccus Argonautica I.5-7
 occasion:
 deities:
   - Apollo
@@ -46,6 +48,11 @@ fronte viret.
 
 
 
+
+
+Феб, наставь, если стоит в целомудренном доме моём
+треножная чаша, причастная кумской пророчице, если лавр
+зеленеет на достойном челе.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Valerius Flaccus
   work: Argonautica
   section: 5.250-252
+  note: >-
+    thelatinlibrary.com, Valerius Flaccus Argonautica V.249-252 (обращение к Градиву начинается в конце строки 249)
 occasion: invocation of Mars Gradivus as guardian of the sacred oak bearing the Golden Fleece
 deities:
   - Mars Gradivus
@@ -47,6 +49,11 @@ arma tubaeque sonent, vox et tua noctibus exstet.
 
 
 
+
+
+и ты, кому на священном дубе рдеет руно,
+неси стражу, Градив. Пусть в роще звучат твои
+явленные оружие и трубы, и пусть голос твой раздаётся по ночам.
 
 ## Английский
 

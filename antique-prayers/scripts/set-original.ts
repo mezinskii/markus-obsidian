@@ -21,6 +21,7 @@
 import {readFile, writeFile} from 'node:fs/promises'
 import {join, dirname, resolve} from 'node:path'
 import {fileURLToPath} from 'node:url'
+import {setSourceNote} from './source-note.ts'
 
 const DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'prayers')
 const args = process.argv.slice(2)
@@ -59,6 +60,12 @@ async function main() {
     // Keep the frontmatter flag truthful about what the body now holds.
     if (/^original_lang:.*$/m.test(out)) out = out.replace(/^original_lang:.*$/m, `original_lang: ${e.lang}`)
     else out = out.replace(/^---$/m, `---\noriginal_lang: ${e.lang}`)
+
+    /** Persist the provenance note. An earlier version of this script only
+     *  echoed it to the console, and 243 notes — which edition, which scan,
+     *  which OCR slips were corrected — had to be recovered from the batch
+     *  files afterwards by restore-source-notes.ts. Never again. */
+    if (e.source) out = setSourceNote(out, e.source)
 
     if (!DRY) await writeFile(path, out, 'utf8')
     console.log(`  ✓ ${name}  ${e.lang}  ${text.length} chars${e.source ? `  ← ${e.source}` : ''}`)

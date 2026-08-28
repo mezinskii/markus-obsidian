@@ -4,7 +4,7 @@ prayer_id: prayer_carmenta_009
 slug: prayer-carmenta-009
 culture: roman
 form: personal
-period: Archaic
+period: modern reconstruction (Nova Roma)
 provenance: modern
 original_lang: la
 source:
@@ -41,6 +41,9 @@ Carmenae meliora feratis mihi somnia vera
 
 
 
+
+
+Камены, да принесёте вы мне сны лучшие и истинные
 
 ## Английский
 

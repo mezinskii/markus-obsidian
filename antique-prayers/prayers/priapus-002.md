@@ -11,6 +11,8 @@ source:
   author: Tibullus
   work: Elegiae
   section: 1.1.17-18
+  note: >-
+    thelatinlibrary.com, Tibullus Elegiae I.1.17-18
 occasion:
 deities:
   - Priapus
@@ -43,6 +45,10 @@ Terreat ut saeva falce Priapus aves.
 
 
 
+
+
+И пусть в плодовых садах будет поставлен красный страж,
+чтобы Приап свирепым серпом устрашал птиц.
 
 ## Английский
 

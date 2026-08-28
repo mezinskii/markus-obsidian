@@ -11,6 +11,8 @@ source:
   author: Silius Italicus
   work: Punica
   section: 10.553-554
+  note: >-
+    thelatinlibrary.com, Silius Italicus Punica X.553-554; u приведено к v
 occasion: thanksgiving dedication of spoils to Father Mars after battle — gratitude for answered prayer
 deities:
   - Mars
@@ -46,6 +48,10 @@ arma electa dicat spirantum turba virorum.
 
 
 
+
+
+и тебе, Марс-родитель, не глухой к моим обетам,
+избранное оружие посвящает толпа уцелевших мужей.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 3.255-256
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti III.255-256
 occasion:
 deities:
   - Diana
@@ -42,6 +44,10 @@ dicite «tu voto parturientis ades».
 
 
 
+
+
+Говорите: «Ты нам, Луцина, дала свет»;
+говорите: «Ты внемлешь обету роженицы».
 
 ## Английский
 

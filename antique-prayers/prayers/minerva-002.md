@@ -11,6 +11,8 @@ source:
   author: Seneca
   work: Hercules Furens
   section: 900
+  note: >-
+    la.wikisource, Seneca Hercules Furens 900-906
 occasion:
 deities:
   - Minerva
@@ -49,6 +51,14 @@ geminumque numen Phoebus et Phoebi soror.
 
 
 
+
+
+Тебя, тебя, спутница и помощница в трудах, молю,
+воинственная Паллада, у которой на левой руке
+эгида ликом окаменяющим движет свирепые угрозы;
+да будет здесь укротитель Ликурга и Красного моря,
+несущий остриё, укрытое зеленеющим тирсом,
+и двойное божество — Феб и сестра Феба.
 
 ## Английский
 

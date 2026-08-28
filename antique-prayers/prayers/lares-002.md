@@ -11,6 +11,8 @@ source:
   author: Plautus
   work: Mercator
   section: 834-835
+  note: >-
+    thelatinlibrary.com, Plautus Mercator 834-835
 occasion:
 deities:
   - Penates
@@ -43,6 +45,10 @@ vobis mando, meum parentum rem bene ut tutemini.
 
 
 
+
+
+Боги пенаты моих родителей, отец Лар семейства,
+вам поручаю: добро моих родителей берегите хорошо.
 
 ## Английский
 

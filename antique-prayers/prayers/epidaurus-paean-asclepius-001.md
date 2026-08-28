@@ -52,6 +52,9 @@ status: imported
 
 
 
+
+Многоискусного Асклепия; и призовите обоих Диоскуров, и величавых Харит, и славных Муз, и благосклонных Мойр, и неутомимого Гелиоса, и Селену в полноте, и все знамения, которыми венчано небо. Радуйтесь, все вы, бессмертные боги вечные, и бессмертные богини!
+
 ## Английский
 
 High-skilled Asklepios; and summon the two Dioskouroi and the august Kharites and glorious Mousai and kindly Moirai and unwearied Helios and Selene at her full and all the signs with which heaven is crowned. Greetings, all you immortal gods everlasting and immortal goddesses!

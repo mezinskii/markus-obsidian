@@ -41,6 +41,9 @@ status: imported
 
 
 
+
+Призываю Гекату Хтонию, шафранооблачённую, что печётся о душах умерших. Царица и ключница всего мира. Радуйся, Геката Прифирея, всемогущая Дева Энодия; о богиня, проведи душу [имя усопшего] по светлым путям богов.
+
 ## Английский
 
 I call upon Hekate Khthonia, the saffron-robed, who cares for the souls of the dead. Queen and key-bearer of the whole world. Khaire Hekate Prothyraia, Almighty Maiden Ênodia, O' Goddess, may you lead the soul of [name of the deceased] on the illuminated paths of the Gods.

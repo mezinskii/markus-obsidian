@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
   section: 'CIL VI 32323, Terra Mater'
+  note: >-
+    EDCS, CIL VI 32323, ночная жертва супоросой свиньи Матери-Земле у Тибра. Аппарат издания сохранён: [] — восстановленное, () — раскрытые сокращения
 occasion: Ludi Saeculares
 deities:
   - Tellus
@@ -43,6 +45,10 @@ uti tibi sue plena propri[a sacrum fiat te quaeso precorque c]etera [uti supra].
 
 
 
+
+
+Мать-Земля, как о тебе в тех книгах написано и ради каких дел — чтобы всё было лучше народу римскому квиритам, —
+да свершится тебе жертва твоей собственной супоросой свиньёй; тебя прошу и молю; прочее как выше.
 
 ## Английский
 

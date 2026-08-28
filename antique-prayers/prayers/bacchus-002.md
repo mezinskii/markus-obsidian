@@ -41,6 +41,9 @@ status: imported
 
 
 
+
+Вакх, изобретатель лозы, приди, полный вина, излей сладкую влагу, с нектаром сравнимую, и сделай старое приятным; а обращённое на иное употребление — пусть не вносит терпкого вкуса в наши недобрые жилы.
+
 ## Английский
 
 Bacchus, inventor of vines, may you arrive full of wines, may you pour forth the sweet liquid, to be compared with nectar, and make the old pleasant, and turned to another use, may it not lead harsh flavor to our spiteful veins.

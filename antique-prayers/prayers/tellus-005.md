@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Aeneid
   section: '7.120-122'
+  note: >-
+    thelatinlibrary.com, Vergilius Aeneis VII.120-122. ЗАМЕНА: прежде здесь лежала строка «Salve, o parens, Tellus, et tu ne desere nostros», которой у Вергилия нет
 occasion:
 deities:
   - Tellus
@@ -43,6 +45,11 @@ hic domus, haec patria est.
 
 
 
+
+
+«Здравствуй, земля, обещанная мне судьбами,
+и вы, — говорит, — о верные пенаты Трои, здравствуйте.
+Здесь дом, здесь отечество».
 
 ## Английский
 

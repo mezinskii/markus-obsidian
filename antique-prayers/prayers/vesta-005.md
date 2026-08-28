@@ -11,6 +11,8 @@ source:
   author: Valerius Maximus
   work: Facta et Dicta Memorabilia
   section: 8.1.5
+  note: >-
+    thelatinlibrary.com, Valerius Maximus Facta et Dicta VIII.1 (обращение весталки Туккии); u приведено к v
 occasion: trial of Vestal Tuccia — proof of innocence
 deities:
   - Vesta
@@ -44,6 +46,9 @@ status: imported
 
 
 
+
+
+«Веста, — говорит, — если я всегда подносила к твоим святыням чистые руки, сделай так, чтобы я зачерпнула этим воду из Тибра и донесла до твоего храма».
 
 ## Английский
 

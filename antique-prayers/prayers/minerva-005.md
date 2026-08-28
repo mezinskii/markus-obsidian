@@ -11,6 +11,8 @@ source:
   author: Livy
   work: Ab Urbe Condita
   section: 6.16.1
+  note: >-
+    thelatinlibrary.com, Livius Ab Urbe Condita VI.16.1
 occasion:
 deities:
   - Jupiter
@@ -44,6 +46,9 @@ Iuppiter optime maxime Iunoque regina ac Minerva ceterique di deaeque, qui Capit
 
 
 
+
+
+Юпитер Всеблагой Величайший, и Юнона Царица, и Минерва, и прочие боги и богини, что обитаете на Капитолии и в Крепости, — так ли вы допускаете, чтобы вашего воина и защитника терзали недруги?
 
 ## Английский
 

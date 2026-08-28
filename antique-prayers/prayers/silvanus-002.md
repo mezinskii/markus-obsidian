@@ -39,6 +39,9 @@ Felicitas hic habitat: nihil intret mali
 
 
 
+
+Здесь обитает Счастье: да не войдёт ничто злое
+
 ## Английский
 
 Happiness dwells in here, where nothing evil may enter.

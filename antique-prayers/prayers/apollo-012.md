@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Remedia Amoris
   section: 704
+  note: >-
+    thelatinlibrary.com, Ovidius Remedia Amoris 704-705 (карточка ссылается на 704)
 occasion:
 deities:
   - Apollo
@@ -41,6 +43,10 @@ Signa deum nosco per sua: Phoebus adest.
 
 
 
+
+
+Феб здесь: зазвучали лиры, зазвучали колчаны;
+узнаю бога по его приметам: Феб здесь.
 
 ## Английский
 

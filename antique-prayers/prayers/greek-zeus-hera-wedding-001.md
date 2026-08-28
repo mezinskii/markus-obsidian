@@ -43,6 +43,9 @@ status: imported
 
 
 
+
+Призываю Великого, Чистого, Нетленного, Многочтимого, Отца блаженных богов и людей; величайшего Зевса — и Геру, царицу всего, блаженную супругу Зевса, владычицу брака, благосклонную Мать. Придите к нам и даруйте новобрачным здоровье и питающий мир, жизнь в веселье и благополучии — жизнь во взаимной преданности.
+
 ## Английский
 
 I invoke the Great, the Pure, the Imperishable, the Much-honoured, Father of the Blessed gods and of men; Greatest Zeus and Hera, Queen of all, Blessed wife of Zeus, Mistress of Matrimony, well-disposed Mother. Come to us and grant to the newly-weds, health and nurturing peace, a life of mirth and well-being — a life of mutual dedication.

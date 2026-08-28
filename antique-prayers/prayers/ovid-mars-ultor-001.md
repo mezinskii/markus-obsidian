@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 5.573-577
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti V.573-577 (обет Августа Марсу Мстителю перед Филиппами)
 occasion: 'Octavian''s vow before the Battle of Philippi — promise to build a temple to Mars Ultor (the Avenger) in exchange for victory over Caesar''s assassins'
 deities:
   - Mars
@@ -50,6 +52,13 @@ templa feres et, me victore, vocaberis Ultor».
 
 
 
+
+
+«Если для войны у меня зачинатель — отец и жрица Весты
+и я готовлюсь отомстить за оба божества,
+Марс, будь здесь и насыть железо преступной кровью,
+и пусть твоя благосклонность станет за лучшее дело.
+Ты получишь храмы и, когда я одержу победу, будешь зваться Мстителем».
 
 ## Английский
 

@@ -39,6 +39,9 @@ Te precor Alcide sacris invicte peractis rite tuis laetus dona ferens meritis
 
 
 
+
+Тебя молю, Алкид непобедимый, по совершении твоих обрядов по чину, радостно принося дары по заслугам
+
 ## Английский
 
 Invincible Alcides, I pray to You joyfully bringing deserved gifts after duly performing Your sacred rites.

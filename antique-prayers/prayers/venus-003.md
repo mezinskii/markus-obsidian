@@ -11,6 +11,8 @@ source:
   author: Horace
   work: Carmina
   section: 4.1.1-2
+  note: >-
+    thelatinlibrary.com, Horatius Carmina IV.1.1-2
 occasion:
 deities:
   - Venus
@@ -42,6 +44,10 @@ rursus bella moves? Parce precor, precor.
 
 
 
+
+
+Прерванные надолго, Венера,
+ты снова подымаешь войны? Пощади, молю, молю.
 
 ## Английский
 

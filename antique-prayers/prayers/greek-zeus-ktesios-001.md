@@ -42,6 +42,9 @@ status: imported
 
 
 
+
+О Зевс, Отец Зевс, ты — сила в небесах, ты, что судишь дела людей, законны они или лукавы, и творишь правосудие над надменными тварями. Приди, о блаженный Ктесий и Геркей, благосклонный, утешающий и несущий достаток вместе с Агатодаймоном.
+
 ## Английский
 
 O' Zeus, Father Zeus, You are the power in the heavens, You who judges the deeds of men to be lawful or devious, and dispenses justice upon hubristic beasts. Come, O' Blessed Ktesios and Erkeios, benevolent, comforting and bearing wealth with Agathodaimon.

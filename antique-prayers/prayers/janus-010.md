@@ -11,6 +11,8 @@ source:
   author: Varro
   work: Lingua Latina / Carmen Salii
   section: 7.26
+  note: >-
+    thelatinlibrary.com, Varro De Lingua Latina VII.26 — фрагмент Салийской песни, приведённый Варроном. Порядок клаузул тот же, что в переводе карточки; звёздочками издание отмечает лакуну рукописи после «melios eum recum»
 occasion: Carmen Salii / Salian dance
 deities:
   - Janus
@@ -45,6 +47,12 @@ Venies potissimum melios eum recum ***
 
 
 
+
+
+Консивий, явись.
+Всё же я вверил Патульцию.
+Ты уже Яний, ты добрый Цер, добрый Янус.
+Придёшь ты, наилучший из этих царей ***
 
 ## Английский
 

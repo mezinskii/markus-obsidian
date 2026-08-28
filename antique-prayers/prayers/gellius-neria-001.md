@@ -11,6 +11,8 @@ source:
   author: Aulus Gellius
   work: Noctes Atticae
   section: 13.23.13
+  note: >-
+    thelatinlibrary.com, Aulus Gellius Noctes Atticae XIII.23.13 (стихи с обращением к Нерии, супруге Марса)
 occasion: prayer attributed to Titus Tatius at the reconciliation between Romans and Sabines after the Rape of the Sabine Women — appeal to Neria, wife of Mars, for peace
 deities:
   - Neria
@@ -46,6 +48,9 @@ Neria Martis, te obsecro, pacem da, te uti liceat nuptiis propriis et prosperis 
 
 
 
+
+
+Нерия Марсова, тебя умоляю: даруй мир, чтобы дозволено было пользоваться собственным и счастливым браком, ибо по совету супруга твоего вышло так, что нас, равно нетронутых, похитили, дабы приготовить себе и своим детей, а отечеству — потомков.
 
 ## Английский
 

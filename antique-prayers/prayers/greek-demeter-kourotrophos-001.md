@@ -42,6 +42,9 @@ status: imported
 
 
 
+
+О Део, мать всего, славная богиня, достопочтенная Деметра, ты, что вскармливаешь детей и даруешь мир, богатство и счастье. Многожеланная, возлюбленная богиня, пекущаяся обо всех людях. Ласковая, детокормилица; ты, что держишь новорождённых на руках, — дохни сладко на моё дитя, даруя ему добродетели души и красоту природы.
+
 ## Английский
 
 O' Dio, mother of all, illustrious Goddess, venerable Demetra, You who nurtures the children and grants peace, wealth and happiness. Much-desired beloved Goddess, who takes care of all people. Affectionate, child-nurturer; You who holds the newborn children in your arms; blow sweetly on my child, granting the virtues of the soul to him/her and the beauty of nature.

@@ -11,6 +11,8 @@ source:
   author: Grattius Faliscus
   work: Cynegetica
   section: 1-2
+  note: >-
+    thelatinlibrary.com, Grattius Cynegetica 1-2 (зачин поэмы)
 occasion:
 deities:
   - Diana
@@ -42,6 +44,10 @@ auspicio, Diana, tuo.
 
 
 
+
+
+Дары богов воспеваю, искусства, милые охотникам,
+под твоим, Диана, покровительством.
 
 ## Английский
 

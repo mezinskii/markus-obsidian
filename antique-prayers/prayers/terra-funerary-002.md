@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: 'Anthologia Latina, pars II (Carmina Latina Epigraphica, ed. Buecheler)'
   section: II.1147.3-4
+  note: >-
+    archive.org, текстовый слой (OCR) издания Бюхелера, Anthologia Latina pars II (Carmina Latina Epigraphica), фасц. 2, стих. 1147, строки 3-4 — печатная с. 531. Надгробие из Салоны, CIL III 6383; заголовок «L. Trebius L. f. Exoratus ann(orum) XII», внизу «Coelia Pieris filio et viro posuit». ИСПРАВЛЕНА СТРОКА: в карточке значилось «II.1147.2», но строка 2 — это «erepto a fato finibus Maezeis», а английский передаёт строки 3-4. Нумерация выверена по аппарату Бюхелера: он поясняет «Maezeos» к строке 2 и «siqud lapis» к строке 3 — обе ссылки сходятся. Шов […] в начале — на месте строк 1-2. Скобки в «siqu(i)d» принадлежат Бюхелеру: на камне вырезано «siqud». Согласного u в этих строках нет, нормализация не потребовалась
 occasion: funeral
 deities:
   - Manes
@@ -42,6 +44,11 @@ conprecor ut matris sit tibi gratus honos.
 
 
 
+
+
+[…]
+ныне, если Маны хоть что-нибудь смыслят, в мягких тенях
+молю: да будет тебе приятна честь от матери.
 
 ## Английский
 

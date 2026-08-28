@@ -41,6 +41,9 @@ Virum mihi, Camena, insece versutum.
 
 
 
+
+Мужа мне, Камена, поведай многоумного.
+
 ## Английский
 
 Carmena, in hot pursuit of virtuous men, come to me. Before wise Minerva invented Roman numerals, before any Greek inscribed the words of Homer, Latin letters You taught to Eulina of Gabii. Maenelian Voice carried from across the sea, inspire us with song that we may address the Gods, bring charms to teach our children their letters, that they may carry on as pious Romans.

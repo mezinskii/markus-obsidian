@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 3.73-76
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti III.73-76
 occasion: 'Romulus''s promise to Mars that the first month of the Roman year will bear his name — foundational dedication of March'
 deities:
   - Mars
@@ -48,6 +50,12 @@ primus de patrio nomine mensis erit.
 
 
 
+
+
+Судья оружия, от чьей крови я, как верят,
+рождён — и, чтобы верили, я дам много залогов, —
+от тебя мы начинаем римский год:
+первый месяц будет назван отцовским именем.
 
 ## Английский
 

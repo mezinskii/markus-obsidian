@@ -38,6 +38,9 @@ Diva, precor, Tellus, aevo completere sancta ossua quorum in hoc nomina sunt lap
 
 
 
+
+Богиня Земля, молю, обними навеки святые кости тех, чьи имена на этом камне
+
 ## Английский
 
 Goddess Tellus, I pray, may You eternally embrace the holy remains of those named on this tombstone.

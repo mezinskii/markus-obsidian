@@ -11,6 +11,8 @@ source:
   author: Velleius Paterculus
   work: Historiae Romanae
   section: II.131
+  note: >-
+    penelope.uchicago.edu (LacusCurtius), Velleius Paterculus Historiae Romanae II.131 — заключительная молитва всего сочинения, приведена целиком
 occasion: 'closing public prayer of Velleius''s history — invocation for the preservation of the Roman state, the princeps, and the Senate'
 deities:
   - Iuppiter Capitolinus
@@ -49,6 +51,9 @@ Iuppiter Capitoline, et auctor ac stator Romani nominis Gradive Mars, perpetuoru
 
 
 
+
+
+Юпитер Капитолийский, и ты, зачинатель и утвердитель римского имени, Марс Градив, и ты, Веста, хранительница вечных огней, и все божества, какие вознесли эту громаду римской державы на высочайшую вершину круга земного, — вас всенародным голосом заклинаю и молю: берегите, храните, защищайте это устройство, этот мир, этого принцепса, и, когда он завершит долгую смертную стражу, назначьте ему преемников как можно позднее, но таких, чьих вый достанет, чтобы столь же стойко нести власть над кругом земным, как, мы чувствовали, достало у него; и замыслы всех граждан или благочестивые поощряйте, или нечестивые подавляйте.
 
 ## Английский
 

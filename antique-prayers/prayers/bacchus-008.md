@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Metamorphoses
   section: 11.131-132
+  note: >-
+    thelatinlibrary.com, Ovidius Metamorphoses XI.131-132 (мольба Мидаса)
 occasion:
 deities:
   - Bacchus
@@ -41,6 +43,10 @@ ad caelumque manus et splendida bracchia tollens
 
 
 
+
+
+и, воздевая к небу руки и сияющие плечи,
+«прости, отец Леней! мы согрешили», — говорит.
 
 ## Английский
 

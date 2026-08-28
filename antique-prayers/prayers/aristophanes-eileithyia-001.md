@@ -11,6 +11,8 @@ source:
   author: Aristophanes
   work: Lysistrata
   section: 742 ff
+  note: >-
+    el.wikisource, Ἀριστοφάνης «Λυσιστράτη» 742-743 (карточка ссылается на «742 ff»)
 occasion: 'comic invocation of Eileithyia by a woman feigning labour to flee the Acropolis during Lysistrata''s sex-strike'
 deities:
   - Eileithyia
@@ -46,6 +48,10 @@ status: imported
 
 
 
+
+
+О владычица Илифия, задержи роды,
+пока я не дойду до места, где это дозволено.
 
 ## Английский
 

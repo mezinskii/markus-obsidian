@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 2.449-452
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti II.449-452 (двустишие с этимологией имени Луцины)
 occasion:
 deities:
   - Diana
@@ -43,6 +45,10 @@ aut quia principium tu, dea, lucis habes.
 
 
 
+
+
+Благодарность Луцине: имя это дала тебе роща,
+или же потому, богиня, что от тебя начало света.
 
 ## Английский
 

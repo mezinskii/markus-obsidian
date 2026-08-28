@@ -11,6 +11,8 @@ source:
   author: Livy
   work: Ab Urbe Condita
   section: 1.12.4-7
+  note: >-
+    thelatinlibrary.com, Livius Ab Urbe Condita I.12.4-7 (обет Ромула Юпитеру Статору)
 occasion: battle against Sabines — vow of temple
 deities:
   - Jupiter
@@ -45,6 +47,9 @@ Iuppiter, tuis iussus avibus hic in Palatio prima urbi fundamenta ieci. Arcem ia
 
 
 
+
+
+Юпитер, по велению твоих птиц я здесь, на Палатине, заложил первые основания города. Крепость, купленную злодеянием, уже держат сабиняне; оттуда они, вооружённые, перейдя середину долины, идут сюда. Но ты, отец богов и людей, хотя бы отсюда отврати врагов; отними у римлян ужас и останови позорное бегство. Здесь я обещаю тебе храм Юпитеру Статору, чтобы он был памятником потомкам, что город спасён твоею явленной помощью.
 
 ## Английский
 

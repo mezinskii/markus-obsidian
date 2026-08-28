@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 1.287
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti I.287-288 (карточка ссылается на 287, но это первая строка двустишия)
 occasion:
 deities:
   - Janus
@@ -40,6 +42,10 @@ neve suum praesta deserat auctor opus.
 
 
 
+
+
+Янус, сделай вечными и мир, и служителей мира,
+и даруй, чтобы создатель не оставил своего дела.
 
 ## Английский
 

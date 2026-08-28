@@ -43,6 +43,9 @@ status: imported
 
 
 
+
+Восхваляем тебя, о Макар, что озаряешь всех смертных, податель всякой внутренней силы. Ты, кого создал Пеан, славный Телесфор, — тебя эпидаврийцы чтут песнями защиты, воодушевлённо призывая царя Акесия, ибо он исцеляет людей от жестокой боли. Но мы поём хвалу не только тебе, Телесфор, но и длинноволосому Пеану, что приносит жизни исцеление. Ио, Макар, сам Вакх. Телесфор, восхваляем твои доблести, нетленный юный побег Асклепия, всемудрый сын бога, исцеляющего всякую боль, славный Даймон, — подними поколения смертных из их изнеможения, отгоняя мучительную болезнь. Длинноволосый Пеан безмерно рад, что ты у него, юный побег: много раз ты выводишь смертных к прекрасному свету после губительной болезни. Радуйся, Телесфор, драгоценный целитель, принеси на наши лица смех, подобающий священной радости.
+
 ## Английский
 
 We praise you, O' Makar, who illuminates all mortals, giver of all inner strength. You, who was created by Paian, glorious Telesphore, it is you who the Êpidaurians honour with songs of protection, as they call enthusiastically upon King Akesin because he heals people from brutal pain. But we do not only sing your praise, Telesphoros, but also for long-haired Paian, who brings healing to life. Io Makar, Bakkhos Himself. Telesphoros, we praise your virtues, imperishable young shoot of Asklepios, all-wise son of the god who heals all pain, illustrious Daimon, lift the generations of mortals from their weariness, repelling painful disease. The long-haired Paian is overjoyed to have you, young shoot, many times you lead mortals into the beautiful light after baneful illness. Khaire, Telesphoros, precious healer, bring laughter, befitting the sacred joy, to our faces.

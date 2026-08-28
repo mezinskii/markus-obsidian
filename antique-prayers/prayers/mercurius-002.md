@@ -11,6 +11,8 @@ source:
   author: Horace
   work: Satires
   section: 2.6.14-15
+  note: >-
+    thelatinlibrary.com, Horatius Sermones II.6.14-15
 occasion:
 deities:
   - Mercurius
@@ -41,6 +43,10 @@ ingenium, utque soles, custos mihi maximus adsis.
 
 
 
+
+
+сделай хозяину тучным скот и всё прочее, кроме
+дарования, и, как обычно, будь мне величайшим стражем.
 
 ## Английский
 

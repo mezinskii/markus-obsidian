@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Georgics
   section: 1.498-501
+  note: >-
+    thelatinlibrary.com, Vergilius Georgica I.498-501; u приведено к v
 occasion:
 deities:
   - Penates
@@ -46,6 +48,12 @@ ne prohibete.
 
 
 
+
+
+Отчие боги Индигеты, и Ромул, и мать Веста,
+что хранишь этрусский Тибр и римские Палатины, —
+хотя бы этому юноше прийти на помощь опрокинутому веку
+не воспрещайте.
 
 ## Английский
 

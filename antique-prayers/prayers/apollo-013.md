@@ -11,6 +11,8 @@ source:
   author: Pacuvius
   work: Medus
   section: fr. 2
+  note: >-
+    archive.org, текстовый слой издания Риббека, Tragicorum Romanorum Fragmenta (1871), Пакувий, «Медей», фрагмент II — печатная с. 220. Нумерация сошлась с карточкой («fr. 2»). Риббек приводит его по Цицерону, De officiis I.31.114. Исправлены огрехи OCR: «muoco» → «invoco», «pareutis» → «parentis», «mflii» → «mihi». Согласный u нормализован в v. ВНИМАНИЕ: в латыни «parentis» единственного числа — Медей ищет одного родителя, мать; английский карточки говорит «parents»
 occasion:
 deities:
   - Sol
@@ -42,6 +44,10 @@ Inquirendi ut mei parentis mihi potestatem duis.
 
 
 
+
+
+тебя, Солнце, призываю,
+чтобы ты дал мне власть отыскать родителя моего.
 
 ## Английский
 

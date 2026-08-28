@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 6.249-250
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti VI.249-250
 occasion: Vestalia
 deities:
   - Vesta
@@ -42,6 +44,10 @@ ad tua si nobis sacra venire licet.
 
 
 
+
+
+Веста, будь благосклонна: тебе теперь, свершая обряд, мы разрешаем уста,
+если нам дозволено приступить к твоим святыням.
 
 ## Английский
 

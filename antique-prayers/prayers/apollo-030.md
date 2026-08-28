@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Aeneid
   section: 3.85-89
+  note: >-
+    thelatinlibrary.com, Vergilius Aeneis III.85-89 (молитва Энея на Делосе)
 occasion:
 deities:
   - Apollo
@@ -48,6 +50,13 @@ da, pater, augurium atque animis inlabere nostris.
 
 
 
+
+
+Дай нам, Тимбрей, свой дом; дай усталым стены,
+и род, и город, который устоит; сохрани вторые
+Пергамы Трои, остаток от данайцев и от свирепого Ахилла.
+За кем нам идти? Куда велишь идти? Где положить жилище?
+Дай, отец, знамение и снизойди в наши души.
 
 ## Английский
 

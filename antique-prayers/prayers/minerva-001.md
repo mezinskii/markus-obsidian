@@ -11,6 +11,8 @@ source:
   author: Cicero
   work: De Domo sua ad Pontifices
   section: 144
+  note: >-
+    Perseus, Cicero De Domo Sua 144, издание Кларка (Oxford 1909). Часть того же периода, что и jupiter-003 и vesta-001; управляющее «precor atque quaeso» стоит именно здесь и относится ко всем перечисленным божествам
 occasion:
 deities:
   - Minerva
@@ -42,6 +44,9 @@ et te, custos urbis, Minerva, quae semper adiutrix consiliorum meorum, testis la
 
 
 
+
+
+и тебя, страж города, Минерва, что всегда была помощницей моим замыслам и свидетельницей трудов, — молю и прошу.
 
 ## Английский
 

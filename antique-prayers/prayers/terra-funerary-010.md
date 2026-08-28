@@ -11,6 +11,8 @@ source:
   author: Tacitus
   work: Annales
   section: 16.35
+  note: >-
+    thelatinlibrary.com, Tacitus Annales XVI.35 (слова Тразеи Пета); на странице опечатка «invenis», исправлено на «iuvenis»
 occasion:
 deities:
   - Jupiter
@@ -43,6 +45,9 @@ status: imported
 
 
 
+
+
+«Возливаем, — говорит, — Юпитеру Освободителю. Смотри, юноша; и пусть боги отвратят это знамение, но родился ты в такие времена, когда полезно укреплять дух стойкими примерами».
 
 ## Английский
 

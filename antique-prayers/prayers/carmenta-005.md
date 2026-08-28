@@ -4,7 +4,7 @@ prayer_id: prayer_carmenta_005
 slug: prayer-carmenta-005
 culture: roman
 form: personal
-period: Archaic
+period: modern reconstruction (Nova Roma)
 provenance: modern
 original_lang: la
 source:
@@ -39,6 +39,9 @@ Mater, te appello, age adsta, mane, audi; iteradum eadem ista mihi dic.
 
 
 
+
+
+Мать, к тебе взываю: приди, стань рядом, останься, выслушай; повтори мне ещё раз те же самые слова.
 
 ## Английский
 

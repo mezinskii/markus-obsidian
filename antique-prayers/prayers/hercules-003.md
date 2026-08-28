@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Metamorphoses
   section: 15.39-40
+  note: >-
+    thelatinlibrary.com, Ovidius Metamorphoses XV.39-40
 occasion:
 deities:
   - Hercules
@@ -42,6 +44,10 @@ fer, precor, opem!
 
 
 
+
+
+о ты, кому дважды шесть подвигов дали право на небо,
+подай, молю, помощь!
 
 ## Английский
 

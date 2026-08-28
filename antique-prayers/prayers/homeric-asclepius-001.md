@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 16 (to Asclepius)
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/XVI. Εις Ασκληπιόν
 occasion: Homeric Hymn to Asclepius — short invocation of the healer-god, son of Apollo, born of Koronis in the Dotian plain
 deities:
   - Asclepius
@@ -50,6 +52,13 @@ status: imported
 
 
 
+
+
+Врачевателя болезней Асклепия начинаю петь,
+сына Аполлона, которого родила божественная Коронида
+на Дотийской равнине, дочь царя Флегия, —
+великую радость людям, чарователя злых болей.
+И ты радуйся так, владыка; молю же тебя песнею.
 
 ## Английский
 

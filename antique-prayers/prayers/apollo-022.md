@@ -11,6 +11,8 @@ source:
   author: Statius
   work: Thebaid
   section: 8.91-94
+  note: >-
+    thelatinlibrary.com, Statius Thebais VIII.91-94; в издании Latin Library буква u в согласном значении, приведено к v
 occasion:
 deities:
   - Apollo
@@ -43,6 +45,12 @@ et sator), oro, minas stimulataque corda remulce.
 
 
 
+
+
+Если дозволено и подобает здесь раскрыть уста
+пред святыми Манами, о величайший предел всего сущего
+(а для меня, некогда знавшего причины и стихии,
+ещё и родитель), — молю, смягчи угрозы и уязвлённое сердце.
 
 ## Английский
 

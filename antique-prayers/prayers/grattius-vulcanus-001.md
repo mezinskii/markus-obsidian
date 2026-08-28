@@ -11,6 +11,8 @@ source:
   author: Grattius Faliscus
   work: Cynegetica
   section: 437-442
+  note: >-
+    thelatinlibrary.com, Grattius Cynegetica 437-442 (молитва Вулкану; кавычки в издании отмечают границы прямой речи)
 occasion: 'ritual prayer to Vulcanus at a purifying cult site — hunters'' invocation for mercy and cleansing, with threefold invocation, incense and auspicious boughs'
 deities:
   - Vulcanus
@@ -56,6 +58,14 @@ tura foco, struitur ramis felicibus ara.
 
 
 
+
+
+Тебя первого, Вулкан, святой обитатель места,
+и мир твой мы молим: дай изнурённым последнюю
+помощь, и, если нет никакой вины, стоящей такой кары,
+пожалей столько душ и дозволь коснуться источников
+твоих, святой, — трижды каждый зовёт, трижды возливает тучный
+ладан на очаг, и складывается алтарь из счастливых ветвей.
 
 ## Английский
 

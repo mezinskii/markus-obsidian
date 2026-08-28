@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 4.1
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti IV.1
 occasion:
 deities:
   - Venus
@@ -41,6 +43,9 @@ status: imported
 
 
 
+
+
+«Кормилица, будь благосклонна, — сказал я, — мать двух Аморов».
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Aeneid
   section: 9.404-405
+  note: >-
+    thelatinlibrary.com, Vergilius Aeneis IX.404-405 (молитва Ниса)
 occasion:
 deities:
   - Diana
@@ -43,6 +45,10 @@ astrorum decus et nemorum Latonia custos.
 
 
 
+
+
+Ты, богиня, ты, присутствуя, приди на помощь нашему труду,
+краса светил и хранительница рощ, Латония.
 
 ## Английский
 

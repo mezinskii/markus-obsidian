@@ -11,6 +11,8 @@ source:
   author: Silius Italicus
   work: Punica
   section: 15.159-162
+  note: >-
+    thelatinlibrary.com, Silius Italicus Punica XV.159-162; u приведено к v
 occasion:
 deities:
   - Neptunus
@@ -45,6 +47,12 @@ per pontum pia bella veho.
 
 
 
+
+
+Божественный трезубцемощный, чьими высокими морями
+мы начинаем идти, — если я готовлю справедливое, дай флоту
+пробежать путь, отец, и не пренебреги помочь нашим трудам.
+Через море я везу благочестивую войну.
 
 ## Английский
 

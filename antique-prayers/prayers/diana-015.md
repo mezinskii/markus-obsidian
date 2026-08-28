@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Aeneid
   section: 1.329-330
+  note: >-
+    thelatinlibrary.com, Вергилий, «Энеида» I.329-330. ИСПРАВЛЕНА АТРИБУЦИЯ: в карточке значилось «Servius Honoratus, Ad Aeneis 1.33», но слова эти Вергилиевы, а не Сервиевы, и строка 33 первой книги — «tantae molis erat Romanam condere gentem», к Диане отношения не имеющая. Английский карточки ложится на 329-330 дословно: «an Phoebi soror? an nympharum sanguinis una?» — «сестра ли Феба, или одна из рода нимф», «sis felix, nostrumque leves, quaecumque, laborem» — «будь благосклонна и облегчи наш труд, кто бы ты ни была». Это Эней обращается к Венере, явившейся ему неузнанной в облике охотницы. Шов […] в начале — на месте строк 327-328, шов в конце — фраза продолжается в 331
 occasion:
 deities:
   - Diana
@@ -45,6 +47,12 @@ sis felix, nostrumque leves, quaecumque, laborem,
 
 
 
+
+
+[…]
+сестра ли Феба? или одна из рода нимф?
+Будь благосклонна и облегчи наш труд, кто бы ты ни была,
+[…]
 
 ## Английский
 

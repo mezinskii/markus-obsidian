@@ -47,6 +47,9 @@ status: imported
 
 
 
+
+Восхваляем сребролукого Делийца, прекрасный колчан Зевса, безмолвно святого и сострадательного, ИЕ ПЕАН. Как Аглаиев Побег, проситель даёт обет с оливковой и лавровой ветвью в руке, ИЕ ПЕАН, призывая предводителя Муз, воспевая чистыми гимнами далекоразящего сына Лето, ИЕ ПЕАН. Асклепий, кроткий юноша, защитник от всякой рождённой болезни, отвратитель смертных бед, ИЕ О ИЕ ПЕАН. Кентавра, отвратителя людских болей, ты научил на вершинах Пелия всем тайным врачебным искусствам, ИЕ ПЕАН. Дитя Корониды, кроткий муж и скромный духом, ИЕ ПЕАН. Украшающий эллинские копья юных воинов, ИЕ ПЕАН. Дети Эпионы и благородной Гигиеи — Иасо, Акесо, Эгла и Панакея, ИЕ ПЕАН. Радуйся, славный дух, великое благо смертным, ИЕ О ИЕ ПЕАН. Ты кроток, Макар, — истреби страшные болезни, ИЕ О ИЕ ПЕАН. Приди, блаженный Пеан, и даруй просителю твоему многожеланное здоровье.
+
 ## Английский
 
 We praise the silver-bowed Delian, Zeus's beautiful quiver, silently holy and compassionate, IE PAIAN. Like the Aglaion Êrnos, the supplicant pledges with olive and laurel branch in hand, IE PAIAN, calling upon the leader of the Muses, singing pure hymns to the far-shooting son of Leto, IE PAIAN. Asklepios, kindly youth, defender against any born disease, warder of mortal woes, IE O IE PAIAN. To Kentauros, the pain warder of humans, You taught all the secret healing arts on the peaks of Mt. Pelias, IE PAIAN. Child of Koronis, mild man and modest spirit, IE PAIAN. Adorning the Hellenic lances of the young soldiers, IE PAIAN. Children of Epione and noble Hygeia, Iaso, Akeso and Aigle and Panacea, IE PAIAN. Khaire, illustrious spirit, great benefit of mortals, IE O IE PAIAN. You are gentle, Makar, eliminate dread diseases, IE O IE PAIAN. Come Blessed Paian and grant to your supplicant much-desired health.

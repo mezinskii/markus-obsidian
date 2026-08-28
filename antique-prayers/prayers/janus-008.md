@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: 1.172
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti I.171-172 (карточка ссылается на 172, но это вторая строка двустишия)
 occasion:
 deities:
   - Janus
@@ -43,6 +45,10 @@ Iane, tibi primum tura merumque fero?
 
 
 
+
+
+почему, хотя я умилостивляю божества иных,
+тебе, Янус, первому приношу ладан и вино?
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 1 (to Dionysus), closing
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/I. Εις Διόνυσον — концовка гимна; карточка передаёт только её
 occasion: 'closing of the Homeric Hymn to Dionysus — farewell to the god ''Insewn'' (eiraphiotes) and his mother Semele-Thyone'
 deities:
   - Dionysus
@@ -51,6 +53,13 @@ status: imported
 
 
 
+
+
+Будь милостив, Зашитый в бедро, жёноистовый; мы, певцы,
+поём тебя, и начиная, и кончая, и никак нельзя
+тому, кто забыл тебя, помнить священную песнь.
+И ты радуйся так, Дионис Зашитый в бедро,
+вместе с матерью Семелой, которую зовут Тионой.
 
 ## Английский
 

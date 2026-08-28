@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 9 (to Artemis)
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/IX. Εις Άρτεμιν
 occasion: Homeric Hymn to Artemis — short invocation calling the goddess as virgin huntress driving her chariot through Lydia to her brother Apollo at Klaros
 deities:
   - Artemis
@@ -57,6 +59,17 @@ status: imported
 
 
 
+
+
+Артемиду воспой, Муза, сестру Дальновержца,
+деву-стрелолюбицу, вскормленную вместе с Аполлоном,
+ту, что, напоив коней в глубокотростниковом Мелете,
+стремительно гонит через Смирну всезолотую колесницу
+в виноградный Кларос, где сребролукий Аполлон
+сидит, поджидая далекоразящую стрелолюбицу.
+И ты радуйся так в песне, и все богини вместе;
+а я тебя первой и с тебя начинаю петь,
+и, с тебя начав, перейду к другому гимну.
 
 ## Английский
 

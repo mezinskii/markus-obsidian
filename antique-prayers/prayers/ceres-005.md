@@ -46,6 +46,10 @@ status: imported
 
 
 
+
+Церера-Мать, тебя добрыми молитвами молю, поднося тебе эту груду лепёшек, чтобы ты была благосклонна и милостива ко мне и детям моим, к дому и челяди моей.
+Церера-Мать, ради того же, о чём я молил добрыми молитвами, поднося тебе груду лепёшек, — прими и почтена будь этой долею вина, которую я возливаю.
+
 ## Английский
 
 Ceres Mater, to You I pray with good prayers, offering You this pile of cakes, so that You might willing be favorable to me and my children, to my home and household.

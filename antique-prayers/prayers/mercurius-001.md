@@ -11,6 +11,8 @@ source:
   author: Horace
   work: Satires
   section: 2.6.4-5
+  note: >-
+    thelatinlibrary.com, Horatius Sermones II.6.4-5
 occasion:
 deities:
   - Mercurius
@@ -41,6 +43,10 @@ Maia nate, nisi ut propria haec mihi munera faxis.
 
 
 
+
+
+ни о чём большем не молю,
+сын Майи, кроме как чтобы ты сделал эти дары моими собственными.
 
 ## Английский
 

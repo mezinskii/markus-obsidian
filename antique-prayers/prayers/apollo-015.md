@@ -11,6 +11,8 @@ source:
   author: Plautus
   work: Aulularia
   section: 394-396
+  note: >-
+    thelatinlibrary.com, Plautus Aulularia 393-395 (карточка ссылается на 394-396)
 occasion:
 deities:
   - Apollo
@@ -43,6 +45,11 @@ si cui in re tali iam subvenisti antidhac.
 
 
 
+
+
+Аполлон, прошу, приди мне на помощь и пособи,
+пронзи стрелами воров, что охотятся за кладом,
+если ты кому-нибудь в таком деле уже помогал прежде.
 
 ## Английский
 

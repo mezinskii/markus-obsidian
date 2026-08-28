@@ -11,6 +11,8 @@ source:
   author: Livy
   work: Ab Urbe Condita
   section: 5.21.2-3
+  note: >-
+    thelatinlibrary.com, Livius Ab Urbe Condita V.21.2-3 (обет Камилла перед взятием Вей)
 occasion: before battle / siege of Veii
 deities:
   - Apollo
@@ -46,6 +48,9 @@ Tuo ductu, Pythice Apollo, tuoque numine instinctus pergo ad delendam urbem Veio
 
 
 
+
+
+Твоим водительством, Пифийский Аполлон, и твоею волей подвигнутый, иду разрушить город Вейи и обещаю тебе отсюда десятую часть добычи. Тебя же, царица Юнона, что ныне обитаешь в Вейях, молю: последуй за нами, победителями, в наш город, который вскоре станет и твоим, где примет тебя храм, достойный твоего величия.
 
 ## Английский
 

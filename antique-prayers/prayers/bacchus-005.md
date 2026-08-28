@@ -11,6 +11,8 @@ source:
   author: Horace
   work: Carmina
   section: '3.25.18-20'
+  note: >-
+    thelatinlibrary.com, Horatius Carmina III.25.18-20 (карточка ссылалась на 19-20)
 occasion:
 deities:
   - Bacchus
@@ -44,6 +46,11 @@ cingentem viridi tempora pampino.
 
 
 
+
+
+Сладок риск,
+о Леней, следовать за богом,
+что обвивает виски зелёной лозой.
 
 ## Английский
 

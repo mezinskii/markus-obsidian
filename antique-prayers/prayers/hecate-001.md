@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Aeneid
   section: 4.609-612
+  note: >-
+    thelatinlibrary.com, Vergilius Aeneis IV.609-612 (призывание Дидоны)
 occasion:
 deities:
   - Hecate
@@ -45,6 +47,12 @@ et nostras audite preces.
 
 
 
+
+
+и ты, Геката, чьё имя воют на ночных перекрёстках по городам,
+и Диры-мстительницы, и боги умирающей Элиссы,
+примите это, обратите на злодеев заслуженную ими силу
+и услышьте наши мольбы.
 
 ## Английский
 

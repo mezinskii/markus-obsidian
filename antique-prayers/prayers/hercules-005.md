@@ -11,6 +11,8 @@ source:
   author: Silius Italicus
   work: Punica
   section: 1.505-507
+  note: >-
+    thelatinlibrary.com, Silius Italicus Punica I.505-507; u приведено к v
 occasion:
 deities:
   - Hercules
@@ -44,6 +46,11 @@ si tua non segni defenso moenia dextra».
 
 
 
+
+
+«Основатель Алкид, чьи священные следы
+мы населяем, отврати от земли грозящую бурю,
+если я не вялой десницей защищаю твои стены».
 
 ## Английский
 

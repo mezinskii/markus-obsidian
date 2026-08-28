@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Metamorphoses
   section: 6.327-328
+  note: >-
+    thelatinlibrary.com, Ovidius Metamorphoses VI.327-328
 occasion:
 deities:
   - Diana
@@ -40,6 +42,10 @@ dux meus, et simili «faveas!» ego murmure dixi.
 
 
 
+
+
+Остановился и робким шёпотом сказал «будь ко мне благосклонна!»
+вожатый мой, и таким же шёпотом «будь благосклонна!» сказал я.
 
 ## Английский
 

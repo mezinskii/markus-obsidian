@@ -59,6 +59,9 @@ status: imported
 
 
 
+
+Пойте, юноши, Пеана, славного искусством, сына Лето, Дальновержца — ие Пеан! — который родил великую радость смертным, сочетавшись в любви с Коронидой в земле флегиев — ие Пеан! — Асклепия, славнейшего бога — ие Пеан! Им рождены Махаон, и Подалирий, и Иасо — ие Пеан! — и прекрасноокая Эгла, и Панакея, дети Эпионы, вместе с Гигиеей, всеславной, неосквернённой; ие Пеан! Асклепий, славнейший бог — ие Пеан! Радуйся, тебе говорю: милостиво посети наш просторный город — ие Пеан! — и дай нам смотреть на солнечный свет в радости, одобренными при помощи Гигиеи, всеславной, неосквернённой; ие Пеан! — Асклепий, славнейший бог — ие Пеан!
+
 ## Английский
 
 Sing, youths, of Paian, skill-famed, Leto's son, Far-shooter — ie Paian! — who fathered a great joy for mortals when he mingled in love with Koronis in the land of the Phlegyai — ie Paian! — Asklepios, the most famous god — ie Paian! By him were fathered Makhaon and Podaleirios and Iaso — ie Paian! — and fair-eyed Aigle and Panakea, children of Epione, along with Hygieia, all-glorious, undefiled; ie Paian! Asklepios, the most famous god — ie Paian! Greetings I give you: graciously visit our wide-spaced city — ie Paian! — and grant that we look on the sun's light in joy, approved with the help of Hygieia, all-glorious, undefiled : ie Paian! — Asklepios, the most famous god — ie Paian!

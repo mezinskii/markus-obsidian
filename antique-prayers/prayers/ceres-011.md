@@ -11,6 +11,8 @@ source:
   author: Seneca
   work: Hercules Furens
   section: 229
+  note: >-
+    la.wikisource, Seneca Hercules Furens 299-302 (карточка ссылается на 229). Пьесы нет на thelatinlibrary.com — там под именем Hercules лежит «Геркулес на Эте»
 occasion:
 deities:
   - Ceres
@@ -43,6 +45,11 @@ longas Eleusin tacita iactabit faces.
 
 
 
+
+
+тебе, владычица плодов,
+воздам сокровенные обряды: тебе с безмолвной верностью
+молчаливый Элевсин будет вздымать длинные факелы.
 
 ## Английский
 

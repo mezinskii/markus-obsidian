@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Metamorphoses
   section: 5.618-620
+  note: >-
+    thelatinlibrary.com, Ovidius Metamorphoses V.618-620 (крик Аретусы)
 occasion:
 deities:
   - Diana
@@ -44,6 +46,11 @@ ferre tuos arcus inclusaque tela pharetra!»
 
 
 
+
+
+«Помоги, меня настигают, — говорю, —
+оруженосице твоей, Диана, которой ты часто давала
+носить твой лук и стрелы, заключённые в колчане!»
 
 ## Английский
 

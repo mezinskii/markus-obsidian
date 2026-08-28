@@ -11,6 +11,8 @@ source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
   section: 41 (to Mother Antaia)
+  note: >-
+    el.wikisource, Ορφικοί ύμνοι/Μητρός Ανταίας (наш гимн 41)
 occasion: Orphic hymn to Demeter as Mother Antaia — invocation of the wandering grieving mother who finds her daughter in Hades, with Iacchus as guide
 deities:
   - Demeter
@@ -61,6 +63,20 @@ status: imported
 
 
 
+
+
+Матери Антее, воскурение — благовония
+
+Антея-царица, богиня, многоимённая мать
+бессмертных богов и смертных людей,
+ты, что некогда, ища в многоскитальческой скорби,
+прекратила пост в ущельях Элевсина
+и сошла в Аид к величавой Ферсефоне,
+получив в провожатые чистого сына Дисавла,
+указателя священного ложа чистого подземного Зевса,
+и родила Евбулея, богиня, по смертной необходимости.
+Но, богиня, молю тебя, многоумоляемая царица,
+прийти благовстречной к твоему благочестивому мисту.
 
 ## Английский
 

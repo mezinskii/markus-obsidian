@@ -41,6 +41,9 @@ status: imported
 
 
 
+
+Призываю великого вечного подземного царя Корибанта, блаженного; Ареева и грозного юношу ночи, что рассеивает злые страхи, помощника воображения, странствующего Корибанта, многообразного царя, двуприродного бога, многовидного, окровавленного, кровью залитого брата, — ты, что с согласия Зевса переменил своё чистое тело, приняв звериный и змеиный облик. Приди, блаженный, услышь этот зов и рассей все скорби, отгони нездоровые видения и нежеланные нужды души.
+
 ## Английский
 
 I call on the great eternal Khthonian king Koryvant', the blessed; Arean and terrifying youth of the night, who dispels evil fears, helper of the imagination, wandering Koryvanta, multi-formed king, dual natured god, many-formed, bloodstained, blood-drenched brother, you who, with the consent of Zeus, changed your pure body, assuming beast-like and serpentine form: Come, Blessed, hear this call and dispel all grievances, chase away unhealthy imaginings and the undesirable needs of the soul.

@@ -11,6 +11,8 @@ source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
   section: 12 (to Hera)
+  note: >-
+    el.wikisource, Ομηρικοί Ύμνοι/XII. Εις Ήραν
 occasion: short Homeric Hymn to Hera — praise of her as queen of the immortals and wife of Zeus
 deities:
   - Hera
@@ -52,6 +54,13 @@ status: imported
 
 
 
+
+
+Геру пою златопрестольную, которую родила Рея,
+царицу бессмертных, обликом всех превосходящую,
+сестру и супругу громогласного Зевса,
+славную, которую все блаженные по высокому Олимпу
+благоговейно чтут наравне с Зевсом, радующимся молнии.
 
 ## Английский
 

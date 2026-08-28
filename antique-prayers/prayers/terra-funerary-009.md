@@ -11,6 +11,8 @@ source:
   author: Propertius
   work: Elegiae
   section: 2.28c.1-2
+  note: >-
+    thelatinlibrary.com, Propertius Elegiae II.28c.1-2
 occasion:
 deities:
   - Proserpina
@@ -44,6 +46,10 @@ Persephonae coniunx, saevior esse velis.
 
 
 
+
+
+Да пребудет эта твоя милость, Персефона, и ты,
+супруг Персефоны, не пожелай быть суровее.
 
 ## Английский
 

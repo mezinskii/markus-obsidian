@@ -44,6 +44,9 @@ status: imported
 
 
 
+
+Высочайшая богиня Паллада, златовенчанная Афина, великая богиня мира; ты, что вышла в полном вооружении из достопочтенной головы нашего Отца. Дева-богиня, пробуждающая в нас нерушимый и просветлённый Ум. Щитоносная, непорочная, ты, что правишь целым миром. Неукротимая Метида, соединяющая противоположности, трижды рождённая Дева, светлый цвет. Ты наполнила ум Отца законами вселенской Красоты. Ты — всё, что существует, всё, что ещё будет, и всё, что было. Славная богиня, светлоокая Дева, даруй силу и любовь, чтобы поднять меня из объятий Геи к просветлённому Олимпу. О богиня, дай нам твою непорочную Мудрость и умственную мощь, даруя нам благословения Олимпа, что возносят душу, изгоняя великие обманы мира.
+
 ## Английский
 
 Most High Goddess Pallas, golden wreathed Athena, Great Goddess of the World; You who sprang fully armed from our Father's venerable head. Virgin goddess who awakens in us the indestructible and illuminated Nous. Shield-bearing, Immaculate, You who governs the Whole World. Untamed Metis who merges the opposites, thrice-born Maiden; bright flower. You have filled the mind of the Father with the laws of Universal Beauty. You are all which exists, all which is still to come and all that has been. Glorious Goddess, Bright-eyed Maiden, grant the strength and love to raise me from the embrace of Gaia to illuminated Olympos. O' Goddess, offer to us your immaculate Wisdom and mental power, granting us the blessings of Olympos that uplift the soul, banishing the great illusions of the World.

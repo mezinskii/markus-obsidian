@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: 'Anthologia Latina, pars II (Carmina Latina Epigraphica, ed. Buecheler)'
   section: 2.250.12
+  note: >-
+    archive.org, Bücheler, Anthologia Latina pars II (Carmina Latina Epigraphica), фасц. 1, стих. 250, строка 12 — печатные с. 118-119. ВНИМАНИЕ: стихотворение обращено к СИЛЬВАНУ, а не к Аполлону (нач. «Magne deum, Silvane potens, sanctissime pastor»); это вотивная надпись CIL IX 3375 из долины Тритана под Капестрано, датированная консулами Сильваном и Авгурином = 156 г. н. э. Нумерация строк выверена по аппарату Бюхелера (он ссылается на 'unda' в 5, 'causa' в 10, 'mea' в 11, 'ara' в 15 — всё сходится). Английский передаёт только вторую половину строки 12; первая половина, «officiumque gerens.», закрывает предложение, начатое в строке 10 — отсюда шов в начале. Фраза продолжается в строке 13 — отсюда шов в конце. Согласного u в этой строке нет, нормализация u/v не потребовалась
 occasion: dedication of a statue and altar to Silvanus
 deities:
   - Silvanus
@@ -40,6 +42,9 @@ status: imported
 
 
 
+
+
+[…] и ты, покровитель, будь благосклонно рядом, […]
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Remedia Amoris
   section: 75-76
+  note: >-
+    thelatinlibrary.com, Ovidius Remedia Amoris 75-76
 occasion:
 deities:
   - Apollo
@@ -43,6 +45,10 @@ Carminis et medicae, Phoebe, repertor opis.
 
 
 
+
+
+Тебя молю, начиная: да будет с нами твой лавр,
+Феб, обретатель песни и врачующей помощи.
 
 ## Английский
 

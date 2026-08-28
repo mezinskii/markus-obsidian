@@ -11,6 +11,8 @@ source:
   author: Martial
   work: Epigrammata
   section: '5.7.5-8'
+  note: >-
+    thelatinlibrary.com, Martialis Epigrammata V.7.5-8 (собственно мольба; карточка ссылалась на 5.7.5); u приведено к v
 occasion: plea to Vulcanus to forget grievances against Rome (the children of Mars) and to spare the city as descendants also of his wife Venus
 deities:
   - Vulcanus
@@ -54,6 +56,12 @@ ignoscat coniunx et patienter amet.
 
 
 
+
+
+Уже, молю, забыв о знаменитой жалобе, Вулкан,
+пощади: мы — толпа Марса, но и Венеры;
+пощади, отец, — и пусть тогда за лемносские цепи
+шаловливая супруга простит тебя и терпеливо любит.
 
 ## Английский
 

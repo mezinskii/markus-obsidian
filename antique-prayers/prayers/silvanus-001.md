@@ -43,6 +43,9 @@ Silvane sacra semicluse fraxino et huius alti summe custos hortuli, tibi hasce g
 
 
 
+
+Сильван, полусокрытый в священном ясене и высший страж этого горного садика, тебе посвящаем мы эти благодарности в песнях.
+
 ## Английский
 
 Silvanus, high guardian of other gardens as well, we offer you this holy ash tree on the forest's edge with songs of thanks. We dedicate this for our fields and Alpine mountain, and may it be acceptable as a shrine for yourself. While I discharge the law and perform Caesar's duties should your shrine favorably safeguard and prosper me and mine, men returned to Rome, and grant safekeeping of the Italian land we cherish, then to you I will indeed dedicate a thousand great trees.

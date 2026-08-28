@@ -11,6 +11,8 @@ source:
   author: Numisia Afrodite
   work: Corpus Inscriptiones Latinae
   section: 'CIL VI 286'
+  note: >-
+    EDCS-17200349, CIL VI 286, Рим. Надпись целиком. Аппарат: () — раскрытые сокращения, {} — лишняя буква камня
 occasion:
 deities:
   - Hercules
@@ -41,6 +43,9 @@ Numisia Afrodite pro salute fili(i) m{a}ei et meorum donum Herculi posui.
 
 
 
+
+
+Я, Нумисия Афродита, за здравие сына моего и моих близких поставила дар Геркулесу.
 
 ## Английский
 

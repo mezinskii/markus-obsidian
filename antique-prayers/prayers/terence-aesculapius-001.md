@@ -11,6 +11,8 @@ source:
   author: Terence
   work: Hecyra
   section: 328
+  note: >-
+    thelatinlibrary.com, Terentius Hecyra, слова Состраты (акт III, сцена 2); карточка ссылается на строку 328, точный номер по этому изданию не проверен
 occasion: 'anxious plea during a loved one''s illness — Pamphilus prays for Philumena''s recovery'
 deities:
   - Aesculapius
@@ -44,6 +46,9 @@ quod te, Aesculapi, et te, Salus, nequid sit huius oro.
 
 
 
+
+
+о чём тебя, Эскулап, и тебя, Салюс, молю: пусть ничего из этого не будет.
 
 ## Английский
 

@@ -11,6 +11,8 @@ source:
   author: Virgil
   work: Eclogues
   section: '4.8-10'
+  note: >-
+    thelatinlibrary.com, Vergilius Ecloga IV.8-10 (в карточке ссылка была искажена: «1.338-350»)
 occasion:
 deities:
   - Diana
@@ -46,6 +48,11 @@ casta fave Lucina; tuus iam regnat Apollo.
 
 
 
+
+
+Ты только рождающемуся мальчику, с которым железное племя
+впервые прекратится и по всему миру встанет золотое,
+будь благосклонна, целомудренная Луцина; уже царствует твой Аполлон.
 
 ## Английский
 

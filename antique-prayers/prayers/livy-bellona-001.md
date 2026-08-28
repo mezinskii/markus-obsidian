@@ -11,6 +11,8 @@ source:
   author: Livy
   work: Ab Urbe Condita
   section: 10.19.17-18
+  note: >-
+    thelatinlibrary.com, Livius Ab Urbe Condita X.19.17 (обет Аппия Клавдия Беллоне)
 occasion: 'Appius Claudius Caecus''s battlefield vow to Bellona during the Third Samnite War (296 BC) — promise of a temple in return for victory'
 deities:
   - Bellona
@@ -44,6 +46,9 @@ Bellona, si hodie nobis victoriam duis, ast ego tibi templum voveo.
 
 
 
+
+
+Беллона, если ты сегодня дашь нам победу, то я обещаю тебе храм.
 
 ## Английский
 
