@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-mercurius-006
 prayer_id: prayer_mercurius_006
 slug: prayer-mercurius-006
+title:
+  en: "Prayer to Perfidia"
+  ru: "Молитва Вероломству"
 culture: roman
 form: literary
 period: 2nd c. BC

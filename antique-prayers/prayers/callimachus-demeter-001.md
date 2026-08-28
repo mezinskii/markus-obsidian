@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-callimachus-demeter-001
 prayer_id: prayer_callimachus_demeter_001
 slug: prayer-callimachus-demeter-001
+title:
+  en: "Prayer to Demeter"
+  ru: "Молитва Деметре"
 culture: greek
 form: hymn
 period: 3rd c. BC

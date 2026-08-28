@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-017
 prayer_id: prayer_apollo_017
 slug: prayer-apollo-017
+title:
+  en: "Prayer to Apollo and Aesculapius"
+  ru: "Молитва Аполлону и Эскулапу"
 culture: roman
 form: ritual
 period: 2nd-3rd c. AD

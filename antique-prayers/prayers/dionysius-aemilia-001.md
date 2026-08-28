@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-dionysius-aemilia-001
 prayer_id: prayer_dionysius_aemilia_001
 slug: prayer-dionysius-aemilia-001
+title:
+  en: "The Vestal Aemilia's prayer"
+  ru: "Молитва весталки Эмилии"
 culture: roman
 form: personal
 period: 1st c. BC (describing an earlier Republican event of uncertain date)

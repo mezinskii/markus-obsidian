@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-asclepius-001
 prayer_id: prayer_homeric_asclepius_001
 slug: prayer-homeric-asclepius-001
+title:
+  en: "Hymn to Asclepius and Apollo"
+  ru: "Гимн Асклепию и Аполлону"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 16 (to Asclepius)
+  section: "16"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XVI. Εις Ασκληπιόν
 occasion: Homeric Hymn to Asclepius — short invocation of the healer-god, son of Apollo, born of Koronis in the Dotian plain

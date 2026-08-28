@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ovid-venus-001
 prayer_id: prayer_ovid_venus_001
 slug: prayer-ovid-venus-001
+title:
+  en: "Prayer to Venus Verticordia and Fortuna Virilis"
+  ru: "Молитва Венере Вертикордии и Фортуне Вирилис"
 culture: roman
 form: ritual
 period: early 1st c. AD

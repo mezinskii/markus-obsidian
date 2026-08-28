@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ceres-003
 prayer_id: prayer_ceres_003
 slug: prayer-ceres-003
+title:
+  en: "Prayer to Ceres and Isis"
+  ru: "Молитва Церере и Исиде"
 culture: roman
 form: literary
 period: 2nd c. AD

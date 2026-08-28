@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-scolia-demeter-001
 prayer_id: prayer_scolia_demeter_001
 slug: prayer-scolia-demeter-001
+title:
+  en: "Prayer to Demeter"
+  ru: "Молитва Деметре"
 culture: greek
 form: hymn
 period: Greek (BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous
   work: Greek Lyric V (Campbell), Scolia
-  section: Fragment 885
+  section: "fr. 885"
   note: >-
     archive.org, текстовый слой издания Мейнеке, Athenaei Deipnosophistae, т. III (1858), кн. XV, стр. Казобона 694 — аттический сколий, у Кэмпбелла (Greek Lyric V) фрагмент 885. Это один из знаменитого ряда застольных сколиев, идущих у Афинея подряд: перед ним сколий Палладе, после — Лето с Аполлоном и Артемидой, затем Пану. ПРАВКИ OCR: «Ζήμητρα» → «Δήμητρα» (Δ распознано как Ζ), «στεφανηφύροις» → «στεφανηφόροις». В третьей строке OCR даёт «cé ve zai Διὸς Περσεφόνη»: латинские c, v передают σ, τ. Латинское z в этом же скане стоит и за κ, и за π (ср. «Az0A40» = Ἀπόλλω четырьмя строками ниже), поэтому «zai» читается как «παῖ», а не «καὶ»; за это же говорит английский карточки — «child of Zeus». Пунктуация и строчные в начале строк оставлены как в издании
 occasion: drinking-song (skolion) addressed to Demeter and Persephone, asking for the welfare of the city

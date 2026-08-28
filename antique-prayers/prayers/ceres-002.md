@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ceres-002
 prayer_id: prayer_ceres_002
 slug: prayer-ceres-002
+title:
+  en: "Prayer to Ceres"
+  ru: "Молитва Церере"
 culture: roman
 form: literary
 period: 2nd c. AD

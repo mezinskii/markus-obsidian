@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-erythrai-paean-asclepius-001
 prayer_id: prayer_erythrai_paean_asclepius_001
 slug: prayer-erythrai-paean-asclepius-001
+title:
+  en: "Prayer to Asclepius"
+  ru: "Молитва Асклепию"
 culture: greek
 form: hymn
 period: Greek (BC, exact date uncertain)
@@ -11,7 +14,7 @@ original_lang:
 source:
   author: Anonymous (inscription from Erythrai)
   work: Greek Lyric (Campbell, vol. V)
-  section: Fragment 939
+  section: "fr. 939"
 occasion: 'civic paean to Asclepius preserved in an inscription at Erythrai — invocation of the healer-god and his family for the city''s wellbeing'
 deities:
   - Asclepius

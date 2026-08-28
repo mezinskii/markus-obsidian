@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-pindar-eileithyia-001
 prayer_id: prayer_pindar_eileithyia_001
 slug: prayer-pindar-eileithyia-001
+title:
+  en: "Prayer to Eileithyia"
+  ru: "Молитва Илифии"
 culture: greek
 form: hymn
 period: 5th c. BC

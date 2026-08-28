@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-hephaestus-001
 prayer_id: prayer_homeric_hephaestus_001
 slug: prayer-homeric-hephaestus-001
+title:
+  en: "Hymn to Hephaestus and Athena"
+  ru: "Гимн Гефесту и Афине"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 20 (to Hephaestus)
+  section: "20"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XX. Εις Ήφαιστον
 occasion: Homeric Hymn to Hephaestus — praising him with Athena as the teachers of crafts to mankind

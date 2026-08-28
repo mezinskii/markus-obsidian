@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-hermes-khthonios-001
 prayer_id: prayer_greek_hermes_khthonios_001
 slug: prayer-greek-hermes-khthonios-001
+title:
+  en: "Prayer to Hermes"
+  ru: "Молитва Гермесу"
 culture: greek
 form: ritual
 period:

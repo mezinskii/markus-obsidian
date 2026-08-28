@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-callimachus-artemis-001
 prayer_id: prayer_callimachus_artemis_001
 slug: prayer-callimachus-artemis-001
+title:
+  en: "Prayer to Artemis"
+  ru: "Молитва Артемиде"
 culture: greek
 form: hymn
 period: 3rd c. BC

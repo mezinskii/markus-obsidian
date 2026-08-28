@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-bacchus-007
 prayer_id: prayer_bacchus_007
 slug: prayer-bacchus-007
+title:
+  en: "Prayer to Bacchus and Liber"
+  ru: "Молитва Вакху и Либеру"
 culture: roman
 form: literary
 period: Augustan

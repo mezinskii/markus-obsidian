@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-hera-001
 prayer_id: prayer_homeric_hera_001
 slug: prayer-homeric-hera-001
+title:
+  en: "Hymn to Hera"
+  ru: "Гимн Гере"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 12 (to Hera)
+  section: "12"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XII. Εις Ήραν
 occasion: short Homeric Hymn to Hera — praise of her as queen of the immortals and wife of Zeus

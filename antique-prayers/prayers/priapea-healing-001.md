@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-priapea-healing-001
 prayer_id: prayer_priapea_healing_001
 slug: prayer-priapea-healing-001
+title:
+  en: "Prayer to Priapus"
+  ru: "Молитва Приапу"
 culture: roman
 form: personal
 period: 1st c. AD

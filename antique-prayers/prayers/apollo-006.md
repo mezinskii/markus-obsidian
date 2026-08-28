@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-006
 prayer_id: prayer_apollo_006
 slug: prayer-apollo-006
+title:
+  en: "Prayer to Apollo"
+  ru: "Молитва Аполлону"
 culture: roman
 form: ritual
 period: Augustan
@@ -10,7 +13,7 @@ original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saeculares
-  section: 'CIL VI 32323 (Apollini et Dianae)'
+  section: "VI 32323 (Apollini et Dianae)"
   note: >-
     EDCS-71200586, CIL VI 32323 (Acta ludorum saecularium, 17 г. до н. э.), жертва Аполлону и Диане на Палатине. ВАЖНО: на камне молитва сокращена оборотом «cetera uti supra» — надпись отсылает к полной формуле, приведённой выше при жертве Мойрам. Английский в карточке эту отсылку раскрывает и выписывает продолжение целиком; здесь текст дан так, как стоит в надписи. Аппарат: [] — восстановленное, () — раскрытые сокращения, {} — лишняя буква камня
 occasion: Ludi Saeculares (Secular Games)

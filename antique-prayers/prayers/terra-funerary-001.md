@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-terra-funerary-001
 prayer_id: prayer_terra_funerary_001
 slug: prayer-terra-funerary-001
+title:
+  en: "Prayer to Mother Earth and the Manes"
+  ru: "Молитва Матери-Земле и Манам"
 culture: roman
 form: personal
 period:

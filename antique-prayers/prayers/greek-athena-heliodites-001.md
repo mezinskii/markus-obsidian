@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-athena-heliodites-001
 prayer_id: prayer_greek_athena_heliodites_001
 slug: prayer-greek-athena-heliodites-001
+title:
+  en: "Prayer to Athena"
+  ru: "Молитва Афине"
 culture: greek
 form: ritual
 period:

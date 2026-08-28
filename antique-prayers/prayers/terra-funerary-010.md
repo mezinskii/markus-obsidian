@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-terra-funerary-010
 prayer_id: prayer_terra_funerary_010
 slug: prayer-terra-funerary-010
+title:
+  en: "Prayer to Jupiter"
+  ru: "Молитва Юпитеру"
 culture: roman
 form: personal
 period: 1st c. AD

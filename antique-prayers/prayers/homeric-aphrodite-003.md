@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-aphrodite-003
 prayer_id: prayer_homeric_aphrodite_003
 slug: prayer-homeric-aphrodite-003
+title:
+  en: "Hymn to Aphrodite"
+  ru: "Гимн Афродите"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 10 (to Aphrodite)
+  section: "10"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/X. Εις Αφροδίτην
 occasion: short Homeric Hymn to Aphrodite — invocation of the smiling goddess of Salamis and Cyprus

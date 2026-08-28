@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-asclepius-001
 prayer_id: prayer_orphic_asclepius_001
 slug: prayer-orphic-asclepius-001
+title:
+  en: "Hymn to Asclepius"
+  ru: "Гимн Асклепию"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 67 (to Asclepius)
+  section: "67"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Ασκληπιού (наш гимн 67)
 occasion: Orphic hymn to Asclepius with fumigation of manna — invocation of the physician-god to bring health and restrain pestilence

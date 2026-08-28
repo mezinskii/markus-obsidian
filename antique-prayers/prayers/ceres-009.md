@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ceres-009
 prayer_id: prayer_ceres_009
 slug: prayer-ceres-009
+title:
+  en: "Prayer to Ceres and Earth"
+  ru: "Молитва Церере и Земле"
 culture: roman
 form: ritual
 period: Augustan

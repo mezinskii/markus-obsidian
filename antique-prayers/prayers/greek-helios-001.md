@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-helios-001
 prayer_id: prayer_greek_helios_001
 slug: prayer-greek-helios-001
+title:
+  en: "Prayer to Helios"
+  ru: "Молитва Гелиосу"
 culture: greek
 form: ritual
 period:

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-macrobius-evocatio-001
 prayer_id: prayer_macrobius_evocatio_001
 slug: prayer-macrobius-evocatio-001
+title:
+  en: "The evocatio of Carthage"
+  ru: "Эвокация Карфагена"
 culture: roman
 form: ritual
 period: late 4th / early 5th c. AD (preserving archaic Roman formula)

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-aristophanes-eileithyia-001
 prayer_id: prayer_aristophanes_eileithyia_001
 slug: prayer-aristophanes-eileithyia-001
+title:
+  en: "Prayer to Eileithyia and Athena"
+  ru: "Молитва Илифии и Афине"
 culture: greek
 form: personal
 period: 5th-4th c. BC

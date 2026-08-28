@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-juno-001
 prayer_id: prayer_juno_001
 slug: prayer-juno-001
+title:
+  en: "Prayer to Juno"
+  ru: "Молитва Юноне"
 culture: roman
 form: literary
 period: 2nd c. AD

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-silvanus-002
 prayer_id: prayer_silvanus_002
 slug: prayer-silvanus-002
+title:
+  en: "Prayer to Silvanus"
+  ru: "Молитва Сильвану"
 culture: roman
 form: personal
 period:

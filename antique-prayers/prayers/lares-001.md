@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-lares-001
 prayer_id: prayer_lares_001
 slug: prayer-lares-001
+title:
+  en: "Prayer to the Lares"
+  ru: "Молитва Ларам"
 culture: roman
 form: personal
 period: 3rd-2nd c. BC

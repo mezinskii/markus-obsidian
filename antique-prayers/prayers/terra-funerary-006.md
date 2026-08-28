@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-terra-funerary-006
 prayer_id: prayer_terra_funerary_006
 slug: prayer-terra-funerary-006
+title:
+  en: "Prayer to Earth"
+  ru: "Молитва Земле"
 culture: roman
 form: personal
 period:

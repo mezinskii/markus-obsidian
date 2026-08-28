@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-plouton-001
 prayer_id: prayer_greek_plouton_001
 slug: prayer-greek-plouton-001
+title:
+  en: "Prayer to Plouton"
+  ru: "Молитва Плутону"
 culture: greek
 form: ritual
 period:

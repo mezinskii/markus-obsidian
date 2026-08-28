@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-aphrodite-001
 prayer_id: prayer_orphic_aphrodite_001
 slug: prayer-orphic-aphrodite-001
+title:
+  en: "Hymn to Aphrodite"
+  ru: "Гимн Афродите"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 55 (to Aphrodite)
+  section: "55"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Εις Αφροδίτην (наш гимн 55); строка с воскурением на странице отсутствует, в тексте страницы есть мелкие огрехи огласовки
 occasion: Orphic hymn to Aphrodite Ourania — invocation of the celestial Aphrodite as cosmic harmony and ruler of Fates, with appeals across all her cult sites

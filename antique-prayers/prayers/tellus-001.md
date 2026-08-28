@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-tellus-001
 prayer_id: prayer_tellus_001
 slug: prayer-tellus-001
+title:
+  en: "Prayer to Earth"
+  ru: "Молитва Земле"
 culture: roman
 form: ritual
 period: 1st c. BC - 1st c. AD

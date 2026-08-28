@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-grattius-vulcanus-001
 prayer_id: prayer_grattius_vulcanus_001
 slug: prayer-grattius-vulcanus-001
+title:
+  en: "Prayer to Vulcan"
+  ru: "Молитва Вулкану"
 culture: roman
 form: ritual
 period: late 1st c. BC / early 1st c. AD

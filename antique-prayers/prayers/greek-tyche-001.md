@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-tyche-001
 prayer_id: prayer_greek_tyche_001
 slug: prayer-greek-tyche-001
+title:
+  en: "Prayer to Tyche and Artemis"
+  ru: "Молитва Тюхе и Артемиде"
 culture: greek
 form: ritual
 period:

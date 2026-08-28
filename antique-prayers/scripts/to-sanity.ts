@@ -36,7 +36,7 @@ const BATCH = 50
 
 /** Fields this pipeline owns. Anything else in the document is left alone. */
 const OWNED = [
-  'prayerId', 'slug', 'culture', 'form', 'period', 'provenance',
+  'prayerId', 'slug', 'title', 'culture', 'form', 'period', 'provenance',
   'source', 'occasion', 'deities', 'sphere', 'functions', 'themes',
   'featured', 'text', 'commentary',
 ] as const
@@ -133,6 +133,10 @@ async function main() {
     const desired: Json = {
       prayerId: str(fm.prayer_id) || undefined,
       slug: str(fm.slug) ? {_type: 'slug', current: str(fm.slug)} : undefined,
+      title: {
+        en: str((fm.title as Json)?.en) || undefined,
+        ru: str((fm.title as Json)?.ru) || undefined,
+      },
       culture: str(fm.culture) || undefined,
       form: str(fm.form) || undefined,
       period: str(fm.period) || undefined,

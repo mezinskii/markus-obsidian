@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-hippocrates-oath-001
 prayer_id: prayer_hippocrates_oath_001
 slug: prayer-hippocrates-oath-001
+title:
+  en: "The Hippocratic Oath"
+  ru: "Клятва Гиппократа"
 culture: greek
 form: ritual
 period: 5th-4th c. BC
@@ -10,7 +13,6 @@ original_lang: el
 source:
   author: Hippocrates
   work: Hippocratic Oath
-  section: opening invocation
   note: >-
     el.wikisource, Ἱπποκράτειος ὅρκος — зачин клятвы. Английский в карточке идёт на одну клаузулу дальше («что по силе и разумению исполню эту клятву»), здесь приведено само призывание богов в свидетели
 occasion: 'opening of the Hippocratic Oath — physicians'' solemn oath sworn by Apollo the physician, Asclepius, Hygieia, Panakea and all gods and goddesses'

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-trietericus-001
 prayer_id: prayer_orphic_trietericus_001
 slug: prayer-orphic-trietericus-001
+title:
+  en: "Hymn to Dionysus Trieterikos"
+  ru: "Гимн Дионису Триетерику"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 52 (to Trietericus)
+  section: "52"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Τριετηρικού (наш гимн 52)
 occasion: Orphic hymn to Dionysus Trietericus (of the triennial rites) — long catalogue of his epithets and aspects

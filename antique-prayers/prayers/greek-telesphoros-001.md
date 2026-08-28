@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-telesphoros-001
 prayer_id: prayer_greek_telesphoros_001
 slug: prayer-greek-telesphoros-001
+title:
+  en: "Prayer to Telesphorus and Asclepius"
+  ru: "Молитва Телесфору и Асклепию"
 culture: greek
 form: ritual
 period: Hellenistic

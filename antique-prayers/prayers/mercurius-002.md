@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-mercurius-002
 prayer_id: prayer_mercurius_002
 slug: prayer-mercurius-002
+title:
+  en: "Prayer to Mercury"
+  ru: "Молитва Меркурию"
 culture: roman
 form: personal
 period: Augustan

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-licnitus-001
 prayer_id: prayer_orphic_licnitus_001
 slug: prayer-orphic-licnitus-001
+title:
+  en: "Hymn to Dionysus Liknites"
+  ru: "Гимн Дионису Ликниту"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 46 (to Liknitos)
+  section: "46"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Λικνίτου (наш гимн 46); строка с воскурением на странице отсутствует
 occasion: Orphic hymn to Dionysus Liknitos (of the winnowing-fan) — invocation of the vine-god dancing with Nymphs

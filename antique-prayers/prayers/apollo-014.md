@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-014
 prayer_id: prayer_apollo_014
 slug: prayer-apollo-014
+title:
+  en: "Prayer to Apollo and Diana"
+  ru: "Молитва Аполлону и Диане"
 culture: roman
 form: literary
 period: 1st c. AD

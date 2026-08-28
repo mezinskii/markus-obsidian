@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-janus-008
 prayer_id: prayer_janus_008
 slug: prayer-janus-008
+title:
+  en: "Prayer to Janus"
+  ru: "Молитва Янусу"
 culture: roman
 form: literary
 period: Augustan

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-minerva-001
 prayer_id: prayer_minerva_001
 slug: prayer-minerva-001
+title:
+  en: "Prayer to Minerva"
+  ru: "Молитва Минерве"
 culture: roman
 form: personal
 period: 1st c. BC

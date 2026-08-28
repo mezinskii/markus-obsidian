@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-valeriusflaccus-mars-001
 prayer_id: prayer_valeriusflaccus_mars_001
 slug: prayer-valeriusflaccus-mars-001
+title:
+  en: "Prayer to Mars Gradivus"
+  ru: "Молитва Марсу Градиву"
 culture: roman
 form: personal
 period: late 1st c. AD

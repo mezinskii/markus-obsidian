@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-arion-poseidon-001
 prayer_id: prayer_arion_poseidon_001
 slug: prayer-arion-poseidon-001
+title:
+  en: "Prayer to Poseidon"
+  ru: "Молитва Посейдону"
 culture: greek
 form: hymn
 period: archaic Greek (preserved by Aelian, 2nd-3rd c. AD)

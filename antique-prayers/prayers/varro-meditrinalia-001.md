@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-varro-meditrinalia-001
 prayer_id: prayer_varro_meditrinalia_001
 slug: prayer-varro-meditrinalia-001
+title:
+  en: "Formula for the Meditrinalia"
+  ru: "Формула Медитриналий"
 culture: roman
 form: ritual
 period: 1st c. BC (Varro preserving an archaic formula)

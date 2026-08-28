@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-hygeia-ariphron-001
 prayer_id: prayer_greek_hygeia_ariphron_001
 slug: prayer-greek-hygeia-ariphron-001
+title:
+  en: "Prayer to Hygieia"
+  ru: "Молитва Гигиее"
 culture: greek
 form: ritual
 period: 4th c. BC

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ovid-mars-003
 prayer_id: prayer_ovid_mars_003
 slug: prayer-ovid-mars-003
+title:
+  en: "Prayer to Jupiter"
+  ru: "Молитва Юпитеру"
 culture: roman
 form: public
 period: early 1st c. AD

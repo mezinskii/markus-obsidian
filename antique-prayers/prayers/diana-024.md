@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-diana-024
 prayer_id: prayer_diana_024
 slug: prayer-diana-024
+title:
+  en: "Prayer to Minerva"
+  ru: "Молитва Минерве"
 culture: roman
 form: literary
 period: Augustan

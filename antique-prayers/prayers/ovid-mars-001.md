@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ovid-mars-001
 prayer_id: prayer_ovid_mars_001
 slug: prayer-ovid-mars-001
+title:
+  en: "Prayer to Mars"
+  ru: "Молитва Марсу"
 culture: roman
 form: personal
 period: early 1st c. AD

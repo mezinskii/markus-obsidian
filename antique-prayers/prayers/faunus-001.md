@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-faunus-001
 prayer_id: prayer_faunus_001
 slug: prayer-faunus-001
+title:
+  en: "Prayer to Faunus"
+  ru: "Молитва Фавну"
 culture: roman
 form: personal
 period: Augustan

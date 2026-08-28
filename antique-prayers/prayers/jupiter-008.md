@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-jupiter-008
 prayer_id: prayer_jupiter_008
 slug: prayer-jupiter-008
+title:
+  en: "The oath at Canusium"
+  ru: "Клятва при Канузии"
 culture: roman
 form: public
 period: 3rd c. BC (recorded by Livy)

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-janus-010
 prayer_id: prayer_janus_010
 slug: prayer-janus-010
+title:
+  en: "The Salian Hymn"
+  ru: "Салийская песнь"
 culture: roman
 form: ritual
 period: Archaic

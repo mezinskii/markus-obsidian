@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-demeter-002
 prayer_id: prayer_orphic_demeter_002
 slug: prayer-orphic-demeter-002
+title:
+  en: "Hymn to Mother Antaia"
+  ru: "Гимн Матери Антее"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 41 (to Mother Antaia)
+  section: "41"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Μητρός Ανταίας (наш гимн 41)
 occasion: Orphic hymn to Demeter as Mother Antaia — invocation of the wandering grieving mother who finds her daughter in Hades, with Iacchus as guide

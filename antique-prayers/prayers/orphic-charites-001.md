@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-charites-001
 prayer_id: prayer_orphic_charites_001
 slug: prayer-orphic-charites-001
+title:
+  en: "Hymn to the Charites"
+  ru: "Гимн Харитам"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 60 (to the Charites)
+  section: "60"
   note: >-
     archive.org, текстовый слой издания Абеля, Orphica (Лейпциг-Прага 1885), гимн LX, Χαρίτων. Заменяет испорченное чтение el.wikisource, ради которого карточка и стояла помеченной. Строка с воскурением приведена по принятому в корпусе виду. ШОВ […] — на месте строк 6-9; в аппарате Абеля они помечены как перенесённые сюда Рункеном из гимна LXIX, и английский Тейлора их не содержит, то есть в его издании их не было. Строки 6-9 вынесены в комментарий. РАСХОЖДЕНИЕ ПО СТРОКЕ 2: Абель печатает «Εὐρυνόμης» — это конъектура Шрадера; рукописи дают «εὐνομίης», и Тейлор переводил именно рукописное чтение, отсюда «Eunomia famed» в английском. ПРАВКИ OCR (все выверены по другим местам того же издания): «Κλῖτέ» → «Κλῦτέ» (ср. Κλῦτε в гимне LXIX), «χαλυχώσειδες» → «καλυκώπιδες» (ср. καλυκώπιδες, καλυκώπισιν в гимнах XXIV, LI, LIII), «Ἱπερόεσσαι» → «ἱμερόεσσαι» (ср. ἱμερόεσσ᾽ в гимне LV), «βαϑυχόλστου» → «βαθυκόλπου»; распознавание систематически даёт χ вместо κ, ϑ вместо θ и τε/σε вместо π в начале слова
 occasion: Orphic hymn to the three Graces with fumigation of storax

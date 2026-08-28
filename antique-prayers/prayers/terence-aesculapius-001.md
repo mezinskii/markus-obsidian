@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-terence-aesculapius-001
 prayer_id: prayer_terence_aesculapius_001
 slug: prayer-terence-aesculapius-001
+title:
+  en: "Prayer to Aesculapius and Salus"
+  ru: "Молитва Эскулапу и Салюс"
 culture: roman
 form: personal
 period: 2nd c. BC

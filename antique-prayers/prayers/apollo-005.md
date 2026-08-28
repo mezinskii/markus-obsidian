@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-005
 prayer_id: prayer_apollo_005
 slug: prayer-apollo-005
+title:
+  en: "Prayer to the Muse"
+  ru: "Молитва Музе"
 culture: roman
 form: public
 period: 4th-5th c. AD

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-hera-001
 prayer_id: prayer_orphic_hera_001
 slug: prayer-orphic-hera-001
+title:
+  en: "Hymn to Hera and Zeus"
+  ru: "Гимн Гере и Зевсу"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 16 (to Hera)
+  section: "16"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Ήρας (наш гимн 16)
 occasion: Orphic hymn to Hera — invocation of the queen of heaven as goddess of cooling gales, showers and winds

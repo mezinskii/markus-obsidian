@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-helios-hekate-invocation-001
 prayer_id: prayer_greek_helios_hekate_invocation_001
 slug: prayer-greek-helios-hekate-invocation-001
+title:
+  en: "Prayer to Helios and Hecate"
+  ru: "Молитва Гелиосу и Гекате"
 culture: greek
 form: ritual
 period: 5th c. BC (Sophocles) — adapted

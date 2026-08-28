@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ovid-bacchus-001
 prayer_id: prayer_ovid_bacchus_001
 slug: prayer-ovid-bacchus-001
+title:
+  en: "Prayer to Bacchus and Liber"
+  ru: "Молитва Вакху и Либеру"
 culture: roman
 form: personal
 period: early 1st c. AD

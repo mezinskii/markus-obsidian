@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-artemis-moirae-wedding-001
 prayer_id: prayer_greek_artemis_moirae_wedding_001
 slug: prayer-greek-artemis-moirae-wedding-001
+title:
+  en: "Prayer to Artemis and the Moirai"
+  ru: "Молитва Артемиде и Мойрам"
 culture: greek
 form: ritual
 period:

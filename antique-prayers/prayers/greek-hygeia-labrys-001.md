@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-hygeia-labrys-001
 prayer_id: prayer_greek_hygeia_labrys_001
 slug: prayer-greek-hygeia-labrys-001
+title:
+  en: "Prayer to Hygieia"
+  ru: "Молитва Гигиее"
 culture: greek
 form: ritual
 period:

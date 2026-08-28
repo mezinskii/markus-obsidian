@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-030
 prayer_id: prayer_apollo_030
 slug: prayer-apollo-030
+title:
+  en: "Prayer to Apollo"
+  ru: "Молитва Аполлону"
 culture: roman
 form: literary
 period: Augustan

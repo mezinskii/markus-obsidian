@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-pales-001
 prayer_id: prayer_pales_001
 slug: prayer-pales-001
+title:
+  en: "Prayer to Pales"
+  ru: "Молитва Палес"
 culture: roman
 form: ritual
 period: Augustan

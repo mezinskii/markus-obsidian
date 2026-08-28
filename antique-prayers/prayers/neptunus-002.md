@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-neptunus-002
 prayer_id: prayer_neptunus_002
 slug: prayer-neptunus-002
+title:
+  en: "Prayer to Neptune"
+  ru: "Молитва Нептуну"
 culture: roman
 form: literary
 period: Augustan

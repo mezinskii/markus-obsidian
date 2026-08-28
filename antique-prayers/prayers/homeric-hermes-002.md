@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-hermes-002
 prayer_id: prayer_homeric_hermes_002
 slug: prayer-homeric-hermes-002
+title:
+  en: "Hymn to Hermes"
+  ru: "Гимн Гермесу"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 18 (to Hermes)
+  section: "18"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XVIII. Εις Ερμήν
 occasion: Homeric Hymn 18 to Hermes — short invocation of the Cyllenian god born from Zeus and Maia in secret

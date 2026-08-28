@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-koryvantes-001
 prayer_id: prayer_greek_koryvantes_001
 slug: prayer-greek-koryvantes-001
+title:
+  en: "Prayer to the Korybantes"
+  ru: "Молитва Корибантам"
 culture: greek
 form: ritual
 period:

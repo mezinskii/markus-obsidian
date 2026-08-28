@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-hermes-chthonios-001
 prayer_id: prayer_orphic_hermes_chthonios_001
 slug: prayer-orphic-hermes-chthonios-001
+title:
+  en: "Hymn to Chthonic Hermes"
+  ru: "Гимн Гермесу Подземному"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 57 (to Hermes Chthonios)
+  section: "57"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Ερμού Χθονίου (наш гимн 57); на странице диттография «τιμὴν / τιμὴν» на стыке строк, повтор снят
 occasion: Orphic hymn to Chthonian Hermes with fumigation of storax — invocation of the psychopomp who leads souls to Hades

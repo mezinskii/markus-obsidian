@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-demeter-001
 prayer_id: prayer_orphic_demeter_001
 slug: prayer-orphic-demeter-001
+title:
+  en: "Hymn to Demeter of Eleusis"
+  ru: "Гимн Деметре Элевсинской"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 40 (to Demeter Eleusinia)
+  section: "40"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Δήμητρος Ελευσινίας (наш гимн 40); строка с воскурением на странице отсутствует
 occasion: Orphic hymn to Demeter Eleusinia — invocation of the corn-mother for harvest, peace, health and wealth

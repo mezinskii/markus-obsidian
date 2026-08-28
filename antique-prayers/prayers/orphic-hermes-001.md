@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-hermes-001
 prayer_id: prayer_orphic_hermes_001
 slug: prayer-orphic-hermes-001
+title:
+  en: "Hymn to Hermes"
+  ru: "Гимн Гермесу"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 28 (to Hermes)
+  section: "28"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Ερμού (гимн 28)
 occasion: Orphic hymn to Hermes with fumigation of frankincense — invocation as patron of contests, language, gain and graceful speech

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-velleius-mars-001
 prayer_id: prayer_velleius_mars_001
 slug: prayer-velleius-mars-001
+title:
+  en: "Prayer to Jupiter Capitolinus"
+  ru: "Молитва Юпитеру Капитолийскому"
 culture: roman
 form: public
 period: early 1st c. AD

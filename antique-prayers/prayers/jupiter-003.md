@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-jupiter-003
 prayer_id: prayer_jupiter_003
 slug: prayer-jupiter-003
+title:
+  en: "Prayer to Jupiter"
+  ru: "Молитва Юпитеру"
 culture: roman
 form: public
 period: 1st c. BC

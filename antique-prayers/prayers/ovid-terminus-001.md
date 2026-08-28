@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ovid-terminus-001
 prayer_id: prayer_ovid_terminus_001
 slug: prayer-ovid-terminus-001
+title:
+  en: "Prayer to Terminus and Jupiter"
+  ru: "Молитва Термину и Юпитеру"
 culture: roman
 form: hymn
 period: early 1st c. AD

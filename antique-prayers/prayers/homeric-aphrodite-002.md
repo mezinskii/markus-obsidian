@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-aphrodite-002
 prayer_id: prayer_homeric_aphrodite_002
 slug: prayer-homeric-aphrodite-002
+title:
+  en: "Hymn to Aphrodite"
+  ru: "Гимн Афродите"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 6 (to Aphrodite)
+  section: "6"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/VI. Εις Αφροδίτην
 occasion: Homeric Hymn 6 to Aphrodite — narrating her birth from the sea-foam carried by Zephyrus to Cyprus, with prayer for victory in the song-contest

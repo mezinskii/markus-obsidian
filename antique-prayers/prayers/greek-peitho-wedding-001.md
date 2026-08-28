@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-peitho-wedding-001
 prayer_id: prayer_greek_peitho_wedding_001
 slug: prayer-greek-peitho-wedding-001
+title:
+  en: "Prayer to Peitho"
+  ru: "Молитва Пейто"
 culture: greek
 form: ritual
 period:

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-hecate-001
 prayer_id: prayer_hecate_001
 slug: prayer-hecate-001
+title:
+  en: "Prayer to Hecate"
+  ru: "Молитва Гекате"
 culture: roman
 form: literary
 period: Augustan

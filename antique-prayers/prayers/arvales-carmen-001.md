@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-arvales-carmen-001
 prayer_id: prayer_arvales_carmen_001
 slug: prayer-arvales-carmen-001
+title:
+  en: "Carmen Arvale"
+  ru: "Арвальская песнь"
 culture: roman
 form: ritual
 period: archaic Latin (preserved in inscription of 218 AD)
@@ -10,7 +13,6 @@ original_lang: la
 source:
   author: Fratres Arvales
   work: Carmen Arvalium (CIL VI 2104)
-  section: inscription, recorded 218 AD
   note: >-
     Арвальская песнь, CIL VI 2104 (надпись 218 г. н. э., текст архаический). Передан вид камня: каждый стих повторён трижды, «triumpe» пятикратно, написание между повторами разнится (pleores/pleoris, sins/sers). Редакторские пометы и квадратные скобки восстановлений сняты
 occasion: archaic hymn of the Arval Brethren — ritual song invoking the Lares and Mars (Marmor) for protection of fields and borders from plague, ruin and barbarian invasion

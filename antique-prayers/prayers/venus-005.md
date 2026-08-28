@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-venus-005
 prayer_id: prayer_venus_005
 slug: prayer-venus-005
+title:
+  en: "Prayer to Venus"
+  ru: "Молитва Венере"
 culture: roman
 form: literary
 period: 2nd c. BC

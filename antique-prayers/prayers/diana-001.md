@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-diana-001
 prayer_id: prayer_diana_001
 slug: prayer-diana-001
+title:
+  en: "Prayer to Diana and Isis"
+  ru: "Молитва Диане и Исиде"
 culture: roman
 form: literary
 period: 2nd c. AD

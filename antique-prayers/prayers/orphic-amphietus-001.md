@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-amphietus-001
 prayer_id: prayer_orphic_amphietus_001
 slug: prayer-orphic-amphietus-001
+title:
+  en: "Hymn to Dionysus Amphietes"
+  ru: "Гимн Дионису Амфиету"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 53 (to Amphietus)
+  section: "53"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Αμφιετούς (наш гимн 53)
 occasion: 'Orphic hymn to Chthonian Dionysus Amphietus — the annual god who sleeps in Persephone''s realm and is roused again by the dance of his nurses'

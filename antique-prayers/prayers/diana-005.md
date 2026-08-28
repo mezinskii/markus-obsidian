@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-diana-005
 prayer_id: prayer_diana_005
 slug: prayer-diana-005
+title:
+  en: "Prayer to Diana"
+  ru: "Молитва Диане"
 culture: roman
 form: literary
 period: Augustan

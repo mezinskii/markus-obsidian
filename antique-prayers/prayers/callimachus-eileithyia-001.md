@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-callimachus-eileithyia-001
 prayer_id: prayer_callimachus_eileithyia_001
 slug: prayer-callimachus-eileithyia-001
+title:
+  en: "Prayer to Eileithyia"
+  ru: "Молитва Илифии"
 culture: greek
 form: personal
 period: 3rd c. BC

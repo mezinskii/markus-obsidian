@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-pindar-charites-001
 prayer_id: prayer_pindar_charites_001
 slug: prayer-pindar-charites-001
+title:
+  en: "Prayer to the Charites"
+  ru: "Молитва Харитам"
 culture: greek
 form: hymn
 period: 5th c. BC

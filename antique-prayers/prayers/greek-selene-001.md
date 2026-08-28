@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-selene-001
 prayer_id: prayer_greek_selene_001
 slug: prayer-greek-selene-001
+title:
+  en: "Prayer to Selene"
+  ru: "Молитва Селене"
 culture: greek
 form: ritual
 period:

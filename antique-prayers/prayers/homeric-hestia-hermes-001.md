@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-hestia-hermes-001
 prayer_id: prayer_homeric_hestia_hermes_001
 slug: prayer-homeric-hestia-hermes-001
+title:
+  en: "Hymn to Hestia"
+  ru: "Гимн Гестии"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 29 (to Hestia and Hermes)
+  section: "29"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XXIX. Εις Εστίαν; на странице двойное ударение «τίμήν», исправлено
 occasion: Homeric Hymn jointly addressing Hestia (goddess of hearth) and Hermes (messenger and guide) — invitation for them to dwell together in the household and bless its inhabitants

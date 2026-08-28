@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-seneca-bacchus-001
 prayer_id: prayer_seneca_bacchus_001
 slug: prayer-seneca-bacchus-001
+title:
+  en: "Prayer to Bacchus"
+  ru: "Молитва Вакху"
 culture: roman
 form: hymn
 period: 1st c. AD

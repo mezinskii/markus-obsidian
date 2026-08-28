@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-cato-dislocation-charm-001
 prayer_id: prayer_cato_dislocation_charm_001
 slug: prayer-cato-dislocation-charm-001
+title:
+  en: "Charm for a dislocation"
+  ru: "Заговор при вывихе"
 culture: roman
 form: ritual
 period: 2nd c. BC

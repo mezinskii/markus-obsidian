@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-lysius-001
 prayer_id: prayer_orphic_lysius_001
 slug: prayer-orphic-lysius-001
+title:
+  en: "Hymn to Dionysus Lysios"
+  ru: "Гимн Дионису Лисию"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 50 (to Lysius Lenaeus)
+  section: "50"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Λυσίου Ληναίου (наш гимн 50); строка с воскурением на странице отсутствует
 occasion: Orphic hymn to Dionysus Lysius Lenaeus — wine-god as releaser, banisher of despair and bringer of fruits

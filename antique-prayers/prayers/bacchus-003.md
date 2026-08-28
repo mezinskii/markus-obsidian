@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-bacchus-003
 prayer_id: prayer_bacchus_003
 slug: prayer-bacchus-003
+title:
+  en: "Prayer to Bacchus"
+  ru: "Молитва Вакху"
 culture: roman
 form: literary
 period: Augustan

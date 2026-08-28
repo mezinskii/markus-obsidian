@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-dionysus-001
 prayer_id: prayer_homeric_dionysus_001
 slug: prayer-homeric-dionysus-001
+title:
+  en: "Hymn to Dionysus and Semele"
+  ru: "Гимн Дионису и Семеле"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 1 (to Dionysus), closing
+  section: "1"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/I. Εις Διόνυσον — концовка гимна; карточка передаёт только её
 occasion: 'closing of the Homeric Hymn to Dionysus — farewell to the god ''Insewn'' (eiraphiotes) and his mother Semele-Thyone'

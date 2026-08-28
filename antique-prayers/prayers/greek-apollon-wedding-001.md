@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-apollon-wedding-001
 prayer_id: prayer_greek_apollon_wedding_001
 slug: prayer-greek-apollon-wedding-001
+title:
+  en: "Prayer to Apollo"
+  ru: "Молитва Аполлону"
 culture: greek
 form: ritual
 period:

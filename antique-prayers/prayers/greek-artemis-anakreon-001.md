@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-artemis-anakreon-001
 prayer_id: prayer_greek_artemis_anakreon_001
 slug: prayer-greek-artemis-anakreon-001
+title:
+  en: "Prayer to Artemis"
+  ru: "Молитва Артемиде"
 culture: greek
 form: personal
 period: 2nd c. BC

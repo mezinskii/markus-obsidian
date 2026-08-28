@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ovid-ceres-001
 prayer_id: prayer_ovid_ceres_001
 slug: prayer-ovid-ceres-001
+title:
+  en: "Prayer to Ceres"
+  ru: "Молитва Церере"
 culture: roman
 form: hymn
 period: early 1st c. AD

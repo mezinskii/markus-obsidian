@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-juno-002
 prayer_id: prayer_juno_002
 slug: prayer-juno-002
+title:
+  en: "Prayer to Juno"
+  ru: "Молитва Юноне"
 culture: roman
 form: ritual
 period: Augustan
@@ -10,7 +13,7 @@ original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
-  section: 'CIL VI 32323, Iuno Regina'
+  section: "VI 32323, Iuno Regina"
   note: >-
     EDCS, CIL VI 32323, молитва при жертве коровы Юноне Царице. Аппарат издания сохранён: [] — восстановленное, () — раскрытые сокращения
 occasion: Ludi Saeculares 17 BCE

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-zeus-ktesios-001
 prayer_id: prayer_greek_zeus_ktesios_001
 slug: prayer-greek-zeus-ktesios-001
+title:
+  en: "Prayer to Zeus"
+  ru: "Молитва Зевсу"
 culture: greek
 form: ritual
 period:

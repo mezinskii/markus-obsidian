@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ceres-008
 prayer_id: prayer_ceres_008
 slug: prayer-ceres-008
+title:
+  en: "Prayer to Ceres and Proserpina"
+  ru: "Молитва Церере и Прозерпине"
 culture: roman
 form: public
 period: 3rd c. BC (recorded by Livy)

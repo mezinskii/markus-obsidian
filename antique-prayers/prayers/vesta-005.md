@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-vesta-005
 prayer_id: prayer_vesta_005
 slug: prayer-vesta-005
+title:
+  en: "The ordeal of the Vestal Tuccia"
+  ru: "Испытание весталки Туккии"
 culture: roman
 form: personal
 period: 3rd c. BC (recorded 1st c. AD)

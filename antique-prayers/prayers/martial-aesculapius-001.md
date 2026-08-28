@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-martial-aesculapius-001
 prayer_id: prayer_martial_aesculapius_001
 slug: prayer-martial-aesculapius-001
+title:
+  en: "Prayer to Aesculapius"
+  ru: "Молитва Эскулапу"
 culture: roman
 form: personal
 period: late 1st c. AD

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-minerva-005
 prayer_id: prayer_minerva_005
 slug: prayer-minerva-005
+title:
+  en: "Prayer to Jupiter"
+  ru: "Молитва Юпитеру"
 culture: roman
 form: public
 period: 4th c. BC (recorded by Livy)

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-farewell-deceased-001
 prayer_id: prayer_greek_farewell_deceased_001
 slug: prayer-greek-farewell-deceased-001
+title:
+  en: "Prayer to Persephone"
+  ru: "Молитва Персефоне"
 culture: greek
 form: ritual
 period:

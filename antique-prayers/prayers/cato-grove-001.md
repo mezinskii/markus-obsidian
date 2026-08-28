@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-cato-grove-001
 prayer_id: prayer_cato_grove_001
 slug: prayer-cato-grove-001
+title:
+  en: "Prayer for thinning a sacred grove"
+  ru: "Молитва при прореживании священной рощи"
 culture: roman
 form: ritual
 period: 2nd c. BC

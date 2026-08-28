@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-008
 prayer_id: prayer_apollo_008
 slug: prayer-apollo-008
+title:
+  en: "Prayer to Apollo and Juno"
+  ru: "Молитва Аполлону и Юноне"
 culture: roman
 form: public
 period: 4th c. BC (recorded by Livy, 1st c. BC)

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-demeter-luck-001
 prayer_id: prayer_greek_demeter_luck_001
 slug: prayer-greek-demeter-luck-001
+title:
+  en: "Prayer to Demeter"
+  ru: "Молитва Деметре"
 culture: greek
 form: ritual
 period:

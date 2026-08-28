@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-poseidon-001
 prayer_id: prayer_homeric_poseidon_001
 slug: prayer-homeric-poseidon-001
+title:
+  en: "Hymn to Poseidon"
+  ru: "Гимн Посейдону"
 culture: greek
 form: hymn
 period: archaic Greek (7th-6th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 22 (to Poseidon)
+  section: "22"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XXII. Εις Ποσειδώνα
 occasion: Homeric Hymn to Poseidon — invocation of the earth-shaker as tamer of horses and saviour of ships

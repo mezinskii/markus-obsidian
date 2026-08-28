@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-neptunus-006
 prayer_id: prayer_neptunus_006
 slug: prayer-neptunus-006
+title:
+  en: "Prayer to Neptune"
+  ru: "Молитва Нептуну"
 culture: roman
 form: literary
 period: 1st c. AD

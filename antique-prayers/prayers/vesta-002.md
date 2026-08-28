@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-vesta-002
 prayer_id: prayer_vesta_002
 slug: prayer-vesta-002
+title:
+  en: "Prayer to Vesta"
+  ru: "Молитва Весте"
 culture: roman
 form: literary
 period: Augustan

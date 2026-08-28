@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-zeus-hera-wedding-001
 prayer_id: prayer_greek_zeus_hera_wedding_001
 slug: prayer-greek-zeus-hera-wedding-001
+title:
+  en: "Prayer to Zeus and Hera"
+  ru: "Молитва Зевсу и Гере"
 culture: greek
 form: ritual
 period:

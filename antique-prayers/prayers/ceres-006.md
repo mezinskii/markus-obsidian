@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ceres-006
 prayer_id: prayer_ceres_006
 slug: prayer-ceres-006
+title:
+  en: "Prayer to Ceres and Libera"
+  ru: "Молитва Церере и Либере"
 culture: roman
 form: public
 period: 1st c. BC

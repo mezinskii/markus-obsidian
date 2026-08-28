@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-macrobius-devotio-001
 prayer_id: prayer_macrobius_devotio_001
 slug: prayer-macrobius-devotio-001
+title:
+  en: "The devotio of Carthage"
+  ru: "Девоция Карфагена"
 culture: roman
 form: ritual
 period: late 4th / early 5th c. AD (preserving archaic Roman formula)

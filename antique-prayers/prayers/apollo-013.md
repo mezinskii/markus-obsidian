@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-013
 prayer_id: prayer_apollo_013
 slug: prayer-apollo-013
+title:
+  en: "Prayer to Sol"
+  ru: "Молитва Солнцу"
 culture: roman
 form: literary
 period: 2nd c. BC

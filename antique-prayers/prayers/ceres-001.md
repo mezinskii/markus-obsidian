@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ceres-001
 prayer_id: prayer_ceres_001
 slug: prayer-ceres-001
+title:
+  en: "Prayer to Ceres"
+  ru: "Молитва Церере"
 culture: roman
 form: ritual
 period: Augustan

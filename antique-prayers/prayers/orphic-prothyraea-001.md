@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-prothyraea-001
 prayer_id: prayer_orphic_prothyraea_001
 slug: prayer-orphic-prothyraea-001
+title:
+  en: "Hymn to Prothyraea"
+  ru: "Гимн Профирее"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 2 (to Prothyraea)
+  section: "2"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Προθυραίας (наш гимн 2); строка с воскурением на странице отсутствует
 occasion: Orphic hymn to Prothyraea (Artemis-Eileithyia at the threshold) with fumigation of storax — invocation of the goddess of childbirth for relief in labour

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-petronius-priapus-001
 prayer_id: prayer_petronius_priapus_001
 slug: prayer-petronius-priapus-001
+title:
+  en: "Prayer to Priapus"
+  ru: "Молитва Приапу"
 culture: roman
 form: personal
 period: mid 1st c. AD

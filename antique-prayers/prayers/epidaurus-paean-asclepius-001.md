@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-epidaurus-paean-asclepius-001
 prayer_id: prayer_epidaurus_paean_asclepius_001
 slug: prayer-epidaurus-paean-asclepius-001
+title:
+  en: "Prayer to Asclepius"
+  ru: "Молитва Асклепию"
 culture: greek
 form: hymn
 period: Greek (BC, exact date uncertain)
@@ -11,7 +14,7 @@ original_lang:
 source:
   author: Anonymous (inscription from the shrine of Asclepius at Epidaurus)
   work: Greek Lyric (Campbell, vol. V)
-  section: Fragment 937
+  section: "fr. 937"
 occasion: fragment of an inscribed hymn from the Asklepieion at Epidaurus — collective invocation of Asclepius and the celestial powers
 deities:
   - Asclepius

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-ares-001
 prayer_id: prayer_orphic_ares_001
 slug: prayer-orphic-ares-001
+title:
+  en: "Hymn to Ares"
+  ru: "Гимн Аресу"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 65 (to Ares)
+  section: "65"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Άρεος (наш гимн 65); строка с воскурением на странице отсутствует
 occasion: Orphic hymn to Ares with fumigation of frankincense — invocation calling on the war-god to lay down strife and yield to Aphrodite (Kypris) and Dionysus (Lyaios)

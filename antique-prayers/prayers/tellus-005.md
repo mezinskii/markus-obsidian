@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-tellus-005
 prayer_id: prayer_tellus_005
 slug: prayer-tellus-005
+title:
+  en: "Prayer to Earth and the Penates"
+  ru: "Молитва Земле и Пенатам"
 culture: roman
 form: literary
 period: Augustan

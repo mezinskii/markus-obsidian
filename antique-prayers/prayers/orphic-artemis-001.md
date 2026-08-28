@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-artemis-001
 prayer_id: prayer_orphic_artemis_001
 slug: prayer-orphic-artemis-001
+title:
+  en: "Hymn to Artemis"
+  ru: "Гимн Артемиде"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 36 (to Artemis)
+  section: "36"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Αρτέμιδος (наш гимн 36)
 occasion: Orphic hymn to Artemis with fumigation of manna — invocation of the huntress, virgin, midwife and bringer of fruits, peace and health

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-cato-mars-lustratio-001
 prayer_id: prayer_cato_mars_lustratio_001
 slug: prayer-cato-mars-lustratio-001
+title:
+  en: "Prayer to Mars"
+  ru: "Молитва Марсу"
 culture: roman
 form: ritual
 period: 2nd c. BC

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-poseidon-001
 prayer_id: prayer_orphic_poseidon_001
 slug: prayer-orphic-poseidon-001
+title:
+  en: "Hymn to Poseidon"
+  ru: "Гимн Посейдону"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 17 (to Poseidon)
+  section: "17"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Ποσειδώνος (наш гимн 17)
 occasion: 'Orphic hymn to Poseidon — invocation of the trident-bearer to confirm earth''s basis, send fair winds and bring peace and abundance'

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-jupiter-007
 prayer_id: prayer_jupiter_007
 slug: prayer-jupiter-007
+title:
+  en: "Prayer to Jupiter"
+  ru: "Молитва Юпитеру"
 culture: roman
 form: public
 period: Regal period (recorded by Livy)

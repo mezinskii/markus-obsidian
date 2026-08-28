@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-mousaios-001
 prayer_id: prayer_greek_mousaios_001
 slug: prayer-greek-mousaios-001
+title:
+  en: "The Prayer of Musaeus"
+  ru: "Молитва Мусея"
 culture: greek
 form: ritual
 period:

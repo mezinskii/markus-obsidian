@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-juno-003
 prayer_id: prayer_juno_003
 slug: prayer-juno-003
+title:
+  en: "Prayer to Juno"
+  ru: "Молитва Юноне"
 culture: roman
 form: public
 period: Augustan
@@ -10,7 +13,7 @@ original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
-  section: 'CIL VI 32323, CX matres familias'
+  section: "VI 32323, CX matres familias"
   note: >-
     EDCS, CIL VI 32323, моление ста десяти матрон Юноне Царице, которое им подсказывает Марк Агриппа. Аппарат издания сохранён: [] — восстановленное, () — раскрытые сокращения, «3» — лакуна неизвестной длины
 occasion: 'Ludi Saeculares 17 BCE — matrons'' prayer'

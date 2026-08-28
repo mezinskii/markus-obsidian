@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-hermes-oikos-001
 prayer_id: prayer_greek_hermes_oikos_001
 slug: prayer-greek-hermes-oikos-001
+title:
+  en: "Prayer to Hermes"
+  ru: "Молитва Гермесу"
 culture: greek
 form: ritual
 period:

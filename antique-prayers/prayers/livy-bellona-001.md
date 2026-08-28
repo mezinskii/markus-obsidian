@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-livy-bellona-001
 prayer_id: prayer_livy_bellona_001
 slug: prayer-livy-bellona-001
+title:
+  en: "Prayer to Bellona"
+  ru: "Молитва Беллоне"
 culture: roman
 form: ritual
 period: late 1st c. BC (recording events of 296 BC)

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-diana-010
 prayer_id: prayer_diana_010
 slug: prayer-diana-010
+title:
+  en: "Prayer to Diana and Eileithyia"
+  ru: "Молитва Диане и Илифии"
 culture: roman
 form: personal
 period: Augustan

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-dionysus-003
 prayer_id: prayer_homeric_dionysus_003
 slug: prayer-homeric-dionysus-003
+title:
+  en: "Hymn to Dionysus"
+  ru: "Гимн Дионису"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 26 (to Dionysus)
+  section: "26"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XXVI. Εις Διόνυσον
 occasion: Homeric Hymn to Dionysus — narrating his nurturing by the Nysean Nymphs and asking for the return of his season for many years

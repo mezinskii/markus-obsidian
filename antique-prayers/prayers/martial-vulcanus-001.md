@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-martial-vulcanus-001
 prayer_id: prayer_martial_vulcanus_001
 slug: prayer-martial-vulcanus-001
+title:
+  en: "Prayer to Vulcan"
+  ru: "Молитва Вулкану"
 culture: roman
 form: personal
 period: late 1st c. AD

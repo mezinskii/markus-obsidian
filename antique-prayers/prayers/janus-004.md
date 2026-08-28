@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-janus-004
 prayer_id: prayer_janus_004
 slug: prayer-janus-004
+title:
+  en: "The fetial declaration of war"
+  ru: "Формула фециала при объявлении войны"
 culture: roman
 form: public
 period: Regal period (recorded by Livy)

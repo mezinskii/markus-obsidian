@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-lucan-mars-001
 prayer_id: prayer_lucan_mars_001
 slug: prayer-lucan-mars-001
+title:
+  en: "A prayer for war against strangers"
+  ru: "Молитва о войне с чужими"
 culture: roman
 form: public
 period: mid 1st c. AD

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-gaia-eniausia-001
 prayer_id: prayer_greek_gaia_eniausia_001
 slug: prayer-greek-gaia-eniausia-001
+title:
+  en: "Prayer to Gaia"
+  ru: "Молитва Гее"
 culture: greek
 form: ritual
 period:

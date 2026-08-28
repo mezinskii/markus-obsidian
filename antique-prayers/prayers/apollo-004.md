@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-004
 prayer_id: prayer_apollo_004
 slug: prayer-apollo-004
+title:
+  en: "Prayer to Sol and Apollo"
+  ru: "Молитва Солнцу и Аполлону"
 culture: roman
 form: public
 period: 4th-5th c. AD

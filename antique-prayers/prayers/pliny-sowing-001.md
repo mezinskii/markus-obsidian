@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-pliny-sowing-001
 prayer_id: prayer_pliny_sowing_001
 slug: prayer-pliny-sowing-001
+title:
+  en: "Formula spoken at sowing"
+  ru: "Формула при севе"
 culture: roman
 form: ritual
 period: 1st c. AD (Pliny preserving a rural ritual formula)

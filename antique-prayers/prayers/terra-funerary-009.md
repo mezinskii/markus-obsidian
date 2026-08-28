@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-terra-funerary-009
 prayer_id: prayer_terra_funerary_009
 slug: prayer-terra-funerary-009
+title:
+  en: "Prayer to Proserpina and Dis Pater"
+  ru: "Молитва Прозерпине и Диспитеру"
 culture: roman
 form: literary
 period: Augustan

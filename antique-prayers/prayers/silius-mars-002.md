@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-silius-mars-002
 prayer_id: prayer_silius_mars_002
 slug: prayer-silius-mars-002
+title:
+  en: "Prayer to Mars"
+  ru: "Молитва Марсу"
 culture: roman
 form: public
 period: late 1st c. AD

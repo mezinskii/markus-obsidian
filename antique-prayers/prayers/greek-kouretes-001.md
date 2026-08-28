@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-kouretes-001
 prayer_id: prayer_greek_kouretes_001
 slug: prayer-greek-kouretes-001
+title:
+  en: "Prayer to the Kouretes"
+  ru: "Молитва Куретам"
 culture: greek
 form: ritual
 period:

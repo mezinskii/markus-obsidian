@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-lares-007
 prayer_id: prayer_lares_007
 slug: prayer-lares-007
+title:
+  en: "Prayer to the Penates and Vesta"
+  ru: "Молитва Пенатам и Весте"
 culture: roman
 form: literary
 period: Augustan

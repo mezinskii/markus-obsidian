@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-bacchus-011
 prayer_id: prayer_bacchus_011
 slug: prayer-bacchus-011
+title:
+  en: "Prayer to Bacchus"
+  ru: "Молитва Вакху"
 culture: roman
 form: literary
 period: 1st c. BC

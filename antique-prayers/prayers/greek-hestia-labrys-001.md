@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-hestia-labrys-001
 prayer_id: prayer_greek_hestia_labrys_001
 slug: prayer-greek-hestia-labrys-001
+title:
+  en: "Prayer to Hestia"
+  ru: "Молитва Гестии"
 culture: greek
 form: ritual
 period:

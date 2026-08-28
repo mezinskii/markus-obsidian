@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-hekate-pgm-001
 prayer_id: prayer_greek_hekate_pgm_001
 slug: prayer-greek-hekate-pgm-001
+title:
+  en: "Prayer to Hecate"
+  ru: "Молитва Гекате"
 culture: greek
 form: ritual
 period: 3rd-4th c. AD

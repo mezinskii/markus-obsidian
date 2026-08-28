@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-hermes-001
 prayer_id: prayer_homeric_hermes_001
 slug: prayer-homeric-hermes-001
+title:
+  en: "Hymn to Hermes"
+  ru: "Гимн Гермесу"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 4 (to Hermes), excerpts
+  section: "4"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/IV. Εις Ερμήν — зачин (1-5), место о власти над стадами (567-572) и концовка (576-580); повествование о краже коров Аполлона в перевод не входит, два шва помечены […]. Строку про вещих птиц английский передаёт из места чуть выше приведённого отрывка; отрывок начат со стиха о конях и мулах, потому что без него рвётся синтаксис перечисления
 occasion: 'excerpts from the long Homeric Hymn to Hermes — opening invocation, Zeus''s commission of Hermes over flocks and as messenger to Hades, and the closing salute'

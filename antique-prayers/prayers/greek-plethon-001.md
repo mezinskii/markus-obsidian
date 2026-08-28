@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-plethon-001
 prayer_id: prayer_greek_plethon_001
 slug: prayer-greek-plethon-001
+title:
+  en: "Plethon's hymn"
+  ru: "Гимн Плифона"
 culture: greek
 form: personal
 period: 14th-15th c. AD

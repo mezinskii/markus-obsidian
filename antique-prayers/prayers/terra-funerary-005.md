@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-terra-funerary-005
 prayer_id: prayer_terra_funerary_005
 slug: prayer-terra-funerary-005
+title:
+  en: "Prayer to Mother Earth"
+  ru: "Молитва Матери-Земле"
 culture: roman
 form: personal
 period:

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-031
 prayer_id: prayer_apollo_031
 slug: prayer-apollo-031
+title:
+  en: "Prayer to Apollo and Hecate"
+  ru: "Молитва Аполлону и Гекате"
 culture: roman
 form: literary
 period: Augustan

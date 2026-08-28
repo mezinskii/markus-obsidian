@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-carmenta-006
 prayer_id: prayer_carmenta_006
 slug: prayer-carmenta-006
+title:
+  en: "Prayer to Carmenta"
+  ru: "Молитва Карменте"
 culture: roman
 form: ritual
 period: modern reconstruction (Nova Roma)

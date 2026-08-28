@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-vesta-001
 prayer_id: prayer_vesta_001
 slug: prayer-vesta-001
+title:
+  en: "Prayer to Vesta"
+  ru: "Молитва Весте"
 culture: roman
 form: personal
 period: 1st c. BC

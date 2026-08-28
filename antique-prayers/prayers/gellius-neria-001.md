@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-gellius-neria-001
 prayer_id: prayer_gellius_neria_001
 slug: prayer-gellius-neria-001
+title:
+  en: "Prayer to Neria and Mars"
+  ru: "Молитва Нерии и Марсу"
 culture: roman
 form: public
 period: 2nd c. AD (preserving archaic formula)

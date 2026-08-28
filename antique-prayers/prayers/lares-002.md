@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-lares-002
 prayer_id: prayer_lares_002
 slug: prayer-lares-002
+title:
+  en: "Prayer to the Penates"
+  ru: "Молитва Пенатам"
 culture: roman
 form: personal
 period: 2nd c. BC

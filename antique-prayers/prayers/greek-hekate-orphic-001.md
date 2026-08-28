@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-hekate-orphic-001
 prayer_id: prayer_greek_hekate_orphic_001
 slug: prayer-greek-hekate-orphic-001
+title:
+  en: "Prayer to Hecate"
+  ru: "Молитва Гекате"
 culture: greek
 form: ritual
 period:

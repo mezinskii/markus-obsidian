@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-bacchus-010
 prayer_id: prayer_bacchus_010
 slug: prayer-bacchus-010
+title:
+  en: "Prayer to Bacchus and Ceres"
+  ru: "Молитва Вакху и Церере"
 culture: roman
 form: ritual
 period: 1st c. BC

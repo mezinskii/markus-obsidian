@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-claudian-stilicho-001
 prayer_id: prayer_claudian_stilicho_001
 slug: prayer-claudian-stilicho-001
+title:
+  en: "Prayer to Mars"
+  ru: "Молитва Марсу"
 culture: roman
 form: personal
 period: late 4th / early 5th c. AD

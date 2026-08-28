@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-ancestors-001
 prayer_id: prayer_greek_ancestors_001
 slug: prayer-greek-ancestors-001
+title:
+  en: "Prayer to the ancestors"
+  ru: "Молитва предкам"
 culture: greek
 form: ritual
 period:

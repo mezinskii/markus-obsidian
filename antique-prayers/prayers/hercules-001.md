@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-hercules-001
 prayer_id: prayer_hercules_001
 slug: prayer-hercules-001
+title:
+  en: "Prayer to Hercules"
+  ru: "Молитва Геркулесу"
 culture: roman
 form: personal
 period:

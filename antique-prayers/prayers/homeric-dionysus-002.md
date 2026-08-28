@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-dionysus-002
 prayer_id: prayer_homeric_dionysus_002
 slug: prayer-homeric-dionysus-002
+title:
+  en: "Hymn to Dionysus and Semele"
+  ru: "Гимн Дионису и Семеле"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 7 (to Dionysus), opening and closing
+  section: "7"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/VII. Εις Διόνυσον — зачин и концовка; повествование о тирренских пиратах в перевод не входит, шов помечен […]
 occasion: 'Homeric Hymn 7 to Dionysus — narrative hymn telling of Dionysus''s encounter with the Tyrrhenian pirates'

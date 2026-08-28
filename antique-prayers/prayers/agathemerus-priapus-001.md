@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-agathemerus-priapus-001
 prayer_id: prayer_agathemerus_priapus_001
 slug: prayer-agathemerus-priapus-001
+title:
+  en: "Prayer to Priapus"
+  ru: "Молитва Приапу"
 culture: roman
 form: hymn
 period: early 1st c. AD (ca. 1-50 AD)
@@ -10,7 +13,6 @@ original_lang: la
 source:
   author: Julius Agathemerus (dedicator)
   work: Hymn to Priapus, CIL XIV 3565
-  section: Tivoli inscription
   note: >-
     archive.org, текстовый слой издания Бюхелера, CLE фасц. 1, раздел HENDECASYLLABI, стих. 709 (= CIL XIV 3565, Тибур, на герме из тибуртинского камня). Сверено 2026-08-28 по концовке: «te uocant prece uirgi[nes pudi]cae… salue, sancte pater Priape, s[alue]» — совпадает. В заголовке камня: «genio numinis Pria[pi] potentis polle[nti]s [inui]cti Iul. Agathemerus Aug. lib. a cura amicorum somno monitu[s]» — Юлий Агатемер, вольноотпущенник Августа, поставил по указанию, полученному во сне, на средства друзей. Полностью построчно с изданием текст не сверялся: скан даёт его с лакунами и издательскими восполнениями.
 occasion: long liturgical hymn inscribed at Tivoli by Julius Agathemerus, freedman of Augustus, dedicated to the genius of Priapus after being instructed in a dream — sung by maidens of groves and waters

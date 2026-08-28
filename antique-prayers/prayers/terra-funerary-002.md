@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-terra-funerary-002
 prayer_id: prayer_terra_funerary_002
 slug: prayer-terra-funerary-002
+title:
+  en: "Prayer to the Manes"
+  ru: "Молитва Манам"
 culture: roman
 form: personal
 period:

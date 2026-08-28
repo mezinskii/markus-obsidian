@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-apollon-asklepios-paian-001
 prayer_id: prayer_greek_apollon_asklepios_paian_001
 slug: prayer-greek-apollon-asklepios-paian-001
+title:
+  en: "Prayer to Apollo and Asclepius"
+  ru: "Молитва Аполлону и Асклепию"
 culture: greek
 form: ritual
 period: Hellenistic

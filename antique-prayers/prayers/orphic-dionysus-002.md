@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-dionysus-002
 prayer_id: prayer_orphic_dionysus_002
 slug: prayer-orphic-dionysus-002
+title:
+  en: "Hymn to Dionysus and Persephone"
+  ru: "Гимн Дионису и Персефоне"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 30 (to Dionysus)
+  section: "30"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Διονύσου (наш гимн 30)
 occasion: Orphic hymn to Dionysus as protogonos and Eubouleos — son of Zeus and Persephone, with triennial mystic worship

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-apollo-001
 prayer_id: prayer_apollo_001
 slug: prayer-apollo-001
+title:
+  en: "Prayer to Silvanus"
+  ru: "Молитва Сильвану"
 culture: roman
 form: personal
 period: 2nd c. AD

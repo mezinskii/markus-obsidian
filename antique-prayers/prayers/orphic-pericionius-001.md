@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-pericionius-001
 prayer_id: prayer_orphic_pericionius_001
 slug: prayer-orphic-pericionius-001
+title:
+  en: "Hymn to Dionysus Perikionios"
+  ru: "Гимн Дионису Периклонию"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 47 (to Pericionius)
+  section: "47"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Περικιονίου (наш гимн 47)
 occasion: 'Orphic hymn to Dionysus Perikionios (''around the pillar'') — recalling the rescue of the house of Cadmus when its pillars trembled'

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-tellus-003
 prayer_id: prayer_tellus_003
 slug: prayer-tellus-003
+title:
+  en: "Prayer to Earth"
+  ru: "Молитва Земле"
 culture: roman
 form: ritual
 period: Augustan
@@ -10,7 +13,7 @@ original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
-  section: 'CIL VI 32323, Terra Mater'
+  section: "VI 32323, Terra Mater"
   note: >-
     EDCS, CIL VI 32323, ночная жертва супоросой свиньи Матери-Земле у Тибра. Аппарат издания сохранён: [] — восстановленное, () — раскрытые сокращения
 occasion: Ludi Saeculares

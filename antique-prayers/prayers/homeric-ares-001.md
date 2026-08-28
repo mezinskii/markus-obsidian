@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-ares-001
 prayer_id: prayer_homeric_ares_001
 slug: prayer-homeric-ares-001
+title:
+  en: "Hymn to Ares"
+  ru: "Гимн Аресу"
 culture: greek
 form: hymn
 period: late antique (Homeric corpus, hymn 8 is post-classical)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 8 (to Ares)
+  section: "8"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/VIII. Εις Άρεα
 occasion: Homeric Hymn to Ares — invocation of the war-god as both warrior and restrainer of fury, asking for courage in war and self-mastery in peace

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-artemis-001
 prayer_id: prayer_homeric_artemis_001
 slug: prayer-homeric-artemis-001
+title:
+  en: "Hymn to Artemis and Apollo"
+  ru: "Гимн Артемиде и Аполлону"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 9 (to Artemis)
+  section: "9"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/IX. Εις Άρτεμιν
 occasion: Homeric Hymn to Artemis — short invocation calling the goddess as virgin huntress driving her chariot through Lydia to her brother Apollo at Klaros

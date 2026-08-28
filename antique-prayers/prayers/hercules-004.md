@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-hercules-004
 prayer_id: prayer_hercules_004
 slug: prayer-hercules-004
+title:
+  en: "Prayer to Hercules"
+  ru: "Молитва Геркулесу"
 culture: roman
 form: literary
 period: Augustan

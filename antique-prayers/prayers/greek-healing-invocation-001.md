@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-healing-invocation-001
 prayer_id: prayer_greek_healing_invocation_001
 slug: prayer-greek-healing-invocation-001
+title:
+  en: "Prayer to Apollo"
+  ru: "Молитва Аполлону"
 culture: greek
 form: ritual
 period:

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-livy-scipio-001
 prayer_id: prayer_livy_scipio_001
 slug: prayer-livy-scipio-001
+title:
+  en: "Scipio's prayer before sailing to Africa"
+  ru: "Молитва Сципиона перед отплытием в Африку"
 culture: roman
 form: public
 period: late 1st c. BC (describing events of 204 BC)

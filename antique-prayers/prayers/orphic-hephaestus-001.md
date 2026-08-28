@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-hephaestus-001
 prayer_id: prayer_orphic_hephaestus_001
 slug: prayer-orphic-hephaestus-001
+title:
+  en: "Hymn to Hephaestus"
+  ru: "Гимн Гефесту"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 66 (to Hephaestus)
+  section: "66"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Ηφαίστου (наш гимн 66)
 occasion: Orphic hymn to Hephaestus with fumigation of frankincense and manna — invocation of fire as cosmic element diffused through stars and mortal bodies

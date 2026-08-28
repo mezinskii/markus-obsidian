@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-demeter-002
 prayer_id: prayer_homeric_demeter_002
 slug: prayer-homeric-demeter-002
+title:
+  en: "Hymn to Demeter and Persephone"
+  ru: "Гимн Деметре и Персефоне"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 13 (to Demeter)
+  section: "13"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XIII. Εις Δήμητραν
 occasion: short Homeric Hymn to Demeter — civic invocation for the safety of the city and the song

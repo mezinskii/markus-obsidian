@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-aphrodite-001
 prayer_id: prayer_homeric_aphrodite_001
 slug: prayer-homeric-aphrodite-001
+title:
+  en: "Hymn to Aphrodite"
+  ru: "Гимн Афродите"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 5 (to Aphrodite), opening and closing
+  section: "5"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/V. Εις Αφροδίτην — зачин (1-6) и концовка (292-293); повествование об Анхисе в перевод не входит, шов помечен […]
 occasion: opening and closing of the long Homeric Hymn to Aphrodite — proem on her universal power over gods, men and animals (the body narrates the affair with Anchises)

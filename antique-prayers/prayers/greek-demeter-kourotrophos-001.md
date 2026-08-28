@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-demeter-kourotrophos-001
 prayer_id: prayer_greek_demeter_kourotrophos_001
 slug: prayer-greek-demeter-kourotrophos-001
+title:
+  en: "Prayer to Demeter"
+  ru: "Молитва Деметре"
 culture: greek
 form: ritual
 period:

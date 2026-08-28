@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-venus-002
 prayer_id: prayer_venus_002
 slug: prayer-venus-002
+title:
+  en: "Prayer to Venus"
+  ru: "Молитва Венере"
 culture: roman
 form: literary
 period: Augustan

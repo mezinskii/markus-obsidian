@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-artemis-002
 prayer_id: prayer_homeric_artemis_002
 slug: prayer-homeric-artemis-002
+title:
+  en: "Hymn to Artemis"
+  ru: "Гимн Артемиде"
 culture: greek
 form: hymn
 period: archaic Greek (7th-4th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 27 (to Artemis)
+  section: "27"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XXVII. Εις Άρτεμιν
 occasion: Homeric Hymn to Artemis — extended praise of Artemis the huntress, ending with her leading the dance of the Muses and Graces at Delphi

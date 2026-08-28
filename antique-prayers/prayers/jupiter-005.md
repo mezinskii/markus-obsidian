@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-jupiter-005
 prayer_id: prayer_jupiter_005
 slug: prayer-jupiter-005
+title:
+  en: "Prayer to Jupiter"
+  ru: "Молитва Юпитеру"
 culture: roman
 form: ritual
 period: Augustan
@@ -10,7 +13,7 @@ original_lang: la
 source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae / Acta Sacrorum Saecularium
-  section: 'CIL VI 32323, Iuppiter O.M.'
+  section: "VI 32323, Iuppiter O.M."
   note: >-
     EDCS, CIL VI 32323 (Acta ludorum saecularium, 17 г. до н. э.), молитва при жертве быка на Капитолии. Аппарат издания сохранён: [] — восстановленное, () — раскрытые сокращения, «3» — лакуна неизвестной длины
 occasion: Ludi Saeculares

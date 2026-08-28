@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ovid-aesculapius-001
 prayer_id: prayer_ovid_aesculapius_001
 slug: prayer-ovid-aesculapius-001
+title:
+  en: "Prayer to Aesculapius"
+  ru: "Молитва Эскулапу"
 culture: roman
 form: public
 period: early 1st c. AD

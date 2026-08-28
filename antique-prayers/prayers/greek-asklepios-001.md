@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-asklepios-001
 prayer_id: prayer_greek_asklepios_001
 slug: prayer-greek-asklepios-001
+title:
+  en: "Prayer to Asclepius"
+  ru: "Молитва Асклепию"
 culture: greek
 form: ritual
 period:

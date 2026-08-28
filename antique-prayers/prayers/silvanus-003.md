@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-silvanus-003
 prayer_id: prayer_silvanus_003
 slug: prayer-silvanus-003
+title:
+  en: "Prayer to the Manes"
+  ru: "Молитва Манам"
 culture: roman
 form: personal
 period:

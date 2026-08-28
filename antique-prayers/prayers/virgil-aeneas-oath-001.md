@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-virgil-aeneas-oath-001
 prayer_id: prayer_virgil_aeneas_oath_001
 slug: prayer-virgil-aeneas-oath-001
+title:
+  en: "The oath of Aeneas and Latinus"
+  ru: "Клятва Энея и Латина"
 culture: roman
 form: public
 period: late 1st c. BC

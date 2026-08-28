@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-livy-deciusmus-001
 prayer_id: prayer_livy_deciusmus_001
 slug: prayer-livy-deciusmus-001
+title:
+  en: "The devotio of Decius Mus"
+  ru: "Девоция Деция Муса"
 culture: roman
 form: ritual
 period: late 1st c. BC (recording events of 340 BC)

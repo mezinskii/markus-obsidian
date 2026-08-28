@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-hera-luck-001
 prayer_id: prayer_greek_hera_luck_001
 slug: prayer-greek-hera-luck-001
+title:
+  en: "Prayer to Hera"
+  ru: "Молитва Гере"
 culture: greek
 form: ritual
 period:

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-robigo-001
 prayer_id: prayer_robigo_001
 slug: prayer-robigo-001
+title:
+  en: "Prayer to Robigo"
+  ru: "Молитва Робиго"
 culture: roman
 form: ritual
 period: Augustan

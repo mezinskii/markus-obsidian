@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-juno-004
 prayer_id: prayer_juno_004
 slug: prayer-juno-004
+title:
+  en: "Alcmena's oath"
+  ru: "Клятва Алкмены"
 culture: roman
 form: literary
 period: 2nd c. BC

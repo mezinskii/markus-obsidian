@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-carmenta-011
 prayer_id: prayer_carmenta_011
 slug: prayer-carmenta-011
+title:
+  en: "Prayer to Carmenta"
+  ru: "Молитва Карменте"
 culture: roman
 form: literary
 period: 3rd c. BC

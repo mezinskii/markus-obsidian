@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-pan-001
 prayer_id: prayer_greek_pan_001
 slug: prayer-greek-pan-001
+title:
+  en: "Prayer to Pan"
+  ru: "Молитва Пану"
 culture: greek
 form: personal
 period: 4th c. BC

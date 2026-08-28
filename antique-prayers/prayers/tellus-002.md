@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-tellus-002
 prayer_id: prayer_tellus_002
 slug: prayer-tellus-002
+title:
+  en: "Prayer to Earth"
+  ru: "Молитва Земле"
 culture: roman
 form: ritual
 period: 1st c. BC - 1st c. AD
@@ -10,7 +13,7 @@ original_lang: la
 source:
   author: Antonius Musa
   work: Precatio Terrae
-  section: herbal prayer
+  section: "23-29"
   note: >-
     archive.org, текстовый слой издания Бэренса, Poetae Latini Minores, т. I, № VIII «Precatio Terrae», строки 23-29 — печатная с. 140. Это та же молитва, что у tellus-001 (строки 1-21); шов […] в начале — на месте строк 1-22, шов в конце — на месте строк 30-32, где говорится о тех, кому травы будут переданы, и которых английский не передаёт. Согласный u нормализован в v; прописные в начале строк — Бэренсовы. Исправлен огрех OCR «Sahitis» → «Salutis». Не путать со следующим за ней в издании отдельным текстом «Precatio omnium herbarum»
 occasion:

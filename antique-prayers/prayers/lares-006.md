@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-lares-006
 prayer_id: prayer_lares_006
 slug: prayer-lares-006
+title:
+  en: "Prayer to the Manes"
+  ru: "Молитва Манам"
 culture: roman
 form: ritual
 period: Augustan

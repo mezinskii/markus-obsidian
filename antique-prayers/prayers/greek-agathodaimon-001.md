@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-agathodaimon-001
 prayer_id: prayer_greek_agathodaimon_001
 slug: prayer-greek-agathodaimon-001
+title:
+  en: "Prayer to the Agathos Daimon"
+  ru: "Молитва Агатодемону"
 culture: greek
 form: ritual
 period:

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-athena-001
 prayer_id: prayer_homeric_athena_001
 slug: prayer-homeric-athena-001
+title:
+  en: "Hymn to Athena"
+  ru: "Гимн Афине"
 culture: greek
 form: hymn
 period: archaic Greek (7th-6th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 'Homeric Hymns 28 (to Athena)'
+  section: "28"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/XXVIII. Εις Αθηνάν
 occasion: Homeric Hymn to Athena — poetic invocation celebrating her birth fully armed from the head of Zeus and the cosmic awe at her coming forth

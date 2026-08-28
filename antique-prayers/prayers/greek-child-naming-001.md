@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-child-naming-001
 prayer_id: prayer_greek_child_naming_001
 slug: prayer-greek-child-naming-001
+title:
+  en: "Prayer at a child's naming"
+  ru: "Молитва при наречении имени"
 culture: greek
 form: ritual
 period:

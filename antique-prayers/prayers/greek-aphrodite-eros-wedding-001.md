@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-greek-aphrodite-eros-wedding-001
 prayer_id: prayer_greek_aphrodite_eros_wedding_001
 slug: prayer-greek-aphrodite-eros-wedding-001
+title:
+  en: "Prayer to Aphrodite and Eros"
+  ru: "Молитва Афродите и Эроту"
 culture: greek
 form: ritual
 period:

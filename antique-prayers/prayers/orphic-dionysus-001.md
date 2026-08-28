@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-orphic-dionysus-001
 prayer_id: prayer_orphic_dionysus_001
 slug: prayer-orphic-dionysus-001
+title:
+  en: "Hymn to Dionysus Bassareus"
+  ru: "Гимн Дионису Бассарею"
 culture: greek
 form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns
-  section: 45 (to Dionysus)
+  section: "45"
   note: >-
     el.wikisource, Ορφικοί ύμνοι/Διονύσου Βασσαρέως Τριετηρικού (наш гимн 45); строка с воскурением на странице отсутствует
 occasion: Orphic hymn to Dionysus — invocation of the bull-faced thunder-born god

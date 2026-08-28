@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-diana-002
 prayer_id: prayer_diana_002
 slug: prayer-diana-002
+title:
+  en: "Prayer to Diana"
+  ru: "Молитва Диане"
 culture: roman
 form: ritual
 period: 1st c. BC

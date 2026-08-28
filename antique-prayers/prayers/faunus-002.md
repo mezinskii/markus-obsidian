@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-faunus-002
 prayer_id: prayer_faunus_002
 slug: prayer-faunus-002
+title:
+  en: "Prayer to Faunus and Mother Earth"
+  ru: "Молитва Фавну и Матери-Земле"
 culture: roman
 form: literary
 period: Augustan

@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-homeric-demeter-001
 prayer_id: prayer_homeric_demeter_001
 slug: prayer-homeric-demeter-001
+title:
+  en: "Hymn to Demeter"
+  ru: "Гимн Деметре"
 culture: greek
 form: hymn
 period: archaic Greek (7th-6th c. BC)
@@ -10,7 +13,7 @@ original_lang: el
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
-  section: 2 (to Demeter), opening and closing
+  section: "2"
   note: >-
     el.wikisource, Ομηρικοί Ύμνοι/II. Εις Δημήτραν — зачин (1-3) и концовка (486-495); повествование о похищении Персефоны и Элевсине в перевод не входит, шов помечен […]. Последняя строка гимна («αὐτὰρ ἐγὼ…») в переводе карточки отсутствует и здесь не приведена
 occasion: opening and closing of the long Homeric Hymn to Demeter — narrating the rape of Persephone and ending with prayer for wealth and song-giving

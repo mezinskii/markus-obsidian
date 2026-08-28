@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-jupiter-009
 prayer_id: prayer_jupiter_009
 slug: prayer-jupiter-009
+title:
+  en: "Prayer to Jupiter"
+  ru: "Молитва Юпитеру"
 culture: roman
 form: literary
 period: Augustan

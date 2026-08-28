@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-janus-002
 prayer_id: prayer_janus_002
 slug: prayer-janus-002
+title:
+  en: "Prayer to Janus"
+  ru: "Молитва Янусу"
 culture: roman
 form: ritual
 period: 2nd c. BC

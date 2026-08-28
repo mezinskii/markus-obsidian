@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-ovid-flora-001
 prayer_id: prayer_ovid_flora_001
 slug: prayer-ovid-flora-001
+title:
+  en: "Prayer to Flora"
+  ru: "Молитва Флоре"
 culture: roman
 form: personal
 period: early 1st c. AD

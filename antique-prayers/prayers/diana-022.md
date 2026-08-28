@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-diana-022
 prayer_id: prayer_diana_022
 slug: prayer-diana-022
+title:
+  en: "Prayer to Diana and Juno"
+  ru: "Молитва Диане и Юноне"
 culture: roman
 form: personal
 period: 1st c. BC

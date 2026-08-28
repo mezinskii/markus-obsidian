@@ -2,6 +2,9 @@
 sanity_id: prayer-prayer-diana-009
 prayer_id: prayer_diana_009
 slug: prayer-diana-009
+title:
+  en: "Prayer to Diana and Venus"
+  ru: "Молитва Диане и Венере"
 culture: roman
 form: literary
 period: 2nd-1st c. BC
