@@ -61,10 +61,23 @@ Whoever you may be, whether Diana or a Nymph, may You favor us and lighten our l
 
 ## Комментарий
 
-«Энеида» I.329-330. Атрибуция в карточке была неверной: значился Сервий, комментатор, но слова принадлежат Вергилию. Строка 33 первой книги, на которую вела ссылка, — «tantae molis erat Romanam condere gentem», к Диане отношения не имеющая.
 
-Говорит Эней, встретив в ливийском лесу деву-охотницу: «сестра ли Феба ты, или одна из рода нимф? Будь благосклонна и облегчи наш труд, кто бы ты ни была». Английское «Diana» — толкование выражения «Phoebi soror», в латыни имени нет.
+Эней встречает в ливийском лесу деву-охотницу и, не зная, кто перед ним, перебирает возможности: «сестра ли Феба? или одна из рода нимф?»
 
-**Молитва обращена не к Диане.** Охотница — это Венера, явившаяся сыну неузнанной, и Эней об этом не знает; он перебирает возможности вслепую. Перед нами редкий случай — обращение к божеству, чьё имя молящемуся неизвестно, отсюда и «quaecumque», «кто бы ты ни была». Поле deities оставлено как есть, но читать его нужно с этой оговоркой.
+Это редчайший случай — молитва к божеству, чьё имя молящемуся неизвестно. Отсюда и «quaecumque», «кто бы ты ни была»: тот же приём страховки, что в длинных перечнях имён у Стация и Апулея, но сжатый до одного слова и вызванный не осторожностью, а прямым незнанием.
+
+**Молитва обращена не к Диане.** Охотница — это Венера, явившаяся сыну неузнанной; Эней об этом не догадывается и опознает мать только по походке, когда она уйдёт. Поле deities оставлено как есть, но читать его нужно с этой оговоркой.
+
+**Исправлена атрибуция:** в карточке значился Сервий-комментатор, но слова Вергилиевы, а строка 1.33, на которую вела ссылка, — «tantae molis erat Romanam condere gentem», к Диане отношения не имеющая.
 
 ## Commentary
+
+
+Aeneas meets a huntress in a Libyan wood and, not knowing who stands before him, runs through the possibilities: "Are you Phoebus' sister? or one of the blood of the nymphs?"
+
+This is a rare case indeed — a prayer to a deity whose name the petitioner does not know. Hence quaecumque, "whoever you are": the same insurance device as in the long catalogues of names in Statius and Apuleius, but compressed into a single word and prompted not by caution but by outright ignorance.
+
+**The prayer is not addressed to Diana.** The huntress is Venus, appearing to her son unrecognised; Aeneas does not suspect it and identifies his mother only by her walk as she leaves. The deities field is left as it stands, but must be read with that reservation.
+
+**The attribution has been corrected:** the card named Servius the commentator, but the words are Virgil's, and line 1.33, to which the reference pointed, is tantae molis erat Romanam condere gentem, which has nothing to do with Diana.
+

@@ -75,4 +75,23 @@ Whose haunts are by Kephissos' river, you queens beloved of poets' song, ruling 
 ## Комментарий
 
 
+
+Начало четырнадцатой Олимпийской оды — самой короткой у Пиндара. Победитель, мальчик Асопих из Орхомена, в этих строках не назван вовсе: вперёд поставлены Хариты, и ода начинается как гимн.
+
+География здесь работает так же, как в гомеровском вступлении, ведущем Артемиду через Смирну в Кларос (`homeric-artemis-001`): певец называет воды Кефиса, край прекрасных коней, блистательный Орхомен и «древнерождённых Миниев». Всё это родина мальчика и её легендарные предки. Богиням напоминают, чьи они, а слушателям — что боги их.
+
+«Κλῦτ᾽, ἐπεὶ εὔχομαι» — услышьте, ибо я молюсь. Сделка изложена в четырёх словах: раз произнесена молитва, надлежит услышать. Никакого иного основания не приводится, и его довольно.
+
+Сличите с орфическим гимном тем же Харитам (`orphic-charites-001`): там они названы отвлечёнными эпитетами — родительницы радости, вечноцветущие, — и не привязаны ни к какому месту. Здесь у них адрес в Беотии. Разница между гимном общины посвящённых и песнью, заказанной для конкретного города.
+
 ## Commentary
+
+
+The opening of the fourteenth Olympian, the shortest of Pindar's odes. The victor, the boy Asopichus of Orchomenos, is not named in these lines at all: the Graces are placed first, and the ode begins as a hymn.
+
+Geography works here as it does in the Homeric prelude that routes Artemis through Smyrna to Klaros (`homeric-artemis-001`): the singer names the waters of the Cephisus, the land of fine horses, glittering Orchomenos, and "the ancient-born Minyae". All of it is the boy's homeland and its legendary ancestors. The goddesses are reminded whose they are, and the audience that the goddesses are theirs.
+
+Κλῦτ᾽, ἐπεὶ εὔχομαι — hear, since I pray. The transaction is stated in four words: a prayer has been uttered, therefore it is to be heard. No other ground is offered, and none is needed.
+
+Compare the Orphic hymn to the same Graces (`orphic-charites-001`): there they are named by abstract epithets — begetters of gladness, ever-blooming — and attached to no place at all. Here they have an address in Boeotia. The difference between the hymn of an initiate community and a song commissioned for a particular city.
+

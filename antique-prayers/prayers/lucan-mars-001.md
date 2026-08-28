@@ -61,4 +61,23 @@ Gods above, we do not pray for peace. Grant rage onto the nations. May You now a
 ## Комментарий
 
 
+
+Рим накануне гражданской войны. Матроны молятся — и просят прямо противоположного тому, о чём молятся всегда.
+
+«Non pacem petimus, superi» — не мира просим мы, вышние. Дальше идёт перечень бедствий, которые испрашиваются всерьёз: ярость народам, мятеж диких городов, всемирный заговор оружия, нашествие мидян из Ахеменидовых Суз. Парфяне, разбившие Красса при Каррах, зовутся на Италию как меньшее зло.
+
+Логика при этом неопровержима. Любая война лучше той, что начинается, потому что во всякой другой римляне будут убивать не римлян. Молящиеся не сошли с ума — они точно оценили выбор, который им остался.
+
+В этом весь Лукан. Его поэма построена на вывернутом благочестии: обряды совершаются наоборот, боги отсутствуют, и молитва оказывается единственной формой, в которой можно высказать отчаяние, не переставая говорить по-римски. Эта строфа — её образец.
+
 ## Commentary
+
+
+Rome on the eve of civil war. The matrons pray — and ask for the exact opposite of what prayer always asks.
+
+Non pacem petimus, superi — we do not ask for peace, you gods above. What follows is a list of disasters requested in earnest: rage for the nations, savage cities roused, the world conspiring in arms, the Medes pouring down from Achaemenid Susa. The Parthians, who destroyed Crassus at Carrhae, are summoned against Italy as the lesser evil.
+
+And the logic is unanswerable. Any war is better than the one beginning, because in any other war Romans would be killing someone who is not Roman. The women praying have not lost their reason — they have correctly assessed the choice left to them.
+
+This is Lucan entire. His poem is built on inverted piety: rites are performed backwards, the gods are absent, and prayer turns out to be the only form in which despair can be uttered while still speaking Roman. This stanza is its specimen.
+

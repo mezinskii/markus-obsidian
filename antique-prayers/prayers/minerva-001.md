@@ -56,4 +56,23 @@ O Minerva, You have always come to my aid with Your counsels, witness to the exi
 ## Комментарий
 
 
+
+Цицерон перед коллегией понтификов, в конце речи о своём разрушенном доме. Обращение к Минерве — часть одного длинного периода, охватывающего пятерых божеств (`jupiter-003`, `vesta-001`); управляющее «precor atque quaeso», молю и прошу, стоит именно здесь и относится ко всем сразу. Грамматически вся молитва держится на этой карточке.
+
+«Custos urbis, Minerva» — не общий эпитет. Уходя в изгнание, Цицерон вынес из своего дома статую Минервы и посвятил её на Капитолии как Минерву Хранительницу Города. Он обращается к собственному приношению: к статуе, которую сам туда поставил, — и просит её теперь вернуть ему дом, из которого её вынес.
+
+«Adiutrix consiliorum meorum, testis laborum» — помощница замыслов, свидетельница трудов. Слова точные: consilium — то, что он придумал в консульство, labores — то, чего это стоило. Богиня зовётся не покровительницей Рима вообще, а соучастницей его личной службы.
+
+И «testis», свидетельница, — не украшение. Речь идёт в суде о сакральном праве, и божество призывается ровно в том качестве, в каком призывают свидетеля.
+
 ## Commentary
+
+
+Cicero before the college of pontiffs, at the end of his speech about his demolished house. The address to Minerva is part of a single long period covering five deities (`jupiter-003`, `vesta-001`); the governing precor atque quaeso, I pray and beseech, stands here and applies to them all. Grammatically the whole prayer hangs on this card.
+
+Custos urbis, Minerva is not a generic epithet. On going into exile Cicero carried a statue of Minerva out of his own house and dedicated it on the Capitol as Minerva Guardian of the City. He is addressing his own dedication: the statue he himself put there — and asking it now to give him back the house he carried it out of.
+
+Adiutrix consiliorum meorum, testis laborum — helper of my counsels, witness of my labours. The words are exact: consilium is what he devised during his consulship, labores what it cost him. The goddess is called not the protectress of Rome in general but a participant in his personal service.
+
+And testis, witness, is not ornament. The case being argued is one of sacred law, and the deity is called in exactly the capacity in which one calls a witness.
+

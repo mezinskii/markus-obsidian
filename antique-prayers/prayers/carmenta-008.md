@@ -53,6 +53,27 @@ Accept, O Carmentis, this offering of incense. Cheerfully have Your daughters co
 
 
 
-Провенанс исправлен с ancient на modern. «Ritus Carmentis» — не античное сочинение: под этим названием ходят современные реконструкции обряда Карменталий (Nova Roma), собранные по разрозненным местам Вергилия и Овидия. Дословного античного оригинала у текста нет и не будет.
+
+**Современный текст** из того же обряда Nova Roma, что и `carmenta-007`, где сказано и об организации, и о том, как читать пометку `modern`.
+
+Повод указан подлинный: Карменталии, 11 и 15 января, были праздником римских матрон, и участие в нём женщин — не выдумка составителя.
+
+Подобраны и приношения со знанием дела: ладан, возлияние молоком, груда лепёшек. Всё бескровное, и это отвечает разряду божества — Кармента ведала родами и предсказанием, а не войной и не полем.
+
+Любопытнее же всего одна просьба: «Из-за морей, от дальних берегов, принеси слова, которыми мы можем восхвалить богиню». Молящийся просит богиню речи дать ему речь, потому что своей нет. В древнем гимне такая просьба означала бы вдохновение; здесь, в тексте, написанном взамен утраченного, она читается буквально и точно. Молитва просит именно того, чего этой карточке не хватает, — подлинных слов.
+
+Сочинитель, надо думать, этого в виду не имел. Но лучшего определения тому, чем занята вся эта часть корпуса, не придумать.
 
 ## Commentary
+
+
+**A modern text** from the same Nova Roma rite as `carmenta-007`, where the organisation is described and the reading of the `modern` label explained.
+
+The occasion given is genuine: the Carmentalia, on 11 and 15 January, was a festival of Roman matrons, and the women's part in it is not the composer's invention.
+
+The offerings, too, are knowledgeably chosen: incense, a libation of milk, cakes heaped up. All bloodless, which suits the class of the deity — Carmenta had charge of childbirth and prophecy, not of war or the field.
+
+Most curious of all is one request: "From over the seas, from far shores, bring the words with which we may praise the goddess." The petitioner asks the goddess of speech to supply him with speech, because he has none of his own. In an ancient hymn such a request would mean inspiration; here, in a text written to replace a lost one, it reads literally and exactly. The prayer asks for the very thing this card lacks — genuine words.
+
+The composer presumably did not intend this. But no better definition could be found for what this whole part of the corpus is about.
+

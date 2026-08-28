@@ -77,4 +77,23 @@ Gods of our fathers, we purify our farmers and our fruitful fields; we ask that 
 ## Комментарий
 
 
+
+Зачин элегии Тибулла об Амбарвалиях — обряде очищения полей, когда жертву обводят вокруг межи.
+
+Богов здесь наряжают. Вакху предлагается, чтобы с рогов свисала сладкая гроздь, Церере — увить колосьями виски. Поэт одевает их к празднику, и атрибуты работают как костюм.
+
+За швом обряд показан уже в движении: агнец идёт к сияющим алтарям, следом белая толпа с оливой в волосах. И тут же сама формула: «мы очищаем поля, очищаем земледельцев: отгоните вы зло от наших рубежей».
+
+Строение то же, что у Клавдиана (`apollo-004`): молитва пополам с режиссёрской ремаркой. Только там наряжали Солнце к вступлению консулов в должность, а здесь — деревенских богов к деревенскому празднику.
+
 ## Commentary
+
+
+The opening of Tibullus' elegy on the Ambarvalia — the rite of purifying the fields, in which the victim is led around the boundary.
+
+The gods are being dressed here. Bacchus is invited to let a sweet cluster hang from his horns, Ceres to bind her temples with ears of corn. The poet is costuming them for the festival, and the attributes function as clothing.
+
+Behind the seam the rite is shown already in motion: the lamb going to the gleaming altars, the white-robed crowd behind it with olive in their hair. And then the formula itself: "we purify the fields, we purify the farmers: do you drive evil from our boundaries".
+
+The construction is the same as in Claudian (`apollo-004`): prayer that is half stage direction. Only there the Sun was being dressed for a consular inauguration, and here the country gods are being dressed for a country feast.
+

@@ -69,4 +69,27 @@ Of Kythereia, born in Kypros, I will sing. She gives kindly gifts to men: smiles
 ## Комментарий
 
 
+
+Шесть строк — самый короткий из трёх гомеровских гимнов Афродите в корпусе и самый прозрачный по устройству.
+
+Корень ἱμερ-, «желанный», взят трижды: «на желанном лице… бежит желанный цвет… дай желанную песнь». Одним словом связаны лицо богини, её действие и просьба певца.
+
+В этом и просьба: «δὸς δ᾽ ἱμερόεσσαν ἀοιδήν» — дай желанную песнь. У божества просят того, чем оно ведает: у богини желания — чтобы песни желали. Тот же расчёт, что у Овидия, просящего Флору дать его стихам цвести (`ovid-flora-001`): правильно выбранное имя само подсказывает, о чём просить.
+
+«Σαλαμῖνος… εἰναλίης τε Κύπρου» — Саламин рядом с морским Кипром: это, по всей вероятности, кипрский Саламин, а не остров у берегов Аттики. Оба места известны под одним именем, и путаница между ними обычна.
+
+Последняя строка — та же переходная формула, что и в большом гимне (`homeric-aphrodite-001`): певец объявляет, что переходит к следующему. Гимн кончается ровно там, где начинается работа.
+
 ## Commentary
+
+
+Six lines — the shortest of the three Homeric hymns to Aphrodite in this corpus, and the most transparent in construction.
+
+The root himer-, "desired", is used three times: "on her desirable face … runs a desirable bloom … give me desirable song". One word ties together the goddess's face, her activity, and the singer's request.
+
+And that is the request: δὸς δ᾽ ἱμερόεσσαν ἀοιδήν — grant me desirable song. Of a deity one asks what falls in her department: of the goddess of desire, that one's songs be desired. The same reckoning as in Ovid asking Flora to make his verses flower (`ovid-flora-001`): a well-chosen name itself dictates what to ask for.
+
+Σαλαμῖνος … εἰναλίης τε Κύπρου — Salamis beside sea-girt Cyprus: this is in all likelihood the Cypriot Salamis, not the island off Attica. Both places bear the same name, and confusion between them is common.
+
+The last line is the same transitional formula as in the long hymn (`homeric-aphrodite-001`): the singer announces that he is moving on to the next. The hymn ends exactly where the work begins.
+

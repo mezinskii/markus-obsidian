@@ -57,4 +57,23 @@ O most holy Ceres, nurturing Mother, whose sacred womb gave birth to both Gods a
 ## Комментарий
 
 
+
+**Современная реконструкция**, и притом на редкость осведомлённая. Автор назван — M. Horatius Piscinus, имя современного человека, принятое по римскому образцу.
+
+Ценность карточки в том, что перечислено в середине. Вервактор, Репаратор, Импорцитор, Инситор, Обаратор, Сарритор, Субрунцинатор, Стеркулиний — это подлинные римские божества, и список их сохранил Сервий, ссылаясь на понтификальные книги. Каждое имя означает одно действие: Вервактор — первую вспашку залежи, Репаратор — вторую, Импорцитор — нарезку гряд, Инситор — сев, Обаратор — заделку, Сарритор — прополку мотыгой, Субрунцинатор — выборку сорняков, Стеркулиний — унавоживание.
+
+Это самый чистый образец римского понимания божественного: не покровитель земледелия, а по отдельному богу на каждый проход плуга. Жрец, чтобы не ошибиться, читал имена по списку — и список этот до нас дошёл.
+
+То есть богословие здесь древнее, а молитва новая. Различение существенное для всей этой части корпуса: современный текст может быть выстроен на подлинном материале и остаться при этом современным. Помета `modern` говорит о происхождении слов, а не о качестве работы.
+
 ## Commentary
+
+
+**A modern reconstruction**, and an unusually well-informed one. The author is named — M. Horatius Piscinus, a modern man's name taken in Roman form.
+
+The value of the card lies in what is listed in the middle. Vervactor, Reparator, Imporcitor, Insitor, Obarator, Sarritor, Subruncinator, Sterculinius are genuine Roman deities, and the list is preserved by Servius on the authority of the pontifical books. Each name denotes one operation: Vervactor the first ploughing of fallow, Reparator the second, Imporcitor the ridging, Insitor the sowing, Obarator the covering, Sarritor the hoeing, Subruncinator the weeding, Sterculinius the manuring.
+
+This is the purest specimen of the Roman understanding of divinity: not a patron of agriculture, but a separate god for each pass of the plough. To avoid error the priest read the names from a list — and the list has come down to us.
+
+That is to say: the theology here is ancient and the prayer is new. The distinction matters for this whole part of the corpus: a modern text may be built on genuine material and still be modern. The `modern` label speaks to the origin of the words, not to the quality of the work.
+

@@ -74,4 +74,27 @@ Latona's grandson, revered Aesculapis, by whose mild herbal remedies too briefly
 ## Комментарий
 
 
+
+Мальчик посылает из Рима в святилище Асклепия свои остриженные кудри — исполняя обет, данный за исцеление. Это Эарин, любимец Домициана, о чьей стрижке Марциал написал целый маленький цикл (9.11-13, 9.16, 9.36).
+
+Асклепий назван через его ремесло, и названо оно юридически: «кроткими травами умоляешь пряжу Парок и краткую их кудель». Exorare — умолять, добиваться отмены приговора. Врачевание описано как тяжба с Судьбами, где лекарственная трава выступает ходатайством.
+
+Посвящение волос по обету — обычай подлинный и в корпусе уже встречавшийся: Парфенопей у Стация предъявляет богине те же отпущенные кудри (`diana-018`). Стрижка означала выход из отрочества, и потому в дар шло то, что этим действием кончалось.
+
+К волосам прибавлено зеркало — «блестящий круг, судом которого счастливое лицо было ограждено». Вещь посвящена как соучастница: зеркало было судьёй красоты и уходит вместе с той порой, о которой судило.
+
+А просьба в конце деликатна до предела: сохрани красу, «чтобы не был он прекраснее при длинных, чем при укороченных кудрях». Обет исполнен, и теперь бога просят, чтобы исполнение обета ничего не отняло.
+
 ## Commentary
+
+
+A boy sends his cut hair from Rome to a shrine of Asclepius, discharging a vow made for his recovery. He is Earinus, Domitian's favourite, about whose haircutting Martial wrote a small cycle of poems (9.11-13, 9.16, 9.36).
+
+Asclepius is named by his trade, and the trade is described in legal terms: "with gentle herbs you plead against the Fates' spinning and their short distaff". Exorare means to entreat, to obtain the reversal of a sentence. Healing is described as litigation with the Fates, in which a medicinal herb serves as counsel.
+
+Dedicating hair by vow is a genuine custom and has already appeared in this corpus: Statius' Parthenopaeus presents the goddess with the same unshorn locks (`diana-018`). The cutting marked the end of boyhood, and so what was given was precisely what that act brought to an end.
+
+A mirror is added to the hair — "the shining disc by whose judgement his happy face was kept safe". The object is dedicated as an accomplice: the mirror was the judge of that beauty and departs together with the season it judged.
+
+And the closing request is delicate in the extreme: preserve his beauty, "so that he was not lovelier in long hair than in short". The vow has been paid, and now the god is asked that paying it should have cost nothing.
+

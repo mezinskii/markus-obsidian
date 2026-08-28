@@ -58,4 +58,23 @@ Among this piled wheat let me be concealed, if only for a few days, until the ir
 ## Комментарий
 
 
+
+Психея, скитаясь в поисках Купидона, набредает на святилище Цереры и молит её о приюте.
+
+Молитва выстроена как заклинание по перечню: «этой твоей плодоносной десницей, радостными обрядами жатвы, безмолвными тайнами корзин, крылатыми упряжками драконов…» Каждое «per» — отдельная рукоять, за которую хватаются, и все они мистериальные: корзины, факелы, нисхождение и восхождение Прозерпины. Психея заклинает Цереру её же таинствами.
+
+И тут же оговорка, доведённая до предела: «и всем прочим, что молчанием покрывает святилище аттического Элевсина». Разглашать элевсинские таинства нельзя, и Апулей обходит запрет, сославшись на невыразимое целиком, оптом.
+
+Просит же она немногого: спрятаться среди колосьев на несколько дней. Величайшие таинства греческого мира призваны ради того, чтобы дать девушке пересидеть.
+
 ## Commentary
+
+
+Psyche, wandering in search of Cupid, comes upon a shrine of Ceres and begs her for shelter.
+
+The prayer is built as an adjuration by list: "by that fruit-bearing right hand of yours, by the glad ceremonies of harvest, by the silent secrets of the baskets, by the winged chariot-teams of your dragon servants …" Each per is a separate handhold, and all of them are mystery-cult: the baskets, the torches, Proserpina's descent and return. Psyche adjures Ceres by Ceres' own mysteries.
+
+And then a qualification carried to its limit: "and by everything else that the sanctuary of Attic Eleusis covers in silence". The Eleusinian mysteries may not be divulged, and Apuleius gets round the prohibition by invoking the unspeakable wholesale.
+
+What she asks for is small: to hide among the ears of corn for a few days. The greatest mysteries of the Greek world are called on to let a girl sit out the danger.
+

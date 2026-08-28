@@ -78,4 +78,23 @@ May Apollo grant that I enjoy good health and a sound mind, and, I pray, when I 
 ## Комментарий
 
 
+
+Ода Горация, написанная к освящению храма Аполлона на Палатине в 28 г. до н. э., — молитва поэта у нового святилища.
+
+Устроена она целиком как отрицательный перечень. Середина оды (в карточке она за швом) — список того, чего поэт **не** просит: ни тучных сардинских нив, ни калабрийских стад, ни индийской слоновой кости, ни золота, ни виноградников. И только в самом конце, четырьмя строками, — чего просит: здоровья, ясного ума и старости «не постыдной и не лишённой кифары».
+
+Приём не риторический, а содержательный. Молитва оказывается способом перебрать всё, чего человек обычно хочет, и по очереди от этого отказаться. К богу обращаются, чтобы отделить нужное от лишнего.
+
+Последнее слово оды — cithara, лира. Поэт просит у бога поэзии права остаться поэтом до конца.
+
 ## Commentary
+
+
+Horace's ode written for the dedication of the temple of Apollo on the Palatine in 28 BC — the poet's own prayer at the new shrine.
+
+It is built entirely as a catalogue of negations. The middle of the ode (which falls behind the seam in this card) lists what the poet does **not** ask for: not the rich cornfields of Sardinia, not Calabrian herds, not Indian ivory, not gold, not vineyards. Only at the very end, in four lines, comes what he does ask: health, a clear mind, and an old age "neither disgraceful nor without the lyre".
+
+The device is not rhetorical but substantive. The prayer becomes a way of going through everything a person ordinarily wants and refusing it item by item. One addresses the god in order to separate the necessary from the superfluous.
+
+The last word of the ode is cithara, the lyre. The poet asks the god of poetry for the right to remain a poet to the end.
+

@@ -68,4 +68,23 @@ I begin to sing of Asklepios, son of Apollon and healer of sicknesses. In the Do
 ## Комментарий
 
 
+
+Пять строк, и почти все они — родословная: сын Аполлона, рождён божественной Коронидой, дочерью царя Флегия, на Дотийской равнине. Отец, мать, дед по матери, место.
+
+Подробность эта не случайна. Прочие гимны называют родителя и переходят к делу; здесь предъявляют документ. Асклепий — бог не изначальный: он родился смертным, врачевал, воскресил мёртвого и был убит за это молнией Зевса, а божеством стал уже потом. Такому нужно доказывать происхождение, и гимн начинает с доказательства.
+
+«Χάρμα μέγ᾽ ἀνθρώποισι, κακῶν θελκτῆρ᾽ ὀδυνάων» — великая радость людям, чарователь злых болей. Θελκτήρ — от θέλγω, «околдовывать, унимать заговором»; тем же словом описывают действие песни и волшебства. Врачевание отнесено к разряду чар, а не ремёсел, и в этом слове видно, чем древняя медицина себя считала.
+
+«Λίτομαι δέ σ᾽ ἀοιδῇ» — молю же тебя песнею. Приношение названо прямо: у певца нет ничего, кроме песни, и он предъявляет её как жертву.
+
 ## Commentary
+
+
+Five lines, and nearly all of them are a pedigree: son of Apollo, born of divine Coronis, daughter of King Phlegyas, on the Dotian plain. Father, mother, maternal grandfather, place.
+
+The detail is not accidental. The other hymns name a parent and get on with it; here a document is produced. Asclepius is not an original god: he was born mortal, practised healing, raised a dead man and was killed for it by Zeus' thunderbolt, and became a god only afterwards. Such a one has to prove his descent, and the hymn begins with the proof.
+
+Χάρμα μέγ᾽ ἀνθρώποισι, κακῶν θελκτῆρ᾽ ὀδυνάων — a great joy to men, charmer of cruel pains. Thelktēr is from thelgō, to enchant, to still by incantation; the same word describes the action of song and of magic. Healing is placed in the category of enchantment rather than of craft, and in that one word one sees what ancient medicine took itself to be.
+
+Λίτομαι δέ σ᾽ ἀοιδῇ — I entreat you with song. The offering is named outright: the singer has nothing but his song, and he presents it as the sacrifice.
+

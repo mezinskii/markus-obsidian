@@ -80,4 +80,23 @@ Great Asklepios, skilled to heal mankind, all-ruling Paian, and physician kind; 
 ## Комментарий
 
 
+
+Восемь строк, и два места в них стоит отметить.
+
+«Θέλγων ἀνθρώπων πολυαλγέα πήματα νούσων» — чарующий многоболезненные страдания людей от недугов. Глагол θέλγω, «унимать заговором, околдовывать», — тот же самый, каким описано врачевание в гомеровском гимне Асклепию (`homeric-asclepius-001`), написанном веков на восемь раньше. Между двумя текстами лежит вся история греческой медицины, включая Гиппократа, и слово не переменилось: лечение по-прежнему относят к разряду чар.
+
+«Ὑγίειαν ἔχων σύλλεκτρον ἀμεμφῆ» — имеющий Гигиею безупречной супругой. А во врачебной клятве Гигиея — его дочь (`hippocrates-oath-001`). Родословные отвлечённых божеств не были закреплены, и корпус сохраняет оба показания, не примиряя их: Здоровье приходится Врачеванию то дочерью, то женой, смотря по тому, кто говорит.
+
+«Βιοτῆς τέλος ἐσθλὸν ὀπάζων» — даруя доброе завершение жизни. Этой просьбой кончается почти каждый гимн собрания, и она выдаёт, для кого они пелись: община посвящённых просит не только здоровья, но и хорошей смерти, и второе для неё важнее.
+
 ## Commentary
+
+
+Eight lines, and two places in them are worth noting.
+
+Θέλγων ἀνθρώπων πολυαλγέα πήματα νούσων — charming away the much-paining afflictions of men's diseases. The verb thelgō, to still by incantation, to enchant, is the very one used of healing in the Homeric hymn to Asclepius (`homeric-asclepius-001`), written some eight centuries earlier. Between the two texts lies the whole history of Greek medicine, Hippocrates included, and the word has not changed: treatment is still filed under enchantment.
+
+Ὑγίειαν ἔχων σύλλεκτρον ἀμεμφῆ — having Hygieia as his blameless bedfellow. But in the physicians' oath Hygieia is his daughter (`hippocrates-oath-001`). The genealogies of abstract deities were not fixed, and this corpus preserves both depositions without reconciling them: Health is Healing's daughter or his wife, according to who is speaking.
+
+Βιοτῆς τέλος ἐσθλὸν ὀπάζων — granting a good end of life. Almost every hymn in the collection closes with this request, and it betrays whom they were sung for: a community of initiates asking not only for health but for a good death, and caring more about the second.
+

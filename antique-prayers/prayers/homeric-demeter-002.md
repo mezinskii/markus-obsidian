@@ -63,4 +63,23 @@ I begin to sing of rich-haired Demeter, awful goddess, of her and of her daughte
 ## Комментарий
 
 
+
+Три строки, и первые две — дословно начало большого гимна Деметре (`homeric-demeter-001`). Совпадение не случайное и не заимствование: так эти вступления и делались.
+
+У рапсода был запас готовых зачинов, и к любому из них приставлялась своя концовка — по случаю, по городу, по заказу. Здесь приставлено: «радуйся, богиня, и храни этот город, и начни песнь». Одна строка превращает начало большой поэмы в самостоятельное вступление для местного исполнения.
+
+В корпусе такое устройство уже встречалось, только в другом ремесле: латинские стихотворные эпитафии брались каменотёсами из готового запаса, и один и тот же стих стоит на камнях в разных провинциях (`terra-funerary-003`). Массовое производство священного текста — вещь для древности обыкновенная, и подделкой оно не считалось.
+
+«Ἄρχε δ᾽ ἀοιδῆς» — начни песнь. Богиню просят начать то, что сейчас будет петь певец. Ответственность за исполнение переложена на неё прежде первого слова.
+
 ## Commentary
+
+
+Three lines, of which the first two are word for word the opening of the great Hymn to Demeter (`homeric-demeter-001`). The coincidence is neither accidental nor plagiarism: this is how such preludes were made.
+
+A rhapsode kept a stock of ready openings, and to any of them an ending could be attached — to suit the occasion, the city, the commission. Here what is attached is: "hail, goddess, and keep this city safe, and begin the song". One line turns the start of a long poem into a self-contained prelude for local performance.
+
+This arrangement has already appeared in this corpus, in a different trade: Latin verse epitaphs were taken by monumental masons from a ready stock, and one and the same verse stands on stones in different provinces (`terra-funerary-003`). Mass production of sacred text is an ordinary thing in antiquity, and was not counted as forgery.
+
+Ἄρχε δ᾽ ἀοιδῆς — begin the song. The goddess is asked to begin what the singer is about to sing. Responsibility for the performance is transferred to her before the first word.
+

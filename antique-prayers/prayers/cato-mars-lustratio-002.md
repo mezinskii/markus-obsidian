@@ -52,4 +52,23 @@ Father Mars, if aught hath not pleased thee in the offering of those sucklings, 
 ## Комментарий
 
 
+
+Одна фраза, дописанная Катоном сразу после большой молитвы к Марсу (`cato-mars-lustratio-001`): что делать, если обряд не задался.
+
+«Если тою свиньёю тебе не было угождено, — тебя этой свиньёю умилостивляю». То есть на случай, когда жертва не принята, предусмотрена вторая, покрывающая первую.
+
+Здесь видна вся механика римского обряда. Правильность важнее искренности: если что-то сделано не так, ошибка исправляется новой жертвой, а не раскаянием. Обряд можно переиграть, как переигрывают неверно оформленную сделку, — и Катон предусматривает это в руководстве наравне с нормой высева.
+
+Само слово piaculum и значит «то, чем заглаживают»: не дар, а возмещение.
+
 ## Commentary
+
+
+A single sentence Cato adds immediately after the great prayer to Mars (`cato-mars-lustratio-001`): what to do if the rite has gone wrong.
+
+"If you have not been satisfied by that pig, I make atonement with this pig." That is, for the case where the offering is not accepted, a second is provided which covers the first.
+
+The whole mechanics of Roman ritual is visible here. Correctness matters more than sincerity: if something has been done wrongly, the error is repaired by a further sacrifice, not by repentance. A rite can be redone the way an improperly executed contract is redone — and Cato provides for it in his handbook alongside the sowing rate.
+
+The word piaculum itself means "that by which something is made good": not a gift but a compensation.
+

@@ -59,10 +59,27 @@ Now, Manes, I call you to witness, on these bones I leave behind, may the earth 
 
 ## Комментарий
 
-Заключительный дистих римского надгробия (CIL VI 24807 и 24808 = Carmina Latina Epigraphica 1029 в издании Бюхелера). Заголовок называет умершую: Попиллия Фекула, «благочестивая, чистая, дорогая своим», прожившая восемнадцать лет; надпись ставит Менофил, муж и вольноотпущенник того же господина. Первые четыре строки — от его лица, и лишь в пятой он оборачивается к богам.
 
-«Tellus, huic tumulo ne gravis esse velis» — «Земля, не пожелай быть тяжкой этому холму»: развёрнутый вариант формулы sit tibi terra levis.
+Надгробие из Рима: Попиллия Фелицула, восемнадцати лет, и надпись, поставленную ей мужем, — он же её соотпущенник. Здесь приведён последний дистих.
 
-В карточке стояла ссылка на строку 5, но английский передаёт весь элегический дистих — гексаметр зовёт Манов, пентаметр просит Землю, — поэтому секция уточнена до 5-6.
+Это самая распространённая формула римской эпиграфики: sit tibi terra levis, да будет тебе земля лёгкой. Просьба вещественная, а не отвлечённая: тело лежит под насыпью, и тяжесть насыпи мыслится ощутимой. Мёртвый чувствует вес.
+
+Поделена она между двумя божествами по функциям. Манам «оставляют кости» — они принимают покойного; Земле велят не быть тяжкой — она держит холм. Одному отдают человека, другую просят о механике.
+
+«Contestor» — призываю в свидетели. Тот же юридический глагол, что в формуле фециала при объявлении войны (`janus-004`). Погребение оформляется как передача с составлением акта: есть сдающая сторона, принимающая и свидетели.
+
+«Ne gravis esse velis» — не пожелай быть тяжкой. С подземными говорят в сослагательном и через «не пожелай»: не приказ и даже не просьба, а вежливое предложение воздержаться.
 
 ## Commentary
+
+
+A gravestone from Rome: Popillia Felicula, aged eighteen, and an inscription set up by her husband, who was also her fellow freedman. The last couplet is given here.
+
+This is the commonest formula in Roman epigraphy: sit tibi terra levis, may the earth be light upon you. The request is physical, not abstract: the body lies beneath a mound, and the mound's weight is conceived as felt. The dead feel pressure.
+
+It is divided between two deities by function. To the Manes the bones are "left" — they receive the dead; the Earth is told not to be heavy — she holds the mound. To one a person is handed over; of the other a mechanical favour is asked.
+
+Contestor — I call to witness. The same legal verb as in the fetial formula for declaring war (`janus-004`). Burial is drawn up as a conveyance with an instrument executed: there is a party surrendering, a party receiving, and witnesses.
+
+Ne gravis esse velis — be not willing to be heavy. With the powers below one speaks in the subjunctive and through "do not be willing": neither a command nor quite a request, but a courteous invitation to refrain.
+

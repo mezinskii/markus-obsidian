@@ -60,4 +60,27 @@ Duly do you worship the goddess, you Latin mothers and brides, and you too who w
 ## Комментарий
 
 
+
+Первое апреля, Венералии. Овидий не молится, а распоряжается: он объясняет женщинам, что делать, и по ходу дела рассказывает, почему именно так.
+
+Обряд — лаватио, омовение изваяния. С мраморной шеи снимают золото, богиню моют всю, шею осушают, золото возвращают, дают свежие цветы и розу. Порядок расписан по действиям, и божество в нём — предмет ухода, с которого сперва надо снять драгоценности.
+
+Участницы перечислены исчерпывающе: «латинские матери и невестки, и вы, кому не даны повязка и долгое платье». Последние — женщины, лишённые права носить одежду замужней матроны, то есть публичные. Овидий называет их не по занятию, а по недостающей одежде, и включает в обряд наравне со всеми: в этот день у Венеры разряда нет.
+
+Мирт объяснён историей: Венера, нагая, сушила волосы на берегу, её увидели сатиры, и она укрылась за миртовым кустом. Отсюда мирт над купальней. Овидий в «Фастах» так объясняет всё — обряд у него всегда след однажды случившегося происшествия.
+
+**Заметки об источнике для этой карточки не сохранилось** — записана только ссылка на «Фасты» IV.133-162.
+
 ## Commentary
+
+
+The first of April, the Veneralia. Ovid does not pray; he gives instructions. He tells the women what to do, and explains along the way why it is done so.
+
+The rite is a lavatio, the washing of a cult statue. The gold is taken off the marble neck, the goddess is washed all over, the neck is dried, the gold is put back, fresh flowers and a rose are given. The order is set out as a sequence of actions, and in it the deity is an object of maintenance, from which the jewellery must first be removed.
+
+The participants are listed exhaustively: "Latin mothers and young wives, and you who lack the fillet and the long dress". The last are women denied the right to wear a matron's clothing, that is, prostitutes. Ovid names them not by their occupation but by the garment they lack, and includes them in the rite on equal terms: on this day Venus recognises no rank.
+
+The myrtle is explained by a story: Venus, naked, was drying her hair on the shore, satyrs saw her, and she hid behind a myrtle bush. Hence the myrtle over the bath. Ovid explains everything this way in the Fasti — for him a rite is always the trace of something that once happened.
+
+**No provenance note survives for this card** — only the reference to Fasti 4.133-162 is recorded.
+

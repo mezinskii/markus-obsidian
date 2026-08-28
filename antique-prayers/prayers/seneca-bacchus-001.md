@@ -174,8 +174,27 @@ While the bright stars of the ancient heavens shall run in their courses; while 
 
 
 
-Повествовательная середина песни хора (Oed. 442-502), вырезанная из перевода выше. Ведётся в третьем лице — это рассказ о боге, а не обращение к нему: растерзание Пенфея, Ино и Палемон, тирренские пираты, Ликург и гелоны, свадьба Ариадны. Оригинал в карточке дан по молитвенной рамке, поэтому и перевод сведён к ней; вырезанное сохранено здесь целиком.
 
-and at length, after the rending of Pentheus' limbs, the Bacchanals, their bodies now freed from the frenzy, looked on their infamous deed as though they knew it not. Cadmean Ino, foster-mother of shining Bacchus, holds the realms of the deep, encircled by bands of Nereids dancing; over the waves of the mighty deep a boy holds sway, new come, the kinsman of Bacchus, no common god, Palaemon. Thee, O boy, a Tyrrhenian band once captured and Nereus allayed the swollen sea; the dark blue waters he changed to meadows. Thence flourish the plane-tree with vernal foliage and the laurel-grove dear to Phoebus; the chatter of birds sounds loud through the branches. Fast-growing ivy clings to the oars, and grape-vines twine at the mast-head. On the prow an Idaean lion roars; at the stern crouches a tiger of Ganges. Then the frightened pirates swim in the sea, and plunged in the water their bodies assume new forms: the robbers' arms first fall away; their breasts smite their bellies and are joined in one; a tiny hand comes down at the side; with curving back they dive into the waves, and with crescent-shaped tail they cleave the sea; and now as curved dolphins they follow the fleeing sails. On its rich stream has Lydian Pactolus borne thee, leading along its burning banks the golden waters; the Massagetan who mingles blood with milk in his goblets has unstrung his vanquished bow and given up his Getan arrows; the realms of axe-wielding Lycurgus have felt the dominion of Bacchus; the fierce lands of the Zalaces have felt it, and those wandering tribes whom neighbouring Boreas smites, and the nations which Maeotis' cold water washes, and they on whom the Arcadian constellation looks down from the zenith and the wagons twain. He has subdued the scattered Gelonians; he has wrested their arms from the warrior maidens; with downcast face they fell to earth, those Thermodontian hordes, gave up at length their light arrows, and became maenads. Sacred Cithaeron has flowed with the blood of Ophionian slaughter; the Proetides fled to the woods, and Argos, in his stepdame's very presence, paid homage to Bacchus. Naxos, girt by the Aegean sea, gave him in marriage a deserted maiden, compensating her loss with a better husband. Out of the dry rock there gushed Nyctelian liquor; babbling rivulets divided the grassy meadows; deep the earth drank in the sweet juices, white fountains of snowy milk and Lesbian wine mingled with fragrant thyme. The new-made bride is led to the lofty heavens; Phoebus a stately anthem sings, with his locks flowing down his shoulders, and twin Cupides brandish their torches. Jupiter lays aside his fiery weapons and, when Bacchus comes, abhors his thunderbolt.
+Хор фиванцев поёт Вакху, пока в городе свирепствует мор. В карточке — молитвенная рамка песни, начало и конец; повествовательная середина, идущая в третьем лице, обозначена швом `[…]`.
+
+Положение фиванцев щекотливо. Вакх — их земляк, сын фиванки Семелы, и Фивы же его не признали: Пенфей был растерзан, Ино обезумела. Город просит помощи у того, кого сам едва не изгнал, и напоминает о родстве: «обеты, что тебе славные твои Фивы приносят».
+
+Ещё поразительнее середина, которую карточка опускает: перечень деяний бога, обязательная часть гимна. Пенфей, Ино, тирренские пираты, Ликург — почти каждая история о том, как погиб не признавший его. Фивы славят божество списком его расправ, и двое в этом списке — фиванцы.
+
+Описан он при этом как красавец: «нежные руки», «девичья голова», «звёздное лицо», — и с тирсом. Женственность и оружие вместе; для Вакха это не противоречие, а определение.
+
+А просят у бога вина о том, чтобы он «развеял мрачные угрозы Эреба и жадную судьбу»: чтобы прекратилась чума. В поле deities значатся Ариадна и Палемон — они появляются в опущенной середине.
 
 ## Commentary
+
+
+The Theban chorus sings to Bacchus while plague rages in the city. The card gives the prayer frame of the song, its beginning and its end; the narrative middle, which runs in the third person, is marked by the seam `[…]`.
+
+The Thebans' position is delicate. Bacchus is their fellow-citizen, son of the Theban Semele, and Thebes is precisely where he was not acknowledged: Pentheus was torn apart, Ino driven mad. The city asks help of the god it nearly drove out, and reminds him of the kinship: "the vows which your own famous Thebes brings you".
+
+More striking still is the middle the card omits: the list of the god's deeds, an obligatory part of a hymn. Pentheus, Ino, the Tyrrhenian pirates, Lycurgus — nearly every story is about someone who failed to recognise him and perished. Thebes praises the god with a catalogue of his reprisals, and two names on the list are Theban.
+
+He is described meanwhile as a beauty: "soft arms", "maiden head", "starry face" — and carrying a thyrsus. Effeminacy and weaponry together; for Bacchus this is not a contradiction but a definition.
+
+And what is asked of the god of wine is that he "scatter the grim threats of Erebus and greedy fate": that the plague stop. The deities field names Ariadne and Palaemon — they appear in the omitted middle.
+

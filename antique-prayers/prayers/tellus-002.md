@@ -70,10 +70,23 @@ Hear me, please, and favor me. This I ask of You, Holy Mother, and may You willi
 
 ## Комментарий
 
-Продолжение той же «Precatio Terrae», что и у tellus-001: строки 23-29 из тридцати двух.
 
-Разрез между двумя карточками проходит не по швам текста. Строка 22 — «referamque gratis, diva, tibi merita fide», «и воздам тебе благодарность заслуженной верностью» — не попала ни в один из двух английских переводов и повисла между карточками. Строки 30-32, о тех, кому травы будут переданы, тоже не переведены.
+Вторая половина той же «Молитвы Земле» (`tellus-001`), и именно та, ради которой её переписывали. Первые двадцать две строки — восхваление; здесь начинается дело.
 
-Не путать со следующим за ней в издании отдельным текстом — «Precatio omnium herbarum», молитвой уже самим травам, а не Земле.
+Довод построен безукоризненно. «Herbas, quascumque generat maiestas tua, salutis causa tribuis cunctis gentibus» — травы, какие ни рождает твоё величие, ты даёшь всем народам ради здоровья. То есть общее решение уже принято и действует. «Hanc nunc mihi permittas medicinam tuam»: дозволь мне ныне это твоё врачевство. Просят не о новой милости, а о доступе к тому, что и так роздано всем; отказать значило бы сделать исключение.
+
+«Quidque ex his fecero, habeat eventum bonum» — и что бы я из них ни сделал, пусть будет с добрым исходом. Оговорка аптекарская: благословляют не растение, а изготовление. Молитва покрывает не сырьё, а работу с ним, — и это прямо показывает, кому она служила.
+
+Швы `[…]` отмечают строки 1-22 в начале и 30-32 в конце. Строка 22 («и я воздам тебе, богиня, заслуженное верностью») не переведена ни в этой карточке, ни в `tellus-001`; концовка, где говорится, кому травы будут переданы, английским переводом не передана.
 
 ## Commentary
+
+
+The second half of the same Prayer to Earth (`tellus-001`), and the half for whose sake it was copied. The first twenty-two lines are praise; here the business begins.
+
+The argument is faultlessly built. Herbas, quascumque generat maiestas tua, salutis causa tribuis cunctis gentibus — whatever herbs your majesty brings forth, you grant to all peoples for the sake of health. That is: the general decision has already been taken and is in force. Hanc nunc mihi permittas medicinam tuam: allow me now this medicine of yours. What is asked is not a new favour but access to what has been granted to everyone already; to refuse would be to make an exception.
+
+Quidque ex his fecero, habeat eventum bonum — and whatever I make of them, let it turn out well. An apothecary's clause: what is blessed is not the plant but the preparation. The prayer covers not the raw material but the work done on it — which shows plainly enough whom it served.
+
+The seams `[…]` mark lines 1-22 at the start and 30-32 at the end. Line 22 ("and I shall repay you, goddess, what you deserve, in good faith") is rendered neither on this card nor on `tellus-001`; the closing lines, on those to whom the herbs will be passed, are not carried over by the English.
+

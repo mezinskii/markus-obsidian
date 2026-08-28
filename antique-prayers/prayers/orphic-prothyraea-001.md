@@ -88,4 +88,27 @@ O venerable Goddess, hear my prayer, for labour pains are thy peculiar care. In 
 ## Комментарий
 
 
+
+Второй гимн собрания, и сразу за Гекатой стоят роды: последовательность начинается с рождения.
+
+Профирея значит «Та, что перед дверью». Имя есть место. Дверь здесь двойная: изваяние богини стояло у входа в дом, и она же ведает тем проходом, которым выходит в мир ребёнок. Культовое положение и телесная подробность названы одним словом.
+
+«Κλειδοῦχ᾽» — ключница. Она держит ключ от той двери, перед которой стоит, и роды описаны как отпирание. Тут же «λυσίζων᾽», разрешающая пояс, — то же слово, что в гимне Артемиде (`orphic-artemis-001`), покрывающее и брак, и разрешение от бремени.
+
+«Συμπάσχεις ὠδῖσι» — сострадаешь родовым мукам. Это редкость: греческие молитвы просят божество действовать, а не чувствовать, и о сопереживании в них почти не говорится. Здесь богиня не просто помогает — ей больно вместе с роженицей.
+
+«Ἀφανής, ἔργοισι δὲ φαίνῃ ἅπασι» — незримая, но во всех делах являемая. Формула, которая не удивила бы читателя куда более поздних вероучений: невидимое божество, опознаваемое по действиям.
+
 ## Commentary
+
+
+The second hymn of the collection, standing immediately after Hekate: the sequence begins with birth.
+
+Prothyraea means "she who is before the door". The name is a location. The door here is double: the goddess's image stood at the entrance of a house, and she also governs the passage by which a child comes into the world. A cult position and an anatomical particular are named by one word.
+
+Κλειδοῦχ᾽ — key-holder. She holds the key to the door she stands before, and birth is described as an unlocking. Beside it stands lysizōn᾽, girdle-loosener — the same word as in the hymn to Artemis (`orphic-artemis-001`), covering both marriage and delivery.
+
+Συμπάσχεις ὠδῖσι — you suffer with the birth-pangs. This is rare: Greek prayers ask a deity to act, not to feel, and of fellow-feeling they say almost nothing. Here the goddess does not merely help — she is in pain along with the woman.
+
+Ἀφανής, ἔργοισι δὲ φαίνῃ ἅπασι — unseen, yet manifest in all your works. A formula that would not surprise a reader of much later religions: an invisible deity, recognised by its operations.
+

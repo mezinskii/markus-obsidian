@@ -60,10 +60,19 @@ Phoebus Tirynthia, I pray, please accept this offering on my behalf. This gift I
 
 ## Комментарий
 
-Вотивная надпись из Филиппополя (Carmina Latina Epigraphica 1841 в издании Бюхелера), найденная, по сообщению Бормана, в святилище Аполлона — оттуда же происходит греческая стихотворная надпись некоего прорицателя. Ростовцев относил её ко времени Коммода. Два элегических дистиха.
 
-«Tirynthia munera» — не эпитет Феба, как выходит по английскому переводу, а «тиринфские дары»: Тиринфянин это Геракл. Бюхелер поясняет к первой строке — «Herculis arma uel signum armati», оружие Геракла или изваяние его в доспехе. Посвятитель приносит Аполлону образ Геракла, и отсюда третья строка: «h]ic orbem domuit, tu pacem, Phoebe, dedisti» — «он покорил круг земной, ты, Феб, даровал мир».
+Вотивная надпись из Филиппополя, найденная, по сообщению Бормана, в святилище Аполлона; Ростовцев относил её ко времени Коммода. Два элегических дистиха.
 
-Английский передаёт только первый дистих и передаёт вольно: «fortia dona» это «мощные дары», а не «the good health and strength that I have had». Строки 3-4 в переводе не отражены.
+Устроена она тоньше, чем кажется. Приносят Аполлону — но приносят **изображение Геракла**: «Tirynthia munera», тиринфские дары, то есть оружие героя или статую его в доспехе. И третья строка сталкивает двух богов: «он покорил круг земной, ты, Феб, даровал мир». Подвиг и умиротворение, сила и покой — а посвятитель просит, чтобы «и то и другое ответило согласием» его обетам. Вотивная надпись, которая заодно оказывается маленьким богословским рассуждением.
+
+Английский перевод карточки этого не видит: он читает «Tirynthia» как эпитет самого Феба и передаёт лишь первый дистих из двух.
 
 ## Commentary
+
+
+A votive inscription from Philippopolis, found — according to Bormann — in a sanctuary of Apollo; Rostovtzeff assigned it to the reign of Commodus. Two elegiac couplets.
+
+It is built more subtly than it looks. The offering is made to Apollo — but what is offered is **an image of Hercules**: Tirynthia munera, Tirynthian gifts, that is the hero's arms or a statue of him in armour. And the third line sets the two gods against each other: "he subdued the world; you, Phoebus, gave peace". Conquest and pacification, force and calm — and the dedicant asks that "both those things assent" to his vows. A votive inscription that turns out to be a small theological argument as well.
+
+The card's English translation misses this: it reads Tirynthia as an epithet of Phoebus himself and renders only the first of the two couplets.
+

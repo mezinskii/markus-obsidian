@@ -96,4 +96,23 @@ Diana, who dwells on the Aventine and Algidus hilltops, graciously lend Your ear
 ## Комментарий
 
 
+
+«Юбилейная песнь» — единственный античный гимн, о котором известно всё: кто заказал, кто написал, кто пел, когда и где.
+
+Августу нужен был текст для Секулярных игр 17 г. до н. э.; Гораций написал; хор из двадцати семи мальчиков и двадцати семи девочек исполнил его на Палатине и на Капитолии. Протокол игр, вырезанный на камне, называет и это: «carmen composuit Q. Horatius Flaccus». Тот же протокол дал корпусу `apollo-006`, `juno-002`, `juno-003`, `jupiter-005` и `tellus-003` — прозаические формулы, звучавшие в те же дни.
+
+Сопоставить одно с другим стоит. Формулы протокола юридические, безличные, с перекрёстными ссылками; песнь Горация литературная, с оглядкой на греческий пеан. Государство заказало то и другое разом, для одного праздника.
+
+Строфа об Илифии показывает работу вблизи: «угодно ли тебе зваться Луциной или Родительницей» — Гораций вставляет в гимн ту же оговорку о неверном имени, что стоит и в подлинных формулах.
+
 ## Commentary
+
+
+The Carmen Saeculare is the one ancient hymn about which everything is known: who commissioned it, who wrote it, who sang it, when and where.
+
+Augustus needed a text for the Secular Games of 17 BC; Horace wrote it; a chorus of twenty-seven boys and twenty-seven girls performed it on the Palatine and the Capitol. The record of the games, cut in stone, states this too: carmen composuit Q. Horatius Flaccus. The same record gave this corpus `apollo-006`, `juno-002`, `juno-003`, `jupiter-005` and `tellus-003` — the prose formulae spoken on those same days.
+
+The two are worth setting side by side. The formulae of the record are legal, impersonal, full of cross-references; Horace's hymn is literary, with an eye on the Greek paean. The state commissioned both at once, for one festival.
+
+The stanza on Ilithyia shows the workmanship close up: "whether you approve being called Lucina or Genitalis" — Horace builds into his hymn the same safeguard against a wrong name that stands in the genuine formulae.
+

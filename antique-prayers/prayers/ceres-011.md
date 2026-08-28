@@ -59,4 +59,23 @@ For you, Goddess of the Fruits of the Earth, your secret rites I will fund; in y
 ## Комментарий
 
 
+
+Из «Геркулеса в безумии» Сенеки: Церере обещают обряды, если Геркулес вернётся из преисподней.
+
+Обет устроен на противоречии, и Сенека его подчёркивает. «Тебе с безмолвной верностью молчаливый Элевсин будет вздымать длинные факелы»: muta fide, tacita — обещают то, о чём нельзя говорить. Элевсинские таинства связаны обетом молчания, и единственное, что можно посулить вслух, — это молчание о них.
+
+Факелы при этом названы длинными неспроста: имеется в виду ночное шествие мистов из Афин в Элевсин, больше двадцати километров с огнём в руках. Вся тайна сведена к тому единственному, что видно снаружи.
+
+Ссылка в карточке указывает на строку 229; на деле это 299-302.
+
 ## Commentary
+
+
+From Seneca's Hercules Furens: rites are promised to Ceres if Hercules returns from the underworld.
+
+The vow is built on a contradiction, and Seneca points it up. "For you, with silent faith, hushed Eleusis will brandish its long torches": muta fide, tacita — what is promised is the thing that may not be spoken of. The Eleusinian mysteries are bound by an oath of silence, and the only thing that can be promised aloud is silence about them.
+
+The torches are called long for a reason: what is meant is the night procession of initiates from Athens to Eleusis, more than twenty kilometres with fire in hand. The whole secret is reduced to the one thing visible from outside.
+
+The card's reference points to line 229; in fact this is 299-302.
+

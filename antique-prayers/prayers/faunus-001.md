@@ -10,9 +10,11 @@ original_lang: la
 source:
   author: Horace
   work: Carmina
-  section: 3.8.1-8
+  section: 3.18.1-8
   note: >-
-    thelatinlibrary.com, Horatius Carmina III.8.1-8
+    thelatinlibrary.com, Horatius Carmina III.18.1-8. Ссылка в карточке
+    значилась как 3.8.1-8 — исправлено: Carm. 3.8 начинается словами «Martiis
+    caelebs quid agam Kalendis», «Faune, Nympharum fugientum amator» — это 3.18
 occasion:
 deities:
   - Faunus
@@ -72,4 +74,23 @@ Amorous Faunus, from whom the Nymphs flee, step lightly across my boundaries and
 ## Комментарий
 
 
+
+Начало оды, которую Гораций написал к Фавналиям — деревенскому празднику 5 декабря; вторая её половина, здесь не приведённая, описывает сам праздник, когда волк бродит среди овец, а подёнщик пляшет на ненавистной земле.
+
+Просьба необычна тем, что бога просят **уйти**: «пройди кротко и уйди». Фавн для стад опасен, и хозяин хочет не его присутствия, а его благополучного прохода через свои рубежи. «Малые питомцы» — новорождённые ягнята, ради которых всё и говорится.
+
+Плата названа в настоящем времени: козлёнок падает, вина не иссякают, алтарь дымится. Это не обещание на будущее, а предъявление уже действующего договора — годовое содержание, выплачиваемое исправно. Do ut des здесь вывернуто: не «дам, если дашь», а «даю всегда, поэтому и ты веди себя прилично».
+
+**Исправлена ссылка:** в карточке значилось Carm. 3.8 — это ода «Martiis caelebs quid agam Kalendis»; «Faune, Nympharum fugientum amator» — 3.18.
+
 ## Commentary
+
+
+The opening of the ode Horace wrote for the Faunalia, the country festival of 5 December; its second half, not given here, describes the feast itself, when the wolf strolls among the sheep and the labourer dances on the earth he hates.
+
+The request is unusual in that the god is asked to **leave**: "pass gently and go away". Faunus is dangerous to flocks, and the owner wants not his presence but his safe passage across the boundaries. The "little nurslings" are the newborn lambs, for whose sake the whole thing is said.
+
+The payment is stated in the present tense: the kid falls, the wine does not run short, the altar smokes. This is not a promise for the future but the production of a contract already in force — an annual retainer, paid punctually. Do ut des is turned inside out: not "I will give if you give", but "I always give, so behave yourself".
+
+**The reference has been corrected:** the card read Carm. 3.8, which is the ode Martiis caelebs quid agam Kalendis; Faune, Nympharum fugientum amator is 3.18.
+

@@ -54,6 +54,23 @@ Hail, Carmentis, Goddess of song and prophecy. From Your father Sebathus, Telon,
 
 
 
-Провенанс исправлен с ancient на modern. «Ritus Carmentis» — не античное сочинение: под этим названием ходят современные реконструкции обряда Карменталий (Nova Roma), собранные по разрозненным местам Вергилия и Овидия. Дословного античного оригинала у текста нет и не будет.
+
+**Это современный текст.** «Ritus Carmentis» — обряд, составленный Nova Roma, организацией, занятой возрождением римской религии; поле provenance стоит `modern`, и без этой пометы карточку читать нельзя.
+
+Содержание её — сводная биография богини, какой ни один древний автор не рассказывает. Отдельные звенья подлинные: Кармента-Никострата, мать Эвандра, приплывшая с ним в Италию и указавшая место будущего Рима, — предание известное; Телон, царь телебоев, и Эбал на Капри есть у Вергилия. Но соединение всего этого в одну жизнь — от отца Себата и Неаполя через Капри и Спарту к сабинянам и Палатину — сделано в новое время.
+
+Осуждать это не за что: реконструкция и есть реконструкция, и составитель не выдавал её за находку. Дело корпуса — не запрещать такие тексты, а помечать их, чтобы читатель знал, что держит в руках.
+
+Стоит, однако, отличать этот случай от других в том же собрании. В карточках `carmenta-004`, `carmenta-010` и `carmenta-011` под видом молитв Карменте стоят подлинные античные строки, к ней не относящиеся, — там подмена. Здесь ничего не подменено: текст просто новый.
 
 ## Commentary
+
+
+**This is a modern text.** The Ritus Carmentis is a rite composed by Nova Roma, an organisation devoted to reviving Roman religion; the provenance field reads `modern`, and the card cannot be read without that mark.
+
+Its content is a composite biography of the goddess such as no ancient author tells. Individual links are genuine: Carmenta-Nicostrate, mother of Evander, who sailed with him to Italy and pointed out the site of the future Rome, is a well-known tradition; Telon, king of the Teleboae, and Oebalus on Capri are in Virgil. But the joining of all this into a single life — from a father Sebatus and Naples by way of Capri and Sparta to the Sabines and the Palatine — is modern work.
+
+There is nothing to condemn in that: a reconstruction is a reconstruction, and its author did not present it as a discovery. The corpus's business is not to forbid such texts but to label them, so that a reader knows what is in hand.
+
+This case should, however, be distinguished from others in the same set. On cards `carmenta-004`, `carmenta-010` and `carmenta-011` genuine ancient lines that have nothing to do with Carmenta stand as prayers to her — those are substitutions. Here nothing has been substituted: the text is simply new.
+

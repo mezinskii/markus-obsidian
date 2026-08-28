@@ -50,4 +50,27 @@ Mother Earth, indeed to You I pray, settle lightly on these bones, as she knew t
 ## Комментарий
 
 
+
+Римская надпись, и это полная редакция того же типового стиха, который в сокращённом виде стоит на далматинском камне (`terra-funerary-003`); о мастерских, торговавших готовыми концовками, сказано там.
+
+Здесь есть добавление, которого в далматинском варианте нет, и добавление замечательное: «и чтобы всякий, кто искренне воздаёт честь своим, донёс счастливый путь до вышних».
+
+Благословение обращено не к покойному, а к постороннему — к тому, кто чтит своих мёртвых. То есть к читателю, стоящему сейчас перед камнем. Надпись расплачивается с прохожим за прочтение: остановился, помянул — получи за это счастливый путь.
+
+В этом и состоит устройство римского надгробия. Оно ставилось у дороги, обращалось к идущему мимо, часто говорило от лица покойного и почти всегда чего-то от прохожего хотело — внимания, доброго слова, соблюдения обряда. Здесь ему за это назначена плата.
+
+**Заметки об источнике для этой карточки не сохранилось** — записан только номер CIL VI.9204.
+
 ## Commentary
+
+
+A Roman inscription, and this is the full recension of the same stock verse that stands in shortened form on the Dalmatian stone (`terra-funerary-003`); the workshops that dealt in ready-made endings are discussed there.
+
+Here there is an addition the Dalmatian version lacks, and a remarkable one: "and may whoever sincerely renders honour to his own carry a happy course through to the gods above".
+
+The blessing is directed not at the dead but at an outsider — at whoever honours his own dead. That is, at the reader standing in front of the stone. The inscription pays the passer-by for reading it: you stopped, you remembered, take a fortunate journey for it.
+
+This is precisely how a Roman tomb was constructed. It stood beside a road, addressed the man walking past, often spoke in the voice of the dead, and nearly always wanted something from the passer-by — attention, a kind word, the observance of a rite. Here a fee has been fixed for it.
+
+**No provenance note survives for this card** — only the number CIL VI.9204 is recorded.
+

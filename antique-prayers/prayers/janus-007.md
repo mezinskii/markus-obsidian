@@ -67,4 +67,23 @@ Biformed Janus, source of years gliding by in silence, who alone among the immor
 ## Комментарий
 
 
+
+Зачин «Фаст» — Овидий открывает поэму о римском календаре первым днём года и первым богом.
+
+«Solus de superis qui tua terga vides» — «единственный из вышних, кто видит свою спину». Самая известная строка о Янусе, и она не описание, а определение: двуликость здесь не примета внешности, а особое положение среди богов, единственная в своём роде способность.
+
+Дальше дважды «dexter ades», будь благосклонен: к вождям — и к сенату с народом. Формула повторена буквально, и в этом её действие: обе части государства получают ровно одинаковую просьбу, ни одна не старше другой.
+
+«Resera nutu candida templa tuo» — «кивком своим отвори белоснежные храмы». Глагол выбран по божеству: reserare значит отодвинуть засов. У бога дверей просят не милости вообще, а того единственного действия, которое он и есть.
+
 ## Commentary
+
+
+The proem of the Fasti — Ovid opens his poem on the Roman calendar with the first day of the year and the first of the gods.
+
+Solus de superis qui tua terga vides — "alone among the gods you see your own back". The most famous line ever written about Janus, and it is not a description but a definition: two-facedness here is not a feature of appearance but a unique standing among the gods, a capacity no one else has.
+
+Then dexter ades twice, be favourable: to the leaders — and to the senate and people. The formula is repeated word for word, and that is how it works: both halves of the state receive exactly the same request, neither ranking above the other.
+
+Resera nutu candida templa tuo — "with your nod unbar the shining temples". The verb is chosen to fit the god: reserare means to draw back a bolt. Of the god of doors one asks not favour in general but the single action that he simply is.
+

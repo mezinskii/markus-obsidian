@@ -91,4 +91,23 @@ Hermes, I call, whom fate decrees to dwell near to Kokytos, the famed stream of 
 ## Комментарий
 
 
+
+Тот же бог, что и в двадцать восьмом гимне (`orphic-hermes-001`), но подземный, и потому гимн отдельный, с другим воскурением: стиракс вместо ладана. Собрание разводит небесное и хтоническое лицо одного божества по разным обращениям — как римляне разводили Ларов домашних и дорожных (`lares-003`).
+
+И родословная здесь другая, притом неслыханная: «Διωνύσοιο γένεθλον καὶ Παφίης κούρης Ἀφροδίτης» — порождение Диониса и Афродиты. Не Зевса и Майи. В общепринятом мифе от Гермеса и Афродиты рождается Гермафродит; здесь родство перевёрнуто, и Гермес оказывается их сыном. Орфические тексты постоянно так поступают: они не спорят с обычной мифологией, а предъявляют другую.
+
+«Ἀνυπόστροφον οἶμον ἀνάγκης» — невозвратная тропа необходимости. Дорога, по которой ведут, названа односторонней прежде, чем сказано, куда она ведёт.
+
+«Εὐιέρῳ ῥάβδῳ θέλγων… καὶ πάλιν ὑπνώοντας ἐγείρεις» — жезлом чаруя… и снова пробуждаешь спящих. Жезл делает и то и другое, и это гомеровское свойство Гермеса, уцелевшее нетронутым внутри божества, в остальном неузнаваемого.
+
 ## Commentary
+
+
+The same god as in the twenty-eighth hymn (`orphic-hermes-001`), but chthonic, and therefore given a hymn of his own with a different fumigation: storax instead of frankincense. The collection separates the celestial and the chthonic face of one deity into different addresses — as the Romans separated the household Lares from those of the road (`lares-003`).
+
+And the parentage here is different, and unheard of: Διωνύσοιο γένεθλον καὶ Παφίης κούρης Ἀφροδίτης — offspring of Dionysus and of Aphrodite. Not of Zeus and Maia. In the received myth Hermes and Aphrodite produce Hermaphroditus; here the relation is inverted and Hermes becomes their son. Orphic texts do this constantly: they do not argue with ordinary mythology, they present another one.
+
+Ἀνυπόστροφον οἶμον ἀνάγκης — the path of necessity from which there is no turning back. The road along which souls are led is called one-way before it is said where it leads.
+
+Εὐιέρῳ ῥάβδῳ θέλγων … καὶ πάλιν ὑπνώοντας ἐγείρεις — charming all with the holy wand … and again you wake the sleepers. The wand does both, and this is the Homeric attribute of Hermes, surviving untouched inside a deity otherwise unrecognisable.
+

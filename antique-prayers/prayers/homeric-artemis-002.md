@@ -109,4 +109,23 @@ I sing of Artemis with shafts of gold, strong-voiced, the revered virgin, deer-s
 ## Комментарий
 
 
+
+Гимн держится на одном повороте, и поворот этот в середине, при слове «αὐτὰρ ἐπὴν» — «но когда».
+
+До него — охота, и описана она через звук. Трепещут вершины гор, «густотенистый лес отзывается страшно от крика зверей», содрогается земля и рыбное море. Не видно ничего: слышно, как умирают животные, и по этому шуму опознаётся присутствие богини. «Θηρῶν ὀλέκουσα γενέθλην» — губя род зверей, — сказано о той, кого зовут владычицей зверей.
+
+После поворота она распускает лук и ведёт хоровод Муз и Харит в Дельфах. Резни и пляски разделены одним союзом, и никакого объяснения не даётся: и то и другое — она.
+
+В этом древнее понимание божества, которое позднейшему читателю даётся труднее всего. Артемида не «богиня охоты, а также покровительница искусств»; охота и хоровод для грека — одно и то же движение, ловкое, стремительное, происходящее в горах. Гимн не примиряет две стороны, он просто ставит их подряд.
+
 ## Commentary
+
+
+The hymn turns on one hinge, and the hinge is in the middle, at the words autar epēn — "but when".
+
+Before it, the hunt, and the hunt is rendered as sound. The peaks of the high mountains tremble, "the shadowy wood cries out terribly at the shrieking of beasts", earth and the fishy sea shudder. Nothing is seen: what is heard is animals dying, and the goddess's presence is identified by that noise. Thērōn olekousa genethlēn — destroying the race of wild things — is said of the one called mistress of wild things.
+
+After the hinge she unstrings her bow and leads the dance of the Muses and Graces at Delphi. Slaughter and dancing are separated by a single conjunction, and no explanation is offered: both are her.
+
+Here is the ancient understanding of divinity that a later reader finds hardest. Artemis is not "goddess of the hunt, and also patroness of the arts"; for a Greek the hunt and the dance are one and the same motion — deft, rapid, taking place in the mountains. The hymn does not reconcile two sides, it simply sets them one after the other.
+

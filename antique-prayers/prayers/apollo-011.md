@@ -58,4 +58,19 @@ From the very outset I pray to You, Apollo, inventor of music and of all the hea
 ## Комментарий
 
 
+
+Обращение, которым открываются «Лекарства от любви» — Овидиево руководство по тому, как разлюбить.
+
+Аполлон призван здесь ровно в двух своих качествах разом: «обретатель песни и врачующей помощи». В этом и шутка, и довод. Поэма притворяется медицинским трактатом, а любовь в ней — болезнь; значит, нужен бог, который одновременно врач и поэт, потому что и сам автор берётся быть тем и другим.
+
+Два стиха, а вся программа книги в них уже изложена.
+
 ## Commentary
+
+
+The invocation that opens the Remedia Amoris — Ovid's handbook on how to fall out of love.
+
+Apollo is invoked here in exactly two of his capacities at once: "discoverer of song and of healing aid". That is both the joke and the argument. The poem pretends to be a medical treatise, and love in it is the disease; so what is needed is a god who is physician and poet together, because the author is claiming to be both himself.
+
+Two lines, and the whole programme of the book is already set out in them.
+

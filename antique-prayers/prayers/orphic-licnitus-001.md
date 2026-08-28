@@ -75,4 +75,23 @@ Liknitos Dionysos, bearer of the vine, thee I invoke to bless these rites divine
 ## Комментарий
 
 
+
+Дионис Ликнит — «тот, что в ликне». Ликн есть вещь простая: плоская плетёная корзина для веяния зерна. В неё же клали новорождённого, и её же несли в дионисийском и элевсинском шествии, укрыв то, что в ней лежало.
+
+В одном предмете сошлись три дела: обмолот, колыбель и таинство. Прозвище бога держит все три сразу, и ни одно не следует выбирать в ущерб прочим — Дионис в этой корзине и зерно, и младенец, и то, чего нельзя видеть.
+
+Происхождение здесь опять не общепринятое: «νυμφῶν ἔρνος ἐραστὸν ἐυστεφάνου τ᾽ Ἀφροδίτης», любезный побег нимф и прекрасновенчанной Афродиты. Речь скорее о вскормлении, чем о рождении, но и оно орфическое: «по замыслам Зевса, приведённый к величавой Ферсефоне, был вскормлен». Кормилицей названа владычица мёртвых.
+
+«Ἐπ᾽ εὐχαῖς ταῖσδε κικλήσκω» — при этих молитвах призываю. Гимн указывает на самого себя: «эти молитвы» — то, что сейчас произносится. Указание на обрядовое время, каких в собрании много и которые видны также по рубрикам с воскурениями (`orphic-amphietus-001`).
+
 ## Commentary
+
+
+Dionysus Liknites — "he of the liknon". The liknon is a plain object: a flat wicker basket for winnowing grain. A newborn was laid in one, and one was carried in Dionysiac and Eleusinian procession with its contents covered.
+
+Three things meet in a single implement: threshing, a cradle, and a mystery. The god's title holds all three at once, and none should be chosen at the expense of the others — Dionysus in that basket is grain, and infant, and the thing that must not be seen.
+
+The descent here is again not the received one: νυμφῶν ἔρνος ἐραστὸν ἐυστεφάνου τ᾽ Ἀφροδίτης, beloved shoot of the nymphs and of fair-crowned Aphrodite. The reference is more to nurture than to birth, but that too is Orphic: "by the counsels of Zeus, brought to noble Persephone, he was reared". His nurse is named as the queen of the dead.
+
+Ἐπ᾽ εὐχαῖς ταῖσδε κικλήσκω — at these prayers I call. The hymn points at itself: "these prayers" are what is being spoken now. An indication of ritual time, of which there are many in the collection, as the fumigation rubrics also show (`orphic-amphietus-001`).
+

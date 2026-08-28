@@ -67,4 +67,23 @@ O Ceres and Libera, whose sacred worship is contained in the most important and 
 ## Комментарий
 
 
+
+Заключение пятой книги Верресовых речей: Цицерон, закончив обвинение, обращается к богам, чьи храмы Веррес обобрал.
+
+Это не молитва в обряде, а риторический приём — но приём, работающий по обрядовым правилам. Цицерон перечисляет богинь с их владениями («что населяете те энненские озёра и рощи»), напоминает об их благодеяниях человечеству (хлеб, законы, кротость, человечность) и лишь потом переходит к делу. Тот же порядок, что и в настоящей молитве: назвать, обосновать, попросить.
+
+И просит он не о победе в суде, а о наказании — обращая заключение речи в проклятие. Суд к тому времени был уже выигран: Веррес бежал из Рима, не дождавшись приговора, и пятая книга произнесена не была. Молитва написана для читателя.
+
+**Исправлена книга:** в карточке значилась четвёртая, но §187 стоит в пятой.
+
 ## Commentary
+
+
+The conclusion of the fifth book of the Verrines: Cicero, having finished his indictment, turns to the gods whose temples Verres had stripped.
+
+This is not a prayer within a rite but a rhetorical device — though a device that works by ritual rules. Cicero names the goddesses with their domains ("who dwell about those lakes and groves of Henna"), recalls their benefactions to mankind (grain, laws, gentleness, civilisation), and only then comes to the point. The same order as in a real prayer: name, justify, ask.
+
+And what he asks for is not victory in court but punishment — turning the close of a speech into a curse. The case had in fact already been won: Verres fled Rome without waiting for the verdict, and the fifth book was never delivered. The prayer was written for a reader.
+
+**The book has been corrected:** the card had the fourth, but §187 stands in the fifth.
+

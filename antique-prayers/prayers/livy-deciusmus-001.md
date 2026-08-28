@@ -79,4 +79,27 @@ Janus, Jupiter, Father Mars, Quirinus, Bellona, Lares, You divine Novensiles and
 ## Комментарий
 
 
+
+Девоция — обряд, которому нет параллели ни в одной другой религии Средиземноморья. Консул посвящает подземным богам себя вместе с неприятельским войском, а затем въезжает в строй врага и погибает. Понтифик диктует ему слова, консул повторяет: в тоге-претексте, с покрытой головой, стоя на копье.
+
+Перечень божеств — самый длинный в латинском языке: Янус, Юпитер, Марс, Квирин, Беллона, Лары, Новенсилы, Индигеты, «боги, во власти которых мы и враги наши», и Маны. Порядок обрядовый, от бога входа до мёртвых, и составлен он так, чтобы не осталось никого неупомянутого. «Divi Novensiles» и «Di Indigetes» — боги новые и боги исконные: пара, которой формула охватывает и пришлых, и своих.
+
+«Vos precor veneror, veniam peto feroque» — та же страховка удвоением глаголов, что и в других древних формулах: молю и чту, испрашиваю и приемлю.
+
+Сила обряда в его необратимости. Ливий отдельно оговаривает, что делать, если посвятивший себя не погибнет: закопать изображение в семи футах под землёй и принести искупительную жертву — потому что человек уже отдан и вернуть его нельзя.
+
+**Историческая оговорка.** Предание приписывает девоцию троим Дециям из одного рода, отцу, сыну и внуку. Повторение в трёх поколениях выглядит семейным преданием, размноженным вспять, и историки принимают его с осторожностью; ритуальная формула при этом подлинно древняя.
+
 ## Commentary
+
+
+The devotio is a rite with no parallel in any other religion of the Mediterranean. A consul devotes to the gods below both himself and the enemy army, then rides into the enemy line and dies. A pontifex dictates the words and the consul repeats them: in the bordered toga, head veiled, standing on a spear.
+
+The list of deities is the longest in Latin: Janus, Jupiter, Mars, Quirinus, Bellona, the Lares, the Novensiles, the Indigetes, "gods in whose power we and our enemies are", and the Manes. The order is ritual, running from the god of entrance to the dead, and is composed so that no one is left unmentioned. Divi Novensiles and Di Indigetes — new gods and native gods: the pair by which the formula covers both incomers and its own.
+
+Vos precor veneror, veniam peto feroque — the same insurance by doubled verbs as in other archaic formulae: I pray and revere, I seek and accept.
+
+The force of the rite lies in its irreversibility. Livy specifies separately what to do if the man who has devoted himself does not die: bury an image of him seven feet deep and offer an expiatory sacrifice — because the man has already been handed over and cannot be taken back.
+
+**A historical caution.** Tradition ascribes the devotio to three Decii of one family, father, son and grandson. Repetition across three generations looks like a family legend projected backwards, and historians take it cautiously; the ritual formula itself is genuinely ancient.
+

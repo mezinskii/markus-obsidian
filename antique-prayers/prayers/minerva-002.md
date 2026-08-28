@@ -68,4 +68,27 @@ To you, you alone, O warlike Pallas Minerva, I pray, friend and companion in all
 ## Комментарий
 
 
+
+Геркулес вернулся из преисподней, перебил захватчиков и созывает богов на очистительную жертву. Через несколько строк на него сойдёт безумие, и он убьёт собственных детей: молитва стоит ровно на пороге катастрофы, и Сенека ставит её туда намеренно.
+
+«Laborum socia et adiutrix» — спутница и помощница в трудах. Основание правдивое: Афина в мифе действительно помогала ему в подвигах, держала за него небо, спугнула стимфалийских птиц. Он зовёт не покровительницу вообще, а сослуживицу.
+
+Описание богини — это описание изваяния: эгида на левой руке, окаменяющий лик, свирепые угрозы на нём. Сенека видит не миф, а храмовую статую, и молящийся у него обращается к тому, что стоит перед глазами.
+
+«Geminum numen Phoebus et Phoebi soror» — двойное божество, Феб и сестра Феба. Близнецы названы одним словом: два бога считаются за одну силу.
+
+В поле deities карточки указаны Минерва, Аполлон и Диана. В латыни есть и четвёртый — «укротитель Ликурга и Красного моря», то есть Вакх, названный не по имени, а по индийскому походу.
+
 ## Commentary
+
+
+Hercules has come back from the underworld, killed the usurpers, and is summoning the gods to a purificatory sacrifice. Within a few lines madness will descend on him and he will kill his own children: the prayer stands exactly on the threshold of the catastrophe, and Seneca puts it there deliberately.
+
+Laborum socia et adiutrix — companion and helper in his labours. The ground is truthful: in myth Athena really did assist him in the labours, held up the sky for him, startled the Stymphalian birds. He is calling not a patroness in general but a fellow worker.
+
+The description of the goddess is a description of a statue: the aegis on the left arm, the petrifying face, the fierce threats upon it. Seneca sees not a myth but a temple image, and his suppliant addresses what is standing in front of him.
+
+Geminum numen Phoebus et Phoebi soror — a twin divinity, Phoebus and Phoebus' sister. The twins are named as one thing: two gods counted as a single power.
+
+The card's deities field lists Minerva, Apollo and Diana. The Latin has a fourth — "the tamer of Lycurgus and of the Red Sea", that is Bacchus, named not by his name but by his Indian campaign.
+

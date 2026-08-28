@@ -66,8 +66,27 @@ I sing of the mother of Ploutos, Demeter Olympia, in the garland-wearing season,
 
 ## Комментарий
 
-Аттический застольный сколий, сохранённый Афинеем (XV, стр. Казобона 694). У Афинея он идёт в знаменитом ряду: перед ним сколий Палладе Афине, после — Лето с Аполлоном и Артемидой, затем Пану Аркадскому. Это короткие песни, которые пели за пиром по очереди, передавая миртовую ветвь.
 
-Спорное место — третья строка. Распознавание даёт «zai», а латинское z в этом скане стоит и за κ, и за π: четырьмя строками ниже «Az0A40» — это Ἀπόλλω. Читаю «παῖ Διὸς Περσεφόνη», «Персефона, дитя Зевса»; за это же говорит английский карточки. Но по печатному изданию место не выверено.
+Аттический сколий — застольная песня. Их пели на пирах по очереди, передавая миртовую ветвь от гостя к гостю; Афиней сохранил целый их ряд, и этот стоит между сколием Палладе и сколием детям Лето.
+
+Оттого четыре строки и устроены так: сперва хвала — «матерь богатства, олимпийскую, пою», — а в конце просьба уже не о себе: «χαίρετον, εὖ δὲ τήνδ᾽ ἀμφέπετον πόλιν», радуйтесь обе и хорошо оберегайте этот город. За вином молятся о полисе. Домашнее веселье и гражданская молитва помещаются в одну песенку, и это не смешение, а обычный порядок вещей.
+
+Оба глагола двойственного числа: χαίρετον, ἀμφέπετον. В аттическом культе Деметру и Персефону звали τὼ θεώ, «Две Богини», и грамматика это удерживает: не две богини по отдельности, а пара.
+
+«Πλούτου μητέρ᾽» — матерь богатства. Та же связь, что в концовке гомеровского гимна Деметре, где посвящённому в дом посылают Плутоса (`homeric-demeter-001`).
+
+**Как добыт этот текст.** Он снят с текстового слоя издания Мейнеке и потребовал разбора. «Ζήμητρα» выправлено в «Δήμητρα» — Δ распознано как Ζ. Решающее место в третьей строке: скан даёт «zai», и это могло быть καὶ. Но латинское z в том же скане стоит и за κ, и за π — четырьмя строками ниже «Az0A40» означает Ἀπόλλω, — и потому здесь читается παῖ, «дитя». Английский перевод карточки («child of Zeus») подтверждает, что так и было напечатано.
 
 ## Commentary
+
+
+An Attic skolion — a drinking song. They were sung in turn at symposia, a myrtle branch passing from guest to guest; Athenaeus preserved a whole run of them, and this one stands between a skolion to Pallas and one to Leto's children.
+
+Hence the construction of these four lines: first praise — "mother of wealth, Olympian, I sing" — and at the end a request that is no longer for oneself: chairetōn, eu de tēnd' amphepetōn polin, rejoice, you two, and tend this city well. Over wine, men pray for the polis. Domestic conviviality and civic prayer fit into one short song, and this is not a confusion but the ordinary state of things.
+
+Both verbs are in the dual: chairetōn, amphepetōn. In Attic cult Demeter and Persephone were called tō theō, "the Two Goddesses", and the grammar preserves it: not two goddesses separately but a pair.
+
+Πλούτου μητέρ᾽ — mother of wealth. The same connection as at the close of the Homeric Hymn to Demeter, where Ploutos is sent into the initiate's house (`homeric-demeter-001`).
+
+**How this text was obtained.** It was taken from the text layer of Meineke's edition and required analysis. Ζήμητρα was corrected to Δήμητρα — Δ had been read as Ζ. The decisive place is in line 3: the scan gives "zai", which might have been καί. But Latin z in this same scan stands for both κ and π — four lines below, "Az0A40" means Ἀπόλλω — and so it is read here as παῖ, "child". The card's English ("child of Zeus") confirms that this is what was printed.
+

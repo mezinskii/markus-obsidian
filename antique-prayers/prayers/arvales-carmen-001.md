@@ -105,4 +105,23 @@ Lasas assist us, Lasas delight us, Lasas come to our aid! Neither plague nor rui
 ## Комментарий
 
 
+
+Песнь Арвальских братьев, вырезанная на камне в 218 г. н. э. в составе протокола их обряда, — древнейший связный латинский текст, какой до нас дошёл.
+
+Главное в нём то, что жрецы III века пели его, **уже не понимая слов**. Камень сохранил не текст, а исполнение: каждый стих трижды, «triumpe» пятикратно, — и написание между повторами плывёт (pleores / pleoris, sins / sers, semunis / simunis), потому что писец записывал звучание, которого не мог разобрать.
+
+Перед нами, строго говоря, звукозапись, а не документ. Оттого и чтение поныне во многом гадательно: «sta berber» никем не переведено убедительно, и в русском стоит условное «стань, бей».
+
+Живая литургия способна пережить свой язык на века и работать одним звуком. Арвальская песнь — самое чистое тому свидетельство в латыни.
+
 ## Commentary
+
+
+The song of the Arval Brethren, cut in stone in AD 218 as part of the record of their rite — the oldest continuous Latin text that has come down to us.
+
+The essential thing about it is that the priests of the third century sang it **no longer understanding the words**. The stone preserves not a text but a performance: each verse three times, triumpe five times — and the spelling drifts between repetitions (pleores / pleoris, sins / sers, semunis / simunis), because the scribe was writing down a sound he could not parse.
+
+What we have, strictly speaking, is a recording rather than a document. Hence the reading remains largely conjectural: sta berber has never been convincingly translated, and the Russian gives a tentative "stand, strike".
+
+A living liturgy can outlive its own language by centuries and go on working by sound alone. The Arval song is the purest evidence of this in Latin.
+

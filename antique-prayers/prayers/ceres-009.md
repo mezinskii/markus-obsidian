@@ -128,4 +128,23 @@ By Peace Ceres nursed, Her foster-child live in peace.
 ## Комментарий
 
 
+
+Овидий, «Фасты», январские Паганалии — деревенский праздник посева.
+
+Молитва длинная и по-хозяйски подробная. Просят о росте; о ясной погоде при севе и о дожде, когда семя уже скрыто; чтобы птицы не налетели на всходы; чтобы ржа не тронула, а посев не сгнил от чрезмерной тучности; чтобы поле было чисто от куколя и овсюга. Агрономический перечень, положенный на стих.
+
+Отдельно стоит просьба к муравьям: «И вы, муравьи, пощадите зарытые зёрна: после жатвы добычи будет больше». К насекомым обращаются как к договаривающейся стороне и предлагают им отсрочку с выгодой.
+
+А кончается всё политикой. Мотыги обращались в копья, из граблей ковали шлемы — но теперь «скованные цепями уже давно лежат Войны под вашей стопою». И последняя строка ставит всё на место: «Мир питает Цереру, и Церера — питомица Мира».
+
 ## Commentary
+
+
+Ovid's Fasti, the Paganalia in January — the country festival of sowing.
+
+The prayer is long and thoroughly practical. It asks for growth; for clear weather at the sowing and rain once the seed is covered; that birds should not descend on the shoots; that rust should not touch them, and that the crop should not rot from excessive richness; that the field be clean of darnel and wild oats. An agronomist's checklist set to verse.
+
+The petition to the ants stands apart: "And you, ants, spare the buried grain: after the harvest the plunder will be greater." Insects are addressed as a contracting party and offered a postponement with interest.
+
+And it all ends in politics. Hoes were turned into spears and helmets forged from rakes — but now "bound in chains, the Wars have long lain beneath your feet". And the last line settles everything: "Peace nourishes Ceres, and Ceres is the nursling of Peace."
+

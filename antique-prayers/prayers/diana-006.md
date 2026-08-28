@@ -70,4 +70,23 @@ Tender virgins recite their prayers to You, Diana, You who delight in dark river
 ## Комментарий
 
 
+
+Ода Горация для двух хоров: девушки поют Диану, юноши — Аполлона, и стихотворение расписано на голоса.
+
+В карточке взяты только строки о Диане, и в них тот же перебор мест, что и в других гимнах: Алгид, Эриманф, Краг. Но Гораций сокращает приём до предела — одна строфа, три горы, ни одного лишнего слова.
+
+Любопытно, чем богиня охарактеризована. Не луком и не охотой, а тем, что она «радуется рекам и кудрям рощ»: nemorum coma, «волосам лесов». Листва названа причёской, и это единственная краска во всей строфе.
+
+Кончается ода, за пределами карточки, просьбой отвести войну, голод и мор — с римлян на персов и британцев. Тот же приём перенаправления беды, что и в молитве к Робиге (`robigo-001`).
+
 ## Commentary
+
+
+A Horatian ode for two choruses: the girls sing Diana, the boys Apollo, and the poem is scored for voices.
+
+Only the lines on Diana are taken in this card, and they contain the same run-through of places as other hymns: Algidus, Erymanthus, Cragus. But Horace compresses the device to its limit — one stanza, three mountains, not a superfluous word.
+
+What is striking is how the goddess is characterised. Not by bow or hunt but by her delight in "rivers and the foliage of groves": nemorum coma, "the hair of the woods". Leafage is called a head of hair, and it is the only colour in the whole stanza.
+
+The ode ends, beyond this card, with a request to turn war, famine and plague away from the Romans and onto the Persians and Britons. The same device of redirecting harm as in the prayer to Robigo (`robigo-001`).
+

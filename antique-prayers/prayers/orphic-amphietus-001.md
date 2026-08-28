@@ -84,4 +84,27 @@ Khthonion Dionysos, hear my prayer, rise vigilant with Nymphai of lovely hair: g
 ## Комментарий
 
 
+
+Первый в корпусе гимн из Орфического собрания, и о собрании стоит сказать сразу.
+
+Это восемьдесят семь коротких гимнов, сложенных, по всей вероятности, во II-III вв. н. э. в Малой Азии для настоящего culto — общины посвящённых, а не для чтения. Доказательство лежит на поверхности: над каждым гимном стоит указание, что́ воскурять. «Θυμίαμα πάντα πλὴν λιβάνου καὶ σπένδε γάλα» — воскурение всё, кроме ладана, и возливай молоком. Это не поэзия, это служебник с рубриками.
+
+И рубрика содержательна. Ладан отведён небесным богам; здесь Дионис подземный, а хтоническим силам полагались бескровные и безладанные приношения, с молоком. Богословие изложено в перечне благовоний.
+
+Имя Орфея на собрании — жанровая примета, а не сведение об авторе; так подписывали, чтобы обозначить разряд.
+
+Содержание гимна — календарь. Дионис спит в чертогах Персефоны и просыпается на трёхлетие, то есть раз в два года: греки считали срок включительно, и «τριετηρίς» приходилась через год. «Εὐνάζων κινῶν τε χρόνους ἐνὶ κυκλάσιν ὥραις» — усыпляя и двигая времена в круговых порах. Бог здесь и есть годовой круг, а его сон и пробуждение — расписание праздников.
+
 ## Commentary
+
+
+The first hymn from the Orphic collection in this corpus, and the collection should be described at once.
+
+These are eighty-seven short hymns, composed in all likelihood in the second or third century AD in Asia Minor for an actual cult — a community of initiates — and not for reading. The proof lies on the surface: over each hymn stands a direction as to what is to be burned. Θυμίαμα πάντα πλὴν λιβάνου καὶ σπένδε γάλα — fumigation of everything except frankincense, and pour a libation of milk. This is not poetry, it is a service book with rubrics.
+
+And the rubric carries meaning. Frankincense belonged to the celestial gods; here Dionysus is chthonic, and the powers below received bloodless and frankincense-free offerings, with milk. A theology is set out in a list of incenses.
+
+Orpheus' name on the collection is a marker of genre, not information about an author; it was signed that way to indicate the class of text.
+
+The hymn's content is a calendar. Dionysus sleeps in Persephone's halls and wakes for the triennium, that is, every other year: the Greeks counted inclusively, and a trietēris came round in alternate years. Εὐνάζων κινῶν τε χρόνους ἐνὶ κυκλάσιν ὥραις — putting to sleep and setting in motion the times in their circling seasons. The god here simply is the year's round, and his sleeping and waking are the festival timetable.
+

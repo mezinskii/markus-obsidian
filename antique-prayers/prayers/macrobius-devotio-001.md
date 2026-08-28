@@ -68,4 +68,27 @@ Dis Pater, Veiovis, and Di Manes, or with any other name by which it is proper t
 ## Комментарий
 
 
+
+Вторая половина обряда над обречённым городом: боги-покровители уже вызваны прочь (`macrobius-evocatio-001`), и теперь то, что осталось, посвящается подземным. Формула приписана Сципиону Эмилиану при взятии Карфагена в 146 г. до н. э.
+
+От девоции Деция Муса (`livy-deciusmus-001`) она отличается направлением. Там римлянин отдавал подземным богам себя; здесь полководец отдаёт им чужой город, войско, поля и всех, кто в этих местах живёт. Тот же обряд обращён вовне.
+
+«Sive quo alio nomine fas est nominare» — «или каким иным именем подобает вас называть». Оговорка обычная, но здесь она особенно нужна: у подземных богов имён много, и произнести неверное опаснее, чем не произнести никакого.
+
+«Abducatis lumine supero privetis» — уведите и лишите вышнего света. Уничтожение названо иносказательно, как перемещение: людей не убивают, их переводят в другое ведомство.
+
+**Читать с оговоркой.** Макробий писал около 400 г. н. э., через пятьсот с лишним лет после события, и восстанавливал древние формулы как учёный антиквар по книгам, до нас не дошедшим. Это единственный источник обеих формул, проверить его не по чему, и язык текста прошёл через руки поздних переписчиков.
+
 ## Commentary
+
+
+The second half of the rite performed over a doomed city: the tutelary gods have already been called away (`macrobius-evocatio-001`), and now what remains is devoted to the powers below. The formula is ascribed to Scipio Aemilianus at the taking of Carthage in 146 BC.
+
+It differs from the devotio of Decius Mus (`livy-deciusmus-001`) in direction. There a Roman gave the infernal gods himself; here a general gives them someone else's city, army, fields, and everyone living in those places. The same rite turned outward.
+
+Sive quo alio nomine fas est nominare — "or by whatever other name it is lawful to name you". The reservation is standard, but here it is especially needed: the gods below have many names, and to speak the wrong one is more dangerous than to speak none.
+
+Abducatis lumine supero privetis — take them away and deprive them of the light above. Annihilation is named by circumlocution, as a transfer: the people are not killed, they are moved to another jurisdiction.
+
+**To be read with caution.** Macrobius wrote around AD 400, more than five centuries after the event, reconstructing archaic formulae as a learned antiquarian from books that have not reached us. He is the sole source for both formulae, there is nothing to check him against, and the language of the text has passed through the hands of late copyists.
+

@@ -58,4 +58,23 @@ Apollo, I beseech you, graciously grant peace, prosperity, safety and sound heal
 ## Комментарий
 
 
+
+Из «Купца» Плавта — домашняя молитва, короче некуда.
+
+Стоит посмотреть, о чём и в каком порядке просят. Сперва pax — не политический мир, а мир с богами, улаженные с ними отношения; потом salus, благополучие; потом sanitas, здоровье. И всё это не себе, а familia — дому со всеми домочадцами и рабами.
+
+Это римская просьба по умолчанию, её костяк: сначала наладить отношения с божеством, потом уже просить благ, и никогда — только за себя. Плавт кладёт её в уста персонажу комедии именно потому, что она затёрта до полной обыденности: так говорили все.
+
+Английский перевод карточки добавляет «и пощади моего сына», чего в этой латыни нет.
+
 ## Commentary
+
+
+From Plautus' Merchant — a household prayer, as short as they come.
+
+It is worth noticing what is asked for, and in what order. First pax — not political peace but peace with the gods, relations put right; then salus, wellbeing; then sanitas, health. And all of it not for the speaker but for the familia, the household with its dependants and slaves.
+
+This is the Roman default request, its skeleton: first settle relations with the deity, only then ask for goods, and never for oneself alone. Plautus puts it in the mouth of a comic character precisely because it is worn smooth with use: this is how everyone spoke.
+
+The card's English adds "and spare my son by your gracious favour", which is not in this Latin.
+

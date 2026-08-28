@@ -110,4 +110,27 @@ Hear me, Zeus' daughter, celebrated queen, Bromia and Titanis, of a noble mien: 
 ## Комментарий
 
 
+
+Гимн состоит почти целиком из обращений, и в этой груде прозвищ стоит противоречие, высказанное на одном дыхании.
+
+«Ὠδίνων ἐπαρωγὲ καὶ ὠδίνων ἀμύητε» — помощница в родовых муках и сама родов не изведавшая. Ἀμύητος — слово мистериальное: непосвящённая, не допущенная к таинству. Девство Артемиды описано как непосвящённость в роды, а руководит она именно тем, во что не посвящена.
+
+Рядом «λυσίζωνε», разрешающая пояс. Пояс развязывали дважды — при вступлении в брак и при родах, — и посвящали Артемиде; одно слово покрывает оба случая и заодно объясняет, почему богиня-дева ведает и тем и другим.
+
+Дальше без всякой неловкости: «ἀρσενόμορφε», мужеобразная. Орфический гимн нагромождает взаимоисключающие определения и не сводит их: божество есть сумма своих имён, а не лицо с последовательным характером.
+
+Воскурение здесь — манна, ладанная крупка, приношение небесных богов. Сравните с рубрикой к подземному Дионису, где ладан прямо запрещён (`orphic-amphietus-001`): перечень благовоний в этом собрании работает как указание разряда.
+
 ## Commentary
+
+
+The hymn consists almost entirely of forms of address, and in that heap of titles stands a contradiction uttered in one breath.
+
+Ὠδίνων ἐπαρωγὲ καὶ ὠδίνων ἀμύητε — helper in birth-pangs and uninitiated in birth-pangs. Amyētos is a mystery word: uninitiated, not admitted to the rite. Artemis' virginity is described as non-initiation into childbirth, and she presides over precisely what she has not been initiated into.
+
+Beside it stands lysizōne, loosener of the girdle. The girdle was untied twice — on marriage and in childbirth — and dedicated to Artemis; one word covers both cases and incidentally explains why a virgin goddess is in charge of each.
+
+Then, without any awkwardness: arsenomorphe, male in form. The Orphic hymn heaps up mutually exclusive definitions and does not reconcile them: a deity is the sum of its names, not a person with a consistent character.
+
+The fumigation here is manna, granular frankincense, an offering of the celestial gods. Compare the rubric for the chthonic Dionysus, where frankincense is expressly forbidden (`orphic-amphietus-001`): in this collection the list of incenses functions as an indication of class.
+

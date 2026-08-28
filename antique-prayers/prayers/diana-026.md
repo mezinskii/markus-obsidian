@@ -62,4 +62,27 @@ Only do You, at the boy's birth, in whom a golden race now arises the world over
 ## Комментарий
 
 
+
+Из четвёртой эклоги — самого знаменитого и самого тёмного стихотворения Вергилия.
+
+Луцину просят о родах мальчика, с которым «железное племя впервые прекратится и по всему миру встанет золотое». Кто этот младенец, спорят две тысячи лет: сын Поллиона, сын Антония, будущий наследник Августа, отвлечённый образ века.
+
+Христианские читатели с IV века видели здесь пророчество о Рождестве, и на этом основании Вергилия числили среди предвозвестников — оттого он и оказался проводником Данте. Одно это стихотворение сделало для его посмертной славы больше, чем «Энеида».
+
+А сама просьба крохотная и вполне обыденная: помоги родить. Всё прочее — обстоятельства, приданные обыкновенной молитве роженицы.
+
+Ссылка в карточке была искажена («1.338-350»); исправлено на Eclogae IV.8-10.
+
 ## Commentary
+
+
+From the fourth Eclogue — the most famous and the most obscure poem Virgil wrote.
+
+Lucina is asked for the birth of a boy with whom "the iron race shall first cease and a golden one arise throughout the world". Who the infant is has been disputed for two thousand years: Pollio's son, Antony's son, a future heir of Augustus, an abstract figure of the age.
+
+Christian readers from the fourth century onward saw here a prophecy of the Nativity, and on that basis counted Virgil among the forerunners — which is how he came to be Dante's guide. This one poem did more for his posthumous fame than the Aeneid.
+
+And the request itself is tiny and entirely ordinary: help her give birth. Everything else is circumstance attached to a commonplace prayer for a woman in labour.
+
+The card's reference was corrupt ("1.338-350"); corrected to Eclogues 4.8-10.
+

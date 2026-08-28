@@ -74,4 +74,23 @@ Almighty Queen of Heaven, remember when Jupiter made the skies grow wild with bl
 ## Комментарий
 
 
+
+Ясон перед отплытием молится Юноне и Палладе. Основание для просьбы у него необычайное: он однажды перенёс эту богиню на руках через разлившийся Энипей, не зная, кто она.
+
+«Nec credere quivi ante deam quam te tonitru nutuque reposci coniugis… vidi» — «не мог поверить, что ты богиня, пока не увидел, что тебя громом и кивком требует назад супруг». Услуга оказана была не богине, а старухе у реки; божеством она стала задним числом. Ясон предъявляет к оплате бескорыстие: он помог, когда помогать было незачем, и потому просит по праву.
+
+Это римская переработка знаменитого испытания — в обычной версии мифа Ясон при переправе теряет сандалию, по которой Пелий его и узнаёт. Валерий Флакк убирает предзнаменование и оставляет только долг.
+
+Просьба короткая и географическая: «дай мне Скифию и Фасис» — то есть дай доплыть. И тут же обет: руно, которое он привезёт, будет отдано в их же храмы. Он обещает богиням добычу, которой ещё не добыл и которая существует пока только в их власти дать.
+
 ## Commentary
+
+
+Jason prays to Juno and Pallas before sailing. His grounds for asking are extraordinary: he once carried this goddess in his arms across the flooded Enipeus, not knowing who she was.
+
+Nec credere quivi ante deam quam te tonitru nutuque reposci coniugis … vidi — "nor could I believe you a goddess until I saw your husband demanding you back with thunder and a nod". The service was rendered not to a goddess but to an old woman at a river; her divinity was established afterwards. Jason submits his disinterestedness for payment: he helped when there was nothing to be gained, and therefore asks as of right.
+
+This is a Roman reworking of the famous test — in the usual version of the myth Jason loses a sandal at the crossing, and it is by the sandal that Pelias recognises him. Valerius Flaccus removes the omen and keeps only the debt.
+
+The request is short and geographical: "give me Scythia and the Phasis" — that is, let me arrive. And immediately a vow: the fleece he brings back will go to their own temples. He promises the goddesses a prize he has not won and which so far exists only in their power to grant.
+

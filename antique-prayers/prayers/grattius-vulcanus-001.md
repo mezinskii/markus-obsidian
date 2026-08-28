@@ -75,4 +75,23 @@ Holy Vulcanus, foremost of those who cherish this place, to You we pray for peac
 ## Комментарий
 
 
+
+Граттий Фалиск — автор единственной сохранившейся римской поэмы об охоте, и место это из её конца: по окружающим стихам, охотники приводят заболевших собак к святилищу Вулкана, чтобы очистить их у священного источника.
+
+Вулкан назван не кузнецом и не богом огня, а «incola sancti loci» — святым обитателем места. Это божество здешнее, привязанное к роднику и пещере; молятся ему как хозяину земли, на которую пришли, а не как персонажу мифа.
+
+Просьба выстроена по-судебному: «если нет никакой вины, стоящей такой кары, — пожалей». Болезнь понимается как наказание, и первым делом оспаривается основание приговора, а уж потом просится милость.
+
+Последние полторы строки — не молитва, а ремарка: трижды зовут, трижды возливают ладан, складывают алтарь из ветвей. Поэт показывает обряд снаружи сразу после того, как дал его изнутри.
+
 ## Commentary
+
+
+Grattius Faliscus is the author of the only surviving Roman poem on hunting, and this passage comes from near its end: by the surrounding lines, huntsmen are bringing sick dogs to a shrine of Vulcan to be purified at a sacred spring.
+
+Vulcan is named neither as smith nor as god of fire but as incola of the holy place — its "sacred dweller". This is a local deity, tied to the spring and the cave; he is prayed to as the owner of the ground one has entered, not as a figure of myth.
+
+The request is framed forensically: "if there is no fault deserving so great a penalty — have pity". The sickness is understood as a punishment, and the first move is to contest the grounds of the sentence; mercy is asked only afterwards.
+
+The last line and a half are not prayer but stage direction: three times they call, three times they pour incense, an altar is built of auspicious boughs. The poet shows the rite from outside immediately after giving it from within.
+

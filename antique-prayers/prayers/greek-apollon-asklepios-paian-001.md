@@ -58,4 +58,27 @@ We praise the silver-bowed Delian, Zeus's beautiful quiver, silently holy and co
 ## Комментарий
 
 
+
+Пеан эллинистического времени, и в нём сохранилось имя сочинителя — Амфеполит Македонянин. Для культового гимна это редкость: такие тексты обыкновенно безымянны.
+
+Устройство видно и по переводу. «ИЕ ПЕАН» повторяется между клаузами — это отклик хора, вписанный в текст, чтобы певчие знали, где вступать; ровно так же устроен эрифрейский пеан Асклепию (`erythrai-paean-asclepius-001`). Оба — не стихи для чтения, а записи для исполнения.
+
+Упомянут и Кентавр, «отвратитель людских болей»: Хирон, у которого Асклепий выучился врачеванию. Родословная ремесла проведена до учителя, как в клятве врачей она проведена до отца (`hippocrates-oath-001`).
+
+**Греческого текста в карточке нет, и найти издание не удалось.** В отличие от эпидаврского и эрифрейского гимнов, о которых известно, где они напечатаны и почему недоступны (`epidaurus-paean-asclepius-001`), здесь неизвестно даже это: свод, по которому переводили, не установлен.
+
+Отсюда и главная оговорка. Английский текст этой карточки не с чем сверить: ни объём, ни точность, ни само существование того греческого, с которого он сделан, подтвердить нечем.
+
 ## Commentary
+
+
+A paean of the Hellenistic period, and it preserves the name of its composer — Amphepoleites of Macedon. For a cult hymn this is rare: such texts are usually anonymous.
+
+The construction shows even in translation. "IE PAIAN" recurs between the clauses — the chorus's response, written into the text so the singers knew where to come in; the Erythraean paean to Asclepius is built in exactly the same way (`erythrai-paean-asclepius-001`). Neither is verse for reading; both are records for performance.
+
+The Centaur is mentioned too, "averter of men's pains": Chiron, from whom Asclepius learned medicine. The pedigree of the craft is traced to the teacher, as in the physicians' oath it is traced to the father (`hippocrates-oath-001`).
+
+**There is no Greek text on this card, and no edition of it could be found.** Unlike the Epidaurus and Erythrai hymns, where it is known where they are printed and why they are inaccessible (`epidaurus-paean-asclepius-001`), here even that is unknown: the collection from which the translation was made has not been identified.
+
+Hence the principal caveat. The English on this card can be checked against nothing: neither its extent, nor its accuracy, nor the very existence of the Greek behind it can be confirmed.
+

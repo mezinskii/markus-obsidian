@@ -86,4 +86,27 @@ I sing of Hermes Kyllenios, Argeiphontes, lord of Kyllene and Arkadia rich in fl
 ## Комментарий
 
 
+
+Короткое вступление, и первые его строки дословно повторяют зачин большого гимна Гермесу (`homeric-hermes-001`). Так эти вещи и собирались: готовый зачин плюс своя концовка (о том же — `homeric-demeter-002`).
+
+Своё здесь — рассказ о зачатии, и он весь о скрытности. Майя «сонма блаженных богов избегала, обитая в тенистой пещере», Зевс сходился с ней «в глухую пору ночи, когда сладкий сон держал белорукую Геру», и «это укрылось и от бессмертных богов, и от смертных людей».
+
+То есть хвала богу состоит в описании удавшегося обмана. Ни осуждения, ни неловкости: скрытность названа среди достоинств, потому что она — свойство самого Гермеса, а не только обстоятельство его появления на свет.
+
+«Λάνθανε» — укрылось, осталось незамеченным. Бог воров, посланников и ночных переходов зачат в незамеченном действии, и гимн отмечает это как первую его примету. Природа наследуется из обстоятельств.
+
+«Ἀργειφόντης» — Аргоубийца, постоянное прозвище: Гермес усыпил и убил стоглазого Аргуса, приставленного Герой сторожить. Сон и обход стражи здесь тоже семейное дело.
+
 ## Commentary
+
+
+A short prelude, and its first lines repeat word for word the opening of the great Hymn to Hermes (`homeric-hermes-001`). This is how such pieces were assembled: a ready opening plus an ending of one's own (on which see `homeric-demeter-002`).
+
+What is its own here is the account of the conception, and all of it is about concealment. Maia "shunned the company of the blessed gods, dwelling in a shadowy cave", Zeus came to her "in the dead of night, while sweet sleep held white-armed Hera", and "it escaped both the immortal gods and mortal men".
+
+That is, praise of the god consists in describing a successful deception. There is no censure and no awkwardness: concealment is listed among the merits, because it is a property of Hermes himself and not merely a circumstance of his birth.
+
+Λάνθανε — it went unnoticed. The god of thieves, messengers and night journeys is conceived in an undetected act, and the hymn records this as his first mark. Nature is inherited from circumstances.
+
+Ἀργειφόντης, Argus-slayer, is his standing title: Hermes lulled and killed hundred-eyed Argus, whom Hera had set to watch. Sleep and the evasion of a guard are a family business here too.
+

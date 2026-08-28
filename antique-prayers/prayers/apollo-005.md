@@ -57,6 +57,19 @@ To you I pray, Apollo of Mount Parnassus, that you may inspire the pythia with s
 
 
 
-Расхождение перевода с оригиналом. Латинское «Parnasia» — женского рода, то есть обращение к Музе, а «vatem» значит «поэта»; в английском переводе карточки они переданы как «Аполлон Парнасский» и «пифия». Поле deities исправлено по латыни, перевод оставлен без изменений.
+
+Два стиха из того же панегирика Клавдиана, чуть дальше: поэт прерывает рассказ и просит научить его.
+
+Ход общеэпический — певец объявляет себя несведущим и спрашивает Музу, кто из богов виновник события. Но «столь великий дар» здесь — это консульство, доставшееся двум юношам из рода Анициев. Машина божественного вдохновения запускается ради придворной новости, и Клавдиана это нисколько не смущает: панегирик на том и держится, что заурядное подаётся как космическое.
+
+**Расхождение с английским.** «Parnasia» — женского рода, это обращение к Музе, а «vatem» значит «поэта». В английском переводе карточки они превратились в «Аполлона Парнасского» и «пифию». Поле deities исправлено по латыни, перевод оставлен без изменений.
 
 ## Commentary
+
+
+Two lines from the same panegyric of Claudian, a little further on: the poet breaks off his narrative and asks to be taught.
+
+The move is standard epic — the singer declares himself ignorant and asks the Muse which god is responsible for the event. But "so great a gift" here is a consulship handed to two young men of the Anician house. The machinery of divine inspiration is set going for a piece of court news, and Claudian is not in the least embarrassed by it: panegyric works precisely by presenting the ordinary as cosmic.
+
+**Divergence from the English.** Parnasia is feminine — it addresses the Muse — and vatem means "the poet". In the card's English translation they have become "Apollo of Mount Parnassus" and "the pythia". The deities field has been corrected from the Latin; the translation is left as it stands.
+

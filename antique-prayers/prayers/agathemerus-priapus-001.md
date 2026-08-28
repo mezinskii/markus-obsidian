@@ -71,4 +71,23 @@ Hail, holy Priapus, father of all things, hail! Give me a flourishing youth so t
 ## Комментарий
 
 
+
+Длинный богослужебный гимн, вырезанный на камне в Тибуре Юлием Агатемером, вольноотпущенником Августа, — по его словам, во исполнение указания, полученного во сне.
+
+Замечателен он тем, что это не молитва одного человека, а расписанный чин. Заказчик прописывает партии: «Сойдитесь разом, сколько вас ни есть, девы, что чтите священную рощу… и прекрасному Приапу скажите ласковым голосом: здравствуй». Частный человек заказывает обряд и сам сочиняет для него литургию.
+
+И Приап здесь не садовое пугало из эпиграмм, а «отец всего сущего», отождествлённый с Природой и Паном: «твоею силою зачинается всё, что наполняет землю, эфир и море». Тот же бог, о котором в другом жанре писали непристойные шутки, оказывается мировым началом.
+
+Просьба о цветущей юности при этом мотивирована без прикрас — страхом перед Аверном, откуда «судьбы никому не дают вернуться».
+
 ## Commentary
+
+
+A long liturgical hymn cut in stone at Tibur by Julius Agathemerus, a freedman of Augustus — by his own account in fulfilment of an instruction received in a dream.
+
+What makes it remarkable is that it is not one man's prayer but a scripted rite. The dedicant assigns the parts: "Come together, as many of you as there are, maidens who tend the sacred grove … and say to fair Priapus in a coaxing voice: hail." A private individual commissions a ceremony and writes its liturgy himself.
+
+And Priapus here is no garden scarecrow out of the epigrams but "holy father of all things", identified with Nature and with Pan: "by your vigour is conceived everything that fills the soil, the aether and the sea". The same god who elsewhere serves for obscene jokes turns out to be a cosmic principle.
+
+The request for flourishing youth is motivated without ornament — by fear of Avernus, from which "the fates deny anyone return".
+

@@ -58,4 +58,23 @@ You, O divine daughter of Latona, Glory of the Stars and Guardian of the Sacred 
 ## Комментарий
 
 
+
+Нис, потерявший в ночной вылазке Эвриала, взывает к Луне перед тем, как метнуть копьё.
+
+Богиня названа двумя её должностями сразу: «краса светил и хранительница рощ». Нису нужны обе. Как Луна она даёт свет, чтобы разглядеть врага; как владычица лесов она хозяйка того самого места, где он прячется. Он обращается не к лицу, а к двум силам, которые в эту минуту работают на него.
+
+«Tu, dea, tu praesens» — «ты, богиня, ты, присутствующая». Praesens в культовом языке значит именно «явленная, действующая здесь и сейчас», в отличие от бога, который есть вообще. Нис просит не милости, а немедленного вмешательства.
+
+Копьё попадёт. Эвриала это не спасёт.
+
 ## Commentary
+
+
+Nisus, having lost Euryalus on their night raid, calls on the Moon before hurling his spear.
+
+The goddess is named by two of her offices at once: "glory of the stars and Latonian guardian of the groves". Nisus needs both. As the Moon she gives light to make out the enemy; as mistress of the woods she owns the very place in which he is hiding. He addresses not a person but two powers that are, at this moment, working for him.
+
+Tu, dea, tu praesens — "you, goddess, you, present". In cult language praesens means precisely "manifest, acting here and now", as distinct from a god who exists in general. Nisus asks not for favour but for immediate intervention.
+
+The spear will strike. It will not save Euryalus.
+

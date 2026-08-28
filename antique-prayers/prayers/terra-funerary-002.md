@@ -57,10 +57,23 @@ Now if virtue is rewarded among the Manes, within the changeable shadows, then I
 
 ## Комментарий
 
-Заключительный дистих надгробия из Салоны (CIL III 6383 = Carmina Latina Epigraphica 1147 в издании Бюхелера). Целия Пиерида поставила его сыну, двенадцатилетнему Луцию Требию Эксорату.
 
-Две поправки против того, что досталось корпусу. Ссылка указывала на строку 2, но строка 2 — «erepto a fato finibus Maezeis», о племени мезеев, у которых мальчика отняла судьба; сама молитва стоит в строках 3-4. И богини Земли в стихотворении нет: «matris ... honos» значит «честь от матери», то есть от самой Пиериды, а не обращение к Матери-Земле. Переводчик прочёл здесь божество — отсюда «Terra Mater» в полях карточки; исправлено.
+Надгробие из Салоны. Целия Пиерида поставила его сыну и мужу сразу; мальчику, Луцию Требию Экзорату, было двенадцать лет.
 
-Латинское «siquid Manes sapiunt» — «если Маны хоть что-нибудь смыслят», условие осторожное и почти скептическое. Английское «if virtue is rewarded among the Manes» приписывает строке загробное воздаяние, которого в ней нет; тема «virtue» в полях идёт оттуда же.
+«Siqu(i)d Manes sapiunt» — если Маны хоть что-нибудь смыслят. Сомнение внутри самой молитвы, и высказано оно прямо, на камне, за который заплачено. Формулу эту знали и повторяли: римская эпитафия допускала и «если что-то остаётся», и полное «меня не было, я был, меня нет», причём обе стоят на одних и тех же кладбищах. Никакой обязательной догмы о посмертии здесь не было, и мать, ставя камень, оговаривает вероятность, что он ни до кого не дойдёт.
+
+«In mollibus umbris» — в мягких тенях. Единственная уступка утешению во всей надписи.
+
+**Терры Матери здесь нет.** Поле deities карточки называет только Манов, и правильно; но идентификатор относит надпись к разряду «terra-funerary», а «matris honos» в последней строке значит не «честь Матери-Земли», а «честь от матери» — то, что она сама только что оплатила. Просит она лишь об одном: чтобы её приношение сыну понравилось.
 
 ## Commentary
+
+
+A gravestone from Salona. Coelia Pieris set it up for her son and her husband together; the boy, Lucius Trebius Exoratus, was twelve.
+
+Siqu(i)d Manes sapiunt — if the shades understand anything. A doubt inside the prayer itself, stated outright, on stone that was paid for. The formula was known and repeated: Roman epitaphs allowed both "if anything remains" and the flat "I was not, I was, I am not", and both stand in the same cemeteries. There was no obligatory doctrine of the afterlife here, and the mother, setting up the stone, allows for the possibility that it reaches no one.
+
+In mollibus umbris — among the soft shades. The only concession to consolation in the whole inscription.
+
+**There is no Terra Mater here.** The card's deities field names only the Manes, and rightly; but the identifier files the inscription under "terra-funerary", and matris honos in the last line means not "honour of Mother Earth" but "honour from his mother" — the thing she has just paid for. All she asks is that her offering should please her son.
+

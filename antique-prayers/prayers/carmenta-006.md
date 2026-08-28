@@ -52,6 +52,23 @@ In You, dearest Mother, in Your hands we place our safekeeping. Carmentis, in of
 
 
 
-Провенанс исправлен с ancient на modern. «Ritus Carmentis» — не античное сочинение: под этим названием ходят современные реконструкции обряда Карменталий (Nova Roma), собранные по разрозненным местам Вергилия и Овидия. Дословного античного оригинала у текста нет и не будет.
+
+Приношение попаны в современном чине; общее объяснение — в `carmenta-001`.
+
+Формула та же, что в `carmenta-002`, — Катонова, с «bonas preces precor» и «volens propitius», — но с прибавленным зачином: «В твоей, дражайшая Мать, в твоей мы охране». Удвоение «in tua… in tua» приём подлинный: римская молитва любит повторить предлог, чтобы задержаться на слове.
+
+А вот попана — лепёшка греческая, πόπανον, и в римском обряде она встречается там, где обряд сознательно выдержан в греческом ключе: на Секулярных играх Аполлону и Диане (`apollo-006`). Для Карменты, богини сугубо римской и архаической, выбор странный.
+
+Грамматика опять хромает: «carissime» вместо «carissima», «propitius» вместо «propitia», «nostri» вместо «nostris».
 
 ## Commentary
+
+
+The offering of a popanum in the modern order; for the general explanation see `carmenta-001`.
+
+The formula is the same as in `carmenta-002` — Cato's, with bonas preces precor and volens propitius — but with an added opening: "In your keeping, dearest Mother, in your keeping we are." The doubling in tua … in tua is a genuine device: Roman prayer likes to repeat a preposition in order to dwell on a word.
+
+The popanum, however, is a Greek cake, πόπανον, and in Roman rite it turns up where the rite is deliberately kept in a Greek register: at the Secular Games for Apollo and Diana (`apollo-006`). For Carmentis, a thoroughly Roman and archaic goddess, the choice is odd.
+
+The grammar limps again: carissime for carissima, propitius for propitia, nostri for nostris.
+

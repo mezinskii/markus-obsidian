@@ -98,10 +98,23 @@ Holy Goddess, Tellus, Mother of all Nature, engendering all things and regenerat
 
 ## Комментарий
 
-«Precatio Terrae» — молитва Земле из позднеантичного травника, у Бэренса № VIII в первом томе Poetae Latini Minores. Всего 32 строки; здесь строки 1-21, а строки 23-29 отданы карточке tellus-002.
 
-Приписка Антонию Музе, врачу Августа, стоящая в поле author, — традиционная и недостоверная. Бэренс печатает молитву анонимно, в составе травника, где она предваряет сбор целебных трав.
+«Precatio Terrae» — самая необычная латинская молитва в этом собрании и самая малоизвестная. Дошла она не через литературу, а через травники и медицинские рукописи: её переписывали как рабочую формулу, которую надо произнести перед сбором трав.
 
-Текст дошёл испорченным, и многое здесь — конъектуры самого Бэренса против рукописей: «indidem» вместо рукописного «sidus», «vitalia» вместо «tutela», «concipit» вместо «capit», «attines» вместо «contines». Это видно по его аппарату и стоит помнить при переводе: спорные места — не авторские.
+Земля в ней не римская Теллус борозды и межи, а вселенское божество. «Rerum naturae parens», родительница природы вещей; она рождает и возрождает всё, распоряжается небом и морем, укрывает тени Дита и безмерный хаос, удерживает ветры и отпускает их, когда угодно. Это ближе к египетским ареталогиям Исиды и к зачину Лукреция, чем к чему-либо в римском обряде.
+
+Обращает на себя внимание строение: сплошные придаточные с «quae», «per quam», «tu». Божество определяется перечнем того, что им делается; просьбы в этой части нет вовсе — она в следующей половине молитвы (`tellus-002`).
+
+**Читать с осторожностью, и по двум причинам.** Приписка Антонию Музе, врачу Августа, — традиционная и ничем не подтверждённая; Бэренс печатает молитву анонимно, и датировка карточки (I в. до н. э. — I в. н. э.) держится именно на этой отброшенной приписке. Рукописный контекст допускает и куда более поздний срок. Кроме того, самый текст неустойчив: чтения «indidem», «vitalia», «concipit», «attines», «tete», «Tuque illa vera es» — конъектуры издателя против рукописей.
 
 ## Commentary
+
+
+The Precatio Terrae is the strangest Latin prayer in this collection and the least known. It reached us not through literature but through herbals and medical manuscripts: it was copied as a working formula, to be spoken before gathering plants.
+
+The Earth in it is not the Roman Tellus of the furrow and the boundary stone but a universal deity. Rerum naturae parens, parent of the nature of things; she begets and begets again all things, disposes of sky and sea, covers the shades of Dis and immeasurable chaos, restrains the winds and lets them go when she pleases. This is nearer to the Egyptian aretalogies of Isis, and to the opening of Lucretius, than to anything in Roman ritual.
+
+The construction is worth noting: an unbroken chain of clauses — quae, per quam, tu. The deity is defined by an inventory of what is done by her; there is no request in this part at all, and it comes in the second half of the prayer (`tellus-002`).
+
+**To be read with caution, on two counts.** The attribution to Antonius Musa, Augustus' physician, is traditional and unsupported; Baehrens prints the prayer anonymously, and the card's dating (1st century BC to 1st century AD) rests on precisely that discarded attribution. The manuscript context allows a considerably later date. Beyond that, the text itself is unstable: the readings indidem, vitalia, concipit, attines, tete and Tuque illa vera es are the editor's conjectures against the manuscripts.
+

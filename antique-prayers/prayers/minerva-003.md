@@ -86,4 +86,31 @@ Proud, warlike Goddess, great honor and wisdom of Your Father, powerful in war a
 ## Комментарий
 
 
+
+Тидей только что в одиночку перебил пятьдесят человек, посланных убить его из засады, и приносит Минерве благодарственную жертву на поле, заваленном трупами.
+
+Богиня описана в тон случаю: «Горгона грубеет от брызнувшей крови». Изображение на эгиде оживает от свежей крови, как от подношения. У Стация божество не наблюдает за резнёй, а питается ею.
+
+«Не сильнее Маворс и копьеносная Беллона подымали трубы битвы» — похвала через умаление соперников: Минерва воинственнее самих богов войны. Приём обычный, но здесь он готовит просьбу воина, а не мудреца.
+
+Дальше — перечень мест, где богиню могут застать: Пандионова гора (афинский акрополь), аонийский Итон в Беотии, ливийский Тритон, где она омывает и расчёсывает кудри. Тот же приём, что у Психеи в мольбе к Юноне (`juno-001`): три святилища вместо адреса.
+
+Минерва Тидея любила и в восьмой книге придёт сделать его бессмертным — и отвернётся, застав его грызущим череп убитого врага. Эта молитва будет услышана, а награда отозвана.
+
+В карточке значились строки 715-742; английский перевод передаёт только зачин обета.
+
 ## Commentary
+
+
+Tydeus has just killed single-handed the fifty men sent to ambush him, and is offering Minerva a thanksgiving sacrifice on a field heaped with corpses.
+
+The goddess is described to match the occasion: "the Gorgon grows raw with sprinkled blood". The image on the aegis quickens at fresh blood as at an offering. In Statius the deity does not observe the slaughter, she feeds on it.
+
+"Nor did Mavors and spear-bearing Bellona drive the blazing trumpets of battle harder" — praise by belittling rivals: Minerva is more warlike than the war-gods themselves. The device is standard, but here it prepares the request of a soldier, not of a sage.
+
+Then the list of places where the goddess might be found: Pandion's mount (the Athenian acropolis), Aonian Itone in Boeotia, the Libyan Triton where she washes and combs her hair. The same device as in Psyche's plea to Juno (`juno-001`): three sanctuaries instead of an address.
+
+Minerva loved Tydeus and in the eighth book will come to make him immortal — and will turn away on finding him gnawing the skull of a slain enemy. This prayer will be heard, and the reward withdrawn.
+
+The card cited lines 715-742; its English renders only the opening of the vow.
+

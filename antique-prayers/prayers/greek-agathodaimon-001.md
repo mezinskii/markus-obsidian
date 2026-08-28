@@ -54,4 +54,23 @@ I address myself to You, O' Bountiful guardian of our Household who determines t
 ## Комментарий
 
 
+
+**Современный текст.** LABRYS — греческая политеистическая община в Афинах; её книга «Hellenic Polytheism: Household Worship» есть руководство по домашнему обряду, составленное в наши дни. Поле provenance стоит `modern`.
+
+Повод и божество при этом древние. Агатодемон — Добрый Дух дома, ему в конце трапезы возливали несмешанного вина, а домашняя змея считалась его явлением. Второй день лунного месяца был его днём, и «спутник Агатэ Тюхэ», Доброй Судьбы, — пара засвидетельствованная: их чтили вместе.
+
+Верно и место: «стоящий в средоточии нашего жилища». Агатодемон не приходит извне, он живёт внутри дома, как римский Лар (`lares-001`), и о нём говорят как о жильце.
+
+То есть обряд опирается на подлинное, а слова написаны заново. Различение это существенно во всей современной части корпуса: практика может быть восстановлена по источникам, но текст, которым её сопровождают, — сегодняшний, и знать это читателю нужно.
+
 ## Commentary
+
+
+**A modern text.** LABRYS is a Greek polytheistic community in Athens; its book Hellenic Polytheism: Household Worship is a manual of domestic ritual compiled in our own day. The provenance field reads `modern`.
+
+The occasion and the deity, however, are ancient. The Agathos Daimon is the Good Spirit of the house; unmixed wine was poured to him at the end of a meal, and the house snake was taken for his manifestation. The second day of the lunar month was his, and "companion of Agathe Tyche", Good Fortune, is an attested pairing: they were honoured together.
+
+The location is right too: "standing at the centre of our dwelling". The Agathos Daimon does not come from outside, he lives inside the house, like the Roman Lar (`lares-001`), and is spoken of as a resident.
+
+That is: the rite rests on genuine material, and the words have been newly written. The distinction matters throughout the modern part of this corpus: a practice may be reconstructed from sources, but the text accompanying it is of today, and the reader needs to know it.
+

@@ -84,17 +84,27 @@ Hear me, illustrious Kharites, mighty named, from Zeus descended, and Eunomia fa
 
 ## Комментарий
 
-Гимн LX орфического сборника, по изданию Абеля (1885). Прежнее чтение бралось с греческой викитеки и было испорчено, из-за чего карточка стояла без оригинала.
 
-Строки 6-9 вынесены за шов. В аппарате Абеля они помечены как перенесённые сюда Рункеном из гимна LXIX, и это подтверждается изнутри самой карточки: английский Тейлора (1792) переходит с пятой строки прямо на десятую, значит в его издании этих строк не было. Вот они:
+Гимн Харитам, а вместе с тем — самая наглядная в корпусе демонстрация того, как эти тексты добываются.
 
-> οὔτε γὰρ ἠελίου ταχιναὶ φλόγες οὔτε σελήνης
-> καὶ σοφίης ἀρετῆς τε καὶ ἐργασίμου θρασύτητος
-> εὐχέρει᾽ οὔτε βίου λιπαρῆς περικαλλέος ἥβης
-> ὑμῶν χωρὶς ἐγείρει ἐϋφροσύνας βιότοιο·
+Чтение греческой викитеки здесь оказалось испорченным, и карточка стояла помеченной, пока текст не был снят заново с издания Абеля. При этом пришлось выправить четыре ошибки распознавания, и каждая проверена по другим местам того же издания: «Κλῖτέ» → «Κλῦτέ», «χαλυχώσειδες» → «καλυκώπιδες», «Ἱπερόεσσαι» → «ἱμερόεσσαι», «βαϑυχόλστου» → «βαθυκόλπου». Слепой сканер систематически даёт χ вместо κ и ϑ вместо θ, и знание этой закономерности и есть рабочий инструмент.
 
-«Ни быстрые огни солнца, ни луны, ни лёгкость мудрости, доблести и деятельной отваги, ни цветущая пора блистательной юности без вас не пробуждают радостей жизни».
+**Английский и греческий на этой карточке расходятся — и расходятся законно.** Во второй строке Абель печатает «Εὐρυνόμης», Евриному; это конъектура Шрадера. Рукописи дают «εὐνομίης», Благозаконие, и Тейлор, чей перевод лежит в основе английского, переводил именно рукописное чтение — отсюда «Eunomia» по-английски и «Евринома» по-гречески. Расхождение не ошибка карточки, а след двух разных издательских решений.
 
-Во второй строке английский и греческий расходятся не по вине переводчика. Рукописи дают «εὐνομίης», и Тейлор так и перевёл — «Eunomia famed»; Абель печатает конъектуру Шрадера «Εὐρυνόμης», Евринома, океанида, мать Харит у Гесиода. Оба чтения имеют право на существование, но в карточке теперь стоит критическое.
+Шов `[…]` стоит на месте строк 6-9: Абель помечает их как перенесённые сюда Рункеном из другого гимна, и у Тейлора их нет.
+
+Содержание же простое: «γενέτειραι χαρμοσύνης», родительницы радости, и «ἀεὶ μύστῃσι προσηγεῖς», всегда приветливые к мистам. Слово μύσται подтверждает то, что видно и по рубрикам: гимны пелись общиной посвящённых.
 
 ## Commentary
+
+
+A hymn to the Graces, and at the same time the clearest demonstration in this corpus of how these texts are obtained.
+
+The Greek Wikisource reading here turned out to be corrupt, and the card stood flagged until the text was taken afresh from Abel's edition. Four scanning errors had to be corrected in the process, each verified against other places in the same edition: Κλῖτέ → Κλῦτέ, χαλυχώσειδες → καλυκώπιδες, Ἱπερόεσσαι → ἱμερόεσσαι, βαϑυχόλστου → βαθυκόλπου. The scanner systematically produces χ for κ and ϑ for θ, and knowing that regularity is the working instrument.
+
+**The English and the Greek on this card diverge — and diverge legitimately.** In line 2 Abel prints Εὐρυνόμης, Eurynome; that is Schrader's conjecture. The manuscripts give εὐνομίης, Good Order, and Taylor, whose translation underlies the English, was rendering the manuscript reading — hence "Eunomia" in English and Eurynome in Greek. The divergence is not an error on the card but the trace of two different editorial decisions.
+
+The seam `[…]` stands where lines 6-9 were: Abel marks them as transferred here by Ruhnken from another hymn, and Taylor does not have them.
+
+The content is simple: geneteirai charmosynēs, begetters of gladness, and aei mystēsi prosēgeis, always kindly to the initiates. The word mystai confirms what the rubrics also show: these hymns were sung by a community of initiates.
+

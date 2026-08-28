@@ -60,10 +60,23 @@ Therefore adoring You as though You were nurturing Venus Herself, whether You ar
 
 ## Комментарий
 
-Фрагмент 26 Левия из раздела incertae sedis у Бэренса (Fragmenta Poetarum Romanorum, с. 292).
 
-Левий играет на двуполости божества, и игра эта грамматическая: «Venerem almum» — существительное женского рода с прилагательным мужского, сразу за чем идёт «si femina si mas est», «женщина ли, мужчина ли». По-русски эффект передать трудно.
+Фрагмент Левия, поэта рубежа II-I вв. до н. э. — из тех, кого называют новыми поэтами задолго до неотериков.
 
-«Noctiluca», «Ночесветная» — культовое имя Луны (ср. Гораций, Оды IV.6.38). Диана в тексте не названа; в поля добавлена Венера, которая названа прямо.
+Игра здесь грамматическая, и в ней всё дело. «Venerem almum»: существительное женского рода с прилагательным мужского, и сразу следом объяснение — «женщина ли, мужчина ли она». Речь о двуполом божестве: Венеру-Афродиту в некоторых культах чтили и в мужском облике.
+
+По-русски эффект удалось сохранить: «Венеру благого» — то же рассогласование, тот же сбой, на котором и держится фраза.
+
+«Noctiluca», «Ночесветная», — культовое имя Луны (ср. Гораций, Оды IV.6.38). Диана в тексте не названа; в поля добавлена Венера, названная прямо.
 
 ## Commentary
+
+
+A fragment of Laevius, a poet of the turn of the second and first centuries BC — one of those called new poets long before the neoterics.
+
+The play here is grammatical, and everything depends on it. Venerem almum: a feminine noun with a masculine adjective, and immediately the explanation — "whether she is female or male". The subject is a deity of both sexes: Venus-Aphrodite was worshipped in some cults in male form as well.
+
+In Russian the effect could be kept: Венеру благого reproduces the same disagreement, the same jolt on which the phrase depends.
+
+Noctiluca, "she who shines by night", is a cult name of the Moon (compare Horace, Odes 4.6.38). Diana is not named in the text; Venus, who is named outright, has been added to the fields.
+

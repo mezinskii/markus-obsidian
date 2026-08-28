@@ -69,4 +69,23 @@ O Sol, whose light embraces the world, you orbit inexhaustible, forever returnin
 ## Комментарий
 
 
+
+Зачин первой латинской поэмы Клавдиана (395 г.) — панегирика братьям Олибрию и Пробину по случаю их совместного консульства.
+
+Это молитва, которая по существу есть режиссёрская ремарка. Солнце просят расчесать гриву коням, подняться «отраднее» и выдыхать розовый огонь сквозь пенные удила — потому что день, о котором идёт речь, это вступление консулов в должность, и от мироздания ожидается, что оно приоденется к случаю.
+
+Приём для позднеантичного панегирика обычный: природа включается в церемониал наравне с сенатом и толпой. Но здесь он доведён до предела — бога солнца буквально просят хорошо выглядеть к первому утру римского магистрата.
+
+Последние две строки выдают повод: «пусть новый путь начертит год братьям-консулам». Молитва Солнцу оказывается вступлением к похвале двум очень молодым людям из рода Анициев.
+
 ## Commentary
+
+
+The opening of Claudian's first Latin poem (AD 395), a panegyric for the brothers Olybrius and Probinus on their joint consulship.
+
+It is a prayer that is essentially a stage direction. The Sun is asked to comb his horses' manes, to rise "more graciously", and to breathe rosy fire through foaming bits — because the day in question is the consuls' entry into office, and the universe is expected to dress for the occasion.
+
+The device is standard in late-antique panegyric: nature is enlisted into the ceremonial alongside the senate and the crowd. Here it is pushed as far as it will go — the sun god is literally asked to look his best for a Roman magistrate's first morning.
+
+The last two lines give away the occasion: "let the year now trace a new path for the brother consuls". A prayer to the Sun turns out to be the preface to praise of two very young men of the Anician house.
+

@@ -71,4 +71,31 @@ Companion of Bacchus and the Nymphs, to whom lovely Dione gave power over the wo
 ## Комментарий
 
 
+
+Энколпий, потерявший мужскую силу, преклоняет колено на пороге святилища и молится Приапу. Молитва написана стихами и по всем правилам настоящего гимна — в этом вся её работа.
+
+Сперва обращение с географией: Лесбос, Фасос, семиструйный лидиец (Герм), храм в Гипепах. Перечень мест культа — обязательная часть гимна (ср. `juno-001`), и здесь он безупречен. Затем «huc ades», будь здесь, — призывание по форме. Затем отрицательная исповедь: не облит кровью, не налагал руки на храмы. Это тоже настоящий обряд — перед входом в святилище объявляли, что чист.
+
+И на этом безукоризненном основании стоит просьба о потенции.
+
+Лучшая строка — «facinus non toto corpore feci», проступок совершён не всем телом. Смягчающее обстоятельство изложено анатомически, и юридическая точность здесь злее любой шутки.
+
+Приём Петрония тот же, что у Плавта с богиней Вероломством (`mercurius-006`): пародируют не искажением, а безупречным исполнением формы. Смешно оттого, что всё сделано правильно.
+
+Источник подаёт текст сплошной строкой; деление на стихи в карточке не восстанавливалось.
+
 ## Commentary
+
+
+Encolpius, having lost his virility, kneels on the threshold of a shrine and prays to Priapus. The prayer is in verse and follows every rule of a genuine hymn — and that is exactly how it works.
+
+First the address with its geography: Lesbos, Thasos, the seven-streamed Lydian (the Hermus), the temple at Hypaepa. A list of cult sites is an obligatory part of a hymn (cf. `juno-001`), and here it is impeccable. Then huc ades, be present — an invocation in due form. Then the negative confession: not drenched in blood, no hand laid on temples. That too is real ritual — on approaching a shrine one declared oneself clean.
+
+And on this faultless foundation stands a request about impotence.
+
+The best line is facinus non toto corpore feci, I committed the offence not with my whole body. The mitigating circumstance is set out anatomically, and the legal precision is nastier than any joke.
+
+Petronius' method is the same as Plautus' with the goddess Treachery (`mercurius-006`): the parody works not by distortion but by flawless execution of the form. It is funny because everything has been done correctly.
+
+The source presents the text as continuous prose; the division into verses has not been restored on this card.
+

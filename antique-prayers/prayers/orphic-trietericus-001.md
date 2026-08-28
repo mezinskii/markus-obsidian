@@ -90,4 +90,23 @@ Bakkhos phrenetic, much named, blessed, divine, bull-horned, Lernaion, bearer of
 ## Комментарий
 
 
+
+Крайний случай орфического способа: гимн почти целиком состоит из обращений, и бога называют здесь десятками имён подряд.
+
+Смысл этого не в пышности. «Θεῶν πάτερ ἠδὲ καὶ υἱέ» — богов отец и вместе сын; «πρωτόγον᾽, ἠρικεπαῖε» — первородный, Ирикепей. Протогон и Ирикепей — имена орфического перворождённого бога, Фанеса, а не Диониса. Ставя их в один ряд, гимн отождествляет двоих, и отождествление совершается самим перечислением. Орфическое богословие работает накоплением имён: кто назван вместе, тот и есть одно.
+
+«Ἠρικεπαῖος» при этом слово тёмное, по-видимому негреческое; оно встречается в орфических текстах и надписях, и значения его никто не знает. Переводу оно не поддаётся и оставлено как есть.
+
+«Ὄργιον ἄρρητον» — неизречённое таинство. Бог назван не участником обряда и не его получателем, а самим обрядом. Дальше — «τελετάρχα», начальник таинств, и «βακχεύων ἁγίας τριετηρίδας», справляющий священные трёхлетия: о самом этом двухгодичном круге см. `orphic-amphietus-001`.
+
 ## Commentary
+
+
+The extreme case of the Orphic method: the hymn consists almost entirely of forms of address, and the god is named here by dozens of titles in succession.
+
+The point of this is not grandeur. Θεῶν πάτερ ἠδὲ καὶ υἱέ — father of gods and also son; πρωτόγον᾽, ἠρικεπαῖε — first-born, Erikepaios. Protogonos and Erikepaios are names of the Orphic first-born god, Phanes, not of Dionysus. By setting them in one series the hymn identifies the two, and the identification is accomplished by the listing itself. Orphic theology works by accumulation of names: what is named together is one.
+
+Ἠρικεπαῖος is an obscure word, apparently not Greek; it occurs in Orphic texts and inscriptions, and nobody knows its meaning. It does not yield to translation and has been left as it stands.
+
+Ὄργιον ἄρρητον — unspeakable rite. The god is called neither a participant in the ritual nor its recipient but the ritual itself. Then teletarcha, master of the mysteries, and "celebrating the holy trietērides": on that two-year cycle see `orphic-amphietus-001`.
+

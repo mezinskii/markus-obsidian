@@ -66,4 +66,23 @@ Diana, who are the sister of the God Phoebus, who nourishes so many people by th
 ## Комментарий
 
 
+
+Тот же непрерывный период Апулея, что и в `ceres-003`, — ночная мольба Луция к Царице небес. Здесь приведена ветвь с обращением к сестре Феба.
+
+Диана названа не охотницей и не лунной богиней, а родовспомогательницей: «что, облегчая роды смягчающими средствами, взрастила столько народов». За этим стоит вполне определённое отождествление — эфесская Артемида, чьё святилище тут же и помянуто, была прежде всего кормилицей и покровительницей рождения, а не девой с луком.
+
+Апулей перебирает богинь по их главным должностям: Церера кормит, Венера соединяет, Диана рождает, Прозерпина уводит. Четыре имени покрывают весь круг человеческой жизни — и в следующей главе окажется, что за всеми четырьмя стоит одна.
+
+Хвост мольбы у этой карточки и у `ceres-003` общий: период разрезан по обращениям, а концовка одна на всех.
+
 ## Commentary
+
+
+The same continuous period of Apuleius as in `ceres-003` — Lucius' night-time plea to the Queen of Heaven. Here the branch addressing the sister of Phoebus is given.
+
+Diana is named neither as huntress nor as moon goddess but as helper in childbirth: "who by soothing remedies at the delivery of the pregnant have reared so many peoples". Behind this stands a quite specific identification — the Artemis of Ephesus, whose sanctuary is mentioned in the same breath, was above all a nurse and patroness of birth, not a maiden with a bow.
+
+Apuleius runs through the goddesses by their principal offices: Ceres feeds, Venus joins, Diana brings to birth, Proserpina leads away. Four names cover the whole circuit of a human life — and in the next chapter it will turn out that one goddess stands behind all four.
+
+This card and `ceres-003` share a tail: the period has been cut along its addresses, and the closing plea belongs to both.
+

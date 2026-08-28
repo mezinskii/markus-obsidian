@@ -75,4 +75,27 @@ Sing, clear-voiced Mousa, of Hephaistos famed for inventions. With bright-eyed A
 ## Комментарий
 
 
+
+Восемь строк, и в них изложена целая история цивилизации.
+
+Было так: люди «обитали в пещерах в горах, как звери». Стало так: изучив ремёсла через Гефеста, они «легко весь год до конца безмятежно проводят в собственных домах». Мерилом человеческого объявлено жильё — переход из пещеры в дом; а единицей отсчёта год, прожитый в довольстве от начала до конца.
+
+В корпусе есть ещё два таких перечня, и любопытно их сличить. У Стация Земля «первая дала пищу неутолённым и переменила её людям» — там граница проходит по еде (`tellus-004`). У Овидия Церера «первой дала законы» — там по праву (`ovid-ceres-001`). Здесь — по крыше над головой. Три древних ответа на вопрос, чем человек отличается от зверя, и все три вещественные: не разум, не речь, не бессмертие души, а хлеб, закон и дом.
+
+Соучастницей названа Афина: ремёслам научили вдвоём. Разделение между ними обычное — ей женские и умственные искусства, ему огонь и металл, — но в этой строке они выступают одним учреждением.
+
+«Δίδου δ᾽ ἀρετήν τε καὶ ὄλβον» — дай доблесть и благополучие. У бога-мастера просят и умения, и дохода с него.
+
 ## Commentary
+
+
+Eight lines, and they contain an entire history of civilisation.
+
+It was thus: men "dwelt in caves in the mountains, like wild beasts". It is now thus: having learnt crafts through Hephaestus, they "pass the whole year through to its end at ease in houses of their own". The measure of the human is declared to be housing — the move from cave to house; and the unit of account is a year lived in sufficiency from beginning to end.
+
+There are two other such catalogues in this corpus, and it is worth comparing them. In Statius, Earth "first gave food to the unfed and changed it for them" — there the line runs through diet (`tellus-004`). In Ovid, Ceres "first gave laws" — there through right (`ovid-ceres-001`). Here it runs through a roof. Three ancient answers to the question of what distinguishes a man from an animal, and all three are material: not reason, not speech, not the immortality of the soul, but bread, law and a house.
+
+Athena is named as partner: the crafts were taught by the two of them. The usual division between them — hers the women's and the intellectual arts, his fire and metal — is not drawn here; in this line they act as one institution.
+
+Δίδου δ᾽ ἀρετήν τε καὶ ὄλβον — grant excellence and prosperity. Of the craftsman god one asks both the skill and the income from it.
+

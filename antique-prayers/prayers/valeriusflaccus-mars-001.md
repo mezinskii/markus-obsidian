@@ -63,4 +63,23 @@ Mars Gradivus, hear me, on whose sacred oak which fleece glitters. Protect it an
 ## Комментарий
 
 
+
+Дуб с золотым руном стоит в роще Ареса, и Марс призывается его стеречь.
+
+«Excubias, Gradive, tene» — неси стражу, Градив. Excubiae — слово из войскового обихода: ночной караул, смена на посту. Богу не молятся, ему назначают наряд. Он и назван по-военному: Градив, от gradior, «шагающий», — Марс на марше; эпитет как раз для часового.
+
+Охрана заказана звуковая. «Praesentia luco arma tubaeque sonent, vox et tua noctibus exstet» — пусть в роще звучат твои явленные оружие и трубы, и пусть голос твой раздаётся по ночам. Бога просят не показываться, а слышаться: лязг, трубы, голос в темноте. Оберег устроен как звуковая сигнализация, и рассчитан он на то, чтобы вор ушёл сам, не встретив никого.
+
+«Praesentia arma» — оружие явленное, присутствующее. Praesens в культовом языке значит «действующий здесь и сейчас» (ср. `diana-023`); здесь это сказано об оружии, а не о божестве, и оружие оказывается той частью бога, которая должна быть на месте.
+
 ## Commentary
+
+
+The oak with the Golden Fleece stands in the grove of Ares, and Mars is called on to guard it.
+
+Excubias, Gradive, tene — keep watch, Gradivus. Excubiae is a word from army life: the night guard, the turn of duty at a post. The god is not prayed to, he is detailed. And he is named in military terms: Gradivus, from gradior, "the marching one" — Mars on the move; an epithet made for a sentry.
+
+The protection ordered is acoustic. Praesentia luco arma tubaeque sonent, vox et tua noctibus exstet — let your present arms and trumpets sound in the grove, and let your voice stand out at night. The god is asked not to be seen but to be heard: clatter, trumpets, a voice in the dark. The safeguard is designed as an alarm system, calculated to make a thief leave of his own accord without meeting anyone.
+
+Praesentia arma — arms present, manifest. In cult language praesens means "acting here and now" (cf. `diana-023`); here it is said of the weapons rather than of the god, and the weapons turn out to be the part of him that has to be on the spot.
+

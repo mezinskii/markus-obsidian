@@ -67,4 +67,23 @@ Wherever You may be in the ethereal regions, O wife of Jupiter Tonans, send a wi
 ## Комментарий
 
 
+
+Деянира узнала об Иоле и в ярости молится Юноне — заклятому врагу собственного мужа. Логика чудовищная и безупречная: если есть на свете сила, желающая Геркулесу зла, то это его мачеха, и с ней у обманутой жены общий интерес.
+
+Зачин — обычная формула «где бы ты ни была», но вывернутая: обыкновенно так ищут бога, чтобы попросить защиты, здесь — чтобы заказать чудовище.
+
+И тут выясняется, что просить нечего. Гидра, гигантские звери, всё, что могло бы его одолеть, уже им перебито; поэтому Деянира просит не зверя, а то, что «превзошло зверей», нечто ещё не существующее, при виде чего сам Геркулес отвёл бы глаза. Молитва невыполнима по собственным условиям, и это её содержание: против такого мужа у мира не осталось средств. Убьёт его в итоге она сама, рубашкой.
+
+**Об авторстве.** «Геркулес на Эте» приписан Сенеке рукописями, но большинство исследователей считают трагедию не сенековской или сенековской лишь отчасти — по метрике, длине и стилю. Атрибуция в карточке передаёт рукописное предание, а не установленный факт.
+
 ## Commentary
+
+
+Deianira has learned about Iole and in her fury prays to Juno — the sworn enemy of her own husband. The logic is monstrous and impeccable: if any power on earth wishes Hercules harm it is his stepmother, and a betrayed wife shares an interest with her.
+
+The opening is the ordinary "wherever you may be" formula, but inverted: usually one hunts for a god that way in order to ask for protection; here, in order to commission a monster.
+
+And then it turns out there is nothing to ask for. The hydra, the giant beasts, everything that might have overcome him, he has already killed; so Deianira asks not for a beast but for whatever "has surpassed the beasts", something that does not yet exist, at the sight of which Hercules himself would turn his eyes away. The prayer is unfulfillable on its own terms, and that is its content: against such a husband the world has run out of means. In the end she kills him herself, with a shirt.
+
+**On authorship.** Hercules on Oeta is ascribed to Seneca by the manuscripts, but most scholars hold the play to be un-Senecan or only partly his, on grounds of metre, length and style. The attribution on this card records the manuscript tradition, not an established fact.
+

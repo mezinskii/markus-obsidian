@@ -79,4 +79,23 @@ Hear me, Zeus' son, blest Bakkhos, God of wine, born of two mothers, honoured an
 ## Комментарий
 
 
+
+Дионис Лисий — Разрешающий, и корень λυ- проходит через весь гимн: λύσιε, разрешающий; παυσίπονον, прекращающий труд; φιλάλυπον, при печали. Просьба о разрешении — общее место этого собрания, и здесь бог назван прямо по ней.
+
+«Παυσίπονον θνητοῖσι φανεὶς ἄκος» — явленное смертным средство, прекращающее труд. Ἄκος есть лекарство; вино описано словарём врачевания, как у Асклепия описано словарём чар (`orphic-asclepius-001`). У древних это соседние ведомства.
+
+«Χάρμα βροτοῖς φιλάλυπον» — радость смертным, «печаль любящая». Составное слово странное и нигде больше не встречающееся; орфические гимны сочиняют такие десятками, и точного значения у них подчас нет. Здесь оно, по-видимому, о том, что веселье от вина и печаль ходят вместе, — но перевод тут неизбежно догадка.
+
+«Διμῆτορ» — двуматерний, от Семелы и от бедра Зевса. «Ῥηξίχθον» — землеразрывающий: побег лозы, пробивающий почву. Бог назван по тому, как выглядит весной его растение.
+
 ## Commentary
+
+
+Dionysus Lysios, the Releaser, and the root ly- runs through the whole hymn: lysie, releasing; pausiponon, ending toil; philalypon, grief-loving. A request for release is the commonplace of this collection, and here the god is named directly after it.
+
+Παυσίπονον θνητοῖσι φανεὶς ἄκος — a remedy revealed to mortals that puts an end to toil. Akos is a medicine; wine is described in the vocabulary of healing, as Asclepius is described in the vocabulary of enchantment (`orphic-asclepius-001`). For the ancients these are neighbouring departments.
+
+Χάρμα βροτοῖς φιλάλυπον — joy to mortals, "grief-loving". The compound is strange and occurs nowhere else; the Orphic hymns coin such words by the dozen, and they sometimes have no settled sense. Here it seems to say that the gladness of wine and sorrow keep company — but the rendering is unavoidably a guess.
+
+Διμῆτορ — of two mothers, Semele and Zeus' thigh. Ῥηξίχθον — earth-breaker: the vine shoot forcing through the soil. The god is named after what his plant looks like in spring.
+

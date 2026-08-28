@@ -64,4 +64,23 @@ My prayer is just. May Venus hear all our many prayers. Take one who would serve
 ## Комментарий
 
 
+
+Овидий влюбился и обращается к Венере. Молитва занимает шесть строк, и за эти шесть строк просьба успевает трижды измениться.
+
+Начинает он с права: «iusta precor», о справедливом молю. Дальше требование: пусть полюбит — или пусть хотя бы сделает так, чтобы я любил вечно. И тут же отступление: «a, nimium volui», ах, слишком многого захотел, — пусть просто позволит себя любить. Проситель торгуется сам с собой на глазах у божества и сбавляет цену прежде, чем получил отказ.
+
+Потом переходит к тому, что предлагает взамен, и предложение это делового свойства: «accipe, per longos tibi qui deserviat annos» — прими того, кто будет служить тебе долгие годы. Deservire — глагол рабской службы, и «tibi» относится к Венере, не к девушке. Себя он отдаёт богине, а девушка — жалованье.
+
+«Pura fide» — чистою верностью. Fides, договорная верность, у римлян сама была божеством с храмом на Капитолии. Богине любви предлагают добродетель, на которой держатся сделки: не страсть, а надёжность исполнителя.
+
 ## Commentary
+
+
+Ovid has fallen in love and addresses Venus. The prayer runs to six lines, and in those six lines the request changes three times.
+
+He begins from right: iusta precor, I pray for what is just. Then a demand: let her love me — or at least let her make me love for ever. And immediately a retreat: a, nimium volui, ah, I have wanted too much — let her merely allow herself to be loved. The petitioner haggles with himself in the deity's presence and lowers his price before any refusal has come.
+
+Then he turns to what he offers in exchange, and the offer is commercial in character: accipe, per longos tibi qui deserviat annos — accept one who will be your slave for long years. Deservire is a verb of slave service, and tibi refers to Venus, not to the girl. It is himself he makes over to the goddess; the girl is the wage.
+
+Pura fide — with pure faith. Fides, contractual good faith, was itself a Roman deity with a temple on the Capitol. To the goddess of love he offers the virtue on which bargains rest: not passion but reliability of performance.
+

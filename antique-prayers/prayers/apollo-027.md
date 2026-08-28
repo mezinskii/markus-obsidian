@@ -62,4 +62,19 @@ Advise me, Phoebus Apollo, if ever You inspired the Sibyl of Cumae to see vision
 ## Комментарий
 
 
+
+Обращение, которым открывается «Аргонавтика» Валерия Флакка.
+
+Полномочие поэта здесь удостоверяется предметом обстановки: «если стоит в целомудренном доме моём треножная чаша, причастная кумской пророчице». Валерий Флакк был квиндецемвиром — одним из хранителей Сивиллиных книг, — и говорит об этом не прямо, а через cortina, треножник прорицания.
+
+То есть зачин поэмы есть заявление о должности. Право просить у Феба наставления обосновано жреческим саном, и условное «si… si…» — не смирение, а предъявление верительных грамот.
+
 ## Commentary
+
+
+The invocation that opens Valerius Flaccus' Argonautica.
+
+The poet's warrant is here certified by a piece of furniture: "if the cauldron privy to the Cumaean prophetess stands in my chaste house". Valerius Flaccus was a quindecimvir — one of the keepers of the Sibylline books — and says so not directly but through the cortina, the tripod of prophecy.
+
+The opening of the poem is thus a statement of office. The right to ask Phoebus for instruction is grounded in a priesthood, and the conditional si … si is not modesty but the presentation of credentials.
+

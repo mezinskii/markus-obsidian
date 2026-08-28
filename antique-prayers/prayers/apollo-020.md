@@ -80,4 +80,23 @@ Father Phoebus, whether it is the snowy slopes of Lycia or the thorny slopes of 
 ## Комментарий
 
 
+
+Гимн Аполлону, который поют при дворе Адраста в Аргосе — на том пиру, куда только что явились Полиник и Тидей.
+
+Устроен он по формуле «где бы ты ни был»: seu… seu… seu — ликийские заросли Патары, снежные хребты, целомудренная роса Касталии. Смысл в том, чтобы перебрать все адреса, по которым бог может оказаться, и не упустить ни одного: вызов не должен сорваться из-за того, что молящийся не угадал место.
+
+А закрывающая клаузула распространяет тот же приём на имена: «зовут ли тебя розовым Титаном по обычаю Ахеменидова племени». Перебраны не только адреса, но и псевдонимы.
+
+Молитва, выстроенная как страховка от недоставки. Тот же приём в развёрнутом виде — у Апулея (`ceres-003`, `diana-001`), где перечислены и имена, и обряды, и облики богини разом.
+
 ## Commentary
+
+
+The hymn to Apollo sung at the court of Adrastus in Argos — at the feast to which Polynices and Tydeus have just come.
+
+It is built on the "wherever you may be" formula: seu … seu … seu — the Lycian thickets of Patara, snowy ridges, the chaste dew of Castalia. The point is to run through every address at which the god might be found and miss none: the summons must not fail because the petitioner guessed the location wrong.
+
+And the closing clause extends the same device to names: "whether they call you rosy Titan after the manner of the Achaemenid people". Not only the addresses are covered but the aliases too.
+
+A prayer engineered as insurance against non-delivery. The same device in fully developed form appears in Apuleius (`ceres-003`, `diana-001`), where the goddess's names, rites and forms are all enumerated together.
+

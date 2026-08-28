@@ -62,4 +62,23 @@ Turn to us now, Mighty Archer, I pray that finally now, Apollo, You will come to
 ## Комментарий
 
 
+
+Валерий Флакк, пятая книга: аргонавты молятся над умирающим Тифисом, кормчим «Арго».
+
+Довод у них не сердечный, а деловой. Просят не за друга, а за предприятие: «о труде, что вращается на последней оси и весь висит теперь на одних руках». Умирает единственный человек, умеющий править кораблём, и это, а не привязанность, выставлено как основание.
+
+Образ подобран точно: cardo, ось, на которой всё поворачивается, — это ведь и есть работа кормчего. Молитва говорит о нём его же ремеслом.
+
+Тифис всё-таки умрёт, и «Арго» поведёт Эргин. Просьба останется без ответа — что у Валерия Флакка случается чаще, чем у Вергилия.
+
 ## Commentary
+
+
+Valerius Flaccus, book five: the Argonauts pray over the dying Tiphys, helmsman of the Argo.
+
+Their argument is not affectionate but practical. They ask not for a friend but for the enterprise: "the toil that turns on the topmost hinge and now hangs from a single pair of hands". The one man who can steer the ship is dying, and that, not attachment, is set out as the ground.
+
+The image is exactly chosen: cardo, the pivot on which everything turns, is precisely the helmsman's work. The prayer speaks of him in the terms of his own craft.
+
+Tiphys dies all the same, and Erginus takes the helm. The request goes unanswered — which happens more often in Valerius Flaccus than in Virgil.
+

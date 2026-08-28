@@ -76,4 +76,27 @@ As I found this city, be present, Jupiter, Father Mars, and Mother Vesta, and al
 ## Комментарий
 
 
+
+Молитва Ромула при основании Рима, у Овидия — в рассказе о Парилиях, дне рождения города.
+
+Составлена она с законнической полнотой. Названы трое поимённо — Юпитер, Маворс, Веста, — а затем сразу перекрыт остаток: «и все боги, кого благочестиво призвать». Оговорка та же, что у Сципиона перед отплытием в Африку (`livy-scipio-001`): чего нельзя перечислить, то охватывают.
+
+«Auspicibus vobis hoc mihi surgat opus» — под вашими ауспициями да встанет этот труд. Auspicium — термин: ни одно римское государственное действие без птицегадания не имело силы. Ромул не просит удачи, он объявляет, что основание города совершается по установленному порядку, и просит богов быть в нём должностными лицами.
+
+А просьба безмерна: долгий век, власть над землёй-владычицей, восход и закат под ним. Это то же самое «imperium sine fine», которое у Вергилия обещает Юпитер, — только здесь оно не обещано богом, а затребовано человеком.
+
+Стоит сравнить с другим обетом того же Ромула (`jupiter-006`), данным несколькими годами позже: там он, теряя крепость, торгуется за один холм и оговаривает «хотя бы».
+
 ## Commentary
+
+
+Romulus' prayer at the founding of Rome, given by Ovid within his account of the Parilia, the city's birthday.
+
+It is drawn up with legal completeness. Three are named — Jupiter, Mavors, Vesta — and then the remainder is at once covered: "and all gods whom it is right to call upon". The same clause as in Scipio's prayer before sailing to Africa (`livy-scipio-001`): what cannot be enumerated is swept in.
+
+Auspicibus vobis hoc mihi surgat opus — under your auspices let this work rise. Auspicium is a technical term: no Roman public act was valid without the taking of the auspices. Romulus is not asking for luck; he is declaring that the founding of the city is being carried out in due form, and asking the gods to serve as its officers.
+
+And the request is boundless: long life, power over the earth as mistress, sunrise and sunset beneath it. This is the same imperium sine fine that Jupiter promises in Virgil — except that here it is not promised by a god but demanded by a man.
+
+It is worth comparing with another vow of the same Romulus (`jupiter-006`), made a few years later: there, losing the citadel, he haggles over a single hill and stipulates "at least".
+

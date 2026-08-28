@@ -74,4 +74,23 @@ Magnanimous, unconquered, boisterous Ares, in darts rejoicing, and in bloody war
 ## Комментарий
 
 
+
+Шесть строк подряд перечисляют, каков Арес: несокрушимый, оружелюбивый, неукротимый, смертоубийца, стенобойца, вечно обагрённый убийствами, радующийся мужеубийственной крови, страшный. И затем гимн просит его перестать.
+
+«Στῆσον ἔριν λυσσῶσαν, ἄνες πόνον ἀλγεσίθυμον» — останови бешеный раздор, отпусти душеболящий труд. То есть у бога просят отказаться от того единственного, чем он только что был определён. Из всех молитв этого собрания эта — единственная, которая уговаривает божество не быть собой.
+
+Взамен предлагают чужие ведомства: «склонись к желанию Киприды и к шествиям Лиэя, променяв крепость оружия на дела Део». Афродита, Дионис и Деметра — любовь, вино и земледелие; Аресу предъявлен список занятий, на которые он мог бы перейти.
+
+«Δῆριν ἄμουσον» — немузыкальная схватка. Война определена через нехватку: она то, в чём нет Муз. Сказано это внутри песни, и оттого звучит как приговор ремеслу противника: у нас есть песня, у тебя нет.
+
 ## Commentary
+
+
+Six consecutive lines set out what Ares is: unbreakable, arms-loving, untameable, man-slaying, wall-battering, forever spattered with slaughter, rejoicing in man-killing blood, dreadful. And then the hymn asks him to stop.
+
+Στῆσον ἔριν λυσσῶσαν, ἄνες πόνον ἀλγεσίθυμον — halt the raving strife, release the heart-grieving toil. That is, the god is asked to give up the one thing by which he has just been defined. Of all the prayers in this collection it is the only one that argues a deity out of being itself.
+
+Other gods' departments are offered instead: "incline to the desire of Kypris and the revels of Lyaios, exchanging the strength of arms for the works of Deo". Aphrodite, Dionysus and Demeter — love, wine and farming; Ares is handed a list of occupations he might move into.
+
+Δῆριν ἄμουσον — the Museless fray. War is defined by a lack: it is the thing in which there are no Muses. This is said inside a song, and so it sounds like a verdict on a rival trade: we have singing, you do not.
+

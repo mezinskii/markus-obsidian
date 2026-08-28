@@ -118,4 +118,23 @@ Monthly is measured the progress of Your journey through the year while You fill
 ## Комментарий
 
 
+
+Гимн Диане, написанный Катуллом для хора юношей и девушек, — единственное у него стихотворение прямо культового назначения.
+
+Устроен он как образцовый разбор божества, и это не упрёк. Первая строфа — кто поёт; вторая — родословие; третья — владения (горы, зеленеющие леса, потаённые ущелья, звонкие потоки); четвёртая — имена: Луцина у рожениц, Тривия на перекрёстках, Луна на небе; пятая — что она делает, меря год месячным ходом и наполняя амбары. И только шестая — просьба.
+
+Это правильное греческое строение гимна, перенесённое на латынь целиком: призывание, повествование, моление. Катулл проделывает всё без единого лишнего слова, и оттого стихотворение читается как образец, по которому можно учить.
+
+А просьба в конце вышла римской до мозга костей: «племя Ромула, как издревле привыкла, храни доброю помощью». Не о себе и не о хоре — о государстве.
+
 ## Commentary
+
+
+A hymn to Diana written by Catullus for a chorus of boys and girls — the only poem of his with a directly cultic purpose.
+
+It is constructed as a model exposition of a deity, and that is not a criticism. First stanza: who is singing. Second: genealogy. Third: domains (mountains, green woods, hidden glens, sounding streams). Fourth: names — Lucina to women in labour, Trivia at the crossroads, Luna in the sky. Fifth: what she does, measuring out the year by monthly course and filling the barns. And only the sixth: the request.
+
+This is the correct Greek structure of a hymn carried over into Latin whole: invocation, narration, petition. Catullus performs it without a single superfluous word, which is why the poem reads like a model one could teach from.
+
+And the request at the end turns out Roman to the bone: "keep the people of Romulus with your good help, as you have been accustomed of old". Not for himself and not for the chorus — for the state.
+

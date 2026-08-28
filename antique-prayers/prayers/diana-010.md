@@ -73,4 +73,27 @@ Ilithyia, You who are compassionate towards women in labor, who suffer with grea
 ## Комментарий
 
 
+
+Овидий молится Илифии о Коринне, которая едва не умерла после неудачного вытравливания плода.
+
+Молитва по форме безупречна: обращение, эпитет по должности, обещание ладана и вотивной таблички. Но обещанная надпись выдаёт всё: «Назон — за спасённую Коринну». Овидий заранее сочиняет текст, который повесит в храме, и сочиняет его так, чтобы собственное имя стояло первым.
+
+Ещё точнее — «ipse ego», «я сам», дважды подряд. Он подчёркивает, что принесёт дары своей рукой, не через раба; в вотивной практике это и вправду ценилось выше.
+
+Соседняя элегия (II.14) — обличение самого вытравливания. Вместе они составляют пару, и молитва читается иначе, если помнить, по какой причине Коринна при смерти.
+
+**Исправлена ссылка:** карточка указывала на 2.14, но молитва стоит в 2.13.
+
 ## Commentary
+
+
+Ovid prays to Ilithyia for Corinna, who has nearly died after a failed abortion.
+
+The prayer is formally impeccable: address, epithet by office, promise of incense and a votive tablet. But the promised inscription gives everything away: "Naso, for Corinna saved". Ovid composes in advance the text he will hang in the temple, and composes it so that his own name stands first.
+
+More precisely still — ipse ego, "I myself", twice over. He stresses that he will bring the offerings with his own hand, not by a slave; in votive practice this was indeed valued more highly.
+
+The neighbouring elegy (2.14) is a denunciation of abortion itself. Together they form a pair, and the prayer reads differently if one remembers why Corinna is dying.
+
+**The reference has been corrected:** the card pointed to 2.14, but the prayer stands in 2.13.
+

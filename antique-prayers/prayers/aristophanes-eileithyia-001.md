@@ -61,4 +61,27 @@ Oh! goddess divine, Eileithyia, patroness of women in labour, stay, stay the bir
 ## Комментарий
 
 
+
+Женщина, засунувшая под платье бронзовый шлем, изображает роды, чтобы улизнуть с Акрополя, где Лисистрата держит их взаперти. Молитва произносится в ходе обмана.
+
+Шутка при этом безупречна с точки зрения священного права. Роды оскверняли освящённую землю, и роженице действительно полагалось покинуть святилище; Акрополь — земля богини. Отговорка неотразима: отказать значило бы допустить осквернение, и Лисистрате нечего возразить.
+
+«Ἕως ἂν εἰς ὅσιον μόλω χωρίον» — пока я не дойду до ὅσιον места. Слово точное: греки различали ἱερόν, отданное богу, и ὅσιον — то, что богам не посвящено и потому дозволено людям. Женщина просит не «выпустить её», а дать добраться до земли, не принадлежащей божеству.
+
+И обращена просьба к Илифии — той, кто роды ускоряет или задерживает по своему усмотрению. Богиню родовспоможения просят повременить.
+
+В римской комедии роды обозначались криком из-за двери (`diana-021`); здесь та же условность вывернута — крик есть, родов нет.
+
 ## Commentary
+
+
+A woman who has stuffed a bronze helmet under her dress is pretending to be in labour so as to slip away from the Acropolis, where Lysistrata is keeping the women shut in. The prayer is spoken in the course of the deception.
+
+And the joke is impeccable in point of sacred law. Childbirth polluted consecrated ground, and a woman in labour genuinely had to leave a sanctuary; the Acropolis is the goddess's ground. The excuse is unanswerable: to refuse would be to permit pollution, and Lysistrata has nothing to say to it.
+
+Ἕως ἂν εἰς ὅσιον μόλω χωρίον — until I reach an hosion place. The word is exact: Greeks distinguished hieron, what is given over to a god, from hosion, what is not consecrated and therefore released for human use. The woman asks not to be let out but to be allowed to reach ground that does not belong to a deity.
+
+And the request goes to Eileithyia — she who hastens or delays a birth at her own discretion. The goddess of childbirth is asked to wait.
+
+In Roman comedy a birth was signalled by a cry from behind a door (`diana-021`); here the same convention is inverted — there is a cry and no birth.
+

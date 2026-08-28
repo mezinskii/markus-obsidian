@@ -61,4 +61,27 @@ Gods and Goddesses who inhabit the land and sea, to You I pray and ask that what
 ## Комментарий
 
 
+
+Сципион на рассвете, перед посадкой войска на корабли, идущие в Африку. Обычай требовал, чтобы полководец помолился вслух за всех, и Ливий приводит формулу целиком.
+
+Приём здесь противоположен девоции (`livy-deciusmus-001`): там богов перечисляли поимённо, здесь их не называют вовсе — «боги и богини, что населяете моря и земли». Когда список слишком велик, его заменяют охватом. Ни одно божество не может счесть себя пропущенным, потому что не назван никто.
+
+Та же полнота и во времени: «что совершено, совершается и будет совершено под моею властью». Три залога подряд, чтобы ни один поступок кампании не выпал из-под покрытия. И в пространстве — «по земле, по морю и по рекам»: третий член добавлен под этот поход.
+
+Перечисляются и все, за кого молятся: народ и плебс отдельно, союзники, латинское племя. Юридические разряды граждан выписаны так, будто составляется акт, а не молитва, — и в римском понимании разницы тут действительно нет.
+
+«Bene verruncent» — «пусть обернётся ко благу». Глагол verrunco к веку Ливия был уже мёртв и держался только в этой формуле; такие слова — надёжный признак того, что текст воспроизводится, а не сочиняется.
+
 ## Commentary
+
+
+Scipio at dawn, before the army embarks for Africa. Custom required the commander to pray aloud on behalf of everyone, and Livy gives the formula in full.
+
+The technique is the opposite of the devotio's (`livy-deciusmus-001`): there the gods were named one by one, here they are not named at all — "gods and goddesses who dwell in the seas and lands". When the list would be too long, it is replaced by coverage. No deity can consider itself passed over, because none is mentioned.
+
+The same completeness in time: "what has been done, is being done, and will hereafter be done under my command". Three tenses in a row, so that no act of the campaign falls outside the cover. And in space — "by land, by sea and by rivers": the third term is added for this expedition.
+
+Everyone prayed for is enumerated too: people and plebs separately, the allies, the Latin name. The legal classes of citizens are set out as though a deed were being drawn up rather than a prayer said — and in Roman terms there is indeed no difference.
+
+Bene verruncent — "may they turn out well". The verb verrunco was already dead by Livy's day and survived only in this formula; words of that kind are a reliable sign that a text is being reproduced rather than composed.
+

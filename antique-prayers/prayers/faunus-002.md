@@ -60,4 +60,23 @@ Faunus, have pity, I pray, and you, opulent Earth, hold fast this weapon, if alw
 ## Комментарий
 
 
+
+Последние минуты «Энеиды». Копьё Энея увязло в пне дикой маслины — дерева, посвящённого Фавну, которое троянцы срубили, расчищая берег. Турн молит Фавна и Землю удержать железо.
+
+Довод его — сравнительное благочестие, и по существу он прав: «если я всегда чтил ваши почести, которые Энеады, напротив, войной осквернили». Италийский царь напоминает италийским богам, чей он.
+
+И боги слушаются: копьё не поддаётся. Тогда вмешивается Венера и вырывает его сама. Молитва в этом эпизоде исполнена и тут же отменена — не потому, что была плоха, а потому, что у противника божество сильнее.
+
+Земля названа без обычного культового титула Terra Mater — просто «optima Terra», «наилучшая Земля». Турн говорит с ней как с местной землёй, своей.
+
 ## Commentary
+
+
+The last minutes of the Aeneid. Aeneas' spear is stuck in the stump of a wild olive — a tree sacred to Faunus, which the Trojans had felled to clear the beach. Turnus prays to Faunus and to Earth to hold the iron fast.
+
+His argument is comparative piety, and on the facts he is right: "if I have always honoured your rites, which the sons of Aeneas have on the contrary profaned by war". An Italian king is reminding Italian gods whose he is.
+
+And the gods obey: the spear will not come out. Then Venus intervenes and wrenches it free herself. The prayer in this episode is granted and immediately cancelled — not because it was a bad prayer, but because the opponent's deity is stronger.
+
+Earth is named without the usual cult title Terra Mater — simply optima Terra, "best Earth". Turnus speaks to her as to the local ground, his own.
+

@@ -73,12 +73,27 @@ O' Hygeia of the Blissful Ones, you are most revered by mortals; with you I trav
 
 ## Комментарий
 
-Пеан Гигиее, сохранённый Афинеем (XV, стр. Казобона 702a). Афиней прямо называет автора: «ὅτι παιᾶνα εἰς Ὑγίειαν ἐποίησε τόνδε Ἀρίφρων ὁ Σικυώνιος» — «пеан к Гигиее сочинил вот этот Арифрон Сикионский».
 
-Песнь была известной: тот же текст стоит на камне, изданном в Corpus Inscriptionum Graecarum, — то есть её не только переписывали, но и вырезали при святилищах.
+Пеан Гигиее — Здоровью, — сочинённый Арифроном Сикионским. Афиней, который его приводит, прямо называет автора, и потому имя дошло, тогда как о самом Арифроне не известно почти ничего.
 
-Ход мысли — перечисление всего, что люди считают счастьем: богатство, дети, царская власть, вожделение, «которое мы ловим тайными сетями Афродиты», — и вывод, что без здоровья ни одно из них не цветёт. Дорийские формы (βιοτᾶς, ἀρχᾶς, Ἀφροδίτας, σέθεν) — приметы хоровой лирики.
+Доказательство первенства Здоровья построено как приам: если есть радость в богатстве, или в детях, или в «богоравной для людей царской власти», или в «вожделениях, которые мы ловим тайными сетями Афродиты», или иная какая утеха, — то всё это расцветает лишь с тобою, а без тебя счастливым не бывает никто. Перечислены наибольшие блага, какие грек мог назвать, и все они объявлены зависимыми.
 
-Строки в записи сведены из переносов узкой колонки издания; членение на колоны по печатному тексту не выверено.
+«Σύνοικος» — сожительница, живущая в одном доме. Не «приди» и не «даруй»: Гигиею просят поселиться и остаться до конца. Из всех молитв корпуса эта единственная просит не о действии, а о совместном проживании.
+
+«Κρυφίοις Ἀφροδίτας ἄρκυσιν θηρεύομεν» — ловим тайными сетями Афродиты. Влечение описано как охота, где ловец сам и добыча.
+
+**Как добыт этот текст.** Он снят с текстового слоя издания Мейнеке и потребовал заметной правки: восстановлены «Ὑγίεια» из удвоенной прописной, «πόθων» из «zó9ov», «Ἀφροδίτας» из «AqooÓírag». Убраны колонтитулы и переносы. Разбивка на строки в карточке — рабочая, сделанная при сведении, а не Мейнекова, и по печатному изданию не выверена.
 
 ## Commentary
+
+
+A paean to Hygieia — Health — composed by Ariphron of Sicyon. Athenaeus, who quotes it, names the author outright, and so the name survives, though of Ariphron himself almost nothing is known.
+
+The proof that Health comes first is built as a priamel: if there is joy in wealth, or in children, or in "kingly rule that makes men equal to gods", or in "the desires we hunt with Aphrodite's secret nets", or any other delight — all of it flourishes only with you, and without you no one is happy. The greatest goods a Greek could name are listed, and all are declared dependent.
+
+Σύνοικος — housemate, one who lives under the same roof. Not "come" and not "grant": Hygieia is asked to move in and stay to the end. Of all the prayers in this corpus it is the only one that asks not for an action but for cohabitation.
+
+Κρυφίοις Ἀφροδίτας ἄρκυσιν θηρεύομεν — we hunt with Aphrodite's hidden nets. Desire is described as a hunt in which the hunter is also the quarry.
+
+**How this text was obtained.** It was taken from the text layer of Meineke's edition and needed appreciable repair: Ὑγίεια was restored from a doubled capital, πόθων from "zó9ov", Ἀφροδίτας from "AqooÓírag". Running heads and hyphenation were removed. The line division on the card is a working one, made in the course of assembly — it is not Meineke's, and has not been checked against a printed page.
+

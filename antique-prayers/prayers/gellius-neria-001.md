@@ -12,8 +12,11 @@ source:
   work: Noctes Atticae
   section: 13.23.13
   note: >-
-    thelatinlibrary.com, Aulus Gellius Noctes Atticae XIII.23.13 (стихи с обращением к Нерии, супруге Марса)
-occasion: prayer attributed to Titus Tatius at the reconciliation between Romans and Sabines after the Rape of the Sabine Women — appeal to Neria, wife of Mars, for peace
+    thelatinlibrary.com, Aulus Gellius Noctes Atticae XIII.23.13. Геллий цитирует
+    вторую книгу анналов Гнея Геллия; молитва — прозаическая, не стихотворная.
+    В карточке значилось, что молитва приписывается Титу Татию, — на деле у Геллия
+    её произносит сабинянка Герсилия, обращаясь к Титу Татию с просьбой о мире
+occasion: Hersilia, speaking before Titus Tatius at the reconciliation of Romans and Sabines after the Rape of the Sabine Women, appeals to Neria, wife of Mars, for peace
 deities:
   - Neria
   - Mars
@@ -60,4 +63,23 @@ Neria, wife of Mars, I appeal to you, give peace. May you use your own favored p
 ## Комментарий
 
 
+
+Авл Геллий приводит эту молитву в главе, посвящённой не богам, а грамматике: он разбирает, как правильно склонять имя супруги Марса — Nerio, Nerienes или Neria. Молитва для него — довод в филологическом споре, и уцелела она поэтому.
+
+Слово сабинское: *nerio* значит «мужество, сила», и это одно из немногих несобственно-римских божественных имён, дошедших до нас с объяснением. Геллий цитирует вторую книгу анналов Гнея Геллия — источник III в. до н. э., от которого больше почти ничего не осталось.
+
+Логика просьбы безупречна и дерзка. Похищение сабинянок случилось «по совету супруга твоего»; значит, за последствия отвечает дом Марса, и мира просят у жены как у стороны, обязанной по родству. Просительница обращает вину бога в своё право.
+
+**Исправлен повод:** в карточке молитва приписывалась Титу Татию — у Геллия её произносит сабинянка Герсилия, обращаясь к Титу Татию.
+
 ## Commentary
+
+
+Aulus Gellius quotes this prayer in a chapter concerned not with gods but with grammar: he is working out how to decline the name of Mars' consort — Nerio, Nerienes or Neria. For him the prayer is evidence in a philological dispute, and that is why it survives.
+
+The word is Sabine: nerio means "manliness, strength", and this is one of the few non-Roman divine names to reach us with an explanation attached. Gellius is citing the second book of the annals of Gnaeus Gellius — a third-century BC source of which almost nothing else remains.
+
+The logic of the plea is impeccable and audacious. The rape of the Sabine women happened "by the counsel of your husband"; therefore the house of Mars is answerable for the consequences, and peace is asked of the wife as of a party liable by kinship. The petitioner turns the god's own fault into her title to ask.
+
+**The occasion has been corrected:** the card attributed the prayer to Titus Tatius — in Gellius it is spoken by the Sabine woman Hersilia, addressing Titus Tatius.
+

@@ -96,4 +96,27 @@ I begin to sing of Pallas Athena, the glorious goddess, bright-eyed, inventive, 
 ## Комментарий
 
 
+
+Рождение Афины из головы Зевса, и в первой же строке об этом стоит слово, которого не ждёшь.
+
+«Τὴν αὐτὸς ἐγείνατο μητίετα Ζεύς» — которую сам родил многомудрый Зевс. Ἐγείνατο — глагол женского деторождения; он применён к богу-мужчине, и применён нарочно. Зевс не «произвёл» и не «явил» — он родил, из священной головы, и вся неслыханность события заключена в грамматике.
+
+Дальше — не описание младенца, а описание зрителей. «Σέβας δ᾽ ἔχε πάντας ὁρῶντας ἀθανάτους» — благоговение охватило всех бессмертных, на неё смотревших. Боги здесь публика, и им страшно.
+
+А в дальнейших строках (перевод карточки их захватывает) земля, море и солнце останавливаются, пока она не снимет доспех. Рождение божества описано как стихийное бедствие: Олимп сотрясается, светило замирает, и порядок вещей возобновляется, лишь когда богиня разоружилась.
+
+Родилась она сразу в доспехе — «πολεμήϊα τεύχε᾽ ἔχουσαν». У Афины нет младенчества и нет становления; она появляется готовой, и это её отличает от Диониса или Асклепия, которых надо было вырастить и зачислить.
+
 ## Commentary
+
+
+The birth of Athena from the head of Zeus, and in the very first line about it stands a word one does not expect.
+
+Τὴν αὐτὸς ἐγείνατο μητίετα Ζεύς — whom Zeus the counsellor himself bore. Egeinato is the verb of a woman's childbearing; it is applied to a male god, and applied deliberately. Zeus did not "produce" or "bring forth" — he gave birth, out of his holy head, and the whole enormity of the event is contained in the grammar.
+
+What follows is not a description of the infant but a description of the spectators. Σέβας δ᾽ ἔχε πάντας ὁρῶντας ἀθανάτους — awe held all the immortals who watched. The gods here are an audience, and they are afraid.
+
+And in the lines beyond (the card's translation reaches them) earth, sea and sun stand still until she takes off her armour. The birth of a deity is described as a natural catastrophe: Olympus shakes, the sun halts, and the order of things resumes only once the goddess has disarmed.
+
+She was born already armoured — polemēïa teuche' echousan. Athena has no infancy and no development; she appears finished, and that distinguishes her from Dionysus or Asclepius, who had to be reared and enrolled.
+

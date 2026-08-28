@@ -72,4 +72,27 @@ Bakkhos Perikionios, hear my prayer, who madest the house of Kadmos once thy car
 ## Комментарий
 
 
+
+Самый короткий и самый вещественный из дионисийских гимнов собрания.
+
+Периклоний значит «Столпообвивающий». Когда чертог Семелы сгорел и земля затряслась, бог обвился лозою вокруг столпов Кадмова дома и удержал его. Прозвище это фиванское, культовое, и за ним стоит простая картина: виноградная лоза, обвившая колонну и держащая постройку.
+
+А дальше половина строки превращает это в космологию. «Ὃ δ᾽ ἀνέδραμε δεσμὸς ἁπάντων» — и взбежал он связью всего. Δεσμός — узы, скрепа: то, чем держится мироздание. Лоза, стянувшая дом, названа тем, что стягивает вселенную, и переход совершён без всякого объяснения, одним приложением.
+
+Сотрясение здесь названо точно: «когда огненосное сияние сдвинуло всю землю свистами перуна». Это молния, убившая Семелу; дом рушится не сам по себе, а от явления Зевса, и спасает его сын, родившийся в тот же миг.
+
+«Μεθυδώτην» — дарующего опьянение. Прозвище поставлено рядом со спасением дома, и обе способности принадлежат одному: то, что расслабляет человека, укрепляет здание.
+
 ## Commentary
+
+
+The shortest and the most concrete of the Dionysiac hymns in the collection.
+
+Perikionios means "he about the pillar". When Semele's chamber burned and the earth shook, the god wound himself as a vine around the pillars of Cadmus' house and held it up. The title is Theban and cultic, and behind it lies a plain picture: a vine grown round a column and holding the building together.
+
+And then half a line turns this into cosmology. Ὃ δ᾽ ἀνέδραμε δεσμὸς ἁπάντων — and he ran up as the bond of all things. Desmos is a binding, a clamp: that by which the universe holds together. The vine that braced a house is called the thing that braces the cosmos, and the transition is made with no explanation at all, by simple apposition.
+
+The shaking is precisely named: "when the fire-bearing blaze moved the whole earth with the whirrings of the thunderbolt". This is the lightning that killed Semele; the house does not collapse of itself but at the epiphany of Zeus, and it is saved by the son born at that same moment.
+
+Μεθυδώτην — giver of drunkenness. The title is set beside the rescue of the house, and both capacities belong to one god: what loosens a man braces a building.
+

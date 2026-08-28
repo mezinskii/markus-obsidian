@@ -94,4 +94,23 @@ Potent Goddess of sacred groves — for by your noble appearance and modesty I t
 ## Комментарий
 
 
+
+Аргосское войско погибает от жажды; Гипсипила выводит его к источнику Лангии, и Адраст молится нимфе ручья.
+
+Молитва начинается с догадки о происхождении собеседницы — «лицо твоё и стыдливость отрицают смертное происхождение» — и дальше перебирает варианты: Диана ли отпустила тебя из целомудренного сонма к брачному ложу, или тебя оплодотворила «соскользнувшая со звёзд немалая любовь». То есть: кто твой отец, если ты не смертная.
+
+И тут же оговорка со светской развязностью: «ведь и сам решитель богов не новичок в аргосских спальнях». Адраст напоминает нимфе, что Юпитер в Аргосе бывал не раз, — на случай, если она его дочь.
+
+Просьба потом самая простая: дай напиться. Но прежде надо было установить, с кем говоришь и по какому разряду. Римская молитва без этого не начинается.
+
 ## Commentary
+
+
+The Argive army is dying of thirst; Hypsipyle leads it to the spring of Langia, and Adrastus prays to the nymph of the stream.
+
+The prayer opens with a conjecture about whom he is addressing — "your face and your modesty deny a mortal stock" — and then runs through the options: did Latonia release you from her chaste band to a marriage bed, or does "a love slipped down from the stars, and no lowly one" make you fruitful? That is: who is your father, if you are not mortal?
+
+And immediately a worldly aside: "for the arbiter of the gods himself is no novice in Argive bedchambers". Adrastus reminds the nymph that Jupiter has been in Argos more than once — in case she is his daughter.
+
+The request that follows is the simplest possible: let us drink. But first it was necessary to establish whom one is speaking to, and in what category. A Roman prayer does not begin without that.
+

@@ -82,4 +82,23 @@ Before all else, worship the Gods, and to great Ceres pay Her annual due upon th
 ## Комментарий
 
 
+
+Вергилий предписывает земледельцу весенний обряд Церере — обход поля с жертвой на исходе зимы.
+
+Молитвы как таковой здесь нет: есть указание, как её сделать. «Пусть вся сельская молодёжь поклоняется Церере», «трижды пусть обойдёт вокруг новых всходов счастливая жертва», «пусть криком зовут Цереру под кров». «Георгики» вообще написаны в повелительном наклонении, и обряд подан так же, как посев или прививка, — как работа, которую надо выполнить в срок и по правилам.
+
+А кончается всё запретом: никто не смеет поднести серп к колосьям, пока не сплясал Церере нескладную пляску и не спел. Жатва не начнётся, покуда не отработан обряд.
+
+**Исправлено сочинение:** в карточке значились «Буколики», это «Георгики».
+
 ## Commentary
+
+
+Virgil prescribes to the farmer a spring rite for Ceres — a circuit of the field with a victim at winter's end.
+
+There is no prayer as such here: there is an instruction for making one. "Let all your country youth worship Ceres", "let the auspicious victim go three times around the new crops", "let them call Ceres into the house with a shout". The Georgics are written throughout in the imperative, and the rite is presented exactly as sowing or grafting is — as work to be done on time and by the rules.
+
+And it all ends in a prohibition: no one may put a sickle to the ripe ears until he has danced Ceres an ungainly dance and sung. The harvest does not begin until the rite has been discharged.
+
+**The work has been corrected:** the card had "Eclogues"; this is the Georgics.
+

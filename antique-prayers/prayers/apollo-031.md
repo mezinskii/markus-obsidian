@@ -100,4 +100,23 @@ O Phoebus Apollo, who always pitied Troy of its grave hardship, you who guided t
 ## Комментарий
 
 
+
+Длинная молитва Энея у пещеры Кумской Сивиллы, перед сошествием в преисподнюю.
+
+Начинается она с напоминания об услуге, которая с троянской стороны выглядит как злодеяние: «ты, что направил дарданские стрелы и руку Париса в тело Эакида». Эней благодарит бога за убийство Ахилла — единственный троянский успех за всю войну — и на этом строит своё право просить.
+
+Дальше ход ещё сильнее: «Досюда пусть и следует за нами троянская доля». Он просит богов счесть наказание отбытым. Не помиловать, а признать срок истёкшим.
+
+А в конце — просьба уже к самой Сивилле, и совершенно бытовая: не вверяй песен листьям, чтобы их не разметало ветром, спой сама. Знаменитая беда кумского оракула — листья с буквами, перепутанные сквозняком, — здесь предупреждена заранее.
+
 ## Commentary
+
+
+Aeneas' long prayer at the cave of the Cumaean Sibyl, before the descent to the underworld.
+
+It opens by reminding Apollo of a service that from the Trojan side looks like an atrocity: "you who guided the Dardan shafts and the hand of Paris into the body of Aeacus' son". Aeneas thanks the god for the killing of Achilles — the one Trojan success of the whole war — and builds his right to ask upon it.
+
+The next move is stronger still: "let the fortune of Troy have followed us this far and no further". He asks the gods to consider the sentence served. Not to pardon, but to acknowledge that the term has expired.
+
+And at the end a request to the Sibyl herself, an entirely practical one: do not commit your songs to leaves, lest the wind scatter them — sing them yourself. The famous defect of the Cumaean oracle, lettered leaves disordered by a draught, is here forestalled in advance.
+

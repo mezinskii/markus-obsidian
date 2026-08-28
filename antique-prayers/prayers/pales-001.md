@@ -58,4 +58,23 @@ Pray to Pales with warm milk, say: 'Be equally mindful of sheep and their master
 ## Комментарий
 
 
+
+Парилии, 21 апреля — праздник пастухов и день рождения Рима. Весь обряд Овидий укладывает в одну строку-повеление.
+
+«Tepido lacte» — тёплым молоком. Не кровью: на Парилиях не закалывали. Пастушеский праздник обходился молоком, просом и обкуриванием стад, и это самый бескровный из крупных римских обрядов. Тем удивительнее, что именно он стал днём основания города — Рим отмечал своё рождение по календарю овчарни.
+
+«Precare» — повелительное наклонение второго лица: моли. Овидий не молится сам, он предписывает молиться, и «Фасты» вообще написаны так: не служебник, а наставление, кому и когда.
+
+**О поле божества.** Здесь Палес женского рода — «silvicolam… Palem», с прилагательным на -am. Но древние в этом расходились: у других авторов Палес мужского рода, а некоторые говорили о двух Палесах сразу. Русский перевод вынужден был выбрать и следует Овидию; в другом источнике то же имя потребовало бы другого выбора.
+
 ## Commentary
+
+
+The Parilia, 21 April — the shepherds' festival and the birthday of Rome. Ovid compresses the whole rite into a single line of command.
+
+Tepido lacte — with warm milk. Not with blood: nothing was slaughtered at the Parilia. The shepherds' festival made do with milk, millet and the fumigation of the flocks, and it is the least bloody of the major Roman rites. The more remarkable, then, that this was the day chosen for the city's foundation — Rome kept its birthday by the calendar of the sheepfold.
+
+Precare is a second-person imperative: pray. Ovid does not pray himself, he prescribes praying, and the Fasti are written throughout in this way: not a service book but a set of instructions on who and when.
+
+**On the deity's sex.** Here Pales is feminine — silvicolam … Palem, with the adjective in -am. But the ancients disagreed: other authors make Pales masculine, and some spoke of two Pales at once. The Russian had to choose, and follows Ovid; in another source the same name would require a different choice.
+

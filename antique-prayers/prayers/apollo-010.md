@@ -77,4 +77,23 @@ May Myrina's richness ever You hold, Apollo, thus always the swan song, too, may
 ## Комментарий
 
 
+
+Марциал просит Аполлона выхлопотать консульство своему покровителю Стелле.
+
+Устроена эпиграмма как классический торг по формуле «sic… ut»: сперва цепочка благопожеланий богу — да владеешь ты Мириновыми полями, да служат тебе Музы, да любит тебя Палатин, — и всё это выставлено ценой за одну услугу. Бога подкупают добрыми пожеланиями.
+
+А концовка чисто марциаловская: «Жертва уже родилась, Феб; чего ты медлишь?» Телёнок, обещанный за исполнение, уже на свете — и бог, стало быть, должен поторопиться, пока тот не вырос. Обет с истекающим сроком годности.
+
+Английский перевод карточки обрывается на просьбе и ни бычка, ни этой шутки не передаёт.
+
 ## Commentary
+
+
+Martial asks Apollo to secure a consulship for his patron Stella.
+
+The epigram is built as a classic sic … ut bargain: first a chain of blessings wished upon the god — may you hold the fields of Myrina, may the learned sisters serve you, may the Palatine love you — and all of it set out as the price of a single favour. The god is being bribed with good wishes.
+
+And the ending is pure Martial: "The victim is already born, Phoebus; why do you delay?" The calf promised for fulfilment is already in the world — so the god had better hurry before it grows up. A vow with an expiry date.
+
+The card's English breaks off at the request and conveys neither the bullock nor the joke.
+

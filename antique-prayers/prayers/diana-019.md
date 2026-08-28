@@ -115,4 +115,23 @@ Virgin Goddess of the sacred groves, whose unkind banners and fierce battle crie
 ## Комментарий
 
 
+
+Аталанта молится Диане о сыне, ушедшем на войну. Двадцать девять строк — самая длинная молитва в корпусе после Апулеевых.
+
+Устроена она как отчёт о выслуге. Аталанта перечисляет, чем заслужила право просить: не знала ни фиасов, ни игр дерзкой ночи; после брака не взяла ни тирса, ни прялки; осталась охотницей и «незамужней душою»; не прятала вину в потаённой пещере, а вынесла младенца и положила богине к ногам. Каждый пункт — оправдание перед богиней девства за то, что она родила.
+
+И мальчик оправдан тем же доводом: «не выродком был он крови своей — тотчас пополз он к моим лукам».
+
+А кончается всё страшно. Если сон вещий и сын погибнет — «пронзи всеми стрелами это злосчастное чрево; дай, чтобы о похоронах жалкой матери он услышал первым». Она просит убить её прежде, чем придёт весть. Диана исполнит только вторую половину.
+
 ## Commentary
+
+
+Atalanta prays to Diana for her son, who has gone to war. Twenty-nine lines — the longest prayer in this corpus after those of Apuleius.
+
+It is constructed as a record of service. Atalanta lists what entitles her to ask: she has known neither thiasos nor the games of wanton night; after marriage she took up neither thyrsus nor soft wool; she remained a huntress and "unwed in spirit"; she did not hide her fault in a secret cave but brought the infant out and laid him trembling at the goddess's feet. Every item is a defence before the goddess of virginity for having given birth.
+
+And the boy is justified by the same argument: "nor was he degenerate from his blood — at once he crawled towards my bows".
+
+And it ends terribly. If the dream is prophetic and her son is to die — "pierce this unhappy womb with all your arrows; let him hear first of his wretched mother's funeral". She asks to be killed before the news can reach her. Diana will grant only the second half.
+

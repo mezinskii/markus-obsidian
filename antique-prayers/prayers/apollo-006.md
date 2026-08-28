@@ -65,4 +65,23 @@ Apollo, as it is prescribed for you in those books — and for this reason may e
 ## Комментарий
 
 
+
+Из протокола Секулярных игр 17 г. до н. э., вырезанного на камне: молитва при жертве Аполлону и Диане на Палатине.
+
+Это не литература, а делопроизводство — и оттого особенно ценно. Молитва здесь не воспроизведена, а **сокращена ссылкой**: «cetera uti supra», прочее как выше. Резчик отказывается повторять формулу и отсылает к полному тексту, приведённому раньше. Молитва с перекрёстной ссылкой — вещь, возможная только в документе.
+
+Приношение тоже говорящее: девять попан, девять лепёшек, девять фтоев — по девять каждого из трёх видов, и все три названия греческие. Палатинский обряд Аполлону сознательно выдержан в греческом ключе, в отличие от ночных жертв на Тарентском поле.
+
+Английский перевод карточки ссылку молча раскрывает и выписывает формулу целиком; русский идёт за камнем и потому втрое короче.
+
 ## Commentary
+
+
+From the record of the Secular Games of 17 BC, cut in stone: the prayer at the offering to Apollo and Diana on the Palatine.
+
+This is not literature but administration — and it is the more valuable for that. The prayer is not reproduced here but **abbreviated by cross-reference**: cetera uti supra, "the rest as above". The stonecutter declines to repeat the formula and refers back to the full text given earlier. A prayer with a cross-reference is something possible only in a document.
+
+The offering speaks too: nine popana, nine cakes, nine phthoes — nine of each of three kinds, and all three names Greek. The Palatine rite for Apollo is deliberately kept in a Greek register, unlike the nocturnal sacrifices on the Tarentum.
+
+The card's English silently expands the cross-reference and writes the formula out in full; the Russian follows the stone and is therefore a third of the length.
+

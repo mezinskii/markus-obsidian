@@ -70,4 +70,27 @@ I sing of golden-throned Hera whom Rhea bare. Queen of the Immortals is she, sur
 ## Комментарий
 
 
+
+Пять строк, и в них нет ни одной просьбы, ни одного действия и ни одного поступка богини. Всё сказанное — о её положении.
+
+Гера определена родством: рождена Реей, сестра и супруга громогласного Зевса, царица бессмертных. Каждая клауза — отношение к кому-то. И вывод из них: «которую все блаженные по высокому Олимпу благоговейно чтут наравне с Зевсом».
+
+«Ὁμῶς Διί» — наравне с Зевсом. Ради этих двух слов гимн и написан: он о старшинстве, и старшинство выведено из брака. Другие боги в этом собрании получают свои гимны за то, что делают, — Гефест научил ремёслам, Асклепий врачует, Артемида охотится и водит хоровод. Гере вменять нечего, и её величие изложено как чин.
+
+«Ὑπείροχον εἶδος ἔχουσαν» — обликом всех превосходящую. Единственный признак, принадлежащий ей самой, а не её родне, — красота, и он назван мимоходом.
+
+Это и есть Гера греческого культа: не покровительница чего-либо, а супруга и царица, чья власть держится не на ведомстве, а на месте в порядке.
+
 ## Commentary
+
+
+Five lines, and in them there is not one request, not one action, not one deed of the goddess. Everything said concerns her standing.
+
+Hera is defined by kinship: born of Rhea, sister and wife of loud-thundering Zeus, queen of the immortals. Every clause is a relation to someone. And the conclusion drawn from them: "whom all the blessed throughout high Olympus revere and honour equally with Zeus".
+
+Ὁμῶς Διί — equally with Zeus. It is for these two words that the hymn was written: it is about precedence, and precedence is derived from marriage. Other gods in this collection get their hymns for what they do — Hephaestus taught the crafts, Asclepius heals, Artemis hunts and leads the dance. There is nothing to enter against Hera, and her greatness is set out as rank.
+
+Ὑπείροχον εἶδος ἔχουσαν — surpassing all in form. The one attribute belonging to her rather than to her relations is her beauty, and it is mentioned in passing.
+
+This is the Hera of Greek cult: not a patroness of anything but a wife and a queen, whose power rests not on a department but on a place in the order.
+

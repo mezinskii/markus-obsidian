@@ -52,4 +52,23 @@ Whether thou be god or goddess to whom this grove is dedicated, as it is thy rig
 ## Комментарий
 
 
+
+Формула, которую Катон предписывает произнести перед тем, как прореживать священную рощу.
+
+Начинается она с признания в неведении: «Бог ли ты, богиня ли, кому посвящена эта роща». Имени божества хозяин не знает — и это не благочестивая скромность, а юридическая осторожность. Обратиться неверно опаснее, чем не обратиться вовсе, и формула обходит затруднение, охватив оба пола разом.
+
+Дальше оговорка ещё точнее: «сделаю ли это я сам или кто по моему приказу». Ответственность заранее распространяется на работников, чтобы за чужую руку не пришлось отвечать отдельной жертвой.
+
+Это piaculum — жертва не просительная, а искупительная. Рубка в роще есть посягательство, и свинья приносится не за услугу, а в возмещение ущерба, который будет нанесён. Римлянин платит богу вперёд и оформляет сделку по всем правилам.
+
 ## Commentary
+
+
+The formula Cato prescribes for speaking before thinning a sacred grove.
+
+It begins with an admission of ignorance: "Whether you be god or goddess to whom this grove is sacred." The owner does not know the deity's name — and this is not pious modesty but legal caution. To address wrongly is more dangerous than not to address at all, and the formula gets round the difficulty by covering both genders at once.
+
+The next qualification is more precise still: "whether I do it myself or someone at my bidding". Liability is extended to the workmen in advance, so that another man's hand will not require a separate expiation.
+
+This is a piaculum — not a petitionary but an expiatory sacrifice. Cutting in a grove is an encroachment, and the pig is offered not for a favour but in compensation for damage that is about to be done. The Roman pays the god in advance and executes the transaction by the book.
+

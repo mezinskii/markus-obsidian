@@ -75,4 +75,23 @@ Come, most chaste Queen of Heaven, appear in royal robes and nod Your assent to 
 ## Комментарий
 
 
+
+День рождения Сульпиции. Юнона Родильная здесь не богиня родов, а Iuno natalis: у каждой женщины был свой гений-покровитель, и у женщин он звался Юноной, как у мужчин — Гением.
+
+Стихотворение построено на маленьком обмане, и поэт его тут же выдаёт. Девушка нарядилась «для тебя, богиня», и жертву приносит тебе — «правда, причину наряда она относит к тебе… но есть и тот, кому втайне желает понравиться».
+
+И просьба в конце подменена так же ловко: у богини дня рождения просят не долголетия, а взаимности. «Пусть никто не разлучит любящих, но юноше, молю, приготовь взаимные узы».
+
+**Английский перевод карточки этой латыни почти не соответствует:** вторая его половина — о винных возлияниях, заморских травах и родах — взята откуда-то ещё. Ссылка исправлена: 3.12 вместо старой нумерации 4.6.
+
 ## Commentary
+
+
+Sulpicia's birthday. Juno Natalis here is not the goddess of childbirth but the birthday Juno: every woman had her own tutelary spirit, called a Juno in women as it was called a Genius in men.
+
+The poem is built on a small deception, which the poet immediately gives away. The girl has dressed "for you, goddess", and brings her offering to you — "true, she refers the reason for her finery to you … but there is also one whom she secretly wishes to please".
+
+And the request at the end is substituted just as deftly: what is asked of the birthday goddess is not long life but requited love. "Let no one part the lovers, but for the young man, I pray, prepare a mutual bond."
+
+**The card's English scarcely corresponds to this Latin:** its second half — wine libations, herbs from overseas, childbirth — has been taken from somewhere else. The reference has been corrected to 3.12 from the older numbering 4.6.
+

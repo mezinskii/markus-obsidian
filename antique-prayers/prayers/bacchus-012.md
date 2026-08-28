@@ -70,4 +70,23 @@ Come hither, O Lenaean Father, all things here beckon to be nurtured by your man
 ## Комментарий
 
 
+
+Зачин второй книги «Георгик» — той, что о виноградной лозе.
+
+Приглашение кончается тем, что бога просят разуться и лезть в чан: «сюда, о отец Леней, приди и, сбросив котурны, вместе со мною обагри голые ноги молодым суслом».
+
+Котурны — обувь трагического актёра, знак высокого достоинства. Их предлагается снять. И «mecum», «вместе со мною»: поэт ставит себя рядом с богом в давильне, босиком.
+
+В одной строке вся этика «Георгик». Божественное встречается не в обряде и не в храме, а в работе — и опознаётся по тому, что и оно тоже перепачкано суслом.
+
 ## Commentary
+
+
+The opening of the second book of the Georgics — the one about the vine.
+
+The invitation ends by asking the god to take off his boots and get into the vat: "come here, O father Lenaeus, and with your buskins stripped off stain your bare legs with me in the new must".
+
+Cothurni are the tragic actor's boots, a mark of high dignity. He is asked to remove them. And mecum, "with me": the poet places himself beside the god in the winepress, barefoot.
+
+The whole ethic of the Georgics is in that one line. The divine is met not in a rite and not in a temple but in work — and it is recognised by being stained with must like everyone else.
+

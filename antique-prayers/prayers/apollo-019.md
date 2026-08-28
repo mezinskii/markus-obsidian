@@ -56,4 +56,23 @@ Grant me, O Phoebus, new fonts of inspiration and weave fortune's garland as a c
 ## Комментарий
 
 
+
+Зачин неоконченной «Ахиллеиды» — две строки, и обе о положении самого поэта.
+
+«Дай мне, Феб, новые источники» — именно новые, потому что прежние уже израсходованы на «Фиваиду». Стаций просит у бога позволения напиться дважды. А «fronde secunda» — «благосклонной листвой», но заодно и «второй листвой»: второй лавровый венок за вторую эпопею.
+
+Обращение к богу поэзии оказывается прошением о служебном росте. Для придворного поэта Домициана это не цинизм, а обычная рамка: успех поэмы и милость бога — одно и то же.
+
+«Ахиллеида» так и осталась недописанной: Стаций умер, не доведя её до конца второй книги.
+
 ## Commentary
+
+
+The opening of the unfinished Achilleid — two lines, and both concern the poet's own standing.
+
+"Give me new springs, Phoebus" — new ones precisely, because the old have already been spent on the Thebaid. Statius is asking the god's leave to drink twice. And fronde secunda is "with favouring foliage", but also "with a second foliage": a second laurel for a second epic.
+
+An address to the god of poetry turns out to be an application for advancement. For Domitian's court poet this is not cynicism but the ordinary frame: the success of a poem and the favour of the god are the same thing.
+
+The Achilleid remained unfinished: Statius died before carrying it past the second book.
+

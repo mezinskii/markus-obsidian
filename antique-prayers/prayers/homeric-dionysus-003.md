@@ -88,4 +88,19 @@ I begin to sing of Dionysos ivy-crowned, the loud-crying, splendid son of Zeus a
 ## Комментарий
 
 
+
+Дионис у нисейских нимф: отец отдал им младенца, они приняли его на лоно и вскормили в благоуханной пещере, а он, подросши, стал бродить по лесистым логовищам, увитый плющом и лавром, и нимфы шли следом.
+
+«Μεταρίθμιος ἀθανάτοισιν» — сопричтённый к бессмертным. Слово важное: Диониса не рождают богом, его к богам причисляют, зачисляют в список. Так же обстоит с Асклепием (`homeric-asclepius-001`), которому гимн выписывает родословную, и не так — с Афиной (`homeric-athena-001`), появляющейся сразу готовой. Греческий пантеон был открыт для пополнения, и гимны отмечают, кто в нём с начала, а кто принят позже.
+
+Просьба в конце (в приведённый отрывок она не попала, но названа в поле occasion) — о возвращении его поры на многие годы. Просят не милости и не дара, а повторения срока: чтобы приходил год за годом. Речь о сборе винограда, и бог виноделия отвечает не за урожай, а за то, чтобы время шло по кругу.
+
 ## Commentary
+
+
+Dionysus among the nymphs of Nysa: his father gave them the infant, they took him to their bosoms and reared him in a fragrant cave, and when he had grown he began to range the wooded haunts, wreathed in ivy and laurel, with the nymphs following.
+
+Μεταρίθμιος ἀθανάτοισιν — numbered among the immortals. The word matters: Dionysus is not born a god, he is reckoned among the gods, entered on the list. The same holds for Asclepius (`homeric-asclepius-001`), for whom the hymn draws up a pedigree, and not for Athena (`homeric-athena-001`), who appears already finished. The Greek pantheon was open to additions, and the hymns record who has been in it from the beginning and who was admitted later.
+
+The request at the end (it falls outside the passage given, but is named in the occasion field) is for the return of his season for many years. What is asked is neither favour nor gift but the repetition of a term: that it come round year after year. The subject is the vintage, and the god of wine is responsible not for the harvest but for time coming round again.
+

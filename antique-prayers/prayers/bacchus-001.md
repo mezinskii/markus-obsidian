@@ -71,10 +71,19 @@ Come, O Lyaeus, bihorned Bassareus, two-mothered Maenalius, come into this place
 
 ## Комментарий
 
-Девять коротких строк, которые Цезий Басс приводит в трактате «О метрах» как образец итифаллического размера (с. 255 по изданию Кейля). Те же строки цитируют Диомед, Марий Викторин и Теренциан Мавр — значит они ходили по грамматическим руководствам как хрестоматийный пример.
 
-Кто их сочинил, неизвестно. Бэренс прямо оговаривает: неясно, написал ли их сам Цезий Басс для своих «Лирических», перевёл ли с греческого, или взял у более раннего поэта. Отсюда и разнобой в полях карточки, где стоят одновременно Цезий Басс и «гимн Каллимаха».
+Девять коротких строк, уцелевших благодаря своему ритму, а не содержанию. Цезий Басс приводит их в трактате «О метрах» как образец итифаллического размера, и следом за ним те же строки переписывают Диомед, Марий Викторин и Теренциан Мавр. Молитва сохранилась так, как музыкант хранит гамму.
 
-Зов идёт по именам Вакха подряд: Ликей, Бассарей, двурогий, Менальский, двуматерний, — и завершается троекратным «Bacche, Bacche, Bacche!», как настоящий обрядовый оклик.
+Замечательно, что просьбы в ней нет вовсе. Пять имён Вакха в трёх строках — Лиэй, Бассарей, двурогий, Менальский, двуматерний, — потом убор из плюща и гроздьев, потом «приди с миром к алтарям» и троекратный оклик. Чистый вызов, без единого прошения: молитва, целиком состоящая из называния бога по имени.
+
+**Кто это сочинил, неизвестно.** Бэренс прямо оговаривает: неясно, написал ли стихи сам Цезий Басс, перевёл ли с греческого или взял у более раннего поэта. Отсюда и разнобой в полях карточки, где стоят разом Цезий Басс и «гимн Каллимаха», а провенанс помечен `unclear`. Строки 4, 6 и 7 — конъектуры Бэренса против рукописей.
 
 ## Commentary
+
+
+Nine short lines that survive because of their rhythm rather than their content. Caesius Bassus quotes them in his treatise On Metres as a specimen of the ithyphallic, and after him Diomedes, Marius Victorinus and Terentianus Maurus copy the same lines. The prayer has been preserved the way a musician preserves a scale.
+
+What is striking is that it contains no request at all. Five names of Bacchus in three lines — Lyaeus, Bassareus, two-horned, Maenalian, twice-mothered — then the dressing of ivy and clusters, then "come peaceably to the altars" and a threefold cry. Pure summons, without a single petition: a prayer consisting entirely of calling the god by name.
+
+**Who composed it is unknown.** Baehrens says outright that it is unclear whether Caesius Bassus wrote the lines himself, translated them from Greek, or took them from an earlier poet. Hence the inconsistency in the card's fields, which carry both Caesius Bassus and "hymn of Callimachus", and the provenance marked `unclear`. Lines 4, 6 and 7 are Baehrens' conjectures against the manuscripts.
+

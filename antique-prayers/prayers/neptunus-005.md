@@ -62,4 +62,23 @@ Neptune, divine Lord of the Trident, on whose high seas we begin to cross, if my
 ## Комментарий
 
 
+
+Сципион перед отплытием в Испанию молится Нептуну. Молитва короткая, и держится она на одном условном придаточном.
+
+«Si iusta paro» — если я готовлю справедливое. Не «если я приносил жертвы» и не «если чтил твои храмы»: право на помощь выводится из правоты дела. Стоит сравнить с обетом из «Начал» Катона (`jupiter-001`), где довод целиком имущественный — кому достанутся начатки. Между этими двумя доводами вся история римского представления о том, за что бог должен помогать.
+
+«Per pontum pia bella veho» — через море я везу благочестивую войну. Bellum pium — понятие точное: война, объявленная по обряду фециалов и потому законная перед богами (`janus-004`). Сципион в четырёх словах ссылается на всё международное право Рима.
+
+«Tridentipotens» — трезубцемощный. Сложение на -potens подлинное, культовое; в комедии Плавта оно же служит основой для пародии (`neptunus-004`).
+
 ## Commentary
+
+
+Scipio prays to Neptune before sailing for Spain. The prayer is short, and everything in it rests on one conditional clause.
+
+Si iusta paro — if what I am preparing is just. Not "if I have made sacrifice" and not "if I have honoured your temples": the claim to help is derived from the rightness of the cause. It is worth setting beside the vow from Cato's Origines (`jupiter-001`), where the argument is wholly proprietary — who is to receive the first-fruits. Between those two arguments lies the entire history of the Roman idea of why a god ought to help.
+
+Per pontum pia bella veho — across the sea I carry a righteous war. Bellum pium is a precise term: a war declared by the fetial rite and therefore lawful before the gods (`janus-004`). In four words Scipio invokes the whole of Roman international law.
+
+Tridentipotens — trident-powerful. The compound in -potens is a genuine cult formation; in Plautus' comedy the same pattern serves as the basis of a parody (`neptunus-004`).
+

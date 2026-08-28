@@ -52,4 +52,23 @@ Carmena, in hot pursuit of virtuous men, come to me. Before wise Minerva invente
 ## Комментарий
 
 
+
+**Это первая строка «Одиссии» Ливия Андроника** — латинского переложения Гомера, сделанного в III в. до н. э. Древнейшая строка латинской поэзии, какая до нас дошла.
+
+«Virum mihi, Camena, insece versutum» передаёт гомеровское «ἄνδρα μοι ἔννεπε, Μοῦσα, πολύτροπον». И самое важное здесь — подстановка, сделанная самим Ливием: на месте греческой Музы стоит римская Камена. Так собственная богиня вдохновения вошла в латинскую словесность — с первой же её строки.
+
+Молитвой в узком смысле это не является: это эпический зачин, обращение к божеству за содержанием песни. Но место в корпусе у него есть — из таких зачинов и выросла вся римская поэтическая молитва.
+
+**В карточке текст оказался по недоразумению.** Свод «Ritus Carmentis» включил строку как молитву Карменте, спутав Камену с Карментой, а английский перевод сочинён заново и говорит об обучении латинским буквам — к строке отношения не имеет. Поле `work` вдобавок сводит вместе два разных сочинения Ливия Андроника: «Одиссию» и «Троянского коня» (последний — в `ceres-007`).
+
 ## Commentary
+
+
+**This is the first line of Livius Andronicus' Odusia** — the Latin rendering of Homer made in the third century BC. The oldest line of Latin poetry that has come down to us.
+
+Virum mihi, Camena, insece versutum renders the Homeric ἄνδρα μοι ἔννεπε, Μοῦσα, πολύτροπον. And the important thing here is the substitution Livius himself made: in place of the Greek Muse stands the Roman Camena. That is how Rome's own goddess of inspiration entered Latin letters — in their very first line.
+
+Strictly it is not a prayer: it is an epic proem, an appeal to a deity for the content of the song. But it has its place in this corpus — the whole of Roman poetic prayer grew out of such openings.
+
+**The text is in this card by mistake.** The Ritus Carmentis collection included the line as a prayer to Carmentis, confusing Camena with Carmentis, and the English translation is a fresh composition about the teaching of Latin letters, with no relation to the line. The `work` field further conflates two different works of Livius Andronicus: the Odusia and the Equos Troianus (the latter is in `ceres-007`).
+

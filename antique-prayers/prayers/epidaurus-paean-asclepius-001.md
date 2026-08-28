@@ -63,4 +63,27 @@ High-skilled Asklepios; and summon the two Dioskouroi and the august Kharites an
 ## Комментарий
 
 
+
+Подлинный гимн, высеченный на камне в Асклепионе Эпидавра — крупнейшем целебном святилище греческого мира, куда приходили спать в священном покое, чтобы получить исцеление во сне.
+
+Созывают в нём всё видимое небо: Диоскуров, Харит, Муз, Мойр, «неутомимого Гелиоса и Селену в полноте», а затем «все знамения, которыми венчано небо» — то есть созвездия целиком. Больной у Асклепия обращается не к одному врачу, а к небосводу; за врачеванием стояла и астрология, и представление, что исход зависит от расположения светил.
+
+Кончается покрывающей формулой: «радуйтесь, все вы, бессмертные боги вечные, и бессмертные богини». Ни один не должен счесть себя пропущенным.
+
+**Греческий текст существует, но в карточку не попал.** Он издан у Пауэлла («Collectanea Alexandrina», 1925) и в IG IV² (1929); оба издания находятся под ограничением и в свободных сканах недоступны. Проверены и оказались пусты: IG IV (1902), собрание Кайбеля, Прегера, «Anthologia Lyrica» и Фарнелл. У Кэмпбелла это фрагмент 937 («Greek Lyric», т. V).
+
+Путь остаётся один — библиотечный: издание Пауэлла выдаётся archive.org во временное пользование.
+
 ## Commentary
+
+
+A genuine hymn, cut in stone at the Asklepieion of Epidaurus — the greatest healing sanctuary of the Greek world, where people came to sleep in the holy chamber and be cured in a dream.
+
+It convenes the whole visible sky: the Dioscuri, the Graces, the Muses, the Fates, "unwearied Helios and Selene at the full", and then "all the signs with which heaven is crowned" — the constellations entire. A patient at Asclepius' shrine addresses not a single physician but the firmament; behind the healing stood astrology too, and the conviction that an outcome depends on the position of the stars.
+
+It ends with a covering formula: "rejoice, all you immortal gods everlasting, and immortal goddesses". None is to think itself omitted.
+
+**The Greek text exists but did not reach this card.** It is published in Powell's Collectanea Alexandrina (1925) and in IG IV² (1929); both are restricted and unavailable in free scans. Checked and found empty: IG IV (1902), the collections of Kaibel and Preger, the Anthologia Lyrica, and Farnell. In Campbell it is fragment 937 (Greek Lyric, vol. V).
+
+One route remains, and it is a library one: Powell's edition is lent for limited periods by archive.org.
+

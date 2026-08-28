@@ -94,4 +94,27 @@ Hestia, in the high dwellings of all... you have gained an everlasting abode and
 ## Комментарий
 
 
+
+Единственный в собрании гимн, обращённый сразу к двум божествам, и выбор пары не случаен.
+
+Гестии отведена «πρεσβηίδα τιμήν», честь старейшей, и обоснована она обрядовым фактом: без неё не бывает пиров, где не возливали бы Гестии «первой и последней». Так и делали: возлияние очага открывало и замыкало трапезу. Богиня не участвует в пире — она его рамка.
+
+А рядом поставлен Гермес, и он ей полная противоположность: Гестия неподвижна, не выходит из дома и не имеет мифов; Гермес — вестник, дорожный, всё время в пути. Дом нуждается в обоих: в середине, которая не сдвинется, и в двери, через которую входят и выходят.
+
+«Ναίετε δώματα καλά, φίλα φρεσὶν ἀλλήλοισιν» — населяйте прекрасные дома, любезные друг другу в мыслях. Просьба необычная: не о милости к людям, а о том, чтобы два божества ладили между собой. Благополучие дома выведено из согласия его богов.
+
+Римляне делили домашнее хозяйство между божествами так же — Лар при месте, Пенаты при припасах (`lares-002`), а дорога отходила Ларам дорожным (`lares-003`).
+
 ## Commentary
+
+
+The only hymn in the collection addressed to two deities at once, and the pairing is not accidental.
+
+Hestia is assigned presbēïda timēn, the honour of the eldest, and it is justified by a ritual fact: without her there are no feasts at which a libation is not poured to Hestia "first and last". So it was done: the hearth libation opened and closed the meal. The goddess does not take part in the feast — she is its frame.
+
+And Hermes is set beside her, her exact opposite: Hestia is motionless, never leaves the house and has no myths; Hermes is a messenger, a god of roads, always in transit. A household needs both: a centre that will not shift, and a door through which people come and go.
+
+Ναίετε δώματα καλά, φίλα φρεσὶν ἀλλήλοισιν — dwell in the fair house, friendly to one another in mind. An unusual request: not for favour towards men but that two deities should get on. The welfare of the house is derived from the concord of its gods.
+
+The Romans divided a household among deities in the same way — the Lar attached to the place, the Penates to the stores (`lares-002`), while the road belonged to the Lares of the highways (`lares-003`).
+

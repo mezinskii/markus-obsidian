@@ -69,4 +69,27 @@ King Zeus and Gaia and sacred heavenly flames of Helios; holy light of Mene and 
 ## Комментарий
 
 
+
+Родословная этой карточки — самое замечательное в ней, и в ней три слоя.
+
+Внизу лежит текст древний: «Молитва Мусея» есть вступление ко всему орфическому собранию, обращённое к Мусею и перечисляющее по именам всех богов, которым в нём отведены гимны. Зевс, Гея, огни Гелиоса, свет Мены и звёзд, Посейдон, Персефона, Деметра, Артемида, Феб, Дионис, Арес, Гефест, пенорождённая, владыка подземного мира, Гермес, Гера, Афина, Асклепий. По существу это оглавление сборника, переложенное в молитву: назвать всех, чтобы не пропустить никого.
+
+Средний слой указан в поле источника: Плифон. Георгий Гемист Плифон, византийский платоник XV века, сочинил службы олимпийским богам и предлагал восстановить языческий культ; его «Законы» были сожжены константинопольским патриархом, и от них остались обрывки.
+
+Верхний слой — нынешний: афинская община взяла это для обряда новолуния.
+
+Три возрождения одно на другом: античный орфический проэмий, византийская попытка XV века и сегодняшняя книга. В корпусе есть и карточка `greek-plethon-001`, для которой оригинал добыть не удалось — лионская рукопись в свободных сканах отсутствует.
+
 ## Commentary
+
+
+The pedigree of this card is the most remarkable thing about it, and it has three layers.
+
+At the bottom lies an ancient text: the "Prayer of Musaeus" is the proem to the whole Orphic collection, addressed to Musaeus and naming in order every god to whom a hymn is assigned in it. Zeus, Gaia, the fires of Helios, the light of Mene and the stars, Poseidon, Persephone, Demeter, Artemis, Phoebus, Dionysus, Ares, Hephaestus, the foam-born, the lord of the underworld, Hermes, Hera, Athena, Asclepius. In substance it is the volume's table of contents recast as a prayer: name them all, so that none is passed over.
+
+The middle layer is named in the source field: Plethon. George Gemistos Plethon, a fifteenth-century Byzantine Platonist, composed offices for the Olympian gods and proposed restoring pagan worship; his Laws were burned by the patriarch of Constantinople, and only scraps of them remain.
+
+The top layer is contemporary: an Athenian community has taken this for a new-moon rite.
+
+Three revivals one upon another: an ancient Orphic proem, a fifteenth-century Byzantine attempt, and a book of today. The corpus also contains a card `greek-plethon-001`, for which no original could be obtained — the Lyon manuscript is absent from the free scans.
+

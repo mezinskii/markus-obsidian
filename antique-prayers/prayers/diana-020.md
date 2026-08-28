@@ -76,4 +76,23 @@ By these wandering stars I swear, by the shade of my leader, who is to me a divi
 ## Комментарий
 
 
+
+Димант, аркадский воин, ночью разыскивает среди убитых тело Парфенопея — того самого юноши из `diana-018`. И взывает к Кинфии.
+
+Клятва в зачине необычна: «клянусь этими блуждающими светилами, блуждающими тенями вождя». Дважды «errantes» — о звёздах и о тенях; и то и другое скитается, и Димант ставит своё слово между ними, сам заблудившийся в ночи.
+
+К богине он обращается по её ночному лицу и прямо об этом говорит: «если говорят, что ты меняешь божество своё тремя обличьями и в леса нисходишь иным лицом». Ему нужна не Диана-охотница, а Луна, — потому что ищет он в темноте и просит, по существу, света.
+
+«Nunc respice saltem» — «взгляни хотя бы теперь». Богиня не уберегла своего питомца; пусть хоть поможет его найти.
+
 ## Commentary
+
+
+Dymas, an Arcadian soldier, searches by night among the dead for the body of Parthenopaeus — the same youth as in `diana-018`. And he calls on Cynthia.
+
+The oath at the opening is unusual: "I swear by these wandering stars, by the wandering shades of my leader". Errantes twice over — of the stars and of the shades; both are astray, and Dymas sets his word between them, himself lost in the dark.
+
+He addresses the goddess by her nocturnal face and says so outright: "if they say that you vary your divinity with threefold shapes and descend into the woods with a different countenance". What he needs is not Diana the huntress but the Moon — because he is searching in darkness and what he is really asking for is light.
+
+Nunc respice saltem — "look back now at least". The goddess did not protect her own foster-child; let her at least help to find him.
+

@@ -74,4 +74,23 @@ To You, Phoebus Apollo, go these spoils, prizes of the night, taken from disting
 ## Комментарий
 
 
+
+Тиодамант, преемник Амфиарая в звании прорицателя, посвящает Аполлону добычу ночной вылазки.
+
+Он молится, не смыв с себя крови, и говорит об этом прямо: «ещё не омывшись водою». Неотмытость здесь не оплошность, а свидетельство подлинности: жертва принесена по горячему следу, и бог должен видеть, что она свежая.
+
+Обет двухъярусный. Сейчас — «честь грубая»: обломки оружия и кровь мужей, всё, что есть под рукой. Потом, если бог даст вернуться домой, — богатые дары на священные косяки и столько же быков.
+
+И стоит заметить, где Стаций ставит культовые имена: «Пеан» и «Ликиец» появляются ровно в той строке, где начинается условие. На договорной части речь переходит в официальный регистр.
+
 ## Commentary
+
+
+Thiodamas, successor to Amphiaraus in the office of seer, dedicates the spoils of a night raid to Apollo.
+
+He prays without having washed the blood off, and says so plainly: "not yet washed with water". The unwashed state is not an oversight but a warrant of authenticity: the offering is made while the trail is hot, and the god is to see that it is fresh.
+
+The vow has two tiers. Now, a "crude honour": broken weapons and the blood of men, whatever is to hand. Later, if the god grants a homecoming — rich gifts on the sacred doorposts and as many bulls.
+
+And it is worth noticing where Statius places the cult titles: Paean and Lycius appear in exactly the line where the condition begins. At the contractual clause the speech shifts into a formal register.
+

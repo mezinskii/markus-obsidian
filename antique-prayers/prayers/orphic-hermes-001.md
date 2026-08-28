@@ -91,4 +91,27 @@ Hermes, draw near, and to my prayer incline, messenger of Zeus, and Maia's son d
 ## Комментарий
 
 
+
+Гермес небесный — деловой, площадной, гимнасический. Воскурение здесь ладан, приношение олимпийских богов; у подземного Гермеса в том же собрании стиракс (`orphic-hermes-chthonios-001`), и рубрика сразу указывает разряд.
+
+«Ἑρμηνεῦ πάντων» — толкователь всего. Гимн утверждает то самое сближение Ἑρμῆς и ἑρμηνεύς, от которого происходит наше слово «герменевтика». Тут же и «λόγου θνητοῖσι προφῆτα» — пророк слова для смертных: бог назван посредником не между богами и людьми, а между смыслом и речью.
+
+«Γυμνάσιν ὃς χαίρεις δολίαις τ᾽ ἀπάταις» — ты, что радуешься упражнениям и коварным обманам. Палестра и мошенничество соединены союзом «и», без всякой оговорки: и то и другое есть ловкость, а ловкость — одно ведомство. Так же беззастенчиво сводит эти свойства Гораций (`mercurius-003`).
+
+«Κερδέμπορε» — прибылью торгующий; «ἐργασίαις ἐπαρωγέ» — пособник в делах. Гимн поют люди, у которых есть выручка.
+
+«Εἰρήνης ὅπλον ἀμεμφές» — безупречное оружие мира. Это кадуцей: предмет в форме оружия, назначение которого — прекращать вражду.
+
 ## Commentary
+
+
+The celestial Hermes — a god of business, of the market and the gymnasium. The fumigation here is frankincense, the offering of the Olympian gods; the chthonic Hermes in the same collection gets storax (`orphic-hermes-chthonios-001`), and the rubric declares the class at once.
+
+Ἑρμηνεῦ πάντων — interpreter of all. The hymn asserts the very connection between Hermēs and hermēneus from which our word "hermeneutics" descends. And immediately, λόγου θνητοῖσι προφῆτα — prophet of speech to mortals: the god is called a mediator not between gods and men but between meaning and utterance.
+
+Γυμνάσιν ὃς χαίρεις δολίαις τ᾽ ἀπάταις — you who delight in exercises and in crafty deceptions. The wrestling ground and fraud are joined by "and", without qualification: both are dexterity, and dexterity is one department. Horace brings the same qualities together just as shamelessly (`mercurius-003`).
+
+Κερδέμπορε — trafficker in gain; ἐργασίαις ἐπαρωγέ — helper in enterprises. This hymn is sung by people with takings.
+
+Εἰρήνης ὅπλον ἀμεμφές — the blameless weapon of peace. This is the caduceus: an object shaped like a weapon whose function is to stop hostilities.
+

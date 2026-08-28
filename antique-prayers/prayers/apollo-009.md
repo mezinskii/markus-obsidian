@@ -57,4 +57,19 @@ An offering I gladly give You, Phoebus, a box of fragrant incense, from Palatinu
 ## Комментарий
 
 
+
+Эпиграмма Марциала: Парфений, всесильный спальник Домициана, приносит Фебу ладан за сына — Бурра, которому исполняется пять лет.
+
+В карточке от эпиграммы остался только зачин, но зачин этот и есть самое любопытное. Придворное стихотворение принимает форму вотивной надписи: Марциал пишет ровно те слова, которые Парфений вырезал бы на камне, — «эти дары приносит тебе такой-то за такого-то». Поэзия делает работу эпиграфики.
+
+Сама просьба идёт дальше, за пределами карточки: чтобы бог продлил мальчику годы, а отцу дал до этого дожить.
+
 ## Commentary
+
+
+An epigram of Martial: Parthenius, Domitian's all-powerful chamberlain, offers incense to Phoebus on behalf of his son Burrus, who is turning five.
+
+Only the opening couplet survives in this card, but the opening is the interesting part. A court poem takes the form of a votive inscription: Martial writes exactly the words Parthenius would have had cut in stone — "these gifts so-and-so brings you on behalf of so-and-so". Poetry doing the work of epigraphy.
+
+The request itself comes later, beyond this card: that the god lengthen the boy's years, and let the father live to see them.
+

@@ -72,4 +72,23 @@ Guardian of hills and forest groves, Virgin, whom young mothers thrice invoke at
 ## Комментарий
 
 
+
+Гораций посвящает Диане сосну, что нависает над его усадьбой.
+
+Восемь строк — и в них полный вотивный обряд: назвать божество по всем трём его именам («богиня трёхликая»), указать, за что чтишь (слышишь рожениц и отнимаешь их у смерти), объявить предмет посвящения и назначить срок исполнения.
+
+Замечательна последняя деталь. Кабан обещан «готовящим косой удар» — verris obliquom meditantis ictum: вепрь показан в тот самый миг, когда он замахивается клыком снизу вбок. Обещая жертву, Гораций описывает не тушу, а живого зверя в движении.
+
+Обряд при этом частный и дешёвый: не храм, а дерево у дома; не гекатомба, а один кабан в год. Домашний культ в чистом виде.
+
 ## Commentary
+
+
+Horace dedicates to Diana the pine that overhangs his farmhouse.
+
+Eight lines, and they contain the complete votive procedure: name the deity by all three of her names ("threefold goddess"), state the grounds of honour (you hear women in labour and snatch them from death), declare the object dedicated, and fix the term of performance.
+
+The last detail is remarkable. The boar is promised while "pondering a slanting stroke" — verris obliquom meditantis ictum: the animal is shown at the very moment of swinging its tusk upward and sideways. In promising a victim Horace describes not a carcass but a living beast in motion.
+
+The rite itself is private and cheap: not a temple but a tree by the house; not a hecatomb but one boar a year. Domestic cult in its pure form.
+

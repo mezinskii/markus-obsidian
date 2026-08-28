@@ -98,4 +98,23 @@ Flaxen-haired Ceres, Your fine tresses wreathed with ears of wheat, why must you
 ## Комментарий
 
 
+
+Овидий негодует: празднества Цереры требуют воздержания, и любовник остаётся ни с чем.
+
+Начинается элегия как обвинительная речь — «зачем ты священными днями своими стесняешь наши утехи?» — и тут же переходит к лести: ты щедрейшая из богинь, ты научила землю родить, ты дала законы. Похвала здесь служебная: чем великодушнее богиня, тем нелепее её запрет.
+
+За швом Овидий выкладывает главный довод, и он бесстыден. Церера сама любила — Ясиона на критском поле — и сама знала разлуку; так почему же теперь принуждает других к тому, от чего страдала? «Отчего мне быть печальным, если дочь тобою обретена?»
+
+Элегия, выстроенная как судебная речь против божества, где обвинение строится на его собственной биографии.
+
 ## Commentary
+
+
+Ovid is indignant: the festival of Ceres demands abstinence, and the lover is left with nothing.
+
+The elegy opens like a prosecution speech — "why do you obstruct our pleasures with your holy days?" — and at once turns to flattery: you are the most generous of goddesses, you taught the earth to bear, you gave laws. The praise is functional: the more generous the goddess, the more absurd her prohibition.
+
+Behind the seam Ovid produces his main argument, and it is shameless. Ceres loved too — Iasion in the Cretan field — and knew separation herself; so why does she now impose on others what she suffered from? "Why should I be sad, when your daughter has been found?"
+
+An elegy constructed as a legal action against a deity, in which the charge is built out of the defendant's own biography.
+

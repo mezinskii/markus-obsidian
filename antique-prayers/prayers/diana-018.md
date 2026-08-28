@@ -66,4 +66,23 @@ Goddess, divine power of woodland groves, to You and to Your honour, these locks
 ## Комментарий
 
 
+
+Парфенопей, аркадский юноша из свиты Аталанты, молится Диане перед состязанием на погребальных играх.
+
+Основание для просьбы вещественное: «тебе, тебе эти кудри в честь посвящены». Он отпустил волосы по обету, и это его вклад, предъявляемый к оплате. Обычай подлинный: юноши посвящали богам первую стрижку и до срока волос не касались.
+
+Отсюда и оговорка «eque tuo venit haec iniuria voto» — «и от обета твоего пришла эта обида»: длинные кудри мешают бежать, а обещаны они ей же. Обет обернулся помехой ровно в том деле, ради которого просят помощи.
+
+Просит он при этом не победы, а того, чтобы дурное знамение не сбылось: «не дай под таким знамением идти на Фивы». Юноша погибнет под Фивами в девятой книге.
+
 ## Commentary
+
+
+Parthenopaeus, the Arcadian youth from Atalanta's following, prays to Diana before a contest at the funeral games.
+
+The ground of his request is material: "to you, to you these locks are owed in honour". He has let his hair grow by a vow, and that is his contribution, now presented for payment. The custom is genuine: young men dedicated their first cutting to a god and left the hair untouched until the appointed time.
+
+Hence the aside eque tuo venit haec iniuria voto — "and from your own vow this injury comes": long hair hinders running, and it was promised to her. The vow has become an obstacle in the very undertaking for which help is being asked.
+
+What he asks for is not victory but that an evil omen should not come true: "do not let me go to Thebes under such a sign". The youth will die at Thebes in the ninth book.
+

@@ -57,4 +57,19 @@ Mother Ceres and Proserpina and all You Gods above and below who inhabit the cit
 ## Комментарий
 
 
+
+Ливий, осада Энны в 214 г. до н. э. Римский начальник гарнизона Пинарий, подозревая горожан в измене, созывает их на сходку — и приносит эту клятву перед тем, как отдать знак к расправе.
+
+Формула сама по себе безупречна: «будьте нам благосклонны и милостивы, **если** мы принимаем это решение ради того, чтобы избежать обмана, а не совершить его». Условие поставлено правильно, боги призваны по всем правилам, названы и вышние, и подземные, и местные — Церера с Прозерпиной, чьи святыни в Энне были главными во всей Сицилии.
+
+А дальше по сигналу перебьют собравшихся. Ливий приводит молитву без единого замечания, и в этом весь его метод: формула соблюдена до последнего слова — и оттого особенно ясно, чего формула не гарантирует.
+
 ## Commentary
+
+
+Livy, the siege of Henna in 214 BC. Pinarius, the Roman garrison commander, suspecting the townspeople of treachery, calls them to an assembly — and swears this oath before giving the signal for the massacre.
+
+The formula in itself is impeccable: "be favourable and gracious to us, **if** we take this decision in order to avoid treachery and not to commit it". The condition is correctly framed, the gods are invoked by the rules, and both the powers above and below are named along with the local ones — Ceres and Proserpina, whose sanctuaries at Henna were the greatest in all Sicily.
+
+And then, at the signal, the assembled citizens are cut down. Livy gives the prayer without a word of comment, and that is his whole method: the formula is observed to the last syllable — which makes it all the clearer what a formula does not guarantee.
+

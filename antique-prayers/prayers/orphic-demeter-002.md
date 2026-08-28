@@ -86,4 +86,23 @@ Basileia Antaia, of celebrated name, from whom both men and Gods immortal came; 
 ## Комментарий
 
 
+
+Та же богиня, что и в предыдущем гимне (`orphic-demeter-001`), но под другим именем и потому в отдельном гимне. Собрание содержит по нескольку обращений к одному божеству: каждое имя — отдельный адрес, и петь по одному нельзя, если нужно другое.
+
+Ἀνταία значит примерно «Встречная, та, к кому обращаются лицом»; отсюда и «πολυλλίστη», многоумоляемая, — прозвище, описывающее не богиню, а объём обращённых к ней молитв.
+
+Рассказ здесь орфический и от элевсинского отличается. Провожатым в Аид назван «чистый сын Дисавла», указавший ей священное ложе подземного Зевса, а сама Деметра рождает Евбулея «θνητῆς ὑπ᾽ ἀνάγκης», по смертной необходимости. Ничего этого нет в гомеровском гимне Деметре (`homeric-demeter-001`), где нет ни Дисавла, ни Евбулея, ни этого рождения.
+
+Два текста корпуса излагают один миф несовместимо, и это не ошибка ни одного из них. Элевсинское предание бытовало в разных местных изводах, и орфические общины держались своего, где родословная богов и порядок событий были иными. Сличать их надо, но приводить к согласию нельзя.
+
 ## Commentary
+
+
+The same goddess as in the previous hymn (`orphic-demeter-001`), but under another name and therefore in a separate hymn. The collection contains several addresses to one deity: each name is a distinct address, and one cannot sing the wrong one if a particular aspect is wanted.
+
+Antaia means roughly "she who is met face to face, she who is entreated"; hence also polyllistē, much-entreated — a title describing not the goddess but the volume of prayer directed at her.
+
+The narrative here is Orphic and differs from the Eleusinian one. Her guide to Hades is "the holy son of Dysaules", who showed her the sacred bed of chthonic Zeus, and Demeter herself bears Eubouleus "by mortal necessity". None of this is in the Homeric Hymn to Demeter (`homeric-demeter-001`), which has neither Dysaules nor Eubouleus nor this birth.
+
+Two texts in this corpus give one myth incompatibly, and neither is in error. The Eleusinian tradition existed in different local recensions, and the Orphic communities kept to their own, in which the genealogy of the gods and the order of events were different. They should be compared, but they cannot be reconciled.
+

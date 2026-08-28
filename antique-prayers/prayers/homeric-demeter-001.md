@@ -93,4 +93,27 @@ I begin to sing of rich-haired Demeter reverend goddess — of her and her trim-
 ## Комментарий
 
 
+
+Большой гимн Деметре — главный литературный памятник Элевсинских мистерий: в нём рассказано, как богиня искала дочь, пришла в Элевсин и учредила там таинства. Карточка держит рамку, повествование опущено (шов `[…]`).
+
+И вот что стоит в конце. «Μέγ᾽ ὄλβιος, ὅν τιν᾽ ἐκεῖναι προφρονέως φίλωνται» — велико блажен тот, кого они благосклонно возлюбят. Это макаризм, формула блаженства, знакомая по мистериальным текстам: посвящённому обещана лучшая доля.
+
+А чем именно она лучше, сказано сразу же: «тотчас посылают ему в великий дом домашним гостем Плутоса, что даёт смертным достаток». Плутос — Богатство, и он вселяется в дом как жилец.
+
+Мистерии сулили надежду на иную участь после смерти; собственная заключительная молитва их гимна просит денег. Противоречия для грека тут нет: благословение богини выражается в наличном изобилии, и посмертная надежда не отменяет требования прибытка при жизни. Обе просьбы стоят рядом, и та, что о доме и достатке, — последняя.
+
+Последняя строка гимна в переводе карточки отсутствует и здесь не приведена.
+
 ## Commentary
+
+
+The great Hymn to Demeter is the chief literary monument of the Eleusinian Mysteries: it tells how the goddess sought her daughter, came to Eleusis and founded the rites there. The card keeps the frame; the narrative is omitted (seam `[…]`).
+
+And here is what stands at the end. Μέγ᾽ ὄλβιος, ὅν τιν᾽ ἐκεῖναι προφρονέως φίλωνται — greatly blessed is he whom they graciously love. This is a makarismos, a beatitude formula familiar from mystery texts: to the initiate a better lot is promised.
+
+And what makes it better is stated immediately: "at once they send into his great house, to dwell at his hearth, Ploutos, who gives wealth to mortal men". Ploutos is Wealth, and he moves in as a lodger.
+
+The Mysteries held out hope of a different fate after death; the closing prayer of their own hymn asks for money. For a Greek there is no contradiction: a goddess's blessing is expressed in visible plenty, and hope beyond death does not cancel the demand for profit in this life. Both requests stand side by side, and the one about the house and its wealth comes last.
+
+The hymn's final line is missing from the card's translation and is not given here.
+

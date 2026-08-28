@@ -68,4 +68,23 @@ If, Father, my war is authorized by Vesta's priestess, and whenever I prepare to
 ## Комментарий
 
 
+
+Октавиан перед Филиппами обещает Марсу храм за победу над убийцами Цезаря. Обет исполнен: храм Марса Мстителя был освящён в 2 г. до н. э. и стал средоточием Августова форума — сорок лет спустя.
+
+Основание для войны выстроено сакрально, а не политически. «Pater» — Цезарь, приёмный отец; «Vestae sacerdos» — он же, верховный понтифик, чей дом примыкал к храму Весты. Убийство поэтому объявлено не убийством, а святотатством против «numen utrumque», обоих божеств сразу: обожествлённого Цезаря и Весты. Гражданская война переоформлена в дело о поругании святыни.
+
+«Satia scelerato sanguine ferrum» — насыть железо преступной кровью. Ни благочестия, ни смягчения: бога просят напоить оружие.
+
+Самое же необычное — плата. «Templa feres et, me victore, vocaberis Ultor» — получишь храмы и, когда я одержу победу, будешь зваться Мстителем. Смертная сторона договора не только строит храм, но и **даёт богу новое имя**. Культовый эпитет здесь возникает как условие сделки, и после победы Марс Мститель действительно вошёл в римский календарь и в присягу.
+
 ## Commentary
+
+
+Octavian before Philippi promises Mars a temple in return for victory over Caesar's assassins. The vow was paid: the temple of Mars Ultor was dedicated in 2 BC and became the centrepiece of the Forum of Augustus — forty years later.
+
+The grounds for the war are constructed sacrally, not politically. Pater is Caesar, his adoptive father; Vestae sacerdos is the same man, pontifex maximus, whose house adjoined the temple of Vesta. The murder is therefore declared not a murder but a sacrilege against numen utrumque, both divinities at once: the deified Caesar and Vesta. Civil war is refiled as a case of desecration.
+
+Satia scelerato sanguine ferrum — glut the iron with guilty blood. No piety, no softening: the god is asked to give the weapon its drink.
+
+Most unusual of all is the payment. Templa feres et, me victore, vocaberis Ultor — you shall have temples, and when I am victor you shall be called the Avenger. The mortal party to the contract not only builds a temple but **gives the god a new name**. The cult title arises here as a term of the bargain, and after the victory Mars the Avenger duly entered the Roman calendar and the military oath.
+

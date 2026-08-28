@@ -64,4 +64,23 @@ Ceres first turned the earth with the curved plough; she first gave corn and cro
 ## Комментарий
 
 
+
+Начало песни Каллиопы о Церере. Место у Овидия особое: это состязание Муз с дочерьми Пиера, и гимн богине звучит как конкурсное выступление, которое будут судить.
+
+Устроен он на тройном «prima»: первой Церера раздвинула плугом землю, первой дала плоды, первой дала законы. Два первых пункта очевидны, третий — прыжок, и он-то и есть содержание.
+
+Связь между земледелием и правом для древних не метафора. Пахота требует межи, межа требует признанной границы, граница требует закона; оседлость и есть источник права. Гречанка Деметра носила титул Фесмофора, законодательницы, и римская Церера — Legifera. Овидий в одной строке излагает целую теорию происхождения государства.
+
+«Cereris sunt omnia munus» — всё есть дар Цереры. Просьбы нет: это предикация, приписывание божеству свойств. Античный гимн часто не просит вовсе, а только перечисляет, и перечисление само по себе считается служением.
+
 ## Commentary
+
+
+The beginning of Calliope's song about Ceres. The setting in Ovid is peculiar: this is the contest of the Muses against the daughters of Pierus, and the hymn to the goddess is a competition piece that will be judged.
+
+It is built on a threefold prima: Ceres first parted the soil with the plough, first gave crops, first gave laws. The first two are obvious; the third is a leap, and the leap is the point.
+
+For the ancients the link between agriculture and law was not a metaphor. Ploughing requires a boundary, a boundary requires recognition, recognition requires law; settled life is the source of right. The Greek Demeter bore the title Thesmophoros, lawgiver, and the Roman Ceres, Legifera. In one line Ovid states an entire theory of the origin of the state.
+
+Cereris sunt omnia munus — all things are the gift of Ceres. There is no request: this is predication, the ascription of properties to a deity. An ancient hymn often asks for nothing at all and only enumerates, and enumeration is itself reckoned as service.
+

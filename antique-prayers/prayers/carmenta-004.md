@@ -53,6 +53,23 @@ Draw near, Carmentis, and expel the illness from this tender girl. Come quickly,
 
 
 
-Провенанс исправлен с ancient на modern. «Ritus Carmentis» — не античное сочинение: под этим названием ходят современные реконструкции обряда Карменталий (Nova Roma), собранные по разрозненным местам Вергилия и Овидия. Дословного античного оригинала у текста нет и не будет.
+
+Целительная молитва современного чина Карменталий; общее объяснение — в `carmenta-001`.
+
+**Первая фраза — дословно Тибулл.** «Huc ades et tenerae morbos expelle puellae» открывает элегию о больной Сульпиции (`apollo-025`), только там зовут Феба, а здесь подставлена Кармента. Взята подлинная строка, заменено имя божества — и получившееся выдаётся за античную молитву.
+
+Это уже не подстановка внутри переносимой формулы, как в `carmenta-002`, а присвоение чужого стиха. Разница существенная: формулы римляне и вправду перекладывали с бога на бога, а строки Тибулла — нет.
+
+Английский текст карточки вдобавок разворачивает весь Тибуллов пассаж целиком — про худобу, безобразный цвет и реку, уносящую беду в море, — хотя латыни на это здесь нет.
 
 ## Commentary
+
+
+A healing prayer of the modern Carmentalia order; for the general explanation see `carmenta-001`.
+
+**The first sentence is Tibullus verbatim.** Huc ades et tenerae morbos expelle puellae opens the elegy on the sick Sulpicia (`apollo-025`); only there it is Phoebus who is called, and here Carmentis has been substituted. A genuine line has been taken, the divine name replaced, and the result passed off as an ancient prayer.
+
+This is no longer substitution within a transferable formula, as in `carmenta-002`, but the appropriation of another poet's verse. The difference matters: the Romans did indeed move formulae from god to god, but not lines of Tibullus.
+
+The card's English text further expands the whole Tibullan passage — the wasting, the disfiguring colour, the river carrying the trouble out to sea — although there is no Latin here for any of it.
+

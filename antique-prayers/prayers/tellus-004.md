@@ -101,4 +101,23 @@ O eternal Creatrix of Gods and men, who animates forest and stream with soul, an
 ## Комментарий
 
 
+
+В восьмой книге «Фиваиды», вскоре после того как земля разверзлась и поглотила живым прорицателя Амфиарая, звучит гимн Земле. Место выбрано с расчётом: славят ту, которая только что съела человека.
+
+Строение гимническое, из одних определений: вечная созидательница людей и богов, рождающая реки, леса, души и все семена. Два предания о происхождении человека названы подряд и не согласованы — «Прометеевы руки» (глина) и «Пиррины камни» (брошенные через плечо после потопа). Античный гимн не выбирает между версиями, он перечисляет обе как заслуги.
+
+Дальше — история цивилизации в одной строке: «первая дала пищу неутолённым и переменила её людям». Жёлуди, потом хлеб; смена пищи и есть выход из дикости.
+
+И космология, тоже в одну фразу: «твёрдая и недвижная крепость незаходящего мира» — и тут же «висящей в пустом воздухе». Земля неподвижна и при этом ни на чём не держится. Древняя картина мира изложена без попытки устранить противоречие, потому что противоречия в ней не видели: неподвижность и подвешенность — разные свойства, а не спорящие утверждения.
+
 ## Commentary
+
+
+In the eighth book of the Thebaid, shortly after the ground opened and swallowed the seer Amphiaraus alive, a hymn to Earth is sung. The placement is calculated: she who has just eaten a man is being praised.
+
+The construction is hymnic, made of definitions alone: eternal creatress of men and gods, bringing forth rivers, woods, souls and all seeds. Two traditions about the origin of humankind are named in succession and left unreconciled — "the hands of Prometheus" (clay) and "the stones of Pyrrha" (thrown over the shoulder after the flood). An ancient hymn does not choose between versions, it lists both as achievements.
+
+Then the history of civilisation in a single line: "you first gave food to the unfed, and changed it for them". Acorns, then grain; the change of diet is the exit from savagery.
+
+And cosmology, also in one phrase: "firm and immovable strength of the world that never sets" — and immediately "hanging in empty air". The Earth is motionless and at the same time rests on nothing. The ancient picture of the world is set out with no attempt to remove the contradiction, because none was seen there: being immovable and being suspended are different properties, not competing claims.
+

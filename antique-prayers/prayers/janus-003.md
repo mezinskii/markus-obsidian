@@ -58,4 +58,23 @@ Father Matutinus, or else Janus, if You so prefer to hear, regarded by men as th
 ## Комментарий
 
 
+
+Начало сатиры о сабинском поместье. Гораций, вытащенный поутру в город по чужим делам, обращается к богу утра — и делает это с полной обрядовой правильностью, отчего всё и смешно.
+
+«Matutine pater, seu Iane libentius audis» — «Отец Утренний, или, если охотнее откликаешься, Янус». Это подлинная римская осторожность: не зная, какое имя богу приятнее, называют оба и оставляют выбор за ним. Формулу «quo nomine te appellari volueris» видно за этой строкой целиком; Гораций применяет её к вопросу о том, как правильно поздороваться на рассвете.
+
+«Unde homines operum primos vitaeque labores» — от кого у людей начала всех дел. Довод безупречный: если бог отвечает за начала, то он отвечает и за то, что поэта подняли на рассвете.
+
+Сатира вся об этом: обряд соблюдён идеально, повод ничтожен, и несоответствие есть шутка.
+
 ## Commentary
+
+
+The opening of the satire about the Sabine farm. Horace, dragged into town at dawn on other people's business, addresses the god of morning — and does it with full ritual correctness, which is what makes it funny.
+
+Matutine pater, seu Iane libentius audis — "Father of the morning, or Janus, if you answer more gladly to that". This is genuine Roman caution: not knowing which name the god prefers, one names both and leaves the choice to him. The formula quo nomine te appellari volueris stands entire behind the line; Horace applies it to the question of how to say good morning properly.
+
+Unde homines operum primos vitaeque labores — from whom men take the beginnings of all their tasks. The argument is impeccable: if the god is responsible for beginnings, he is also responsible for the poet's having been got out of bed at daybreak.
+
+The whole satire runs on this: the ritual is performed perfectly, the occasion is trivial, and the mismatch is the joke.
+

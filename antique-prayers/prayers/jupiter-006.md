@@ -59,4 +59,27 @@ O Jupiter, it was through Your omen that I was led while I laid here upon the Pa
 ## Комментарий
 
 
+
+Ливий вкладывает эту молитву в уста Ромулу: сабиняне захватили крепость, римляне бегут, и царь останавливается посреди бегства, чтобы дать обет.
+
+Обет построен безупречно и по частям. Сперва напоминание об уже оказанной милости: «по велению твоих птиц я заложил здесь основания города» — то есть Юпитер сам это место и выбрал, и потерять его значит потерять своё. Затем изложение обстоятельств. Затем просьба.
+
+И в просьбе слышно, как царь торгуется. «Hinc saltem arce hostes» — «хотя бы отсюда отврати врагов»: saltem, «хотя бы», признаёт, что крепость уже не вернуть, и снижает запрос до выполнимого. Молитва уступает на ходу.
+
+Плата названа последней и с расчётом: не жертва, а храм, который «будет памятником потомкам, что город спасён твоею явленной помощью». Богу предлагают не еду, а свидетельство — постоянное, каменное, с надписью о том, кому именно Рим обязан.
+
+Это тот самый храм Юпитера Статора, в котором через шестьсот лет Цицерон произнесёт первую речь против Катилины (`jupiter-004`).
+
 ## Commentary
+
+
+Livy puts this prayer in the mouth of Romulus: the Sabines have taken the citadel, the Romans are in flight, and the king halts in the middle of the rout to make a vow.
+
+The vow is faultlessly built, part by part. First a reminder of a favour already granted: "at the command of your birds I laid here the first foundations of the city" — that is, Jupiter chose the site himself, and to lose it is to lose his own. Then a statement of circumstances. Then the request.
+
+And in the request one hears the king bargaining. Hinc saltem arce hostes — "from here at least keep off the enemy": saltem, "at least", concedes that the citadel is not to be recovered and scales the demand down to something achievable. The prayer gives ground as it goes.
+
+The payment is named last, and with calculation: not a sacrifice but a temple which "shall be a memorial to posterity that the city was saved by your present help". The god is offered not food but testimony — permanent, in stone, inscribed with exactly whom Rome has to thank.
+
+This is the temple of Jupiter Stator in which, six hundred years later, Cicero would deliver the First Catilinarian (`jupiter-004`).
+

@@ -160,4 +160,23 @@ As the Basket comes, greet it, ye women, saying 'Demeter, greatly hail! Lady of 
 ## Комментарий
 
 
+
+Гимн написан так, будто произносится во время шествия на Фесмофориях: поэт подаёт знаки участницам, и текст читается как распорядок обряда. «Когда нисходит Корзина, воскликните, женщины».
+
+Самое любопытное — запреты. Непосвящённым смотреть на Корзину только с земли, «ни с кровли, ни сверху»; нельзя ни ребёнку, ни замужней, ни той, что распустила волосы. Провинность здесь измеряется высотой: глядеть на святыню сверху вниз запрещено, потому что это положение старшего.
+
+Пост тоже настоящий: «когда мы, постящиеся, сплёвываем пересохшими устами». Женщины на Фесмофориях постились, и Каллимах объясняет, почему пост кончается к ночи: Геспер — единственный, кто уговорил Деметру выпить, когда та искала похищенную дочь. Расписание обряда выведено из мифа, как всегда у древних.
+
+А в опущенной середине (`[…]`, строки 22-116) — история Эрисихтона, срубившего рощу Деметры и наказанного голодом, который нельзя утолить. Каллимах ставит рядом два голода: добровольный, обрядовый, кончающийся с появлением звезды, и карающий, не кончающийся никогда. Карточка держит рамку, но замысел гимна — в этом сопоставлении.
+
 ## Commentary
+
+
+The hymn is written as though spoken during the procession at the Thesmophoria: the poet cues the participants, and the text reads as an order of service. "When the Basket comes down, cry out, women."
+
+The most curious part is the prohibitions. The uninitiated are to watch the Basket only from the ground, "neither from the roof nor from above"; not a child, not a married woman, not one who has let down her hair. Offence here is measured in height: to look down on a holy thing is forbidden, because that is the position of a superior.
+
+The fast is real too: "when we, unfed, spit from parched mouths". Women fasted at the Thesmophoria, and Callimachus explains why the fast ends at nightfall: Hesperus alone persuaded Demeter to drink, when she was following the trail of her stolen daughter. The timetable of the rite is derived from a myth, as always in antiquity.
+
+And in the omitted middle (`[…]`, lines 22-116) stands the story of Erysichthon, who cut down Demeter's grove and was punished with a hunger that could not be satisfied. Callimachus sets two hungers side by side: the voluntary, ritual one that ends when a star appears, and the punitive one that never ends. The card keeps the frame, but the design of the hymn lies in that juxtaposition.
+

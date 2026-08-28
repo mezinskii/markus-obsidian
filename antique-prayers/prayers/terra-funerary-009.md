@@ -59,4 +59,27 @@ O Proserpina, may Your clemency remain merciful on the souls You keep, and may Y
 ## Комментарий
 
 
+
+Кинфия была при смерти, и Проперций написал об этом несколько стихотворений; здесь — то место, где болезнь отступила. Молитва потому не просительная, а удерживающая: не «отдай», а «не забирай обратно».
+
+«Haec tua, Persephone, maneat clementia» — да пребудет эта твоя милость. Милость уже оказана; просят о том, чтобы решение не пересмотрели. С подземными богами именно так и разговаривали: полученное считалось отсрочкой, а не подарком.
+
+«Nec tu, Persephonae coniunx, saevior esse velis» — и ты, супруг Персефоны, не пожелай быть суровее. Дит не назван по имени вовсе: он «супруг Персефоны», муж при жене. Имя владыки мёртвых старались не произносить, и обход этот — не поэтическая вольность, а обиходная предосторожность.
+
+«Ne velis», не пожелай, — та же вежливая формула, что на надгробии Попиллии Фелицулы (`terra-funerary-001`): «не пожелай быть тяжкой». С подземными не требуют и не умоляют, им предлагают воздержаться.
+
+Кинфия выздоровеет. Проперций в следующем стихотворении напомнит ей, что за это надо расплатиться обетом.
+
 ## Commentary
+
+
+Cynthia had been at the point of death, and Propertius wrote several poems about it; this is the passage where the illness has receded. The prayer is therefore not petitionary but restraining: not "give her back" but "do not take her back".
+
+Haec tua, Persephone, maneat clementia — may this mercy of yours continue. The mercy has already been granted; what is asked is that the decision not be reviewed. This is exactly how one spoke to the gods below: what had been obtained was reckoned a stay, not a gift.
+
+Nec tu, Persephonae coniunx, saevior esse velis — and you, Persephone's husband, be not willing to be harsher. Dis is not named at all: he is "Persephone's husband", a man identified by his wife. The name of the lord of the dead was best not spoken, and the circumlocution is not poetic licence but everyday precaution.
+
+Ne velis, be not willing, is the same courteous formula as on the gravestone of Popillia Felicula (`terra-funerary-001`): "be not willing to be heavy". With the powers below one neither demands nor implores; one invites them to refrain.
+
+Cynthia will recover. In the next poem Propertius reminds her that the recovery has to be paid for with a vow.
+

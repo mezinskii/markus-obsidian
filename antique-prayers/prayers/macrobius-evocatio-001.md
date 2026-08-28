@@ -61,4 +61,27 @@ Whether you are a god or a goddess of these people who defend this city of Carth
 ## Комментарий
 
 
+
+Эвокация — самый своеобразный обряд римской религии. Перед тем как взять город, полководец вызывал из него богов-покровителей и приглашал переселиться в Рим. Не победить чужое божество, а переманить.
+
+«Si deus si dea est» — бог ли, богиня ли. Пол божества не назван, имя тоже: «и тебя прежде всего, кто принял на себя опеку этого города». Римляне отлично знали, кто хранит Карфаген, но имени не произносили — считалось, что названного покровителя можно увести, и потому собственное тайное имя хранителя Рима не разглашалось никогда.
+
+Предлагается не покорность, а условия переезда: оставьте их места и святыни, наведите на них страх и забвение, придите ко мне и к моим, и пусть наши места и храмы будут вам милее. Это договор о переходе на службу, с обещанием лучшего содержания.
+
+Обряд не был фигурой речи. Юнона Вейская была вызвана из Вей и получила храм на Авентине; Юнона Небесная, покровительница Карфагена, — святилище в Риме. Побеждённых богов Рим брал к себе, и это, вероятно, объясняет о нём больше, чем любая другая его практика.
+
+За эвокацией следовала девоция обречённого города (`macrobius-devotio-001`) — в таком порядке: сперва вывести богов, затем уничтожать. Пока боги внутри, город не трогали.
+
 ## Commentary
+
+
+The evocatio is the most peculiar rite in Roman religion. Before taking a city, the commander summoned its tutelary gods out of it and invited them to move to Rome. Not to defeat the enemy's deity, but to recruit it.
+
+Si deus si dea est — whether god or goddess. The deity's sex is not stated, nor its name: "and you above all, whoever you are, who have taken up the guardianship of this city". The Romans knew perfectly well who guarded Carthage, but did not pronounce the name — a named protector was held to be removable, which is why the secret name of Rome's own guardian was never divulged.
+
+What is offered is not submission but terms of relocation: leave their places and shrines, cast fear and forgetfulness upon them, come to me and to mine, and let our places and temples be more pleasing to you. It is a contract of transfer of service, with a promise of better keep.
+
+The rite was not a figure of speech. Juno of Veii was called out of Veii and given a temple on the Aventine; Juno Caelestis, the protectress of Carthage, received a sanctuary in Rome. Rome took defeated gods into its household, and that probably explains more about it than any other of its practices.
+
+The evocatio was followed by the devotio of the doomed city (`macrobius-devotio-001`), and in that order: first get the gods out, then destroy. While the gods were still inside, the city was not touched.
+

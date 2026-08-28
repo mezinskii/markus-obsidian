@@ -52,4 +52,31 @@ I call upon Hekate Khthonia, the saffron-robed, who cares for the souls of the d
 ## Комментарий
 
 
+
+**Современный текст** LABRYS (см. `greek-agathodaimon-001`) — на девятый день после смерти.
+
+Срок древний: ἔνατα, девятины, стояли в ряду поминальных дат между третьим днём и тридцатым (`greek-gaia-eniausia-001`). И божество выбрано верно: Геката ведала перекрёстками и переходами, и в последний день месяца ей оставляли еду вместе с приношениями мёртвым.
+
+Самое любопытное — титул. «Геката Прифирея», Стоящая-у-двери. В орфическом собрании это имя носит богиня родов, и ей отведён отдельный гимн, второй по счёту (`orphic-prothyraea-001`): она стоит перед той дверью, которой ребёнок входит в мир, и держит от неё ключ.
+
+Здесь тем же именем зовут ту, кто выводит душу вон. И это не путаница нового времени, а древнее положение вещей: орфическое собрание открывается Гекатой, за нею идёт Профирея, и порядок этот означает, что дверь одна. Кто впускает, тот и выпускает; ключница стоит у прохода, а не у одного из его концов.
+
+«Энодия», Дорожная, — подлинное фессалийское божество, слившееся с Гекатой; «шафранооблачённая» — из орфического гимна Гекате.
+
+А просьба — «проведи душу по светлым путям богов» — по складу своему та же, что на золотых пластинках орфических погребений, где умершему давали указания, куда идти.
+
 ## Commentary
+
+
+**A modern LABRYS text** (see `greek-agathodaimon-001`) — for the ninth day after a death.
+
+The date is ancient: the enata, the ninth-day rites, stood in the sequence of commemorations between the third day and the thirtieth (`greek-gaia-eniausia-001`). And the deity is rightly chosen: Hekate had charge of crossroads and of passages, and on the last day of the month food was left for her along with offerings to the dead.
+
+The most curious thing is the title. "Hekate Prothyraia", she who stands before the door. In the Orphic collection that name belongs to the goddess of childbirth, who has a hymn of her own, the second in the series (`orphic-prothyraea-001`): she stands before the door by which a child enters the world, and holds its key.
+
+Here the same name is given to the one who leads a soul out. And this is not a modern confusion but an ancient state of affairs: the Orphic collection opens with Hekate, and Prothyraia follows her, and that order means the door is one. Whoever admits also releases; the key-holder stands at the passage, not at one of its ends.
+
+"Enodia", she of the road, is a genuine Thessalian deity absorbed into Hekate; "saffron-robed" comes from the Orphic hymn to Hekate.
+
+And the request — "lead the soul along the bright paths of the gods" — is of the same cast as the gold leaves of Orphic burials, on which the dead were given directions for the way.
+

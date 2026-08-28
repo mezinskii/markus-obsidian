@@ -82,4 +82,23 @@ But if, Bacchus, Your gift could soothe my fevered mind and bring sleep to my we
 ## Комментарий
 
 
+
+Элегия, в которой Проперций ищет у Вакха убежища от любви.
+
+Довод построен на личном опыте бога: «ведь и ты ему не чужд, о чём свидетельствует среди звёзд Ариадна, вознесённая к небу твоими рысями». Просят исцелить от любви того, кто сам любил, — и свидетельство приводят астрономическое: венец Ариадны виден на небе, значит история подтверждена.
+
+А последняя строка карточки называет всего два средства: «исцелит либо смерть, либо твоё вино». Дальше в элегии Проперций выберет второе и распишет виноградники, чаны и собственное будущее как поэта Вакха; в приведённых десяти строках этого ещё нет.
+
+Английский перевод карточки эту вторую половину всё же присоединяет.
+
 ## Commentary
+
+
+The elegy in which Propertius takes refuge with Bacchus from love.
+
+The argument rests on the god's own experience: "for you too are no novice in this, as Ariadne bears witness among the stars, carried to heaven by your lynxes". He asks a cure for love from one who has loved himself — and the evidence offered is astronomical: Ariadne's crown is visible in the sky, so the story is confirmed.
+
+And the card's last line names only two remedies: "either death or your wine will cure it". Later in the elegy Propertius will choose the second and set out vineyards, vats and his own future as Bacchus' poet; in the ten lines given here that is still to come.
+
+The card's English nonetheless attaches that second half.
+

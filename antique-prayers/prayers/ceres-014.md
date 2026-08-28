@@ -70,4 +70,23 @@ Liber and gentle Ceres, if by your gifts the earth once changed, exchanging Chao
 ## Комментарий
 
 
+
+Зачин «Георгик»: Вергилий перечисляет богов, к которым обращается, и Либер с Церерой открывают список.
+
+Обращение построено на условии: «если вашим даром земля хаонийский жёлудь сменила на тучный колос». Хаонийский жёлудь — додонский, из священной дубравы; речь, стало быть, о переходе человечества от желудей к хлебу, от собирательства к земледелию. Богов благодарят не за урожай этого года, а за самое существование земледелия.
+
+Дальше пойдут Фавны и дриады, потом Нептун, Аристей, Пан, Минерва, Триптолем, Сильван — и в конце Октавиан, которому обещано место среди богов.
+
+Список открывается тем, кто дал хлеб, и закрывается тем, кто правит. «Георгики» устроены так, что от жёлудя до принцепса умещается один перечень.
+
 ## Commentary
+
+
+The opening of the Georgics: Virgil lists the gods he is addressing, and Liber and Ceres head the list.
+
+The address is built on a condition: "if by your gift the earth exchanged the Chaonian acorn for the rich ear of corn". The Chaonian acorn is the Dodonan one, from the sacred oak grove; what is meant, therefore, is humanity's passage from acorns to bread, from gathering to agriculture. The gods are thanked not for this year's harvest but for the existence of farming as such.
+
+After them will come the Fauns and dryads, then Neptune, Aristaeus, Pan, Minerva, Triptolemus, Silvanus — and at the end Octavian, who is promised a place among the gods.
+
+The list opens with the one who gave bread and closes with the one who governs. The Georgics are so arranged that a single enumeration reaches from the acorn to the princeps.
+

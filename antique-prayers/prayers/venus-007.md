@@ -79,10 +79,23 @@ If I am to further my undertaking, to traverse all the world, O Venus, who dwell
 
 ## Комментарий
 
-Catalepton XIV из «Приложения к Вергилию» — сборника мелких стихотворений, приписывавшихся Вергилию, но в большинстве ему не принадлежащих.
 
-Обет поэта Венере: если ему дано будет довести начатое до конца и провести Троянца Энея по римским городам достойной песнью, он не ограничится ладаном и вотивной табличкой — принесёт барана и быка, а в храме поставит мраморного Амора. Последний дистих датирует стихотворение: «adsis, o Cytherea: tuus te Caesar Olympo et Surrentini litoris ara vocat» — «явись, Киферея: зовёт тебя на Олимп твой Цезарь и жертвенник Сорренто».
+Стихотворение из «Appendix Vergiliana» — сборника мелких вещей, приписанных Вергилию. Автор просит Венеру дать ему довести до конца поэму об Энее и обещает за это жертвы.
 
-Английский обрывается на восьмой строке. Мраморный Амор и обращение к Кифеpее в перевод не попали.
+Провенанс тут и есть всё содержание карточки. Если стихи подлинные, перед нами Вергилий, молящийся о собственной «Энеиде», — единственное такое свидетельство в античности. Почти все исследователи считают их неподлинными: подражанием, написанным позже и заведомо знающим, чем дело кончилось. Тогда это не молитва поэта, а чужое представление о том, как поэт молился бы, — вещь по-своему не менее любопытная, но совсем другого разряда.
+
+Обет выстроен по возрастанию: не одним ладаном и не расписной табличкой, но бараном — «скромной жертвой» — и быком, «величайшей». Автор перечисляет разряды приношений от дешёвого к дорогому, назначая цену соразмерно просьбе. Приношения такого рода стоили денег, и обеты действительно составлялись по прейскуранту.
+
+Английский перевод карточки доходит только до восьмой строки; строки 9-12 — мраморный Амор с расписным колчаном и заключительное «будь здесь, Киферея: тебя зовут твой Цезарь с Олимпа и алтарь суррентинского берега» — не переведены. Упоминание обожествлённого Цезаря в последних строках само по себе служит указанием на время написания.
 
 ## Commentary
+
+
+A poem from the Appendix Vergiliana — a collection of minor pieces ascribed to Virgil. The author asks Venus to let him finish his poem about Aeneas, and promises sacrifices for it.
+
+Provenance is the entire content of this card. If the verses are genuine, we have Virgil praying for his own Aeneid — the only such testimony in antiquity. Nearly all scholars judge them not genuine: an imitation, written later and knowing perfectly well how the matter turned out. In that case this is not a poet's prayer but someone else's idea of how the poet would have prayed — a thing no less curious in its way, but of quite another order.
+
+The vow is built in ascending order: not with incense alone or a painted tablet, but with a ram — "a humble victim" — and a bull, "the greatest". The author lists categories of offering from cheap to dear, pricing the gift in proportion to the request. Offerings of this sort cost money, and vows really were drawn up by tariff.
+
+The card's English runs only to line 8; lines 9-12 — a marble Cupid with a painted quiver and the closing "be present, Cytherea: your own Caesar calls you from Olympus, and the altar of the Surrentine shore" — are not translated. The mention of the deified Caesar in the last lines is itself an indication of date.
+

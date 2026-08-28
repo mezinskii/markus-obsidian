@@ -54,4 +54,27 @@ Lord Helios, sacred fire, O' spear of Enodia, which She wields as She journeys t
 ## Комментарий
 
 
+
+**Составной текст, и составлен он честно** — поле источника прямо называет обе части: «Sophocles (adapted) / Rhizotome (lost)».
+
+Первая половина подлинная. «Ῥιζοτόμοι», «Корнерезы», — утраченная трагедия Софокла о Медее, и от неё уцелел, среди прочего, этот зачин: владыка Гелиос и священный огонь, копьё Энодии, дубовые венки и кольца змей. Фрагмент сохранён поздним цитатором, и в первоначальном своём месте он звучал в устах колдуньи, срезающей травы.
+
+Вторая половина новая: просьба благословить приношения предкам в последний день месяца и удалить всякое зло. Софокловские слова приставлены к обряду, которому они не принадлежали.
+
+Это ровно то устройство, которое корпус находит по всему разряду реконструкций: древнее ядро плюс современная просьба. Разница здесь в том, что карточка об этом объявляет сама.
+
+Сличите с карточками `carmenta-004`, `carmenta-010` и `carmenta-011`: там подлинные античные строки — начало «Одуссии» Ливия Андроника, стих Тибулла — тоже приставлены к чужому обряду, но без всякой пометы, и выданы за молитвы Карменте. Тот же приём, и вся разница в объявлении.
+
 ## Commentary
+
+
+**A composite text, and honestly composite** — the source field names both parts outright: "Sophocles (adapted) / Rhizotome (lost)".
+
+The first half is genuine. The Rhizotomoi, "The Root-Cutters", is a lost tragedy of Sophocles about Medea, and this opening survives from it among other fragments: lord Helios and holy fire, the spear of Enodia, oak wreaths and coils of snakes. The fragment is preserved by a late quoting author, and in its original place it was spoken by a witch cutting herbs.
+
+The second half is new: a request to bless offerings to the ancestors on the last day of the month and to keep all evil away. Sophoclean words have been attached to a rite they did not belong to.
+
+This is exactly the construction the corpus keeps finding across the class of reconstructions: an ancient core plus a modern petition. The difference here is that the card declares it.
+
+Compare the cards `carmenta-004`, `carmenta-010` and `carmenta-011`: there too genuine ancient lines — the opening of Livius Andronicus' Odusia, a verse of Tibullus — have been attached to a rite not their own, but with no label at all, and passed off as prayers to Carmenta. The same device, and the whole difference lies in the declaration.
+

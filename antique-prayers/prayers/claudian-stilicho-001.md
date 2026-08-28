@@ -70,4 +70,23 @@ Mars, whether you rush down from the cloud-capped Mount Haemus, whether on the f
 ## Комментарий
 
 
+
+Клавдиан, инвектива против Руфина: Стилихон перед походом взывает к Марсу.
+
+Формула та же «где бы ты ни был», что и у Стация (`apollo-020`), но адреса подобраны с умыслом. Гем, Родопа, Афон, Пангей — всё это Фракия и Македония, то есть ровно та область, куда Стилихон и идёт. Бога зовут не отовсюду, а с театра будущих действий: он и так уже там, надо лишь напомнить.
+
+И обет назван точно: «получишь дуб, одетый доспехами». Это tropaeum — ствол дерева, увешанный снятым с врага оружием, древнейший римский памятник победы. Стилихон обещает не храм и не игры, а вещь, которую ставят прямо на поле, не сходя с места.
+
+Английский перевод карточки передаёт только само воззвание; продолжение речи в него не входит.
+
 ## Commentary
+
+
+Claudian's invective against Rufinus: Stilicho calls on Mars before the campaign.
+
+The "wherever you may be" formula is the same as in Statius (`apollo-020`), but the addresses are chosen deliberately. Haemus, Rhodope, Athos, Pangaeus — all of them in Thrace and Macedonia, which is precisely where Stilicho is going. The god is summoned not from everywhere but from the theatre of the coming operations: he is already there, and only needs reminding.
+
+And the vow is precisely named: "you shall be given an oak clothed in spoils". This is a tropaeum — a tree trunk hung with arms stripped from the enemy, the oldest Roman monument of victory. Stilicho promises not a temple and not games but a thing that is set up on the field itself, without leaving the spot.
+
+The card's English renders only the invocation; the continuation of the speech is not included.
+

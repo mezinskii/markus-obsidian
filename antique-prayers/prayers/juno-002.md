@@ -57,4 +57,27 @@ Juno Regina, as it is prescribed for you in those books, let sacrifice be made t
 ## Комментарий
 
 
+
+Из протокола Секулярных игр 17 г. до н. э. — той самой мистерии обновления века, для которой Гораций написал «Carmen saeculare». Молитва произносилась при жертве коровы Юноне Царице; текст высечен на мраморе вместе со всем распорядком праздника.
+
+«Uti tibi in illis libris scriptum est» — «как о тебе в тех книгах написано». Молитва ссылается на собственное основание: «те книги» — Сивиллины, хранившиеся под охраной коллегии и определявшие, кому и что приносить. Обряд легитимирует себя цитатой из документа, названного, но не раскрытого.
+
+«Bove femina» — «коровой женского пола». Латынь здесь не тавтологична, а протокольна: bos может быть и мужского рода, и обряд требовал указать пол жертвы прямо, чтобы не оставить места толкованию.
+
+«Cetera uti supra» — «прочее как выше». Резчик не стал повторять формулу, уже высеченную для предыдущего божества. Сокращение сохранено и в переводе: раскрыть его значило бы выдать реконструкцию за текст камня.
+
+В квадратных скобках — восстановленное издателями по утраченным местам, в круглых — раскрытые сокращения.
+
 ## Commentary
+
+
+From the record of the Secular Games of 17 BC — the very festival of the renewal of the age for which Horace wrote the Carmen Saeculare. The prayer was spoken at the sacrifice of a cow to Juno Regina; the text was cut in marble along with the whole order of the festival.
+
+Uti tibi in illis libris scriptum est — "as is written concerning you in those books". The prayer cites its own warrant: "those books" are the Sibylline books, kept under the guard of a priestly college and prescribing what was to be offered to whom. The rite legitimates itself by quoting a document it names but does not open.
+
+Bove femina — "with a female ox". The Latin is not tautologous but procedural: bos can be masculine, and the rite required the victim's sex to be stated outright, leaving no room for interpretation.
+
+Cetera uti supra — "the rest as above". The cutter did not repeat a formula already inscribed for the preceding deity. The abbreviation is kept in translation too: expanding it would pass off a reconstruction as the text of the stone.
+
+Square brackets mark what the editors have restored where the stone is lost; round brackets, expanded abbreviations.
+

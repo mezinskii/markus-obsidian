@@ -70,4 +70,27 @@ Come, blessed Dionysos, various-named, bull-faced, begot from thunder, Bakkhos f
 ## Комментарий
 
 
+
+Семь строк, и в них умещается вся орфическая версия бога.
+
+«Πυρίσπορε» — огнерождённый: Семела сгорела от явления Зевса, и младенца выхватили из огня. «Ταυρομέτωπε» — быколобый: в орфическом мифе Титаны растерзали дитя Диониса, принявшего бычий образ, и из его останков произошли люди. Два эпитета в первой строке — и в них рождение из огня и растерзание в облике быка, то есть весь орфический рассказ, для непосвящённого закрытый.
+
+«Ὃς ξίφεσιν χαίρεις ἠδ᾽ αἵματι Μαινάσι θ᾽ ἁγναῖς» — ты, что радуешься мечам, и крови, и чистым Менадам. Слово «чистым» стоит рядом с кровью без всякого перехода: чистота здесь обрядовая, а не нравственная, и растерзание жертвы её не нарушает.
+
+«Βαρύμηνι» — тяжкогневный. Просящий называет опасность вслух, приглашая её к себе.
+
+А кончается всё так: «приди, блаженный, скачущий, неся всем великую радость». У бога, только что описанного через мечи, кровь и тяжкий гнев, просят веселья. Тот же ход у Сенеки, где фиванский хор славит Вакха перечнем его расправ (`seneca-bacchus-001`).
+
 ## Commentary
+
+
+Seven lines, and they contain the whole Orphic version of the god.
+
+Πυρίσπορε — fire-begotten: Semele burned at Zeus' epiphany, and the infant was snatched from the flame. Ταυρομέτωπε — bull-fronted: in Orphic myth the Titans tore apart the child Dionysus in the form of a bull, and from his remains mankind arose. Two epithets in the first line — and in them the birth from fire and the dismemberment in bull shape, that is, the whole Orphic story, which was closed to the uninitiated.
+
+Ὃς ξίφεσιν χαίρεις ἠδ᾽ αἵματι Μαινάσι θ᾽ ἁγναῖς — you who rejoice in swords and in blood and in the pure Maenads. The word "pure" stands next to blood with no transition at all: purity here is ritual, not moral, and tearing a victim apart does not breach it.
+
+Βαρύμηνι — heavy in wrath. The petitioner names the danger aloud while inviting it in.
+
+And it all ends thus: "come, blessed one, leaping, bringing great gladness to all". Of a god just described in terms of swords, blood and heavy wrath, cheerfulness is requested. The same move occurs in Seneca, where the Theban chorus praises Bacchus with a catalogue of his reprisals (`seneca-bacchus-001`).
+

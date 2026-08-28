@@ -64,4 +64,23 @@ Because Your hands have purified the Earth, the Sabines of Cures called You Sanc
 ## Комментарий
 
 
+
+Заключение большой элегии Проперция об Аре Максиме — той, где Геркулес, изнывая от жажды, ломится в рощу Доброй богини, получает отказ от жрицы и в отместку навсегда запрещает женщинам свой алтарь.
+
+Самое любопытное здесь — имя. Проперций сообщает, что сабинские Куры нарекли Геркулеса **Санком**, отождествляя его с италийским Семоном Санком. Отождествление это учёное, спорное и в такой прямой форме встречается почти только здесь; для римской религии оно ценно как свидетельство того, что чужого бога встраивали в местный пантеон через созвучие функций, а не имён.
+
+«Cui iam favet aspera Iuno» — «кому уже благоволит суровая Юнона». Одно слово iam вмещает всю биографию: враждовавшая всю жизнь мачеха примирилась после обожествления.
+
+А просьба — литературная: «благоволи благосклонно пребыть в моей книге». Поэт зовёт бога не на алтарь, а на страницу.
+
 ## Commentary
+
+
+The close of Propertius' long elegy on the Ara Maxima — the one in which Hercules, parched with thirst, forces his way towards the grove of the Good Goddess, is refused by her priestess, and in revenge bars women from his altar for ever.
+
+The most curious thing here is the name. Propertius reports that Tatius' Cures called Hercules **Sancus**, identifying him with the Italic Semo Sancus. The identification is learned, disputed, and in this direct a form occurs almost only here; for Roman religion it is valuable as evidence that a foreign god was fitted into the local pantheon through a correspondence of functions, not of names.
+
+Cui iam favet aspera Iuno — "whom harsh Juno now favours". The single word iam contains a whole biography: the stepmother who fought him all his life was reconciled after his deification.
+
+And the request is literary: "be willing, Sancus, to be present and favourable in my book". The poet summons the god not to an altar but to a page.
+

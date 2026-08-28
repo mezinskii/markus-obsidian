@@ -53,10 +53,19 @@ Come, O God, kind patron, come! May you favor us in your presence.
 
 ## Комментарий
 
-Строка 12 вотивной надписи Сильвану из долины Тритана под Капестрано (CIL IX 3375 = Carmina Latina Epigraphica 250 в издании Бюхелера). Надпись датирована консульством Сильвана и Авгурина, за 16 дней до апрельских календ 156 г. н. э.
 
-Карточка досталась корпусу с пометой «Аполлон», но Аполлона в стихотворении нет: оно открывается обращением «Magne deum, Silvane potens, sanctissime pastor» — «Величайший из богов, могучий Сильван, святейший пастырь». Поле deities исправлено по латыни. Идентификаторы (sanity_id, prayer_id, slug) по-прежнему несут «apollo» — это след первоначальной ошибки; менять их значит трогать ссылки в Sanity, оставлено как есть.
+Половина строки из вотивной надписи 156 г. н. э., поставленной в долине Тритана под Капестрано человеком, который посвятил Сильвану изваяние и алтарь.
 
-Английский перевод свободен и удвоен: «fautor tu dexter adesto» — «покровитель, будь благосклонно рядом» — развёрнуто в два предложения.
+В карточке от всей надписи осталось три слова — «fautor tu dexter adesto». И это по-своему поучительно: перед нами наименьшая возможная единица римской молитвы. Назвать роль бога (покровитель), попросить присутствия (adesto), задать расположение (dexter — «благосклонный», буквально «стоящий справа»). Всё прочее в надписи есть рассказ: река, кипарис, обет, — а молитва как таковая укладывается в эти три слова.
+
+**Молитва обращена не к Аполлону.** Стихотворение открывается словами «Magne deum, Silvane potens, sanctissime pastor», и Аполлона в нём нет вовсе. Поле deities исправлено по латыни; идентификаторы карточки по-прежнему несут «apollo» — след первоначальной ошибки, и менять их значит трогать ссылки в Sanity.
 
 ## Commentary
+
+
+Half a line from a votive inscription of AD 156, set up in the valley of the Tritanus below Capestrano by a man who dedicated a statue and an altar to Silvanus.
+
+Of the whole inscription three words survive in this card: fautor tu dexter adesto. That is instructive in its own way, for it is the smallest possible unit of Roman prayer. Name the god's role (patron), ask for presence (adesto), specify the disposition (dexter — favourable, literally "standing on the right"). Everything else in the inscription is narrative — the river, the cypress, the vow — while the prayer proper fits into these three words.
+
+**The prayer is not addressed to Apollo.** The poem opens "Magne deum, Silvane potens, sanctissime pastor", and Apollo does not appear in it at all. The deities field has been corrected from the Latin; the card's identifiers still carry "apollo", a trace of the original mistake, and changing them would mean touching references in Sanity.
+

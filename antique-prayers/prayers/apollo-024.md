@@ -74,4 +74,19 @@ Give your favour, Phoebus, to a new priest who enters your temple. Be gracious, 
 ## Комментарий
 
 
+
+Зачин самой длинной элегии Тибулла, написанной по случаю: Мессалин, сын его покровителя Мессалы, вступил в коллегию квиндецемвиров — жрецов, хранивших Сивиллины книги.
+
+«Novus ingreditur tua templa sacerdos» — новый жрец вступает в твои храмы. Стихотворение на служебное назначение, одетое в гимн.
+
+А заключительное пожелание (оно за швом) по-своему трогательно: да будут твои кудри нестрижены, да пребудет сестра твоя целомудренной. То есть пусть остаётся как есть то, что и так не может измениться. Бессмертному нечего пожелать — и Тибулл желает ему неизменности, единственного, что тому и без него принадлежит.
+
 ## Commentary
+
+
+The opening of Tibullus' longest elegy, written for an occasion: Messalinus, son of his patron Messalla, has entered the college of the quindecimviri — the priests who kept the Sibylline books.
+
+Novus ingreditur tua templa sacerdos — a new priest enters your temple. A poem for a professional appointment, dressed as a hymn.
+
+And the closing wish (which falls behind the seam) is touching in its way: may your hair stay unshorn, may your sister stay chaste forever. That is, may what cannot change remain as it is. There is nothing one can wish an immortal — so Tibullus wishes him permanence, the one thing that already belongs to him.
+

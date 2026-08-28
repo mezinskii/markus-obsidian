@@ -52,4 +52,27 @@ Father Janus, to You I pray with good prayers, offering You this pile of cakes, 
 ## Комментарий
 
 
+
+Катон, «О земледелии», 134: перед жатвой приносят пирог Янусу, вино Юпитеру и свинью Церере. Это самая старая полная римская молитвенная формула, дошедшая до нас в наставлении по хозяйству, а не в священной книге.
+
+Порядок здесь важнее слов: Янус первым — не по старшинству, а потому что он вход, и всякий обряд начинается с него. Та же логика объясняется у Овидия (`janus-008`).
+
+Ядро формулы — «uti sis volens propitius mihi liberisque meis domo familiaeque meae»: чтобы ты был благосклонен ко мне, детям, дому и челяди. Перечисление юридическое, по составу владения: domus — постройка и имущество, familia — люди в подчинении. Молитва защищает не человека, а хозяйство целиком.
+
+Эта же формула кочует по корпусу: Катон сам предлагает подставлять в неё другие имена, и на этом основаны карточки `carmenta-002` и `carmenta-006`.
+
+**Заметка об источнике для этой карточки не сохранилась** — записан только номер главы.
+
 ## Commentary
+
+
+Cato, On Agriculture 134: before the harvest a cake is offered to Janus, wine to Jupiter, a sow to Ceres. This is the oldest complete Roman prayer formula to reach us, and it reaches us in a manual of estate management, not in a sacred book.
+
+The order matters more than the words: Janus comes first not by seniority but because he is the entrance, and every rite begins with him. The same logic is explained in Ovid (`janus-008`).
+
+The core of the formula is uti sis volens propitius mihi liberisque meis domo familiaeque meae: that you be willing and favourable to me, my children, my house and my household. The list is legal, an inventory of holdings: domus is the building and the property, familia the people under authority. The prayer protects not a man but an entire establishment.
+
+The same formula travels through this corpus: Cato himself suggests substituting other names into it, and the cards `carmenta-002` and `carmenta-006` rest on that.
+
+**No provenance note survives for this card** — only the chapter number is recorded.
+

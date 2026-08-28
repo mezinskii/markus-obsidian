@@ -79,4 +79,23 @@ Mousa, sing of Artemis, sister of the far-shooter, Parthenos the virgin who deli
 ## Комментарий
 
 
+
+Короткое вступление рапсода (о самом устройстве этих гимнов см. `homeric-aphrodite-001`), и всё оно — маршрут.
+
+Артемида поит коней в Мелете, гонит золотую колесницу через Смирну и приезжает в виноградный Кларос, где её ждёт брат. Мелет — река у Смирны, Кларос — оракульное святилище Аполлона близ Колофона; расстояние между ними невелико, и всё это Иония.
+
+То есть гимн местный. Певец ведёт богиню по дорогам той земли, где поёт, и слушателю приятно, что она едет мимо его города. Смирна, кроме прочего, была из городов, споривших за честь считаться родиной Гомера. Гимны такого рода — не всеобщие, а произносимые здесь, и география в них есть форма лести аудитории.
+
+Любопытна и последняя учтивость: «и ты радуйся так в песне, и все богини вместе». Даже в девятистрочном вступлении находится место покрывающей оговорке, чтобы никто не счёл себя обойдённым.
+
 ## Commentary
+
+
+A short rhapsode's prelude (on how these hymns work, see `homeric-aphrodite-001`), and the whole of it is an itinerary.
+
+Artemis waters her horses in the Meles, drives her golden chariot through Smyrna and arrives at vine-clad Klaros, where her brother is waiting. The Meles is the river at Smyrna, Klaros the oracular sanctuary of Apollo near Colophon; the distance between them is short, and all of it is Ionia.
+
+The hymn, that is, is local. The singer takes the goddess along the roads of the country where he is singing, and the listener is pleased that she passes his town. Smyrna was, among other things, one of the cities that claimed to be Homer's birthplace. Hymns of this kind are not universal but spoken here, and geography in them is a form of flattery to the audience.
+
+The closing courtesy is worth noting too: "and so rejoice in song, you and all the goddesses together". Even in nine lines there is room for a covering clause, so that no one may feel passed over.
+

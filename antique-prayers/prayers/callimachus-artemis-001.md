@@ -205,4 +205,27 @@ Of Artemis we hymn — no light thing is it for singers to forget her — whose 
 ## Комментарий
 
 
+
+Каллимах писал гимны для чтения, а не для обряда, но форму соблюдал в точности: его стихи выглядят как культовые и никогда ими не были. Об этом стоит помнить во всех трёх его карточках корпуса.
+
+Здесь сохранена молитвенная рамка, а повествование опущено — швы помечены `[…]`. Уцелевшее место самое страшное в гимне: перечень того, что богиня делает с неправедным городом.
+
+«Οἷς τύνη χαλεπὴν ἐμμάξεαι ὀργήν» — на них ты налагаешь тяжкий гнев; глагол ἐμμάσσω значит «вмазать, втереть», и действие описано как вещественное. Дальше по пунктам: мор поедает скот, иней — посевы, старики стригутся в трауре по сыновьям, а женщины «или умирают роженицами, поражённые тобою, или, избежав этого, рождают тех, кто не станет на ноги».
+
+Вот главное. Артемида — покровительница родов; здесь она убивает в родах. Та же сила, обращённая другой стороной: богиня, разрешающая от бремени, и она же стреляющая в роженицу — одно божество, а не два, и грек не считал это противоречием.
+
+За устройством стоит Гесиод: город праведный и город неправедный, и разная участь обоих. Каллимах переносит эту схему с Зевса на Артемиду.
+
 ## Commentary
+
+
+Callimachus wrote his hymns to be read, not performed, but observed the form exactly: his poems look like cult texts and never were any. This is worth keeping in mind for all three of his cards in this corpus.
+
+Here the prayer frame is kept and the narrative dropped — the seams are marked `[…]`. What survives is the most terrible passage in the hymn: the catalogue of what the goddess does to an unjust city.
+
+Οἷς τύνη χαλεπὴν ἐμμάξεαι ὀργήν — on them you lay grievous wrath; the verb emmassō means to smear or knead in, and the action is described as physical. Then item by item: plague devours the cattle, frost the crops, old men cut their hair in mourning for their sons, and the women "either die in childbed, struck by you, or, escaping that, bear children that will not stand".
+
+That is the heart of it. Artemis is the patroness of childbirth; here she kills in childbirth. It is one power turned around: the goddess who delivers and the goddess who shoots the woman in labour are a single deity, not two, and a Greek saw no contradiction in it.
+
+Behind the arrangement stands Hesiod: the just city and the unjust city, and the different fate of each. Callimachus transfers the scheme from Zeus to Artemis.
+

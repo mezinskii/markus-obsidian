@@ -59,4 +59,23 @@ O spouse and sister of Mighty Jupiter, whether You are worshipped and adored in 
 ## Комментарий
 
 
+
+Психея, гонимая Венерой, ищет убежища и молится Юноне. У Апулея это вторая её попытка — перед тем она так же обращалась к Церере, и обе богини откажут ей из уважения к Венере.
+
+Перечисление культовых мест здесь не украшение, а биография. Самос помнит её младенцем — рождение, плач, вскармливание; Карфаген чтит девою на льве (это местная Юнона Целестис, то есть пуническая Танит); Аргос знает её уже супругой Громовержца и царицей. Три святилища — три возраста одной богини, расставленные по географии.
+
+Дальше восток и запад делят её надвое: Зигия, покровительница брачного ярма, и Луцина, помощница в родах. Апулей охватывает известный мир целиком, чтобы не оставить богине ни одного имени, под которым она могла бы не отозваться.
+
+А просьба сформулирована как выбор имени: «sis mei extremis casibus Iuno Sospita» — будь мне в крайних бедствиях Юноной Спасительницей. Из всех перечисленных обличий Психея указывает то, которое ей сейчас нужно.
+
 ## Commentary
+
+
+Psyche, hunted by Venus, is looking for refuge and prays to Juno. In Apuleius this is her second attempt — she had addressed Ceres in the same way before, and both goddesses will refuse her out of deference to Venus.
+
+The list of cult sites is not ornament but biography. Samos remembers her as an infant — the birth, the crying, the nursing; Carthage worships her as a maiden riding a lion (the local Juno Caelestis, that is, Punic Tanit); Argos knows her already as the Thunderer's wife and queen. Three sanctuaries, three ages of one goddess, laid out geographically.
+
+Then East and West divide her in two: Zygia, patroness of the marriage yoke, and Lucina, helper in childbirth. Apuleius covers the whole known world so as to leave the goddess no name under which she might fail to answer.
+
+And the request itself is phrased as a choice of name: sis mei extremis casibus Iuno Sospita — be to me in my extremity Juno the Saviour. Out of all the aspects listed, Psyche points to the one she needs now.
+

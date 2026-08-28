@@ -62,6 +62,23 @@ Diana, skillful in arms, leader in battle and guardian of soldiers, with Your ha
 
 
 
-Расхождение перевода с оригиналом. В латыни обращение «armipotens, praeses belli, Tritonia virgo» — это Минерва; английский перевод карточки начинается словом «Diana», которого в оригинале нет. Поле deities исправлено по латыни, перевод оставлен без изменений.
+
+Латинские матроны в храме Паллады молятся об избавлении от Энея, пока тот подступает к городу.
+
+Обращение чисто воинское: «мощная оружием, предводительница войны, Тритонийская дева». Женщины просят богиню не о защите дома, а о том, чтобы она сломала копьё врага и повергла его наземь. Молитва матерей звучит как молитва солдат.
+
+Ход Вергилия жестокий и умышленный. Той же богине молились троянки в шестой песни «Илиады» — и Афина отвернулась; здесь молятся латинянки, и с тем же исходом. Читатель узнаёт сцену и заранее знает, чем она кончится.
+
+**Обращение к Минерве, не к Диане.** «Tritonia virgo» — это Минерва; «Diana» есть только в английском переводе карточки, в латыни имени нет. Ссылка (значилось 11.583-585) и поле deities исправлены.
 
 ## Commentary
+
+
+The Latin matrons in the temple of Pallas pray for deliverance from Aeneas as he approaches the city.
+
+The address is purely martial: "mighty in arms, president of war, Tritonian maiden". The women ask the goddess not to protect their homes but to break the enemy's spear and lay him flat on the ground. A mothers' prayer sounds like a soldiers' prayer.
+
+Virgil's move is cruel and deliberate. The Trojan women prayed to the same goddess in the sixth book of the Iliad — and Athena turned away; here the Latin women pray, with the same outcome. The reader recognises the scene and knows in advance how it ends.
+
+**The address is to Minerva, not to Diana.** Tritonia virgo is Minerva; "Diana" occurs only in the card's English translation, and the name is not in the Latin. The reference (which read 11.583-585) and the deities field have been corrected.
+

@@ -66,4 +66,23 @@ O blessed Queen of Heaven, whether you are the Lady Ceres who is the original an
 ## Комментарий
 
 
+
+Луций, обращённый в осла, ночью на берегу моря взывает к Царице небес — и не знает, как её звать.
+
+Отсюда устройство молитвы: длинный перебор возможностей — Церера ли ты, или Венера, или сестра Феба, или Прозерпина, — и в конце оговорка, покрывающая всё: «каким бы именем, каким бы обрядом, в каком бы облике ни подобало тебя призывать».
+
+Приём страховки тот же, что у Стация и Овидия (`apollo-020`, `bacchus-007`), но доведённый до богословия. У Апулея перебор имён — уже не предосторожность, а утверждение: все богини суть одна. В следующей главе Исида явится Луцию и подтвердит это сама, назвав себя единым божеством, которое весь мир чтит под многими образами.
+
+В карточке приведён отрезок, отвечающий английскому: зачин с Церерой и общая концовка. Ветвь с обращением к Диане вынесена в `diana-001`, оттого хвост у обеих карточек общий.
+
 ## Commentary
+
+
+Lucius, turned into an ass, calls at night on the shore to the Queen of Heaven — and does not know what to call her.
+
+Hence the structure of the prayer: a long run through the possibilities — whether you are Ceres, or Venus, or the sister of Phoebus, or Proserpina — and at the end a qualification covering everything: "by whatever name, by whatever rite, in whatever form it is right to invoke you".
+
+The insurance device is the same as in Statius and Ovid (`apollo-020`, `bacchus-007`), but carried through into theology. In Apuleius the run of names is no longer a precaution but an assertion: all the goddesses are one. In the next chapter Isis will appear to Lucius and confirm it herself, calling herself the single divinity whom the whole world worships under many forms.
+
+The card gives the stretch corresponding to the English: the opening with Ceres and the common closing plea. The branch addressing Diana is carried in `diana-001`, which is why the two cards share a tail.
+

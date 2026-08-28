@@ -59,4 +59,27 @@ Hail, O Mother Tellus, for whom I am destined, and you, too, faithful Gods of Tr
 ## Комментарий
 
 
+
+Троянцы, высадившись в Италии, съели за трапезой собственные хлебные лепёшки-подносы, и предсказание сбылось: они узнали, что скитаниям конец. Эней приветствует землю.
+
+Это не просьба, а приветствие, и потому самое короткое разрешение самого длинного сюжета: «hic domus, haec patria est», здесь дом, здесь отечество. Семь лет и шесть книг кончаются половиной стиха.
+
+«Fatis mihi debita tellus» — земля, обещанная мне судьбами. Debita — «должная», слово долгового обязательства. Италия не даруется и не завоёвывается: она причитается, и Эней обращается к ней как кредитор, явившийся за своим. Дальнейшая война в поэме — спор о взыскании.
+
+Пенаты приветствуются наравне с землёй, и порядок тут существенный: боги привезены с собой, земля найдена; дом получается из соединения того и другого. Римское представление об отечестве держится не на месте и не на святыне, а на их совмещении.
+
+**Здесь была подмена.** Прежде в карточке стояла строка «Salve, o parens, Tellus, et tu ne desere nostros» — у Вергилия такой строки нет вовсе. Она заменена подлинным текстом «Энеиды» VII.120-122.
+
 ## Commentary
+
+
+The Trojans, landed in Italy, have eaten the bread trenchers off which they dined, and the prophecy is fulfilled: they know the wandering is over. Aeneas greets the land.
+
+This is not a request but a greeting, and therefore the shortest possible resolution of the longest possible plot: hic domus, haec patria est, here is home, here is our country. Seven years and six books end in half a line of verse.
+
+Fatis mihi debita tellus — land owed to me by the fates. Debita, "owed", is the word of a debt obligation. Italy is neither granted nor conquered: it is due, and Aeneas addresses it as a creditor arrived to collect. The war that follows in the poem is a dispute over enforcement.
+
+The Penates are greeted on equal terms with the land, and the order matters: the gods were carried here, the land was found; a home is what results from joining the two. The Roman idea of a native country rests neither on a place nor on a holy thing but on their coincidence.
+
+**There was a substitution here.** The card formerly carried the line Salve, o parens, Tellus, et tu ne desere nostros — a line that does not occur in Virgil at all. It has been replaced with the genuine text of Aeneid 7.120-122.
+

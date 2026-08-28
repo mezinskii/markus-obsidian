@@ -83,4 +83,23 @@ Hear, Poseidon, ruler of the sea profound, whose liquid grasp begirds the solid 
 ## Комментарий
 
 
+
+«Ὃς τριτάτης ἔλαχες μοίρης βαθὺ χεῦμα θαλάσσης» — ты, кому достался по третьему жребию глубокий поток моря. Тот же довод открывает молитву Ахелоя у Овидия: «тебе досталось по жребию царство, ближайшее к миру» (`neptunus-002`). И греческий гимн, и латинская элегия начинают с одного — с установления подсудности: дело в твоём ведении, потому что ты вытянул этот жребий.
+
+Просьба же противоположна титулу. Бог назван «ἐννοσίγαιε», землеколебатель, — и у него просят: «ἕδρανα γῆς σῴζοις», сохрани основания земли. Землетрясца умоляют не трясти.
+
+Приём в корпусе не одинокий. Ареса просят прекратить войну (`orphic-ares-001`), Фавна — пройти по полю и уйти (`faunus-001`), Венеру — оставить поэта в покое (`venus-003`). Опасное божество умилостивляют, прося его воздержаться от собственного свойства, и это, по-видимому, древнейший вид молитвы вообще.
+
+Эпитеты идут парами противоположных: «βαρύκτυπος», тяжкогремящий, и рядом «χαριτῶπα», милоокий; «ἁλίδουπος», солешумный, и «κυμοθαλής», волноцветущий. Море описано и как грохот, и как цветение, без выбора между ними.
+
 ## Commentary
+
+
+Ὃς τριτάτης ἔλαχες μοίρης βαθὺ χεῦμα θαλάσσης — you who received as your third portion by lot the deep flood of the sea. The same argument opens Achelous' prayer in Ovid: "you who drew by lot the realm nearest the world" (`neptunus-002`). Both the Greek hymn and the Latin elegy begin with the same thing — establishing jurisdiction: the matter is yours because this is the lot you drew.
+
+The request, however, is the opposite of the title. The god is called ennosigaie, earth-shaker — and he is asked hedrana gēs sōizois, preserve the foundations of the earth. The shaker of the earth is begged not to shake it.
+
+The device is not unique in this corpus. Ares is asked to stop the war (`orphic-ares-001`), Faunus to cross the field and go away (`faunus-001`), Venus to leave the poet alone (`venus-003`). A dangerous deity is propitiated by being asked to refrain from its own attribute, and this is probably the oldest kind of prayer there is.
+
+The epithets come in opposed pairs: barýktypos, heavy-thundering, and next to it charitōpa, grace-faced; halídoupos, sea-roaring, and kymothalēs, wave-blooming. The sea is described both as a crash and as a flowering, with no choice made between them.
+

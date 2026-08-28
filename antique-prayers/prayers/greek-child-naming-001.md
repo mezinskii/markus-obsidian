@@ -51,4 +51,27 @@ O' Immortal Gods, I call upon you to come with good disposition and to grant to 
 ## Комментарий
 
 
+
+**Современный текст** LABRYS (см. `greek-agathodaimon-001`) для наречения имени.
+
+Повод древний и хорошо засвидетельствованный. Амфидромии — обряд, при котором новорождённого на пятый или седьмой день бегом обносили вокруг домашнего очага; имя давали на десятый. До того ребёнок домочадцем ещё не считался, и обнесение вокруг очага и было принятием его в дом.
+
+Любопытно, что молитва не называет ни одного божества. Обращаются к «бессмертным богам» вообще и затем к предкам. В корпусе есть и древние тексты без адресата — формула сеятеля (`pliny-sowing-001`), надпись над дверью (`silvanus-002`), — но там причина иная: слова действуют сами, произнесённые правильно. Здесь же собирательное обращение — удобство составителя, а не свойство обряда.
+
+А просьба выдаёт своё происхождение: «жизнь в добродетели, руководимую разумом, природой и нравом». Λόγος, φύσις, ἔθος — тройка школьная, из философской педагогики стоиков и перипатетиков. У колыбели просят правильного воспитания.
+
+Древняя молитва при наречении просила бы о том, чтобы дитя выжило.
+
 ## Commentary
+
+
+**A modern LABRYS text** (see `greek-agathodaimon-001`) for the giving of a name.
+
+The occasion is ancient and well attested. The Amphidromia was the rite in which a newborn was carried at a run around the household hearth on the fifth or seventh day; the name was given on the tenth. Until then the child did not count as a member of the household, and the circuit of the hearth was its admission to the house.
+
+It is curious that the prayer names no deity at all. It addresses "the immortal gods" in general and then the ancestors. This corpus contains ancient texts with no addressee too — the sower's formula (`pliny-sowing-001`), the inscription over a door (`silvanus-002`) — but there the reason is different: the words work by themselves, correctly spoken. Here the collective address is the compiler's convenience, not a property of the rite.
+
+And the request betrays its origin: "a life in virtue, guided by reason, nature and habit". Logos, physis, ethos is a schoolroom triad, out of the philosophical pedagogy of the Stoics and Peripatetics. At the cradle, a sound education is requested.
+
+An ancient naming prayer would have asked that the child survive.
+

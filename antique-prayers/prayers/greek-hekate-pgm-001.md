@@ -56,4 +56,27 @@ Come to me, O' beloved lady, three faced Selene, listen, with kindness, to my sa
 ## Комментарий
 
 
+
+Подлинный текст, и происхождение его совсем иное, чем у прочих карточек этого разряда. Греческие магические папирусы — рабочие тетради ремесленников-магов римского Египта: рецепт, потребные вещества, и слова, которые надлежит произнести. Не богословие и не поэзия, а руководство.
+
+Отсюда и облик гимна. Селена-Геката слита здесь со всем сразу: трёхликая, трёхглавая, с тремя Харитами, с Дике, с тремя Мойрами поимённо, с Персефоной, с Мегерой. Имена наращиваются без разбора и без иерархии; в папирусах рядом с греческими стоят египетские и еврейские, и составителя это не смущало. Чем больше имён названо, тем вернее хоть одно окажется настоящим.
+
+«Дитя ранней зари… гонящая колесницу по пути Гелиоса» — Луна описана через Солнце, по чужой колее.
+
+**Греческий существует, но в карточку не попал.** Текст издан Прайзенданцем как PGM IV 2785-2870. Скан на archive.org (`papyrigraecaemag0001unse_x4f6`) есть, но текстовый слой в нём пуст: греческого распознавания ноль процентов, и извлечь ничего нельзя. Страницы при этом человеком в браузере читаются — путь остаётся ручной.
+
+Сличите с соседней карточкой (`greek-hekate-orphic-001`): там текст помечен как современный и на деле древний, здесь — древний и недобытый.
+
 ## Commentary
+
+
+A genuine text, and its origin is quite different from that of the other cards in this class. The Greek magical papyri are the working notebooks of practising magicians in Roman Egypt: a recipe, the materials required, and the words to be spoken. Not theology and not poetry, but a manual.
+
+Hence the character of the hymn. Selene-Hekate is here fused with everything at once: three-faced, three-headed, with the three Graces, with Dike, with the three Fates by name, with Persephone, with Megaira. Names are piled up without discrimination and without hierarchy; in the papyri Greek names stand beside Egyptian and Jewish ones, and the compiler was not troubled by it. The more names spoken, the surer that one of them is the right one.
+
+"Child of the early dawn … driving your chariot along the path of Helios" — the Moon described by way of the Sun, in another's track.
+
+**The Greek exists but did not reach this card.** The text is published by Preisendanz as PGM IV 2785-2870. A scan exists on archive.org (`papyrigraecaemag0001unse_x4f6`), but its text layer is empty: Greek recognition is at zero per cent and nothing can be extracted. The pages are legible to a human in a browser — the remaining route is manual.
+
+Compare the neighbouring card (`greek-hekate-orphic-001`): there the text is labelled modern and is in fact ancient; here it is ancient and unobtained.
+

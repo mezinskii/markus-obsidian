@@ -94,4 +94,19 @@ Calm and mild, may you come to us.
 ## Комментарий
 
 
+
+Фиванки справляют Вакханалии — в тот самый час, когда Алкитоя с сёстрами отказывается выйти из дому и садится за прялку.
+
+Молитва здесь есть перечень имён: Вакх, Бромий, Лиэй, Огнерождённый, дважды посеянный, двуматерний, Нисей, Тионей, Леней, Никтелий, Элелей, Иакх, Эван. Тот же приём страховки, что и у Стация (`apollo-020`): перебрать все имена, чтобы вызов не сорвался из-за неверного обращения.
+
+Но Овидий его вышучивает. Список обрывается признанием: «и сколько ещё у греческих племён имён, Либер, ты носишь». Перечисляющий сдаётся и расписывается в том, что перебрать всё невозможно. Приём, задуманный как гарантия полноты, оборачивается признанием её недостижимости.
+
 ## Commentary
+
+
+The women of Thebes are keeping the Bacchanalia — at the very hour when Alcithoe and her sisters refuse to leave the house and sit down to their spinning.
+
+The prayer here is a catalogue of names: Bacchus, Bromius, Lyaeus, Fire-born, Twice-sown, Twice-mothered, Nyseus, Thyoneus, Lenaeus, Nyctelius, Eleleus, Iacchus, Euhan. The same insurance device as in Statius (`apollo-020`): run through every name so that the summons cannot fail for a wrong form of address.
+
+But Ovid turns it into a joke. The list breaks off with an admission: "and all the many other names you have, Liber, among the Greek peoples". The enumerator gives up and concedes that a complete list is impossible. A device designed to guarantee completeness ends by confessing that completeness cannot be had.
+

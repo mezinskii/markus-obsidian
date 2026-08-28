@@ -56,12 +56,23 @@ Grant me the strength, Goddess, to whom I ask, to whom I pray; extend your assis
 
 ## Комментарий
 
-Три строки из утраченной трагедии Ливия Андроника «Троянский конь», у Риббека — строки 219-221.
 
-**Божество в самом фрагменте не названо.** Это обрывок из трёх строк, и к кому он обращён, неизвестно; отнесение к Церере в полях карточки из текста никак не следует. Оставлено как есть, но верить ему нельзя.
+Три строки из утраченной трагедии Ливия Андроника «Троянский конь» — одного из первых произведений латинской драмы вообще.
 
-Отсюда же, по-видимому, взята латынь новодельной carmenta-010: там та же строка с подстановкой — «Da illi hasce opes, Carmentis...» вместо «Da mihi hasce opes». Реконструкторы Nova Roma брали настоящие древние обрывки и вставляли в них своё божество.
+**Божество в самом фрагменте не названо.** Это обрывок, вырванный грамматиком ради формы слова, и к кому он обращён — неизвестно. Отнесение к Церере в полях карточки из текста никак не следует, и читать это поле надо с оговоркой.
 
-«Opes» — «средства, достояние, подмога», а не «strength», как в английском.
+Что видно точно — устройство просьбы: «Дай мне эти средства, о которых прошу, о которых молю: протяни, пособи!» Три повеления подряд, без единого эпитета и без обоснования. Ранняя латинская сцена говорит с богами коротко и требовательно — так же, как позже будут говорить формулы Катона.
+
+Отсюда взята и латынь новодельной `carmenta-010`: там «mihi» заменено на «illi», а перед этим вставлено имя Карменты.
 
 ## Commentary
+
+
+Three lines from Livius Andronicus' lost tragedy Equos Troianus — one of the earliest works of Latin drama altogether.
+
+**No deity is named in the fragment itself.** It is a scrap torn out by a grammarian for the sake of a word-form, and whom it addresses is unknown. The attribution to Ceres in the card's fields follows from nothing in the text, and the field should be read with that reservation.
+
+What can be seen for certain is the shape of the request: "Give me these means, which I seek, which I pray for: reach out, help!" Three imperatives in a row, with not one epithet and no justification. The early Latin stage speaks to the gods briefly and peremptorily — as Cato's formulae will later do.
+
+The Latin of the modern `carmenta-010` was taken from here: there mihi has been replaced by illi, with the name of Carmentis inserted before it.
+

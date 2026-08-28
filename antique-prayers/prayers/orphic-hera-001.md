@@ -83,4 +83,27 @@ O royal Hera, of majestic mien, aerial-formed, divine, Zeus' blessed queen, thro
 ## Комментарий
 
 
+
+Гера здесь — воздух, и весь гимн об этом.
+
+«Ἠερόμορφε» — воздухообразная; «κεκραμένη ἠέρι σεμνῷ» — смешанная со священным воздухом; мать дождей, кормилица ветров. Ни супружества, ни ревности, ни олимпийских ссор: богиня отождествлена со стихией и описана через её действия.
+
+Основание для отождествления — созвучие: Ἥρα и ἀήρ состоят из одних букв, и древние толкователи, от аллегористов до стоиков, выводили одно из другого. На перестановке букв построено целое богословие, и в античности это считалось доводом, а не игрой.
+
+«Χωρὶς γὰρ σέθεν οὐδὲν ὅλως ζωῆς φύσιν ἔγνω» — ибо без тебя ничто вовсе не познало природы жизни. О воздухе сказано буквально верно, и Гера оказывается условием дыхания.
+
+Сличите с гомеровским гимном той же богине (`homeric-hera-001`): там она определена одним родством — дочь Реи, сестра и супруга Зевса, чтимая наравне с ним, — и не делает ничего. Два гимна одному божеству, и орфический даёт ей ровно то, в чём гомеровский отказывает: занятие.
+
 ## Commentary
+
+
+Hera here is air, and the whole hymn is about that.
+
+Ἠερόμορφε — air-shaped; κεκραμένη ἠέρι σεμνῷ — mingled with the holy air; mother of rains, nurse of winds. No marriage, no jealousy, no Olympian quarrels: the goddess is identified with an element and described through its operations.
+
+The ground of the identification is a likeness of sound: Hēra and aēr consist of the same letters, and ancient interpreters, from the allegorists to the Stoics, derived one from the other. A whole theology is built on a transposition of letters, and in antiquity that counted as an argument, not a game.
+
+Χωρὶς γὰρ σέθεν οὐδὲν ὅλως ζωῆς φύσιν ἔγνω — for without you nothing at all has known the nature of life. Of air this is literally true, and Hera turns out to be the condition of breathing.
+
+Compare the Homeric hymn to the same goddess (`homeric-hera-001`): there she is defined by kinship alone — daughter of Rhea, sister and wife of Zeus, honoured equally with him — and does nothing. Two hymns to one deity, and the Orphic one gives her exactly what the Homeric denies her: something to do.
+

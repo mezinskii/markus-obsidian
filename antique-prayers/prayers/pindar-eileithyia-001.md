@@ -69,4 +69,23 @@ Goddess of childbirth, Eileithyia, maid to the throne of the deep-thinking Moira
 ## Комментарий
 
 
+
+Зачин седьмой Немейской оды, и это самое возвышенное обращение к Илифии в корпусе — рядом с нею комическая уловка у Аристофана (`aristophanes-eileithyia-001`) и заказ на следующего ребёнка у Каллимаха (`callimachus-eileithyia-001`).
+
+«Πάρεδρε Μοιρᾶν βαθυφρόνων» — сопрестольница глубокомысленных Мойр. Илифия сидит рядом с Судьбами, и это точно: миг рождения есть тот самый миг, когда назначается доля. Роды и участь размещены на одной скамье, и родовспоможение оказывается частью распределения судьбы.
+
+Довод затем изложен через отрицание: без тебя мы не увидели бы «ни света, ни чёрной благосклонной ночи». Вся человеческая жизнь названа двумя словами — свет и тьма, то есть попросту дни. Быть значит чередовать день и ночь, и больше ничего к этому не прибавлено.
+
+«Τεὰν ἀδελφεὰν… Ἥβαν» — твою сестру, светлочленную Гебу. Рождение и Юность — сёстры, обе дочери Геры; одна передаёт другой. Родиться и вырасти в греческом счёте разные божества, и переход между ними надо получить в удел отдельно.
+
 ## Commentary
+
+
+The opening of the seventh Nemean, and the loftiest address to Eileithyia in this corpus — beside it stand a comic ruse in Aristophanes (`aristophanes-eileithyia-001`) and an order for the next child in Callimachus (`callimachus-eileithyia-001`).
+
+Πάρεδρε Μοιρᾶν βαθυφρόνων — enthroned beside the deep-thinking Fates. Eileithyia sits next to the Moirai, and this is exact: the moment of birth is the very moment at which a portion is assigned. Delivery and destiny are placed on one bench, and midwifery turns out to be part of the distribution of fate.
+
+The argument is then made by negation: without you we should have seen "neither the light nor the black kindly night". The whole of human life is named in two words — light and darkness, that is, simply days. To exist is to alternate day and night, and nothing is added to that.
+
+Τεὰν ἀδελφεὰν … Ἥβαν — your sister, bright-limbed Hebe. Birth and Youth are sisters, both daughters of Hera; one hands over to the other. To be born and to grow up are, by Greek reckoning, different deities, and the passage between them must be allotted separately.
+

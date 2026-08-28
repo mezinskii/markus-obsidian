@@ -57,4 +57,27 @@ That Naso's lay may bloom for aye, O strew, I pray thee, goddess, thy boons upon
 ## Комментарий
 
 
+
+Конец рассказа о Флоралиях. Просьба и её обоснование здесь держатся на одном слове.
+
+«Floreat ut toto carmen Nasonis in aevo» — чтобы песнь Назона цвела во все века. Поэт просит богиню цветов о том, чтобы его стихи цвели: довод целиком выведен из её имени. Так римская молитва вообще и работала — от бога просят того, что заключено в его названии, и потому имя нужно выбрать правильно.
+
+«Sparge, precor, donis pectora nostra tuis» — окропи дарами твоими нашу грудь. Дары Флоры — цветы, и вдохновение описано как их осыпание. На самих Флоралиях цветы разбрасывали в толпу; поэт просит, чтобы обряд совершили над ним.
+
+«Carmen Nasonis» — Овидий называет себя по имени. Просить бессмертия собственным стихам внутри этих же стихов у него привычка, но здесь просьба скромнее обычного: не славы, а цветения, то есть свежести, которая не проходит.
+
+**Заметки об источнике для этой карточки не сохранилось** — записана только ссылка на «Фасты» V.377-378.
+
 ## Commentary
+
+
+The end of the account of the Floralia. Request and justification here rest on a single word.
+
+Floreat ut toto carmen Nasonis in aevo — that Naso's song may flower through all ages. The poet asks the goddess of flowers that his verses should flower: the argument is derived entirely from her name. This is how Roman prayer worked in general — one asks a god for what is contained in the god's title, and so the title must be chosen correctly.
+
+Sparge, precor, donis pectora nostra tuis — sprinkle my breast with your gifts. Flora's gifts are flowers, and inspiration is described as being showered with them. At the Floralia themselves flowers were scattered over the crowd; the poet asks that the rite be performed on him.
+
+Carmen Nasonis — Ovid names himself. Asking immortality for his own verses inside those verses is a habit with him, but the request here is more modest than usual: not fame but flowering, that is, a freshness that does not pass.
+
+**No provenance note survives for this card** — only the reference to Fasti 5.377-378 is recorded.
+

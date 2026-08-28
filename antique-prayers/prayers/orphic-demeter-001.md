@@ -103,4 +103,27 @@ O universal mother, Deo famed, august, the source of wealth, and various named: 
 ## Комментарий
 
 
+
+Гимн Деметре Элевсинской, и составлен он по стадиям работы.
+
+Σπερμείη — семенная, при севе; σωρῖτις — при ворохе обмолоченного зерна; ἀλωαίη — гуменная, при току; χλοόκαρπε — зеленоплодная. Богиню зовут по очереди именами всех этапов, от посева до амбара. Это не поэтические синонимы, а перечень: у каждой поры года своё её имя, и полный список имён есть полный список работ.
+
+«Ἡ πρώτη ζεύξασα βοῶν ἀροτῆρα τένοντα» — первая, что впрягла в ярмо пахотную шею быков. Тот же довод, что у овидиевой Каллиопы: «первой Церера кривым плугом раздвинула глыбу» (`ovid-ceres-001`). Изобретение и есть основание культа; богу поклоняются за то, что он придумал.
+
+«Εἰρήνῃ χαίρουσα καὶ ἐργασίαις πολυμόχθοις» — радующаяся миру и многотрудным работам. Мир и тяжёлый труд названы через «и», как вещи одного порядка: мир для земледельца и означает возможность работать.
+
+«Βρομίοιο συνέστιος» — делящая очаг с Бромием. Деметра и Дионис под одной кровлей: хлеб и вино, две элевсинские силы, поселённые вместе.
+
 ## Commentary
+
+
+A hymn to Demeter of Eleusis, and it is composed by stages of work.
+
+Spermeiē, of the seed, at sowing; sōritis, at the heap of threshed grain; alōaiē, of the threshing floor; chloökarpe, green-fruited. The goddess is called in turn by the names of every stage, from sowing to the granary. These are not poetic synonyms but an inventory: each season of the year has its own name for her, and the full list of names is the full list of tasks.
+
+Ἡ πρώτη ζεύξασα βοῶν ἀροτῆρα τένοντα — the first to yoke the ploughing neck of oxen. The same argument as in Ovid's Calliope: "Ceres was the first to part the clod with the curved plough" (`ovid-ceres-001`). Invention is the ground of cult; a god is worshipped for what he thought of.
+
+Εἰρήνῃ χαίρουσα καὶ ἐργασίαις πολυμόχθοις — rejoicing in peace and in laborious works. Peace and hard labour are joined by "and", as things of one order: for a farmer, peace means the possibility of working.
+
+Βρομίοιο συνέστιος — sharing a hearth with Bromios. Demeter and Dionysus under one roof: bread and wine, the two Eleusinian powers, housed together.
+

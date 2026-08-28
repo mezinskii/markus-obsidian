@@ -54,4 +54,23 @@ O' Hermes who dwells on Kokytos' necessary path of no return, who guides the sou
 ## Комментарий
 
 
+
+**Современный текст** LABRYS (см. `greek-agathodaimon-001`), и это опять орфический гимн — пятьдесят седьмой, Гермесу Подземному, стоящий в корпусе отдельно (`orphic-hermes-chthonios-001`). Кокит, невозвратная тропа необходимости, порождение Диониса и Афродиты, жезл, что усыпляет и снова будит, — всё оттуда.
+
+Но на этой карточке произошло нечто иное, чем на двух соседних, и это стоит отметить.
+
+Гимн Деметре был перенесён с земледелия на удачу (`greek-demeter-luck-001`); гимн Гере перенесён целиком, но тоже на чужой повод (`greek-hera-luck-001`). А здесь гимн подземному Гермесу поставлен в чин погребения — то есть ровно туда, о чём он и говорит. Орфическое собрание было служебником общины посвящённых (`orphic-amphietus-001`), и хоронить под этот текст его составители, надо думать, и предполагали.
+
+Три случая складываются в шкалу: один гимн переставлен на другое место, другой перенесён целиком, третий возвращён на своё. Реконструкция может и удалять от подлинника, и приближать к нему, и различать эти движения полезнее, чем ставить всему разряду одну помету.
+
 ## Commentary
+
+
+**A modern LABRYS text** (see `greek-agathodaimon-001`), and it is again an Orphic hymn — the fifty-seventh, to Chthonic Hermes, which stands separately in this corpus (`orphic-hermes-chthonios-001`). Cocytus, the path of necessity from which there is no return, the offspring of Dionysus and Aphrodite, the wand that lulls and wakes again — all of it comes from there.
+
+But something different has happened on this card than on the two beside it, and it is worth noting.
+
+The hymn to Demeter was transferred from agriculture to luck (`greek-demeter-luck-001`); the hymn to Hera was transferred whole, but likewise to an occasion not its own (`greek-hera-luck-001`). Here the hymn to Chthonic Hermes has been placed in the burial rite — that is, in precisely what it talks about. The Orphic collection was the service book of a community of initiates (`orphic-amphietus-001`), and burying to this text is presumably what its compilers intended.
+
+The three cases make a scale: one hymn moved elsewhere, one carried over intact, one restored to its own place. A reconstruction can move away from the original and can also move towards it, and distinguishing these motions is more useful than putting a single label on the whole class.
+

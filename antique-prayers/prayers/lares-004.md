@@ -67,4 +67,23 @@ Lares, and you gods also, who earlier made our household fruitful and fortunate,
 ## Комментарий
 
 
+
+Из первой элегии Тибулла — программного стихотворения о добровольной бедности. Лары здесь не домашние, а полевые: «стражи поля», стоящие на меже.
+
+Всё держится на одном сопоставлении: тогда — тёлка очищала бесчисленных быков, ныне — ягнёнок, «малая жертва скудной земли». Размер жертвы прямо пропорционален размеру владения, и обряд оказывается точной описью хозяйства. Тибулл говорит о разорении, не называя его: достаточно назвать животное.
+
+Важно, что жертва при этом не отменяется. Обеднев, приносят меньше, но приносят; договор с богами не расторгается по бедности, а пересчитывается.
+
+Последние две строки — подлинный обрядовый выкрик, сохранённый внутри элегии: «io messes et bona vina date», дайте жатву и добрые вина. Ни просьбы, ни условия, ни вежливости — голое повеление хором. Так деревня говорит со своими богами, и городской поэт приводит это, не сглаживая.
+
 ## Commentary
+
+
+From the first elegy of Tibullus — the programmatic poem on chosen poverty. The Lares here are not domestic but agrarian: "guardians of the field", standing at the boundary.
+
+Everything turns on one comparison: then a slaughtered heifer purified countless bullocks; now a lamb is "the small victim of a meagre plot". The size of the offering is directly proportional to the size of the holding, and the rite turns out to be an exact inventory of the estate. Tibullus speaks of ruin without naming it: naming the animal is enough.
+
+What matters is that the sacrifice is not called off. Having grown poor, they offer less, but they offer; the contract with the gods is not dissolved by poverty, it is recalculated.
+
+The last two lines are a genuine ritual shout preserved inside an elegy: io messes et bona vina date, give harvests and good wine. No request, no condition, no politeness — a bare imperative in chorus. That is how the countryside speaks to its gods, and the urban poet quotes it without smoothing it out.
+

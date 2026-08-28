@@ -55,4 +55,27 @@ Give assistance, Priapus, to the part of which you, father, seem to be a part yo
 ## Комментарий
 
 
+
+Обет об исцелении из «Приаповой книжки» — сборника непристойных стихов, приписанных садовому богу.
+
+Шутка выстроена на подлинной практике. Анатомические вотивы — глиняные или писаные изображения исцелённой части тела — были одним из самых массовых видов приношения в древности; святилища целителей были ими завалены. Здесь обещана раскрашенная табличка с изображением «равным, подобным и того же цвета»: обет оговаривает точность копии, как оговаривают условия заказа.
+
+«Cuius tu, pater, ipse pars videris» — чьей частью ты сам, отец, кажешься. Приап и есть тот орган, о котором просят; больное и врачующее здесь одно и то же. Молитва обращена к богу, который совпадает со своим предметом.
+
+«Sine sectione» — без разреза. Условие поставлено всерьёз: у древней медицины выбор был между молитвой и ножом, и просящий указывает, каким способом хочет получить исцеление. Тот же порядок, что у Марциала, где врачевание описано как тяжба с Парками (`martial-aesculapius-001`).
+
+**Заметки об источнике для этой карточки не сохранилось** — записан только номер стихотворения.
+
 ## Commentary
+
+
+A vow for healing from the Priapea — a collection of obscene verses ascribed to the garden god.
+
+The joke is built on a genuine practice. Anatomical votives — clay or painted images of the healed body part — were among the commonest offerings in antiquity; healing sanctuaries were heaped with them. Here a painted tablet is promised showing the member "equal, alike and of the same colour": the vow stipulates the accuracy of the copy as one stipulates the terms of a commission.
+
+Cuius tu, pater, ipse pars videris — of which part you yourself, father, appear to be a part. Priapus is the organ prayed for; the diseased thing and the healing god are one. The prayer addresses a deity who coincides with its subject.
+
+Sine sectione — without surgery. The condition is meant in earnest: ancient medicine offered a choice between prayer and the knife, and the petitioner specifies which way he wants his cure. The same arrangement as in Martial, where healing is described as litigation with the Fates (`martial-aesculapius-001`).
+
+**No provenance note survives for this card** — only the poem's number is recorded.
+

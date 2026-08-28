@@ -55,4 +55,23 @@ Most High Goddess Pallas, golden wreathed Athena, Great Goddess of the World; Yo
 ## Комментарий
 
 
+
+**Современный текст** LABRYS (см. `greek-agathodaimon-001`), и здесь оговорка нужна не только к словам, но и к поводу.
+
+**«Гелиодиты, воскресный солнечный обряд» — установление новое.** У греков не было семидневной недели вовсе: месяц делился на декады, и никакого воскресенья в нём не значилось. Планетарная неделя с днём Солнца — явление римского времени, вошедшее во всеобщее употребление уже через христианский календарь. Община, собирающаяся по воскресеньям, живёт по расписанию, которого древние не знали.
+
+Сам гимн при этом опирается на подлинное, но позднее. «Неукротимая Метида», «трижды рождённая Дева», «ты наполнила ум Отца законами вселенской Красоты», «ты — всё, что существует» — это Афина неоплатоников: у поздних платоников она разум, исходящий из отчего ума, и Прокл написал ей гимн ровно в таких выражениях. Богословие древнее, но не классическое, и школьное, а не обрядовое.
+
+Сличите с гомеровским гимном о том же рождении (`homeric-athena-001`): там доспех, потрясённый Олимп и испуганные боги, и ни слова отвлечённого. Одно событие, две теологии и восемь веков между ними.
+
 ## Commentary
+
+
+**A modern LABRYS text** (see `greek-agathodaimon-001`), and here a caveat is needed not only about the words but about the occasion.
+
+**"Heliodites, a Sunday solar ceremony" is a new institution.** The Greeks had no seven-day week at all: the month was divided into decades, and there was no Sunday in it. The planetary week with a day of the Sun is a phenomenon of Roman date, which came into general use by way of the Christian calendar. A community that meets on Sundays is living by a timetable the ancients did not know.
+
+The hymn itself, meanwhile, rests on genuine material, but late material. "Untameable Metis", "thrice-born Maiden", "you filled the Father's mind with the laws of universal Beauty", "you are all that exists" — this is the Athena of the Neoplatonists: for the later Platonists she is the intellect proceeding from the paternal mind, and Proclus wrote her a hymn in precisely these terms. The theology is ancient but not classical, and academic rather than cultic.
+
+Compare the Homeric hymn on the same birth (`homeric-athena-001`): there we have armour, a shaken Olympus and frightened gods, and not one abstract word. One event, two theologies, and eight centuries between them.
+

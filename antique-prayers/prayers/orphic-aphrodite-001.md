@@ -125,4 +125,27 @@ Ourania, illustrious, laughter-loving queen, sea-born, night-loving, of awful mi
 ## Комментарий
 
 
+
+Афродита Урания в орфическом гимне — не богиня влечения, а мировая сила. Об устройстве и происхождении этого собрания см. `orphic-amphietus-001`.
+
+«Ὑπεζεύξω δέ τε κόσμον καὶ κρατέεις τρισσῶν μοιρῶν» — ты подъярмила себе мир и правишь тремя уделами. Три удела — небо, земля и глубина моря, как поясняют следующие строки; но τρισσαὶ μοῖραι читается и как три Мойры, и оба смысла в строке живут.
+
+Самое же примечательное — «δολοπλόκε μῆτερ ἀνάγκης», ковы плетущая мать Необходимости. Это не гомеровская мифология: Ананка в орфической космогонии — первоначало, и назвать Афродиту её матерью значит поставить влечение прежде принуждения. Сперва желание, из него — необходимость, из необходимости — устройство мира. В одном эпитете изложена целая космогония.
+
+Весь гимн держится на образе ярма: ζεύκτειρα, сопрягающая; ὑπεζεύξω, подъярмила; γαμοστόλε, устроительница браков. Брак, соитие и мироздание описаны одним словом — тем, каким запрягают волов.
+
+Адонис, Пейто и нимфы, названные в поле deities, стоят в непереведённой части — перечне мест, где богиню могут застать.
+
 ## Commentary
+
+
+Aphrodite Ourania in the Orphic hymn is not a goddess of attraction but a cosmic power. On the make-up and origin of this collection, see `orphic-amphietus-001`.
+
+Ὑπεζεύξω δέ τε κόσμον καὶ κρατέεις τρισσῶν μοιρῶν — you have yoked the cosmos beneath you and you rule the three portions. The three portions are sky, earth and the deep of the sea, as the following lines explain; but trissai moirai also reads as the three Fates, and both senses live in the line.
+
+Most remarkable of all is δολοπλόκε μῆτερ ἀνάγκης, guile-weaving mother of Necessity. This is not Homeric mythology: in Orphic cosmogony Ananke is a first principle, and to call Aphrodite her mother is to put desire before compulsion. First longing, out of it necessity, out of necessity the ordering of the world. An entire cosmogony is set out in one epithet.
+
+The whole hymn turns on the image of a yoke: zeukteira, she who yokes; hypezeuxō, you have yoked beneath you; gamostole, she who arrays marriages. Marriage, intercourse and the structure of the universe are described by one word — the word for harnessing oxen.
+
+Adonis, Peitho and the nymphs, named in the deities field, stand in the untranslated part — the list of places where the goddess may be found.
+

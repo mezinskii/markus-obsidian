@@ -65,4 +65,27 @@ Arbiter of arms, from whose blood I am believed to have been born, and many the 
 ## Комментарий
 
 
+
+Ромул объясняет Марсу, почему первый месяц римского года получит его имя.
+
+Строки эти замечательны одним оборотом: «de cuius sanguine natus credor et, ut credar, pignora multa dabo» — от чьей крови я, как верят, рождён, и, чтобы верили, я дам много залогов. Не «я твой сын», а «меня таковым считают, и я это подтвержу делами». Божественное происхождение подано не как факт, а как утверждение, нуждающееся в обеспечении, — и обеспечивать его будут будущие победы.
+
+«Pignora» — слово залогового права: вещь, вносимая в обеспечение обязательства. Ромул закладывает свою будущую службу под собственную родословную.
+
+Платой же назван календарь: «первый месяц будет назван отцовским именем». Богу дарят не храм и не жертву, а место в счёте времени — и оно оказалось долговечнее храмов: март носит имя Марса до сих пор.
+
+«Arbiter armorum» — судья оружия. Arbiter в латыни есть третейский судья, решающий спор сторон; война описана как тяжба, которую Марс разбирает. Тот же язык, что в формуле фециалов (`janus-004`).
+
 ## Commentary
+
+
+Romulus explains to Mars why the first month of the Roman year will bear his name.
+
+These lines are remarkable for one turn of phrase: de cuius sanguine natus credor et, ut credar, pignora multa dabo — of whose blood I am believed to be born, and, that it may be believed, I shall give many pledges. Not "I am your son" but "I am held to be, and I shall bear it out". Divine descent is presented not as a fact but as an assertion requiring security — and the security will be future victories.
+
+Pignora is a term of the law of pledge: a thing lodged to secure an obligation. Romulus pawns his future service against his own ancestry.
+
+The payment named is the calendar: "the first month shall bear my father's name". The god is given neither temple nor sacrifice but a place in the reckoning of time — and it proved more durable than temples: March still bears the name of Mars.
+
+Arbiter armorum — arbiter of arms. In Latin an arbiter is the referee who decides a dispute between parties; war is described as a suit which Mars adjudicates. The same language as the fetial formula (`janus-004`).
+

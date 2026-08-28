@@ -70,4 +70,23 @@ Mercurius Cyllenius, principle author of all sacred knowledge, at times within H
 ## Комментарий
 
 
+
+Зачин астрологической поэмы Манилия. Меркурий назван Килленцем — по аркадской горе Киллене, где он родился, — и объявлен основателем науки о небе.
+
+Основание для этого не римское, а египетское: Гермеса отождествляли с Тотом, а Гермесу Триждывеличайшему приписывали книги о звёздах и тайных силах. Манилий начинает поэму с бога, который в его глазах эту поэму и сочинил первым.
+
+«Sacri tanti» — «столь великого священного знания». Астрономия здесь не наука, а обряд; знание неба относится к тому же разряду, что жертвоприношение.
+
+Самое замечательное — придаточное цели в конце. Небо изучают для того, «чтобы облик мира стал больше, и достойным поклонения было не только зрелище, но и сама мощь вещей, и чтобы народы почувствовали, сколь велик бог». То есть исследование не описывает божество, а увеличивает его: измеряя мир, человек прибавляет ему величия. Молитва здесь оправдывает не пользу знания, а его благочестие.
+
 ## Commentary
+
+
+The opening of Manilius' poem on astrology. Mercury is called the Cyllenian — after the Arcadian mountain where he was born — and declared the founder of the science of the sky.
+
+The grounds for this are not Roman but Egyptian: Hermes was identified with Thoth, and to Hermes Thrice-Greatest were ascribed books on the stars and on hidden powers. Manilius begins his poem with the god who, in his view, first composed it.
+
+Sacri tanti — "so great a sacred thing". Astronomy here is not a science but a rite; knowledge of the heavens belongs to the same category as sacrifice.
+
+The most remarkable thing is the purpose clause at the end. The sky is studied "so that the face of the world might be greater, and not the spectacle only but the very power of things be worthy of worship, and that the nations might feel how great the god is". That is: inquiry does not describe the divinity, it enlarges it — by measuring the world a man adds to its greatness. What this prayer justifies is not the usefulness of knowledge but its piety.
+

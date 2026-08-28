@@ -107,4 +107,23 @@ May the Sun now bear witness, and so too the Earth, I pray, for whom I have been
 ## Комментарий
 
 
+
+Двенадцатая книга «Энеиды»: перед поединком Энея с Турном стороны заключают договор, и обе приносят клятву. Здесь обе половины, через шов `[…]`: сперва говорит Эней, потом Латин.
+
+Список свидетелей — самый полный у Вергилия. Солнце, Земля, Юпитер, Юнона, Марс, источники и реки, «всё, что свято в высоком эфире, и все божества, какие есть в синем море»; у Латина — земля, море, светила, двойное порождение Латоны, двуликий Янус, подземные силы и Дит. Это устройство настоящей римской договорной клятвы: небесное, земное, подземное, чтобы не осталось яруса, перед которым дело не заявлено. Та же трёхчастность — в формуле фециала (`janus-004`).
+
+Но самое человеческое здесь — скобка. «Et tu Saturnia coniunx (iam melior, iam, diva, precor)»: и ты, Сатурнова супруга — уже смягчившаяся, уже, богиня, молю. Эней призывает в свидетели ту, которая двенадцать книг его губила, и посреди обращения не выдерживает и просит. Внутри юридической формулы прорывается голос.
+
+Клятву он сдержит. Латины её нарушат — Ютурна разожжёт бой, — и весь этот сонм свидетелей будет созван ровно для того, чтобы при них совершилось клятвопреступление. В этом смысл сцены: боги вызваны не помешать, а увидеть.
+
 ## Commentary
+
+
+The twelfth book of the Aeneid: before the duel of Aeneas and Turnus the two sides conclude a treaty, and both swear. Both halves are given here, across the seam `[…]`: first Aeneas speaks, then Latinus.
+
+The list of witnesses is the fullest in Virgil. Sun, Earth, Jupiter, Juno, Mars, springs and rivers, "whatever is holy in the high aether and whatever divinities are in the blue sea"; in Latinus' half — earth, sea, stars, Latona's twin offspring, two-faced Janus, the powers below and Dis. This is the structure of an actual Roman treaty oath: heavenly, earthly, infernal, so that no tier is left before which the matter has not been filed. The same tripartition appears in the fetial formula (`janus-004`).
+
+But the most human thing here is a parenthesis. Et tu Saturnia coniunx (iam melior, iam, diva, precor): and you, Saturnian consort — kinder now, now, goddess, I pray. Aeneas calls to witness the goddess who has been destroying him for twelve books, and in the middle of the address he breaks down and asks. Inside a legal formula, a voice breaks through.
+
+He will keep the oath. The Latins will break it — Juturna will rekindle the fighting — and this whole assembly of witnesses will have been convened precisely so that the perjury may be committed in front of them. That is the point of the scene: the gods are summoned not to prevent but to see.
+

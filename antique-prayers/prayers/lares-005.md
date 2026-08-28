@@ -78,4 +78,23 @@ Lares, gods of my fathers, preserve me! While young and still nursing, you guide
 ## Комментарий
 
 
+
+Тибулл просит отчих Ларов о защите на войне, куда идти не хочет. Довод у него биографический: «вы же и вскормили меня, когда я маленьким бегал у ваших ног».
+
+Это важнейший ход всей римской домашней религии: бог обязан не за жертвы, а по стажу совместной жизни. Лары стояли в этом доме при деде, растили внука и потому отвечают за него так же, как родня.
+
+«Neu pudeat prisco vos esse e stipite factos» — «не стыдитесь, что сделаны вы из древнего пня». Поэт извиняется перед богами за их собственную дешевизну и тут же обращает это в похвалу: «тогда лучше держали верность, когда стоял в тесной божнице деревянный бог». Бедность обряда предъявлена как свидетельство его подлинности.
+
+Дальше — картина того, как это выглядело: гроздь, венок из колосьев на кудри деревянного идола, лепёшка от исполнившего обет и маленькая дочь позади с чистым сотом. Религия описана через того, кто что несёт, и участвует в ней вся семья, включая ребёнка.
+
 ## Commentary
+
+
+Tibullus asks the Lares of his fathers for protection in a war he does not want to go to. His argument is biographical: "you fed me too, when I ran as a little boy before your feet".
+
+This is the central move of Roman household religion: the god is obliged not by sacrifices but by length of shared residence. The Lares stood in this house in the grandfather's day, raised the grandson, and are therefore answerable for him as kin are.
+
+Neu pudeat prisco vos esse e stipite factos — "do not be ashamed that you are made from an old stump". The poet apologises to the gods for their own cheapness and at once turns it into praise: "they kept faith better then, when a wooden god stood in a cramped shrine". The poverty of the rite is offered as evidence of its authenticity.
+
+Then a picture of what that looked like: a cluster of grapes, a wreath of corn-ears on the wooden idol's hair, a cake from a man whose vow was granted, and his small daughter behind him with clean honeycomb. Religion is described through who carries what, and the whole family takes part, the child included.
+

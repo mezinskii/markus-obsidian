@@ -66,4 +66,27 @@ Mother Vesta, I pray to You, whose most chaste Vestales I have defended against 
 ## Комментарий
 
 
+
+Четвёртая клауза того же периода из речи «О своём доме» (`jupiter-003`, `minerva-001`), и самая личная из них. Цицерон говорит перед понтификами, добиваясь возврата участка, который Клодий посвятил богине Свободе.
+
+Перед Вестой он предъявляет две услуги: защитил её «целомудреннейших жриц» от расправы и не допустил, чтобы вечный огонь был залит кровью граждан или смешался с пожаром города. Речь о заговоре Катилины и о его собственном консульстве; заслуга изложена вещественно — что именно он не дал сделать.
+
+Вторая часть, из §145, — самое поразительное место. «Meque atque meum caput ea condicione devovi» — и себя, и голову свою я обрёк на том условии, что… Devovere есть технический глагол девоции, обряда, которым консул отдавал себя подземным богам за войско (`livy-deciusmus-001`). Цицерон применяет его к собственному консульству: он утверждает, что принёс себя в жертву за государство по всей форме, только не погиб.
+
+«Vos sum testatus» — вас я призвал в свидетели. И снова свидетели: во всей этой молитве божества выступают не как помощники, а как сторона, удостоверившая сделку, — что для речи в суде по сакральному праву единственно уместно.
+
+Шов `[…]` — на месте условного придаточного в начале §145, которого английский перевод карточки не передаёт.
+
 ## Commentary
+
+
+The fourth clause of the same period from the speech On His House (`jupiter-003`, `minerva-001`), and the most personal of them. Cicero is speaking before the pontiffs, seeking the return of the site Clodius consecrated to the goddess Liberty.
+
+Before Vesta he presents two services: he defended her "most chaste priestesses" from violence, and did not allow the eternal fire to be quenched with citizens' blood or mingled with the burning of the whole city. The reference is to Catiline's conspiracy and his own consulship; the merit is stated materially — what exactly he prevented.
+
+The second part, from §145, is the astonishing passage. Meque atque meum caput ea condicione devovi — and I devoted myself and my head on this condition, that … Devovere is the technical verb of the devotio, the rite by which a consul made himself over to the gods below on behalf of his army (`livy-deciusmus-001`). Cicero applies it to his own consulship: he claims to have offered himself for the state in full form, only without dying.
+
+Vos sum testatus — you I called to witness. Witnesses again: throughout this prayer the deities appear not as helpers but as the party that attested a transaction — which, in a speech at a trial on sacred law, is the only fitting role for them.
+
+The seam `[…]` stands where the conditional clause at the start of §145 was, which the card's English does not render.
+

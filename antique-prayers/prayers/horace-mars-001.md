@@ -71,4 +71,23 @@ Father Mars, too long have You neglected to look upon Your nation and upon Your 
 ## Комментарий
 
 
+
+Ода написана после убийства Цезаря, когда Тибр вышел из берегов и знамения читались как гнев богов. Гораций перебирает, кто из небожителей придёт искупить вину города: Аполлон, Венера, Марс, Меркурий. Здесь — очередь Марса, и оттого зачин условный: «или… обернёшься».
+
+«Auctor» — родоначальник: Марс отец Ромула, то есть всему племени предок. Просьба поэтому семейная по форме — вернись к заброшенной родне, — хотя речь о государстве.
+
+«Heu nimis longo satiate ludo» — «увы, пресыщенный слишком долгой игрой». Гражданские войны названы игрой бога, и «увы» стоит ровно там, где благочестие обычно не позволяет ничего говорить. Упрёк вписан внутрь молитвы.
+
+**Текстологическая оговорка:** карточка следует за Latin Library и печатает «Mauri peditis», мавра-пехотинца. Большинство современных изданий читают «Marsi» — марса, воина из племени марсов; при этом чтении возникает созвучие Mars — Marsus, ради которого строка, по-видимому, и написана.
+
 ## Commentary
+
+
+The ode was written after the murder of Caesar, when the Tiber had overflowed and the portents were being read as the anger of the gods. Horace runs through the candidates for the god who will come to expiate the city's guilt: Apollo, Venus, Mars, Mercury. This is Mars' turn, which is why the opening is conditional: "or if you look back …".
+
+Auctor means founder of the line: Mars is the father of Romulus, and so ancestor of the whole people. The request is therefore domestic in form — come back to your neglected kin — though the subject is the state.
+
+Heu nimis longo satiate ludo — "alas, sated with a game too long". The civil wars are called a god's game, and the "alas" stands exactly where piety normally permits nothing to be said. A reproach is built into the prayer.
+
+**A textual note:** the card follows the Latin Library and prints Mauri peditis, a Moorish infantryman. Most modern editions read Marsi — a soldier of the Marsi; on that reading there is a play on Mars–Marsus, which appears to be the point of the line.
+

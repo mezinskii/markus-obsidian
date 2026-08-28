@@ -87,4 +87,23 @@ Draw near, Apollo, and expel the illness from this tender girl, come, draw near.
 ## Комментарий
 
 
+
+Из «Тибуллова корпуса», цикла о Сульпиции: молитва о выздоровлении заболевшей девушки.
+
+Довод, предъявленный богу, — эстетический. Не дай худобе завладеть бледнеющими членами, не дай безобразному цвету пометить белое тело. Основание для исцеления в том, что она красива и портить её было бы жаль.
+
+И поощрение под стать: «не пожалеешь, Феб, что приложил к красавице врачующие руки». К богу-целителю обращаются как к знатоку, которому предлагают достойный случай.
+
+Первая строка этого стихотворения — «Huc ades et tenerae morbos expelle puellae» — взята реконструкторами Nova Roma и с подстановкой Карменты вместо Феба выдана за античную молитву; см. `carmenta-004`.
+
 ## Commentary
+
+
+From the Corpus Tibullianum, the Sulpicia cycle: a prayer for the recovery of a sick girl.
+
+The argument put to the god is aesthetic. Do not let wasting seize her pallid limbs, do not let an ugly colour mark her white body. The ground for healing her is that she is beautiful and it would be a pity to spoil her.
+
+And the inducement matches: "you will not regret, Phoebus, having laid healing hands on a beautiful girl". The god of medicine is addressed as a connoisseur being offered a worthy case.
+
+The first line of this poem — Huc ades et tenerae morbos expelle puellae — was taken by the Nova Roma reconstructors and, with Carmentis substituted for Phoebus, passed off as an ancient prayer; see `carmenta-004`.
+

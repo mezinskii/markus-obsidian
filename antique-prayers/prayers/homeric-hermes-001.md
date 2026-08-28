@@ -106,4 +106,23 @@ Mousa, sing of Hermes, the son of Zeus and Maia, lord of Kyllene and Arkadia ric
 ## Комментарий
 
 
+
+Из большого гимна Гермесу — того, где новорождённый бог в первый же день изобретает лиру и угоняет коров Аполлона. Карточка держит зачин и то место, где Зевс улаживает дело; повествование опущено (швы `[…]`).
+
+Улаживание же состоит в назначении на должность, и должность расписана по статьям: кони, выносливые мулы, светлоглазые львы, белоклыкие вепри, псы, овцы — «сколько ни кормит их широкая земля», и над всем мелким скотом властвовать славному Гермесу.
+
+То есть вора ставят смотрителем стад. Тяжба о краже кончается тем, что похитителю отдают в ведение похищенное, и это не наказание, а признание годности. Гораций хвалит Меркурия за то же самое сочетание, не находя в нём противоречия (`mercurius-003`).
+
+Последняя же статья самая любопытная: быть «единственным поставленным вестником к Аиду». Единственное исключительное назначение Гермеса — то, где ничего нельзя выручить: у Аида не берут даров и ничего не получают обратно. Богу выгоды выдана монополия на единственное убыточное направление.
+
 ## Commentary
+
+
+From the great Hymn to Hermes — the one in which the newborn god invents the lyre on his first day and rustles Apollo's cattle. The card keeps the opening and the passage in which Zeus settles the case; the narrative is omitted (seams `[…]`).
+
+And the settlement consists of an appointment, and the appointment is itemised: horses, hard-working mules, bright-eyed lions, white-tusked boars, dogs, sheep — "as many as the broad earth nourishes" — and lordship over all flocks for glorious Hermes.
+
+That is, the thief is made warden of the herds. A suit about theft ends with the thief being given charge of what he stole, and this is not a punishment but a recognition of aptitude. Horace praises Mercury for exactly this combination and finds no contradiction in it (`mercurius-003`).
+
+The last item is the most curious: to be "the one appointed messenger to Hades". Hermes' single exclusive posting is the one from which nothing can be got: Hades takes no gifts and returns nothing. The god of gain is granted a monopoly on the only unprofitable route.
+

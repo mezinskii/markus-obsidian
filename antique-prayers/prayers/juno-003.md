@@ -67,4 +67,27 @@ Juno Regina, if there is any better fortune that may attend the Roman people, th
 ## Комментарий
 
 
+
+Сто десять матрон на Секулярных играх 17 г. до н. э. молятся Юноне Царице, и слова им подсказывает Марк Агриппа: женщины повторяют за ним. Число не случайно — секулярный век по Сивиллиным книгам равнялся ста десяти годам, и на каждый год приходилось по матроне.
+
+«Genibus nixae» — преклонив колени. Для римлян это редкость: молились стоя, с поднятыми руками, а колени означали крайнюю степень мольбы. Протокол отмечает позу отдельно, потому что она не подразумевалась.
+
+«Precamur oramus obsecramusque» — просим, молим, заклинаем. Три близких глагола подряд: обрядовый язык страхуется от того, что одно слово окажется недостаточным, как юридический документ перечисляет все виды действия.
+
+В формулу вмёрзли древности. «Duelli domique» сохраняет архаическое duellum вместо bellum; «utique semper Latinus obtemperassit», чтобы латинянин всегда повиновался, просит о покорности латинов через триста лет после того, как вопрос был решён окончательно.
+
+**Читать с оговоркой.** Камень повреждён сильно: в квадратных скобках — восстановленное издателями, цифра «3» отмечает лакуну неизвестной длины. Значительная часть связного текста здесь — реконструкция по соседним молитвам той же надписи.
+
 ## Commentary
+
+
+A hundred and ten matrons at the Secular Games of 17 BC pray to Juno Regina, and Marcus Agrippa prompts them: the women repeat after him. The number is not accidental — the saeculum according to the Sibylline books was a hundred and ten years, one matron to each year.
+
+Genibus nixae — kneeling. For Romans this is rare: one prayed standing, with hands raised, and knees signified supplication at its extreme. The record notes the posture separately because it was not taken for granted.
+
+Precamur oramus obsecramusque — we pray, we beseech, we entreat. Three near-synonymous verbs in a row: ritual language insures itself against any one word proving insufficient, as a legal document enumerates every form of an act.
+
+Antiquities are frozen into the formula. Duelli domique preserves the archaic duellum for bellum; utique semper Latinus obtemperassit, that the Latin always obey, asks for the submission of the Latins three hundred years after the question had been settled for good.
+
+**To be read with caution.** The stone is badly damaged: square brackets mark editorial restoration, and the figure "3" marks a lacuna of unknown length. A considerable part of the connected text here is reconstruction from the neighbouring prayers of the same inscription.
+

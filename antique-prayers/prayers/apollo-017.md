@@ -77,10 +77,23 @@ You who formerly dwelt in the temples of Aegea, Pergamum, and Epidaurum, and who
 
 ## Комментарий
 
-Вступление к «Лечебной книге» Квинта Серена Саммоника — стихотворному лечебнику в гексаметрах.
 
-Молитва обращена к двум богам, чего английский перевод не показывает. Первые две строки — Фебу. С третьей, «tuque potens artis», начинается обращение к Асклепию: он возвращает жизнь, зовёт погребённых обратно под небо, чтит Эги, Пергам и Эпидавр — все три его знаменитые целительные святилища. Поле deities дополнено Эскулапом.
+Вступление к «Лечебной книге» Квинта Серена Саммоника — стихотворному лечебнику в гексаметрах, где каждый недуг получает свой рецепт.
 
-Строки 6-7 английский передаёт неверно. «Qui quondam placida tectus sub pelle draconis / Tarpeias arces atque inclita templa petisti» — «ты, некогда скрытый под кроткой змеиной кожей, устремился к Тарпейским твердыням и славным храмам»: это приход Асклепия в Рим в виде змеи в 293 г. до н. э., по «Метаморфозам» Овидия XV. Английское «drove off the Python from Your peaceful house at Delphi» — совсем другое событие и другой бог.
+Молитва предпослана медицинскому руководству, и просьба в ней соответственно деловая: «приди сюда и всё, что часто говорил ты мне, жаждущему, и утвердил, изложи на нежных папирусах». У бога просят не здоровья, а диктанта. Врач-поэт хочет, чтобы Асклепий наполнил содержанием его книгу.
+
+**Богов здесь два, а не один.** Первые две строки — Фебу; с третьей, «tuque potens artis», начинается обращение к Асклепию, и всё дальнейшее о нём: Эги, Пергам, Эпидавр — три его знаменитых целительных святилища.
+
+Английский перевод карточки сливает их в одного и вдобавок превращает приход Асклепия в Рим в змеином облике (строки 6-7) в изгнание Пифона из Дельф — другое событие и другой бог.
 
 ## Commentary
+
+
+The preface to the Liber Medicinalis of Quintus Serenus Sammonicus — a pharmacopoeia in hexameters, in which every ailment gets its prescription.
+
+The prayer stands at the head of a medical handbook, and its request is correspondingly businesslike: "come here, and whatever you have often said to me in my longing and confirmed, set it all out on the soft papyri". What is asked of the god is not health but dictation. The physician-poet wants Asclepius to supply the content of his book.
+
+**There are two gods here, not one.** The first two lines address Phoebus; from the third, tuque potens artis, the address turns to Asclepius, and everything after is about him: Aegae, Pergamum, Epidaurus — his three famous healing sanctuaries.
+
+The card's English merges them into one, and further turns Asclepius' arrival in Rome in the form of a snake (lines 6-7) into the expulsion of Python from Delphi — a different event and a different god.
+
