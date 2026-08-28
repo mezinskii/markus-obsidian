@@ -77,7 +77,7 @@ Come to us Venus, O Queen of Cnidos and Paphos, leave Cyprus, though the isle is
 
 Перечисляются владения, которые надлежит покинуть: Книд, Пафос, Кипр. Обычно такой перечень служит тому, чтобы бога застать наверняка; здесь наоборот — чтобы его оттуда выманить. «Sperne dilectam Cypron» — презри любезный тебе Кипр. Богине предлагают пренебречь собственным излюбленным святилищем ради частного дома.
 
-Дом при этом назван храмом: «Glycerae decoram in aedem», в изящный храм Гликеры. Aedes — слово культовое, и Гликера жжёт «обильный ладан» у себя, как жгли бы в святилище. Вся ода переводит обряд в любовный обиход, не меняя ни одного термина.
+Дом при этом назван храмом: «Glycerae decoram… in aedem», в изящный храм Гликеры. Aedes — слово культовое, и Гликера жжёт «обильный ладан» у себя, как жгли бы в святилище. Вся ода переводит обряд в любовный обиход, не меняя ни одного термина.
 
 Свита перечислена по чину: Купидон, Грации с распущенными поясами, Нимфы, Юность, «без тебя мало приветливая». А последним, без объяснений, назван Меркурий — бог красноречия и выгоды. В этом доме он пригодится, и Гораций ставит его в конец списка, ничего не поясняя.
 
@@ -88,7 +88,7 @@ Eight lines — the whole ode, and wholly a kletic hymn: the class in which a de
 
 The possessions to be abandoned are listed: Cnidus, Paphos, Cyprus. Usually such a list serves to make sure of finding the god; here it is the reverse — to lure her out. Sperne dilectam Cypron, spurn your beloved Cyprus. The goddess is invited to think little of her own favourite sanctuary for the sake of a private house.
 
-And the house is called a temple: Glycerae decoram in aedem, into Glycera's elegant shrine. Aedes is a cult word, and Glycera burns "abundant incense" at home as it would be burnt in a sanctuary. The whole ode transposes ritual into the vocabulary of love without altering a single term.
+And the house is called a temple: Glycerae decoram … in aedem, into Glycera's elegant shrine. Aedes is a cult word, and Glycera burns "abundant incense" at home as it would be burnt in a sanctuary. The whole ode transposes ritual into the vocabulary of love without altering a single term.
 
 The retinue is listed in order: Cupid, the Graces with loosened girdles, the Nymphs, Youth, "little charming without you". And last, without explanation, comes Mercury — god of eloquence and of gain. In that house he will be useful, and Horace puts him at the end of the list and explains nothing.
 

@@ -68,7 +68,7 @@ O Neptune, who reigns over the realm of wandering waves, Bearer of the Trident, 
 
 Зачин напоминает богу о его правовом титуле: «тебе досталось по жребию царство, ближайшее к миру». Вселенную делили жеребьёвкой на троих, и Нептун вытянул море. Просьба начинается с указания на то, что дело в его юрисдикции.
 
-А дальше просят странного. «Da locum, vel sit locus ipsa» — дай ей место, или пусть она сама станет местом. Молящийся предлагает богу выбор между спасением и превращением и сам подсказывает второй выход. Ни в одной другой молитве корпуса проситель не предлагает божеству способ исполнения.
+А дальше просят странного. «da… locum, vel sit locus ipsa» — дай ей место, или пусть она сама станет местом. Молящийся предлагает богу выбор между спасением и превращением и сам подсказывает второй выход. Ни в одной другой молитве корпуса проситель не предлагает божеству способ исполнения.
 
 Нептун выбирает второе: Перимела становится островом, одной из Эхинад. Просьба исполнена по варианту, который был запасным.
 
@@ -81,7 +81,7 @@ The river-god Achelous is telling the story of the girl Perimele, whom her fathe
 
 The opening reminds the god of his title: "you who drew by lot the realm nearest the world". The universe was divided by lot among three, and Neptune drew the sea. The request begins by establishing that the matter falls within his jurisdiction.
 
-And then something strange is asked. Da locum, vel sit locus ipsa — give her a place, or let her herself become a place. The petitioner offers the god a choice between rescue and transformation, and himself proposes the second way out. In no other prayer in this corpus does the suppliant suggest the method of performance.
+And then something strange is asked. Da … locum, vel sit locus ipsa — give her a place, or let her herself become a place. The petitioner offers the god a choice between rescue and transformation, and himself proposes the second way out. In no other prayer in this corpus does the suppliant suggest the method of performance.
 
 Neptune takes the second: Perimele becomes an island, one of the Echinades. The request is granted in the alternative that was the fallback.
 

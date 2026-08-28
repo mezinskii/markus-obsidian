@@ -62,7 +62,7 @@ Hail, Hercules, true son of Jove, an added Glory for the Gods are you. Come now,
 
 Обе строки — чистая формула. «Salve» с последующим «adi» — стандартная пара римского призывания: сначала приветствие уже присутствующему божеству, затем просьба подойти ближе, к нам и к обряду.
 
-«Dexter… pede secundo» — двойное указание на благоприятную сторону и благоприятную ногу. Бог должен войти правильно: римский обряд следил за тем, с какой ноги вступают в святилище, и формула эту заботу переносит на самого бога.
+«dexter… pede… secundo» — двойное указание на благоприятную сторону и благоприятную ногу. Бог должен войти правильно: римский обряд следил за тем, с какой ноги вступают в святилище, и формула эту заботу переносит на самого бога.
 
 «Decus addite divis» — «краса, прибавленная богам». Одно слово addite фиксирует, что Геркулес в этом сонме не изначален: он к богам добавлен, и гимн об этом не умалчивает, а делает похвалой.
 
@@ -73,7 +73,7 @@ From the hymn of the Salii at the Ara Maxima — Evander is receiving Aeneas, an
 
 Both lines are pure formula. Salve followed by adi is the standard pair of Roman invocation: first a greeting to the god already present, then a request that he come nearer, to us and to his rites.
 
-Dexter … pede secundo doubles the indication of the favourable side and the favourable foot. The god must enter correctly: Roman ritual watched which foot one used to cross into a shrine, and the formula transfers that anxiety to the god himself.
+Dexter … pede … secundo doubles the indication of the favourable side and the favourable foot. The god must enter correctly: Roman ritual watched which foot one used to cross into a shrine, and the formula transfers that anxiety to the god himself.
 
 Decus addite divis — "glory added to the gods". The single word addite records that Hercules is not original to that company: he was added to the gods, and the hymn does not pass over the fact but turns it into praise.
 

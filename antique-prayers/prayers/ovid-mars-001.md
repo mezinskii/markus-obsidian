@@ -67,7 +67,7 @@ Bellicose Mars, lay aside for awhile Your round bronze shield and spear. Mars, b
 
 «Paulisper», ненадолго, — оговорка честная: бога не переделывают, его отвлекают на время чтения.
 
-«Nitidas comas» — блестящие, умащённые кудри. Слово из обихода щеголя; выпущенные из-под шлема волосы Марса поэт немедленно причёсывает по моде своего жанра. Бог входит в элегию, приведя себя в надлежащий вид.
+«nitidas… comas» — блестящие, умащённые кудри. Слово из обихода щеголя; выпущенные из-под шлема волосы Марса поэт немедленно причёсывает по моде своего жанра. Бог входит в элегию, приведя себя в надлежащий вид.
 
 ## Commentary
 
@@ -78,5 +78,5 @@ Depositis clipeo paulisper et hasta … nitidas casside solve comas — laying a
 
 Paulisper, for a little while, is an honest qualification: the god is not being remade, only detained for the length of a reading.
 
-Nitidas comas — gleaming, oiled hair. The vocabulary of a dandy; the moment Mars' hair is released from the helmet the poet combs it into the fashion of his own genre. The god enters elegy having made himself presentable.
+Nitidas … comas — gleaming, oiled hair. The vocabulary of a dandy; the moment Mars' hair is released from the helmet the poet combs it into the fashion of his own genre. The god enters elegy having made himself presentable.
 

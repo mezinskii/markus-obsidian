@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Ritus Carmentis
   section: healing prayer
+  note: >-
+    НЕ СВЕРЕНО. Латинский текст современный, из чина «Ritus Carmentis» общины Nova Roma (см. carmenta-001). По какой публикации внесён, не записано. Первая фраза — дословно Тибулл 3.10.1 с подставленным именем Карменты; разобрано в комментарии.
 occasion: healing of a sick woman
 deities:
   - Carmenta

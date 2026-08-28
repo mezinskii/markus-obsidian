@@ -70,7 +70,7 @@ Mars Gradivus, hear me, on whose sacred oak which fleece glitters. Protect it an
 
 Охрана заказана звуковая. «Praesentia luco arma tubaeque sonent, vox et tua noctibus exstet» — пусть в роще звучат твои явленные оружие и трубы, и пусть голос твой раздаётся по ночам. Бога просят не показываться, а слышаться: лязг, трубы, голос в темноте. Оберег устроен как звуковая сигнализация, и рассчитан он на то, чтобы вор ушёл сам, не встретив никого.
 
-«Praesentia arma» — оружие явленное, присутствующее. Praesens в культовом языке значит «действующий здесь и сейчас» (ср. `diana-023`); здесь это сказано об оружии, а не о божестве, и оружие оказывается той частью бога, которая должна быть на месте.
+«praesentia… arma» — оружие явленное, присутствующее. Praesens в культовом языке значит «действующий здесь и сейчас» (ср. `diana-023`); здесь это сказано об оружии, а не о божестве, и оружие оказывается той частью бога, которая должна быть на месте.
 
 ## Commentary
 
@@ -81,5 +81,5 @@ Excubias, Gradive, tene — keep watch, Gradivus. Excubiae is a word from army l
 
 The protection ordered is acoustic. Praesentia luco arma tubaeque sonent, vox et tua noctibus exstet — let your present arms and trumpets sound in the grove, and let your voice stand out at night. The god is asked not to be seen but to be heard: clatter, trumpets, a voice in the dark. The safeguard is designed as an alarm system, calculated to make a thief leave of his own accord without meeting anyone.
 
-Praesentia arma — arms present, manifest. In cult language praesens means "acting here and now" (cf. `diana-023`); here it is said of the weapons rather than of the god, and the weapons turn out to be the part of him that has to be on the spot.
+Praesentia … arma — arms present, manifest. In cult language praesens means "acting here and now" (cf. `diana-023`); here it is said of the weapons rather than of the god, and the weapons turn out to be the part of him that has to be on the spot.
 

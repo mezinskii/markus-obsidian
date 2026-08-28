@@ -11,6 +11,8 @@ source:
   author: Cato
   work: De Agricultura
   section: 141
+  note: >-
+    thelatinlibrary.com, Cato De Agricultura 141 — молитва Марсу при обходе поля с suovetaurilia. Сверено 2026-08-28: совпадает с изданием дословно, включая prohibessis, servassis, duisque duonam, grandire dueneque. ИСПРАВЛЕНО: в слове harunce стояла кириллическая «е» вместо латинской.
 occasion: lustratio agri — purification of the farm / suovetaurilia
 deities:
   - Mars
@@ -38,7 +40,7 @@ status: imported
 
 ## Оригинал
 
-Mars pater te precor quaesoque uti sies volens propitius mihi domo familiaeque nostrae; quoius rei ergo agrum terram fundumque meum suovitaurilia circum agi iussi: uti tu morbos visos invisosque viduertatem vastitudinemque, calamitates intemperiasque prohibessis defendas averruncesque; uti tu fruges frumenta vineta virgultaque grandire dueneque evenire siris, pastores pecuaque salva servassis; duisque duonam salutem valetudinemque mihi domo familiaeque nostrae: haruncе rerum ergo fundi terrae agrique mei lustrandi lustrique faciundi ergo, sic ut dixi, macte hisce suovitaurilibus lactentibus immolandis esto.
+Mars pater te precor quaesoque uti sies volens propitius mihi domo familiaeque nostrae; quoius rei ergo agrum terram fundumque meum suovitaurilia circum agi iussi: uti tu morbos visos invisosque viduertatem vastitudinemque, calamitates intemperiasque prohibessis defendas averruncesque; uti tu fruges frumenta vineta virgultaque grandire dueneque evenire siris, pastores pecuaque salva servassis; duisque duonam salutem valetudinemque mihi domo familiaeque nostrae: harunce rerum ergo fundi terrae agrique mei lustrandi lustrique faciundi ergo, sic ut dixi, macte hisce suovitaurilibus lactentibus immolandis esto.
 
 
 ## Русский

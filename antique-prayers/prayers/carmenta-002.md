@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Ritus Carmentis
   section: incense offering
+  note: >-
+    НЕ СВЕРЕНО. Латинский текст современный, из чина «Ritus Carmentis» общины Nova Roma (см. carmenta-001). По какой публикации внесён, не записано. Построен подстановкой имени в переносимую катоновскую формулу; подлинный её вид — в janus-002.
 occasion: Carmentalia ritual
 deities:
   - Carmenta

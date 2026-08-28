@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: '4.133-162'
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti IV.133-162 — распорядок Венералий. Сверено 2026-08-28: совпадает дословно; в издании начала строк со строчной и проставлены номера строк, в карточке прописные и без номеров.
 occasion: Veneralia (April 1) — ritual instructions and invocation for Roman matrons and brides washing the statue of Venus Verticordia, with rites to Fortuna Virilis at the baths
 deities:
   - Venus Verticordia
@@ -69,8 +71,6 @@ Duly do you worship the goddess, you Latin mothers and brides, and you too who w
 
 Мирт объяснён историей: Венера, нагая, сушила волосы на берегу, её увидели сатиры, и она укрылась за миртовым кустом. Отсюда мирт над купальней. Овидий в «Фастах» так объясняет всё — обряд у него всегда след однажды случившегося происшествия.
 
-**Заметки об источнике для этой карточки не сохранилось** — записана только ссылка на «Фасты» IV.133-162.
-
 ## Commentary
 
 
@@ -81,6 +81,4 @@ The rite is a lavatio, the washing of a cult statue. The gold is taken off the m
 The participants are listed exhaustively: "Latin mothers and young wives, and you who lack the fillet and the long dress". The last are women denied the right to wear a matron's clothing, that is, prostitutes. Ovid names them not by their occupation but by the garment they lack, and includes them in the rite on equal terms: on this day Venus recognises no rank.
 
 The myrtle is explained by a story: Venus, naked, was drying her hair on the shore, satyrs saw her, and she hid behind a myrtle bush. Hence the myrtle over the bath. Ovid explains everything this way in the Fasti — for him a rite is always the trace of something that once happened.
-
-**No provenance note survives for this card** — only the reference to Fasti 4.133-162 is recorded.
 

@@ -11,6 +11,8 @@ source:
   author: Titus Pomponius Victor
   work: Corpus Inscriptiones Latinae / verse inscription
   section: XII.103
+  note: >-
+    archive.org, текстовый слой издания Бюхелера, CLE фасц. 1, раздел SENARII, стих. 19. Сверено 2026-08-28: три стиха карточки совпадают дословно (u приведено к v). Стихотворение длиннее: дальше Тит Помпоний Виктор говорит, что Сильван хранит его «per arua perq. montis Alpicos», пока он правит право и справляет дело Цезарей, и просит вернуть его в Рим. Эта часть в карточку не входит.
 occasion: dedication of a shrine while on imperial duty
 deities:
   - Silvanus
@@ -63,7 +65,9 @@ Silvanus, high guardian of other gardens as well, we offer you this holy ash tre
 
 «Grates… musicas» — благодарности в песнях. Приношением объявлены сами стихи; ничего другого при себе у проезжего служащего и не было. Тот же расчёт, что у Овидия в «Фастах» (`ovid-bacchus-001`): поэт платит богу тем, что умеет делать.
 
-**Заметки об источнике для этой карточки не сохранилось** — записан только номер CIL XII.103.
+**Стихотворение на этом не кончается.** Бюхелер печатает его целиком: дальше Тит Помпоний Виктор объясняет, что Сильван хранит его и его людей «per arua perq. montis Alpicos», по полям и по альпийским горам, пока он «правит право и справляет дело Цезарей», — и просит вернуть его в Рим и дать ему возделывать италийские поля. Карточка держит первые три стиха, то есть одно обращение; просьба, ради которой всё писалось, в неё не вошла.
+
+Это и объясняет уменьшительное «садик»: чиновник тоскует по италийскому имению, стоя в альпийской прогалине.
 
 ## Commentary
 
@@ -76,5 +80,7 @@ Huius alti summe custos hortuli — highest guardian of this high little garden.
 
 Grates … musicas — thanks in music. The verses themselves are declared to be the offering; a travelling official had nothing else about him. The same reckoning as Ovid's in the Fasti (`ovid-bacchus-001`): a poet pays the god in what he knows how to make.
 
-**No provenance note survives for this card** — only the number CIL XII.103 is recorded.
+**The poem does not end here.** Buecheler prints it in full: further on, Titus Pomponius Victor explains that Silvanus keeps him and his people safe per arua perq. montis Alpicos, over fields and Alpine mountains, while he "administers the law and discharges the business of the Caesars" — and asks to be brought back to Rome and given Italian fields to till. The card holds the first three verses, that is, the address alone; the request the whole thing was written for is not on it.
+
+That also explains the diminutive "little garden": the official is homesick for an Italian estate while standing in an Alpine clearing.
 

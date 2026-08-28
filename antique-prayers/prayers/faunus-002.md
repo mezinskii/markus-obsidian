@@ -67,7 +67,7 @@ Faunus, have pity, I pray, and you, opulent Earth, hold fast this weapon, if alw
 
 И боги слушаются: копьё не поддаётся. Тогда вмешивается Венера и вырывает его сама. Молитва в этом эпизоде исполнена и тут же отменена — не потому, что была плоха, а потому, что у противника божество сильнее.
 
-Земля названа без обычного культового титула Terra Mater — просто «optima Terra», «наилучшая Земля». Турн говорит с ней как с местной землёй, своей.
+Земля названа без обычного культового титула Terra Mater — просто «optima… Terra», «наилучшая Земля». Турн говорит с ней как с местной землёй, своей.
 
 ## Commentary
 
@@ -78,5 +78,5 @@ His argument is comparative piety, and on the facts he is right: "if I have alwa
 
 And the gods obey: the spear will not come out. Then Venus intervenes and wrenches it free herself. The prayer in this episode is granted and immediately cancelled — not because it was a bad prayer, but because the opponent's deity is stronger.
 
-Earth is named without the usual cult title Terra Mater — simply optima Terra, "best Earth". Turnus speaks to her as to the local ground, his own.
+Earth is named without the usual cult title Terra Mater — simply optima … Terra, "best Earth". Turnus speaks to her as to the local ground, his own.
 

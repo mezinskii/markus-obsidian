@@ -66,7 +66,7 @@ But You, O Mars, Father of Warfare, have pity on us, turn evil aside from us and
 
 Выбор божества и есть здесь всё. Марс — родоначальник римлян, отец Ромула; карфагенянка просит прародителя врагов уберечь того, кто на этих врагов идёт. Силий любит такие развороты: в седьмой книге римские матроны точно так же несут дар Юноне, покровительнице Карфагена (`juno-006`). Обе стороны пытаются перетянуть чужого бога, и обе получают отказ.
 
-«Nefas averte» — отврати нечестие. Гибель мужа названа не бедой, а святотатством: с её стороны это так и есть, и слово выбрано, чтобы дело выглядело подсудным богам, а не просто горьким.
+«nefasque averte» — отврати нечестие. Гибель мужа названа не бедой, а святотатством: с её стороны это так и есть, и слово выбрано, чтобы дело выглядело подсудным богам, а не просто горьким.
 
 «Caput inviolabile Teucris» — голову, неприкосновенную для тевкров. Inviolabilis — слово из языка святынь: то, чего нельзя коснуться, не совершив преступления. Имилка просит не защиты, а особого правового состояния: пусть её муж станет для римлян тем же, чем храм.
 
@@ -77,7 +77,7 @@ Imilce, Hannibal's wife, prays for her husband, who has marched on Rome.
 
 The choice of deity is the whole of it. Mars is the progenitor of the Romans, father of Romulus; a Carthaginian woman asks the forefather of the enemy to preserve the man advancing against them. Silius is fond of such reversals: in the seventh book the Roman matrons carry a gift in just the same way to Juno, the patroness of Carthage (`juno-006`). Both sides try to pull over the other's god, and both are refused.
 
-Nefas averte — avert the impiety. Her husband's death is called not a misfortune but a sacrilege: from where she stands it is exactly that, and the word is chosen so the matter will look justiciable by gods rather than merely bitter.
+Nefasque averte — avert the impiety. Her husband's death is called not a misfortune but a sacrilege: from where she stands it is exactly that, and the word is chosen so the matter will look justiciable by gods rather than merely bitter.
 
 Caput inviolabile Teucris — a head inviolable to the Teucrians. Inviolabilis belongs to the language of holy things: what cannot be touched without committing a crime. Imilce asks not for protection but for a particular legal status: let her husband be to the Romans what a temple is.
 

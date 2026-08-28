@@ -11,6 +11,8 @@ source:
   author: Cato
   work: De Agricultura
   section: 139
+  note: >-
+    thelatinlibrary.com, Cato De Agricultura 139 — искупительная жертва при прореживании священной рощи. Сверено 2026-08-28: текст карточки совпадает с изданием дословно, включая архаические формы quoium, siet, sies и harumce.
 occasion: lucum conlucare — thinning a sacred grove / clearing land
 deities:
 sphere:

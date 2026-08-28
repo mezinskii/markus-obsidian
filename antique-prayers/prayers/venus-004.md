@@ -71,7 +71,7 @@ My prayer is just. May Venus hear all our many prayers. Take one who would serve
 
 Потом переходит к тому, что предлагает взамен, и предложение это делового свойства: «accipe, per longos tibi qui deserviat annos» — прими того, кто будет служить тебе долгие годы. Deservire — глагол рабской службы, и «tibi» относится к Венере, не к девушке. Себя он отдаёт богине, а девушка — жалованье.
 
-«Pura fide» — чистою верностью. Fides, договорная верность, у римлян сама была божеством с храмом на Капитолии. Богине любви предлагают добродетель, на которой держатся сделки: не страсть, а надёжность исполнителя.
+«pura… fide» — чистою верностью. Fides, договорная верность, у римлян сама была божеством с храмом на Капитолии. Богине любви предлагают добродетель, на которой держатся сделки: не страсть, а надёжность исполнителя.
 
 ## Commentary
 
@@ -82,5 +82,5 @@ He begins from right: iusta precor, I pray for what is just. Then a demand: let 
 
 Then he turns to what he offers in exchange, and the offer is commercial in character: accipe, per longos tibi qui deserviat annos — accept one who will be your slave for long years. Deservire is a verb of slave service, and tibi refers to Venus, not to the girl. It is himself he makes over to the goddess; the girl is the wage.
 
-Pura fide — with pure faith. Fides, contractual good faith, was itself a Roman deity with a temple on the Capitol. To the goddess of love he offers the virtue on which bargains rest: not passion but reliability of performance.
+Pura … fide — with pure faith. Fides, contractual good faith, was itself a Roman deity with a temple on the Capitol. To the goddess of love he offers the virtue on which bargains rest: not passion but reliability of performance.
 

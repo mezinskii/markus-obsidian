@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae
   section: III.5561
+  note: >-
+    archive.org, текстовый слой издания Бюхелера, CLE фасц. 1, стих. 26 (= CIL III 5561). Сверено 2026-08-28. ВАЖНО: слово «Felicitas» на камне НЕ ЧИТАЕТСЯ — надпись была мозаичным полом в Ювавуме (Зальцбург) и к XIX в. разрушена; начальное слово восстановил Абекен, двоеточие поставил Цангемейстер. Квадратные скобки в тексте карточки проставлены по изданию. Бюхелер подпирает восстановление помпейскими параллелями CIL IV 1454 (в пекарне) и CIL IV 733 (в харчевне).
 occasion: house blessing
 deities:
   - Silvanus
@@ -31,7 +33,7 @@ status: imported
 
 ## Оригинал
 
-Felicitas hic habitat: nihil intret mali
+[Felicitas] hic habitat: nihil intret mali.
 
 
 ## Русский
@@ -59,7 +61,9 @@ Happiness dwells in here, where nothing evil may enter.
 
 «Nihil intret mali» — да не войдёт ничто злое. Порог и есть предмет заботы: зло мыслится входящим, а не возникающим внутри, и потому оборону ставят на двери.
 
-**Оговорки к карточке.** Имени Сильвана в тексте нет; поле deities его называет по месту в собрании, а не по надписи. Заметки об источнике не сохранилось — записан только номер CIL III.5561.
+**Слова «Felicitas» на камне нет.** Надпись — мозаичный пол в Ювавуме, нынешнем Зальцбурге, к XIX веку уже разрушенный. Бюхелер печатает её под номером 26 и прямо указывает, что начальное слово **восстановил Абекен**, а двоеточие поставил Цангемейстер. То есть вся двусмысленность, на которой держится эта карточка, стоит на издательской догадке — правдоподобной, потому что в Помпеях читается «hic habitat Felicitas» и в пекарне, и в харчевне, но всё-таки догадке. Квадратные скобки в тексте карточки проставлены по изданию.
+
+Имени Сильвана в надписи нет вовсе: поле deities называет его по месту карточки в собрании, а не по камню.
 
 ## Commentary
 
@@ -72,5 +76,7 @@ It is constructed as a charm, not as a prayer. First a statement, then a prohibi
 
 Nihil intret mali — let nothing of evil enter. The threshold is the object of concern: evil is conceived as coming in rather than arising within, and so the defence is posted at the door.
 
-**Reservations about this card.** Silvanus' name does not occur in the text; the deities field names him from the card's place in the collection, not from the inscription. No provenance note survives — only the number CIL III.5561 is recorded.
+**The word Felicitas is not on the stone.** The inscription was a mosaic pavement at Iuvavum, the modern Salzburg, already destroyed by the nineteenth century. Buecheler prints it as no. 26 and states outright that the opening word was **supplied by Abeken**, and the colon placed by Zangemeister. That is, the whole ambiguity on which this card turns rests on an editorial conjecture — a plausible one, since at Pompeii hic habitat Felicitas is read both in a bakery and in a tavern, but a conjecture nonetheless. The square brackets in the card's text follow the edition.
+
+Silvanus' name does not occur in the inscription at all: the deities field names him from the card's place in the collection, not from the stone.
 

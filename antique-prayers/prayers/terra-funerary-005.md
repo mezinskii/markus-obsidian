@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae
   section: VI.9204
+  note: >-
+    archive.org, текстовый слой издания Бюхелера, CLE фасц. 2, стих. 1048 (= CIL VI 9204, Рим, в доме Барберини, ныне утрачена). Сверено 2026-08-28: текст карточки совпадает. Скан даёт в первой строке «leniter»; это, судя по всему, обычная подмена распознавания n за u — в номере 1047 то же слово напечатано «leuiter». Чтение карточки («leviter») оставлено.
 occasion: funeral / grave inscription
 deities:
   - Terra Mater
@@ -59,7 +61,7 @@ Mother Earth, indeed to You I pray, settle lightly on these bones, as she knew t
 
 В этом и состоит устройство римского надгробия. Оно ставилось у дороги, обращалось к идущему мимо, часто говорило от лица покойного и почти всегда чего-то от прохожего хотело — внимания, доброго слова, соблюдения обряда. Здесь ему за это назначена плата.
 
-**Заметки об источнике для этой карточки не сохранилось** — записан только номер CIL VI.9204.
+Сверено по Бюхелеру, где надпись стоит под номером 1048, сразу после далматинской (`terra-funerary-003`) — издатель поставил их рядом именно потому, что увидел заимствование. Текст карточки совпадает; сканированное издание даёт в первой строке «leniter» вместо «leviter», но это, судя по всему, обычная для распознавания подмена u на n: в номере 1047 то же слово напечатано «leuiter».
 
 ## Commentary
 
@@ -72,5 +74,5 @@ The blessing is directed not at the dead but at an outsider — at whoever honou
 
 This is precisely how a Roman tomb was constructed. It stood beside a road, addressed the man walking past, often spoke in the voice of the dead, and nearly always wanted something from the passer-by — attention, a kind word, the observance of a rite. Here a fee has been fixed for it.
 
-**No provenance note survives for this card** — only the number CIL VI.9204 is recorded.
+Checked against Buecheler, where the inscription stands as no. 1048, immediately after the Dalmatian one (`terra-funerary-003`) — the editor placed them together precisely because he saw the borrowing. The card's text agrees; the scanned edition gives leniter for leviter in the first line, but that is evidently the usual scanning substitution of n for u: in no. 1047 the same word is printed leuiter.
 

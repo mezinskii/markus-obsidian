@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Ritus Carmentis
   section: milk libation
+  note: >-
+    НЕ СВЕРЕНО. Латинский текст современный, из чина «Ritus Carmentis» общины Nova Roma (см. carmenta-001). По какой публикации внесён, не записано.
 occasion: Carmentalia ritual
 deities:
   - Carmenta

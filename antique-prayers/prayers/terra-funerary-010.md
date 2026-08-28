@@ -60,7 +60,7 @@ We pour out a libation to Jupiter the Liberator. Observe, discover, and may the 
 
 Тразея Пет, осуждённый Нероном, вскрыл себе вены и брызнул кровью на землю. Тацит записал его слова.
 
-«Libamus Iovi liberatori» — возливаем Юпитеру Освободителю. Возлияние — обычное начало всякого римского обряда: несколько капель вина на землю прежде трапезы или жертвы. Здесь вместо вина кровь, и самоубийство превращено в жертвоприношение по всей форме. Стоик не умирает, а совершает обряд; и божество для него выбрано по имени — Освободитель.
+«libamus… Iovi liberatori» — возливаем Юпитеру Освободителю. Возлияние — обычное начало всякого римского обряда: несколько капель вина на землю прежде трапезы или жертвы. Здесь вместо вина кровь, и самоубийство превращено в жертвоприношение по всей форме. Стоик не умирает, а совершает обряд; и божество для него выбрано по имени — Освободитель.
 
 «Specta, iuvenis» — смотри, юноша. Обращено к присутствующему молодому родственнику, и это распоряжение, а не утешение: смерть предъявлена как урок, который надо запомнить.
 
@@ -73,7 +73,7 @@ We pour out a libation to Jupiter the Liberator. Observe, discover, and may the 
 
 Thrasea Paetus, condemned by Nero, opened his veins and sprinkled the blood on the ground. Tacitus recorded his words.
 
-Libamus Iovi liberatori — we pour a libation to Jupiter the Liberator. A libation is the ordinary opening of any Roman rite: a few drops of wine on the ground before a meal or a sacrifice. Here blood stands in for wine, and a suicide is turned into a sacrifice in due form. The Stoic is not dying but performing a rite; and the deity has been chosen by name — the Liberator.
+Libamus … Iovi liberatori — we pour a libation to Jupiter the Liberator. A libation is the ordinary opening of any Roman rite: a few drops of wine on the ground before a meal or a sacrifice. Here blood stands in for wine, and a suicide is turned into a sacrifice in due form. The Stoic is not dying but performing a rite; and the deity has been chosen by name — the Liberator.
 
 Specta, iuvenis — look, young man. Addressed to a young kinsman present, and it is an instruction, not a consolation: the death is presented as a lesson to be memorised.
 

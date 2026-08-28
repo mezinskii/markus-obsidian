@@ -71,7 +71,7 @@ Come hither, Hercules, who, now free of your obligations, may choose whether to 
 
 Построено призывание на обычной формуле «где бы ты ни был», но развёрнутой из биографии самого Геркулеса: населяешь ли ты уже Аргос, свободный от повинностей, и попираешь погребённого Эврисфея — или сидишь на Олимпе. Обе возможности — награды; поэт даёт богу выбрать, какой из наград он сейчас занят.
 
-«Liber legibus» сказано с расчётом: legibus — это условия службы у Эврисфея, двенадцать подвигов как повинность по договору, с которой он наконец разделался.
+«liber… legibus» сказано с расчётом: legibus — это условия службы у Эврисфея, двенадцать подвигов как повинность по договору, с которой он наконец разделался.
 
 Шутка в середине — про Гебу, которая «лучше отвергнутого фригийца»: Ганимед, виночерпий Юпитера, при Геркулесе оттеснён его женой. Так поэт льстит богу, унижая слугу его отца.
 
@@ -84,7 +84,7 @@ Statius is writing for an occasion: his patron Pollius Felix has rebuilt a templ
 
 The invocation is built on the ordinary "wherever you may be" formula, but unfolded out of Hercules' own biography: are you already living in your native Argos, free of your terms of service, treading on Eurystheus buried in his tomb — or do you hold the throne of your Jupiter? Both alternatives are rewards; the poet lets the god choose which of his prizes he is currently enjoying.
 
-Liber legibus is pointed: leges are the terms of service under Eurystheus, the twelve labours as a contractual obligation he has at last discharged.
+Liber … legibus is pointed: leges are the terms of service under Eurystheus, the twelve labours as a contractual obligation he has at last discharged.
 
 The joke in the middle concerns Hebe, "better than the Phrygian shut out": Ganymede, Jupiter's cupbearer, is displaced in Hercules' service by Hercules' own wife. The poet flatters the god by demoting his father's servant.
 

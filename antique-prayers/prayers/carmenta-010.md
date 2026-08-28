@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Ritus Carmentis
   section: childbirth prayer
+  note: >-
+    НЕ СВЕРЕНО. Латинский текст современный, из чина «Ritus Carmentis» общины Nova Roma (см. carmenta-001). По какой публикации внесён, не записано. Строка взята у Ливия Андроника («Троянский конь») с заменой лица и подстановкой божества; разобрано в комментарии.
 occasion: difficult childbirth
 deities:
   - Carmenta

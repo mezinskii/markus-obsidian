@@ -11,6 +11,8 @@ source:
   author: Cato
   work: De Agricultura
   section: 141
+  note: >-
+    thelatinlibrary.com, Cato De Agricultura 141 — вторая формула той же главы, на случай, если жертва не дала благих знамений («si minus in omnis litabit»). Сверено 2026-08-28: совпадает дословно.
 occasion: lustratio agri — atonement formula if omens are unfavourable
 deities:
   - Mars

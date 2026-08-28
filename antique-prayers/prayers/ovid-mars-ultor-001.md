@@ -71,7 +71,7 @@ If, Father, my war is authorized by Vesta's priestess, and whenever I prepare to
 
 Октавиан перед Филиппами обещает Марсу храм за победу над убийцами Цезаря. Обет исполнен: храм Марса Мстителя был освящён в 2 г. до н. э. и стал средоточием Августова форума — сорок лет спустя.
 
-Основание для войны выстроено сакрально, а не политически. «Pater» — Цезарь, приёмный отец; «Vestae sacerdos» — он же, верховный понтифик, чей дом примыкал к храму Весты. Убийство поэтому объявлено не убийством, а святотатством против «numen utrumque», обоих божеств сразу: обожествлённого Цезаря и Весты. Гражданская война переоформлена в дело о поругании святыни.
+Основание для войны выстроено сакрально, а не политически. «Pater» — Цезарь, приёмный отец; «Vestaeque sacerdos» — он же, верховный понтифик, чей дом примыкал к храму Весты. Убийство поэтому объявлено не убийством, а святотатством против «numen utrumque», обоих божеств сразу: обожествлённого Цезаря и Весты. Гражданская война переоформлена в дело о поругании святыни.
 
 «Satia scelerato sanguine ferrum» — насыть железо преступной кровью. Ни благочестия, ни смягчения: бога просят напоить оружие.
 
@@ -82,7 +82,7 @@ If, Father, my war is authorized by Vesta's priestess, and whenever I prepare to
 
 Octavian before Philippi promises Mars a temple in return for victory over Caesar's assassins. The vow was paid: the temple of Mars Ultor was dedicated in 2 BC and became the centrepiece of the Forum of Augustus — forty years later.
 
-The grounds for the war are constructed sacrally, not politically. Pater is Caesar, his adoptive father; Vestae sacerdos is the same man, pontifex maximus, whose house adjoined the temple of Vesta. The murder is therefore declared not a murder but a sacrilege against numen utrumque, both divinities at once: the deified Caesar and Vesta. Civil war is refiled as a case of desecration.
+The grounds for the war are constructed sacrally, not politically. Pater is Caesar, his adoptive father; Vestaeque sacerdos is the same man, pontifex maximus, whose house adjoined the temple of Vesta. The murder is therefore declared not a murder but a sacrilege against numen utrumque, both divinities at once: the deified Caesar and Vesta. Civil war is refiled as a case of desecration.
 
 Satia scelerato sanguine ferrum — glut the iron with guilty blood. No piety, no softening: the god is asked to give the weapon its drink.
 

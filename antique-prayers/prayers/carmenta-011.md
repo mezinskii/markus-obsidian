@@ -11,6 +11,8 @@ source:
   author: Livius Andronicus
   work: Odisia / Equos Troianos
   section: 1.1
+  note: >-
+    НЕ СВЕРЕНО по изданию Ливия Андроника. Строка — первый стих «Одуссии» («Virum mihi, Camena, insece versutum»), поставленный в современном чине «Ritus Carmentis» как молитва Карменте (см. carmenta-001). Каким изданием пользовался составитель корпуса, не записано.
 occasion:
 deities:
   - Carmenta

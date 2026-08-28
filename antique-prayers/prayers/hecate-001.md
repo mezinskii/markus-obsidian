@@ -69,7 +69,7 @@ Nocturnal Hecate, who is called at the crossroads throughout the City, and Aveng
 
 Созвана коллегия: Геката, Диры-мстительницы и «боги умирающей Элиссы». Последние — её собственные, личные боги, призываемые в тот момент, когда они уже ничем не помогут. Дидона собирает всех, кто вообще может слышать.
 
-«Meritum malis advertite numen» — «обратите на злодеев заслуженную ими силу». Проклятие подано как акт правосудия: не месть, а обращение божественной власти по назначению.
+«meritumque malis advertite numen» — «обратите на злодеев заслуженную ими силу». Проклятие подано как акт правосудия: не месть, а обращение божественной власти по назначению.
 
 ## Commentary
 
@@ -80,5 +80,5 @@ Hecate is named by sound: ululata per urbes, she whose name is howled at night c
 
 A college is convened: Hecate, the avenging Dirae, and "the gods of dying Elissa". These last are her own, personal gods, called at the moment when they can no longer help her. Dido summons everyone capable of hearing at all.
 
-Meritum malis advertite numen — "turn upon the wicked the power they have deserved". The curse is presented as an act of justice: not revenge, but divine authority directed where it belongs.
+Meritumque malis advertite numen — "turn upon the wicked the power they have deserved". The curse is presented as an act of justice: not revenge, but divine authority directed where it belongs.
 

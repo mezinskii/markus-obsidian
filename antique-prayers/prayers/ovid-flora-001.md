@@ -11,6 +11,8 @@ source:
   author: Ovid
   work: Fasti
   section: V.377-378
+  note: >-
+    thelatinlibrary.com, Ovidius Fasti V.377-378 — заключительное двустишие рассказа о Флоралиях. Сверено 2026-08-28: совпадает дословно; в издании начало строки со строчной («floreat»), в карточке прописная.
 occasion: 'Floralia — poet''s invocation to Flora at the close of her festival account, asking the goddess to bless his verses so that they may flower through the ages'
 deities:
   - Flora
@@ -66,8 +68,6 @@ That Naso's lay may bloom for aye, O strew, I pray thee, goddess, thy boons upon
 
 «Carmen Nasonis» — Овидий называет себя по имени. Просить бессмертия собственным стихам внутри этих же стихов у него привычка, но здесь просьба скромнее обычного: не славы, а цветения, то есть свежести, которая не проходит.
 
-**Заметки об источнике для этой карточки не сохранилось** — записана только ссылка на «Фасты» V.377-378.
-
 ## Commentary
 
 
@@ -78,6 +78,4 @@ Floreat ut toto carmen Nasonis in aevo — that Naso's song may flower through a
 Sparge, precor, donis pectora nostra tuis — sprinkle my breast with your gifts. Flora's gifts are flowers, and inspiration is described as being showered with them. At the Floralia themselves flowers were scattered over the crowd; the poet asks that the rite be performed on him.
 
 Carmen Nasonis — Ovid names himself. Asking immortality for his own verses inside those verses is a habit with him, but the request here is more modest than usual: not fame but flowering, that is, a freshness that does not pass.
-
-**No provenance note survives for this card** — only the reference to Fasti 5.377-378 is recorded.
 

@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Defixio / curse tablet
   section: AE 1997.977, Hamble, Britannia
+  note: >-
+    НЕ СВЕРЕНО. Записан только номер издания: AE 1997.977 (свинцовая табличка-проклятие из реки Хембл, Британия). Ни свободного скана, ни доступной эпиграфической базы для этого номера в корпусе не найдено; текст сверить не по чему. Слово solidum датирует табличку не ранее IV в.
 occasion: theft / curse tablet
 deities:
   - Neptunus

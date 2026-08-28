@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Corpus Inscriptiones Latinae
   section: VI.18149
+  note: >-
+    archive.org, текстовый слой издания Бюхелера, CLE фасц. 2, стих. 1217 (= CIL VI 18149; камень найден у Латинских ворот, ныне в Капитолийском музее; на нём имена Фл. Офелиона и Фл. Бебрикса). ИСПРАВЛЕНО ЧТЕНИЕ, сверено 2026-08-28: в карточке стояло «completere», у Бюхелера — «complectere». Форму «aeuo» Бюхелер оставляет как на камне, оговаривая её в аппарате.
 occasion: funeral / grave inscription
 deities:
   - Tellus
@@ -30,7 +32,7 @@ status: imported
 
 ## Оригинал
 
-Diva, precor, Tellus, aevo completere sancta ossua quorum in hoc nomina sunt lapide
+Diva, precor, Tellus, aevo complectere sancta ossua quorum in hoc nomina sunt lapide
 
 
 ## Русский
@@ -58,7 +60,7 @@ Goddess Tellus, I pray, may You eternally embrace the holy remains of those name
 
 «Sancta ossua» — святые кости. Останки в Риме были res religiosa, вещью, изъятой из оборота: могилу нельзя было ни продать, ни перекопать, и защищало её не благочестие, а закон.
 
-**Оговорка к тексту.** Форма «completere» в этом месте требует проверки: по смыслу нужно «complectere», обними. Заметки об источнике для карточки не сохранилось — записан только номер CIL VI.18149, и сверить чтение не по чему.
+**Чтение выправлено.** В карточке стояло «completere»; у Бюхелера, где эта надпись напечатана под номером 1217, стоит «complectere», обними, — как требует смысл и как уже передавал русский перевод. Исправлено по изданию. Камень найден у Латинских ворот и хранится в Капитолийском музее; имена на нём — Флавия Офелиона и Флавия Бебрикса.
 
 ## Commentary
 
@@ -71,5 +73,5 @@ Ossua for ossa is a colloquial form, and common in inscriptions. Cutters wrote a
 
 Sancta ossua — holy bones. Remains at Rome were res religiosa, a thing withdrawn from commerce: a grave could be neither sold nor dug over, and what protected it was not piety but law.
 
-**A reservation about the text.** The form completere at this point needs checking: the sense requires complectere, embrace. No provenance note survives for this card — only the number CIL VI.18149 is recorded, and there is nothing against which to check the reading.
+**The reading has been corrected.** The card had completere; Buecheler, who prints this inscription as no. 1217, has complectere, embrace — which the sense requires and which the Russian already rendered. Corrected against the edition. The stone was found near the Porta Latina and is in the Capitoline Museum; the names on it are those of Flavius Ophelio and Flavius Bebryx.
 

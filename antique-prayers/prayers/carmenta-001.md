@@ -11,6 +11,8 @@ source:
   author: Anonymous
   work: Ritus Carmentis
   section: ritual opening
+  note: >-
+    НЕ СВЕРЕНО. Латинский текст современный — из чина «Ritus Carmentis», составленного общиной Nova Roma; античного подлинника у него нет и быть не может. По какой публикации текст внесён в корпус, не записано. Общее объяснение всего свода carmenta-* — в комментарии этой карточки.
 occasion: Carmentalia ritual
 deities:
   - Carmenta

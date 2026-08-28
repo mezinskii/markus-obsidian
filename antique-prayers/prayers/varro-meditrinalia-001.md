@@ -11,6 +11,8 @@ source:
   author: Varro
   work: De Lingua Latina
   section: 6.21
+  note: >-
+    thelatinlibrary.com, Varro De Lingua Latina VI.21. Сверено 2026-08-28: совпадает; в издании внутри формулы двоеточие («bibo: novo»), в карточке запятая. Варрон вводит её словами «quod facere solent etiam nunc multi cum dicunt» — то есть приводит как живой обиход своего времени, а не как записанный обряд.
 occasion: Meditrinalia (11 October) — traditional saying spoken while tasting a libation of new and old wine at the end of the vine harvest to secure healing from old and new ailments
 deities:
 sphere:
@@ -65,7 +67,7 @@ Wine new and old I drink, of illness new and old I am cured.
 
 **Об этимологии.** Варрон выводит название праздника от mederi, врачевать, и от богини Медитрины. Современные исследователи в этом сомневаются: вероятнее, что богиню вывели из названия праздника, а не наоборот, и вся эта молитва — позднейшее объяснение непонятного слова. Тогда формула объясняет обряд, а не обряд формулу.
 
-**Заметки об источнике для карточки не сохранилось** — записана только ссылка на Варрона VI.21.
+**Варрон приводит её как живой обиход.** Он вводит формулу словами «quod facere solent etiam nunc multi cum dicunt» — так и ныне многие делают, когда говорят. То есть это не запись обряда из жреческих книг, а то, что во времена Варрона произносили за столом, пробуя молодое вино. Сверено по изданию: текст карточки совпадает.
 
 ## Commentary
 
@@ -78,5 +80,5 @@ This is a carmen in the old sense — efficacious speech built on assonance: nov
 
 **On the etymology.** Varro derives the festival's name from mederi, to heal, and from a goddess Meditrina. Modern scholars doubt it: it is likelier that the goddess was extracted from the festival's name than the reverse, and that this whole prayer is a late explanation of a word no longer understood. In that case the formula explains the rite rather than the rite the formula.
 
-**No provenance note survives for this card** — only the reference to Varro 6.21 is recorded.
+**Varro quotes it as living usage.** He introduces the formula with the words quod facere solent etiam nunc multi cum dicunt — which many still do even now, when they say. That is, this is not a rite recorded from the priestly books but what people in Varro's own day said at table on tasting the new wine. Checked against the edition: the card's text agrees.
 

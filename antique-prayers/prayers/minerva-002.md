@@ -75,7 +75,7 @@ To you, you alone, O warlike Pallas Minerva, I pray, friend and companion in all
 
 Описание богини — это описание изваяния: эгида на левой руке, окаменяющий лик, свирепые угрозы на нём. Сенека видит не миф, а храмовую статую, и молящийся у него обращается к тому, что стоит перед глазами.
 
-«Geminum numen Phoebus et Phoebi soror» — двойное божество, Феб и сестра Феба. Близнецы названы одним словом: два бога считаются за одну силу.
+«geminumque numen Phoebus et Phoebi soror» — двойное божество, Феб и сестра Феба. Близнецы названы одним словом: два бога считаются за одну силу.
 
 В поле deities карточки указаны Минерва, Аполлон и Диана. В латыни есть и четвёртый — «укротитель Ликурга и Красного моря», то есть Вакх, названный не по имени, а по индийскому походу.
 
@@ -88,7 +88,7 @@ Laborum socia et adiutrix — companion and helper in his labours. The ground is
 
 The description of the goddess is a description of a statue: the aegis on the left arm, the petrifying face, the fierce threats upon it. Seneca sees not a myth but a temple image, and his suppliant addresses what is standing in front of him.
 
-Geminum numen Phoebus et Phoebi soror — a twin divinity, Phoebus and Phoebus' sister. The twins are named as one thing: two gods counted as a single power.
+Geminumque numen Phoebus et Phoebi soror — a twin divinity, Phoebus and Phoebus' sister. The twins are named as one thing: two gods counted as a single power.
 
 The card's deities field lists Minerva, Apollo and Diana. The Latin has a fourth — "the tamer of Lycurgus and of the Red Sea", that is Bacchus, named not by his name but by his Indian campaign.
 

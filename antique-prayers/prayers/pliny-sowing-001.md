@@ -11,6 +11,8 @@ source:
   author: Pliny the Elder
   work: Naturalis Historia
   section: 24.116
+  note: >-
+    НЕ СВЕРЕНО. Записан только номер: Naturalis Historia 24.116. Ссылка сомнительна — 24-я книга посвящена снадобьям из лесных деревьев, а репу Плиний разбирает в 19-й. Плиния нет ни на thelatinlibrary.com, ни в свободных сканах, которыми пользуется корпус; сверить не по чему.
 occasion: Paganalia / feriae Sementivae — ritual formula spoken while sowing seed on behalf of the sower and the pagus (rural community of neighbours)
 deities:
 sphere:

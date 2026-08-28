@@ -93,7 +93,7 @@ Hear me, illustrious Kharites, mighty named, from Zeus descended, and Eunomia fa
 
 Шов `[…]` стоит на месте строк 6-9: Абель помечает их как перенесённые сюда Рункеном из другого гимна, и у Тейлора их нет.
 
-Содержание же простое: «γενέτειραι χαρμοσύνης», родительницы радости, и «ἀεὶ μύστῃσι προσηγεῖς», всегда приветливые к мистам. Слово μύσται подтверждает то, что видно и по рубрикам: гимны пелись общиной посвящённых.
+Содержание же простое: «χαρμοσύνης γενέτειραι», родительницы радости, и «ἀεὶ μύστῃσι προσηγεῖς», всегда приветливые к мистам. Слово μύσται подтверждает то, что видно и по рубрикам: гимны пелись общиной посвящённых.
 
 ## Commentary
 
@@ -106,5 +106,5 @@ The Greek Wikisource reading here turned out to be corrupt, and the card stood f
 
 The seam `[…]` stands where lines 6-9 were: Abel marks them as transferred here by Ruhnken from another hymn, and Taylor does not have them.
 
-The content is simple: geneteirai charmosynēs, begetters of gladness, and aei mystēsi prosēgeis, always kindly to the initiates. The word mystai confirms what the rubrics also show: these hymns were sung by a community of initiates.
+The content is simple: charmosynēs geneteirai, begetters of gladness, and aei mystēsi prosēgeis, always kindly to the initiates. The word mystai confirms what the rubrics also show: these hymns were sung by a community of initiates.
 

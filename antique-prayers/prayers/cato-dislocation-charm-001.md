@@ -11,6 +11,8 @@ source:
   author: Cato
   work: De Agricultura
   section: 160
+  note: >-
+    thelatinlibrary.com, Cato De Agricultura 160 — заговор при вывихе. Сверено 2026-08-28. РАЗНОЧТЕНИЕ: карточка даёт «astataries», издание — «astaries». Заговор дошёл испорченным, и издания расходятся; чтение карточки оставлено как есть. Прочее совпадает дословно, включая вторую формулу «huat haut haut istasis tarsis ardannabou dannaustra».
 occasion: healing charm for dislocation or fracture
 deities:
 sphere:

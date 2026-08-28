@@ -74,7 +74,7 @@ Soon, I pray, Vulcan, memories of whispered rumors of disgrace and loud quarrels
 
 Марциал просит Вулкана пощадить Рим — город, который горел так часто, что бог огня был для него постоянной угрозой.
 
-Довод целиком построен на семейной ссоре богов, и это шутка. Вулкану есть за что не любить римлян: они потомки Марса, а Марс когда-то был захвачен с его женой. Отсюда «notae querelae» — «знаменитая жалоба», о которой поэт просит забыть. Но римляне же потомки и Венеры, через Энея, — то есть родня и самому Вулкану. «Sumus Martis turba, sed et Veneris»: не карай нас за отца, пощади ради матери.
+Довод целиком построен на семейной ссоре богов, и это шутка. Вулкану есть за что не любить римлян: они потомки Марса, а Марс когда-то был захвачен с его женой. Отсюда «notae… querelae» — «знаменитая жалоба», о которой поэт просит забыть. Но римляне же потомки и Венеры, через Энея, — то есть родня и самому Вулкану. «Sumus Martis turba, sed et Veneris»: не карай нас за отца, пощади ради матери.
 
 Плата предложена под стать доводу. Не жертва и не храм, а супружеский мир: «и пусть тогда за лемносские цепи шаловливая супруга простит тебя и терпеливо любит». Лемносские цепи — та самая сеть, которой Вулкан поймал любовников и выставил их на посмешище богам. Марциал предлагает богу примирение с женой в обмен на несожжённый город.
 
@@ -87,7 +87,7 @@ Soon, I pray, Vulcan, memories of whispered rumors of disgrace and loud quarrels
 
 Martial asks Vulcan to spare Rome — a city that burned so often that the god of fire was a standing threat to it.
 
-The argument is built entirely on a family quarrel among the gods, and it is a joke. Vulcan has reason to dislike the Romans: they descend from Mars, and Mars was once caught with his wife. Hence notae querelae, "the famous grievance", which the poet asks him to forget. But the Romans descend from Venus too, through Aeneas — that is, they are Vulcan's own relations. Sumus Martis turba, sed et Veneris: do not punish us for our father, spare us for our mother's sake.
+The argument is built entirely on a family quarrel among the gods, and it is a joke. Vulcan has reason to dislike the Romans: they descend from Mars, and Mars was once caught with his wife. Hence notae … querelae, "the famous grievance", which the poet asks him to forget. But the Romans descend from Venus too, through Aeneas — that is, they are Vulcan's own relations. Sumus Martis turba, sed et Veneris: do not punish us for our father, spare us for our mother's sake.
 
 The payment offered matches the argument. Not a sacrifice, not a temple, but marital peace: "and so may your wanton wife forgive you the Lemnian chains and love you patiently". The Lemnian chains are the net in which Vulcan caught the lovers and exhibited them to the laughter of the gods. Martial offers the god a reconciliation with his wife in exchange for an unburnt city.
 

@@ -64,7 +64,7 @@ Now if virtue is rewarded among the Manes, within the changeable shadows, then I
 
 «In mollibus umbris» — в мягких тенях. Единственная уступка утешению во всей надписи.
 
-**Терры Матери здесь нет.** Поле deities карточки называет только Манов, и правильно; но идентификатор относит надпись к разряду «terra-funerary», а «matris honos» в последней строке значит не «честь Матери-Земли», а «честь от матери» — то, что она сама только что оплатила. Просит она лишь об одном: чтобы её приношение сыну понравилось.
+**Терры Матери здесь нет.** Поле deities карточки называет только Манов, и правильно; но идентификатор относит надпись к разряду «terra-funerary», а «matris… honos» в последней строке значит не «честь Матери-Земли», а «честь от матери» — то, что она сама только что оплатила. Просит она лишь об одном: чтобы её приношение сыну понравилось.
 
 ## Commentary
 
@@ -75,5 +75,5 @@ Siqu(i)d Manes sapiunt — if the shades understand anything. A doubt inside the
 
 In mollibus umbris — among the soft shades. The only concession to consolation in the whole inscription.
 
-**There is no Terra Mater here.** The card's deities field names only the Manes, and rightly; but the identifier files the inscription under "terra-funerary", and matris honos in the last line means not "honour of Mother Earth" but "honour from his mother" — the thing she has just paid for. All she asks is that her offering should please her son.
+**There is no Terra Mater here.** The card's deities field names only the Manes, and rightly; but the identifier files the inscription under "terra-funerary", and matris … honos in the last line means not "honour of Mother Earth" but "honour from his mother" — the thing she has just paid for. All she asks is that her offering should please her son.
 
