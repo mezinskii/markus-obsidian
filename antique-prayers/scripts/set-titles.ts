@@ -47,6 +47,11 @@ interface Title {
  * known by a name of their own that no rule would produce.
  */
 const EXCEPTIONS: Record<string, Title> = {
+  // Two hymns to the same pair of gods, cut one after the other on one stele.
+  // The generated title would be identical for both, so they are numbered as
+  // the stone numbers them.
+  "greek-telesphoros-001": { en: "First Hymn to Telesphorus", ru: "Первый гимн Телесфору" },
+  "greek-telesphoros-002": { en: "Second Hymn to Telesphorus", ru: "Второй гимн Телесфору" },
   "hippocrates-oath-001": { en: "The Hippocratic Oath", ru: "Клятва Гиппократа" },
   "livy-deciusmus-001": { en: "The devotio of Decius Mus", ru: "Девоция Деция Муса" },
   "macrobius-devotio-001": { en: "The devotio of Carthage", ru: "Девоция Карфагена" },

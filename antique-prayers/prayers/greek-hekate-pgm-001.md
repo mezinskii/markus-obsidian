@@ -9,12 +9,13 @@ culture: greek
 form: ritual
 period: 3rd-4th c. AD
 provenance: ancient
-original_unavailable: 'магический папирус PGM IV, издан Прайзенданцем; открытой оцифровки не найдено'
+original_unavailable: 'магический папирус PGM IV, издан Прайзенданцем; открытой оцифровки греческого текста не найдено (перепроверено 2026-08-28)'
 original_lang:
 source:
   author: Anonymous
   work: Greek Magical Papyri (PGM IV)
   section: 2785-2870
+  note: 'Рукопись — P. Bibl. Nat. Suppl. gr. 574 (Большой парижский магический кодекс), оцифрована BnF: https://gallica.bnf.fr/ark:/12148/btv1b525030475 — изображения, без текстового слоя. В новом критическом издании Greek and Egyptian Magical Formularies (Faraone, Torallas Tovar) папирус числится как GEMF 57; в открытый первый том (escholarship.org/uc/item/9650x69r) он не вошёл. Не проверено: DCLP на papyri.info — закрыт бот-проверкой, из браузера доступен.'
 occasion:
 deities:
   - Hekate
@@ -66,7 +67,7 @@ Come to me, O' beloved lady, three faced Selene, listen, with kindness, to my sa
 
 «Дитя ранней зари… гонящая колесницу по пути Гелиоса» — Луна описана через Солнце, по чужой колее.
 
-**Греческий существует, но в карточку не попал.** Текст издан Прайзенданцем как PGM IV 2785-2870. Скан на archive.org (`papyrigraecaemag0001unse_x4f6`) есть, но текстовый слой в нём пуст: греческого распознавания ноль процентов, и извлечь ничего нельзя. Страницы при этом человеком в браузере читаются — путь остаётся ручной.
+**Греческий существует, но в карточку не попал.** Текст издан Прайзенданцем как PGM IV 2785-2870; в новом критическом издании тот же папирус числится как GEMF 57. Скан Прайзенданца на archive.org (`papyrigraecaemag0001unse_x4f6`) есть, и текстовый слой у него не пуст — но в семистах килобайтах распознанного нет ни одной греческой буквы: латиницу и немецкий аппарат машина взяла, греческие страницы не увидела вовсе. Сам папирус оцифрован Национальной библиотекой Франции, однако это изображения. Путь остаётся ручной.
 
 Сличите с соседней карточкой (`greek-hekate-orphic-001`): там текст помечен как современный и на деле древний, здесь — древний и недобытый.
 
@@ -79,7 +80,7 @@ Hence the character of the hymn. Selene-Hekate is here fused with everything at 
 
 "Child of the early dawn … driving your chariot along the path of Helios" — the Moon described by way of the Sun, in another's track.
 
-**The Greek exists but did not reach this card.** The text is published by Preisendanz as PGM IV 2785-2870. A scan exists on archive.org (`papyrigraecaemag0001unse_x4f6`), but its text layer is empty: Greek recognition is at zero per cent and nothing can be extracted. The pages are legible to a human in a browser — the remaining route is manual.
+**The Greek exists but did not reach this card.** The text is published by Preisendanz as PGM IV 2785-2870; in the new critical edition the same papyrus is GEMF 57. The Preisendanz scan on archive.org (`papyrigraecaemag0001unse_x4f6`) does have a text layer, and in seven hundred kilobytes of it there is not one Greek letter: the machine took the Latin script and the German apparatus and never saw the Greek pages at all. The papyrus itself is digitised by the Bibliothèque nationale de France, but those are images. The remaining route is manual.
 
 Compare the neighbouring card (`greek-hekate-orphic-001`): there the text is labelled modern and is in fact ancient; here it is ancient and unobtained.
 
