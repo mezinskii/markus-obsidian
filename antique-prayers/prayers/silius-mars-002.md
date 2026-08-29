@@ -22,7 +22,7 @@ deities:
 sphere:
   - military
 functions:
-  - thanksgiving
+  - gratitude
   - dedication
 themes:
   - Mars

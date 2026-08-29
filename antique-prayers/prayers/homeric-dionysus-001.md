@@ -24,7 +24,7 @@ deities:
   - Semele
 sphere:
   - fertility
-  - literary
+  - arts
 functions:
   - invocation
   - praise

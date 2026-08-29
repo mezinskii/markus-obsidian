@@ -27,7 +27,7 @@ deities:
   - Charites
 sphere:
   - wilderness
-  - literary
+  - arts
 functions:
   - invocation
   - praise

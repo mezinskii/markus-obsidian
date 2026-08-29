@@ -21,7 +21,6 @@ deities:
   - Bacchus
   - Liber
 sphere:
-  - literary
   - arts
   - personal
 functions:

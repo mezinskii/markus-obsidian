@@ -24,7 +24,7 @@ deities:
   - Zeus
   - Rhea
 sphere:
-  - domestic
+  - family
   - civic
 functions:
   - invocation

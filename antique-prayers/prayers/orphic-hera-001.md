@@ -24,7 +24,7 @@ deities:
   - Zeus
 sphere:
   - civic
-  - domestic
+  - family
 functions:
   - invocation
   - petition

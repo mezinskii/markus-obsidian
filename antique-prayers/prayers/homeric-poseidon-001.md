@@ -22,7 +22,7 @@ occasion: Homeric Hymn to Poseidon — invocation of the earth-shaker as tamer o
 deities:
   - Poseidon
 sphere:
-  - maritime
+  - navigation
 functions:
   - invocation
   - petition

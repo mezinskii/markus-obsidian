@@ -25,7 +25,7 @@ deities:
   - Palaemon
 sphere:
   - fertility
-  - literary
+  - arts
 functions:
   - invocation
   - praise

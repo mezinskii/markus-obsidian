@@ -21,7 +21,7 @@ deities:
   - Mars
 sphere:
   - military
-  - domestic
+  - family
 functions:
   - petition
   - protection

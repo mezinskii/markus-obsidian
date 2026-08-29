@@ -23,7 +23,7 @@ deities:
   - Euphrosyne
   - Thalia
 sphere:
-  - literary
+  - arts
   - civic
 functions:
   - invocation

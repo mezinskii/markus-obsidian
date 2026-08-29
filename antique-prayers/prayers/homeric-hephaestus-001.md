@@ -24,7 +24,7 @@ deities:
   - Athena
 sphere:
   - civic
-  - domestic
+  - family
 functions:
   - invocation
   - petition

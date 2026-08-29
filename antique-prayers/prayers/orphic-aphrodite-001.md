@@ -29,7 +29,7 @@ deities:
   - Nymphs
 sphere:
   - fertility
-  - domestic
+  - family
 functions:
   - invocation
   - petition

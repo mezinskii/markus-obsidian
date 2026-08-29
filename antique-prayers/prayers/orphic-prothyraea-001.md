@@ -24,7 +24,7 @@ deities:
   - Artemis
   - Eileithyia
 sphere:
-  - domestic
+  - family
 functions:
   - invocation
   - petition

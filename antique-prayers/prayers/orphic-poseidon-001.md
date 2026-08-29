@@ -22,7 +22,7 @@ occasion: 'Orphic hymn to Poseidon — invocation of the trident-bearer to confi
 deities:
   - Poseidon
 sphere:
-  - maritime
+  - navigation
 functions:
   - invocation
   - petition

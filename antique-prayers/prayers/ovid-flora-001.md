@@ -20,7 +20,7 @@ occasion: 'Floralia — poet''s invocation to Flora at the close of her festival
 deities:
   - Flora
 sphere:
-  - literary
+  - arts
 functions:
   - petition
 themes:

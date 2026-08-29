@@ -23,9 +23,8 @@ deities:
   - Artemis
 sphere:
   - wilderness
-  - domestic
-  - healing
   - family
+  - healing
   - personal
 functions:
   - invocation

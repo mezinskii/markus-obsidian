@@ -21,7 +21,7 @@ deities:
   - Bacchus
   - Liber
 sphere:
-  - literary
+  - arts
 functions:
   - petition
 themes:

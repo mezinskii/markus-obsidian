@@ -22,7 +22,7 @@ deities:
 sphere:
   - wilderness
   - civic
-  - domestic
+  - family
 functions:
   - invocation
   - praise

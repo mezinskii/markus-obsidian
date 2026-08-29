@@ -23,7 +23,7 @@ deities:
   - Dionysus
   - Semele
 sphere:
-  - literary
+  - arts
 functions:
   - invocation
   - praise

@@ -20,7 +20,7 @@ occasion: votive epigram for Kykainis — short prayer asking Eileithyia to atte
 deities:
   - Eileithyia
 sphere:
-  - domestic
+  - family
 functions:
   - petition
 themes:

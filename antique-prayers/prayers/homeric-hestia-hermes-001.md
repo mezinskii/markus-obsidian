@@ -26,7 +26,7 @@ deities:
   - Maia
   - Cronus
 sphere:
-  - domestic
+  - family
   - civic
 functions:
   - invocation

@@ -25,7 +25,7 @@ deities:
   - Euphrosyne
   - Thalia
 sphere:
-  - literary
+  - arts
 functions:
   - invocation
   - petition

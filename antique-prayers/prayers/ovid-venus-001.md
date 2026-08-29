@@ -21,7 +21,7 @@ deities:
   - Venus Verticordia
   - Fortuna Virilis
 sphere:
-  - domestic
+  - family
 functions:
   - invocation
   - petition

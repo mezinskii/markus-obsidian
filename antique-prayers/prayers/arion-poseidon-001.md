@@ -22,9 +22,9 @@ deities:
   - Amphitrite
   - Nereids
 sphere:
-  - maritime
+  - navigation
 functions:
-  - thanksgiving
+  - gratitude
   - praise
 themes:
   - Arion

@@ -21,7 +21,7 @@ deities:
   - Eileithyia
   - Athena
 sphere:
-  - domestic
+  - family
 functions:
   - petition
 themes:

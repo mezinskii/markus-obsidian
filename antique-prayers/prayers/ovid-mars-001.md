@@ -20,7 +20,7 @@ occasion: 'poet''s opening invocation to Mars at the beginning of Fasti book III
 deities:
   - Mars
 sphere:
-  - literary
+  - arts
   - military
 functions:
   - invocation

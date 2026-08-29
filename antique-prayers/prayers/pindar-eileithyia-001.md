@@ -23,7 +23,7 @@ deities:
   - Moirai
   - Hebe
 sphere:
-  - domestic
+  - family
 functions:
   - invocation
   - praise
