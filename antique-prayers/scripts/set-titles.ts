@@ -50,6 +50,11 @@ const EXCEPTIONS: Record<string, Title> = {
   // Two hymns to the same pair of gods, cut one after the other on one stele.
   // The generated title would be identical for both, so they are numbered as
   // the stone numbers them.
+  // Two prayers of Cleanthes to the same god: the generated title would be
+  // "Prayer to Zeus" for both, so each is named as tradition names it — the
+  // long one by its title, the quatrain by its opening words.
+  "cleanthes-zeus-001": { en: "Hymn to Zeus", ru: "Гимн Зевсу" },
+  "cleanthes-zeus-002": { en: "Lead me, O Zeus", ru: "Веди меня, о Зевс" },
   "greek-telesphoros-001": { en: "First Hymn to Telesphorus", ru: "Первый гимн Телесфору" },
   "greek-telesphoros-002": { en: "Second Hymn to Telesphorus", ru: "Второй гимн Телесфору" },
   "hippocrates-oath-001": { en: "The Hippocratic Oath", ru: "Клятва Гиппократа" },

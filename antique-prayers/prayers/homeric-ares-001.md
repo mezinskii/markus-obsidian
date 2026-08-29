@@ -10,6 +10,8 @@ form: hymn
 period: late antique (Homeric corpus, hymn 8 is post-classical)
 provenance: ancient
 original_lang: el
+translator:
+  en: "Hugh G. Evelyn-White, 1914"
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns

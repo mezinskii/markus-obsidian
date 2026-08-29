@@ -10,6 +10,8 @@ form: hymn
 period: Hellenistic to Roman imperial (3rd c. BC – 2nd c. AD)
 provenance: ancient
 original_lang: el
+translator:
+  en: "Thomas Taylor, 1792"
 source:
   author: Anonymous (Orphic corpus)
   work: Orphic Hymns

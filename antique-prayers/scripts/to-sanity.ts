@@ -38,7 +38,7 @@ const BATCH = 50
 const OWNED = [
   'prayerId', 'slug', 'title', 'culture', 'form', 'period', 'provenance',
   'source', 'occasion', 'deities', 'sphere', 'functions', 'themes',
-  'featured', 'text', 'commentary',
+  'featured', 'text', 'translator', 'commentary',
 ] as const
 
 type Json = Record<string, unknown>
@@ -124,6 +124,10 @@ async function main() {
     const ru = section(content, 'Русский'); if (ru) text.ru = ru
     const en = section(content, 'Английский'); if (en) text.en = en
 
+    const translator: Json = {}
+    const trEn = str((fm.translator as Json)?.en); if (trEn) translator.en = trEn
+    const trRu = str((fm.translator as Json)?.ru); if (trRu) translator.ru = trRu
+
     const commRu = section(content, 'Комментарий')
     const commEn = section(content, 'Commentary')
     const commentary: Json = {}
@@ -137,6 +141,10 @@ async function main() {
         en: str((fm.title as Json)?.en) || undefined,
         ru: str((fm.title as Json)?.ru) || undefined,
       },
+      // Keyed by the language of the text, not of the reader: it names who
+      // made the English, and is absent wherever the English is our own — so
+      // it is built like `text`, present only when it holds something.
+      translator: Object.keys(translator).length ? translator : undefined,
       culture: str(fm.culture) || undefined,
       form: str(fm.form) || undefined,
       period: str(fm.period) || undefined,

@@ -10,6 +10,8 @@ form: hymn
 period: archaic Greek (7th-4th c. BC)
 provenance: ancient
 original_lang: el
+translator:
+  en: "Hugh G. Evelyn-White, 1914"
 source:
   author: Anonymous (Homeric corpus)
   work: Homeric Hymns
