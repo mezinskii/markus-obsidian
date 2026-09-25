@@ -40,7 +40,7 @@ The principal biographical source is Diogenes Laertius IX 34–49. There are com
 
 **Why he matters for Marcus.** Democritean (and the Epicurean that follows it) atomism is the **chief rival cosmology** to Stoic providence. Hence the recurring fork in Marcus: **ἤτοι πρόνοια ἢ ἄτομοι** — "either providence or atoms." Again and again Marcus sets the reader before this choice: the ordered, rational, providential cosmos of the Stoa — or the blind concourse of Democritus' atoms. Notably, Marcus does not always "close" the dilemma by force: at times he shows that **even on the atomist hypothesis** the Stoic ethical conclusion (accept what happens, hold fast to your own reason) still stands. Thus for Marcus Democritus is not simply mistaken but a standing mental opponent, a test of the soundness of the Stoic position.
 
-## Упоминания у Марка
+## Цитируется/упоминается у Марка
 
 - [[03-03]] — смерть «от вшей» в каталоге знаменитых смертей (рядом с Сократом, которого убили «другие вши» — люди).
 - [[04-24]] — Марк цитирует и уточняет Демокритову максиму о εὐθυμία («Ὀλίγα πρῆσσε…», DK 68 B3): не «делай немногое», а «делай необходимое и социально должное».
@@ -54,19 +54,22 @@ The principal biographical source is Diogenes Laertius IX 34–49. There are com
 - [[07-31]] — a recasting of the "νόμῳ… ἐτεῇ" thesis (DK 68 B9/B117): "all by convention, in reality only the elements." Democritus goes unnamed (ἐκεῖνος, "that man"; Rogovin — "the poet"), but the fragment is recognizable; Marcus turns the atomist's reduction into a prop of indifference.
 - The fork "providence or atoms" (πρόνοια ἢ ἄτομοι) — *Med.* 4.3; [[06-10]]; [[07-32]]; 8.17; 9.28; 9.39; 10.6; 11.18; 12.14. Democritus is usually not named here, but it is his system that is the "atomist" horn of the dilemma.
 
-## Источники и фрагменты
+## Литература
+- C. C. W. Taylor, *The Atomists: Leucippus and Democritus*, Toronto 1999.
+- G. S. Kirk, J. E. Raven, M. Schofield, *The Presocratic Philosophers*, 2nd ed., Cambridge 1983, ch. XV.
+
+#### Источники и фрагменты
 
 - **Diels-Kranz 68** (раздел B — этические фрагменты, многие через Стобея): B3 (εὐθυμία), B9 (νόμῳ / ἐτεῇ), B191 (мера и довольство).
 - **Diogenes Laertius IX 34–49** — биография; **Лукреций** *De rer. nat.* III 1039–1041 — смерть.
 - Атомистическая физика — Аристотель, *О возникновении и уничтожении*, *Физика*; Симпликий. Long & Sedley гл. 4–5, 8.
 
-## Sources and fragments
+## Literature
+- C. C. W. Taylor, *The Atomists: Leucippus and Democritus*, Toronto 1999.
+- G. S. Kirk, J. E. Raven, M. Schofield, *The Presocratic Philosophers*, 2nd ed., Cambridge 1983, ch. XV.
+
+#### Sources and fragments
 
 - **Diels-Kranz 68** (section B — ethical fragments, many via Stobaeus): B3 (εὐθυμία), B9 (νόμῳ / ἐτεῇ), B191 (measure and contentment).
 - **Diogenes Laertius IX 34–49** — biography; **Lucretius** *De rer. nat.* III 1039–1041 — the death.
 - Atomist physics — Aristotle, *On Generation and Corruption*, *Physics*; Simplicius. Long & Sedley chs. 4–5, 8.
-
-## Литература / Literature
-
-- C. C. W. Taylor, *The Atomists: Leucippus and Democritus*, Toronto 1999.
-- G. S. Kirk, J. E. Raven, M. Schofield, *The Presocratic Philosophers*, 2nd ed., Cambridge 1983, ch. XV.

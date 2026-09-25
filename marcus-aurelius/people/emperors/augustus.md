@@ -14,7 +14,7 @@ role_en: first Roman emperor (princeps, 27 BCE – 14 CE), founder of the princi
 
 Gaius Octavius (63 BCE – 14 CE), great-nephew and heir of Julius Caesar; after the defeat of Antony and Cleopatra (31 BCE), sole ruler of Rome. From 27 BCE "Augustus"; the founder of the principate that ended the Republic. He ruled 41 years and left the image of the founder of the imperial order; after death he was deified. For Marcus he is not kin but the **ultimate measure of power and fame**: if even *his* court is long dead, then any care for posthumous greatness is the emptier.
 
-## Значение у Марка
+## Цитируется/упоминается у Марка
 
 Устойчивый **пример транзиенции власти**, чаще всего в паре с [[hadrian|Адрианом]]:
 
@@ -32,6 +32,10 @@ A standing **exemplum of the transience of power**, most often paired with [[had
 - [[04-33]] — "then Augustus, then Hadrian and Antoninus": even the greatest names become "glosses" and sink into oblivion.
 - As a cross-reference — also in [[06-56]] and [[04-32]] (allusions to the "court of Augustus" from 8.31).
 
-## Источники / Sources
+## Литература
 
 Suet. *Divus Augustus*; *Res Gestae Divi Augusti*; Cassius Dio 51–56; R. Syme, *The Roman Revolution*, Oxford, 1939. Приёмный «дед» Марка [[hadrian|Адриан]] — того же ряда пример власти; ср. [[alexander-the-great|Александр]] как эталон тщеты завоеваний.
+
+## Literature
+
+Suet. *Divus Augustus*; *Res Gestae Divi Augusti*; Cassius Dio 51–56; R. Syme, *The Roman Revolution*, Oxford, 1939. Marcus's adoptive "grandfather" [[hadrian|Hadrian]] is an example of power of the same order; cf. [[alexander-the-great|Alexander]] as the standard of the vanity of conquest.

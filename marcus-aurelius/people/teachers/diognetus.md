@@ -8,26 +8,32 @@ dates_en: late 1st / early 2nd century CE (exact dates unknown; probably active 
 birthplace_ru: неизвестно
 birthplace_en: unknown
 school: undetermined (Platonist or Stoic; not securely attributable)
-role_ru: один из ранних учителей Marcus Aurelius'a (живопись, по SHA; философская инициация, по Med. 1.6); фактический проводник Marcus'a в философию ок. 132–133 гг.
+role_ru: один из ранних учителей Марка Аврелия (живопись, по SHA; философская инициация, по Med. 1.6); фактический проводник Марка в философию ок. 132–133 гг.
 role_en: one of Marcus Aurelius's early teachers (painting, per SHA; the philosophical initiation, per Med. 1.6); the actual conduit of Marcus into philosophy around 132–133 CE
 ---
 
 ## Биография
-
 **Атрибуция.** Диогнет — почти безатрибутный персонаж в источниках. Два первичных свидетельства:
 
-1. **SHA *Marcus* 4.9**: «studuit et picturae sub magistro Diogneto» — «занимался также живописью под учительством Диогнета». Это единственное прямое биографическое сообщение помимо самого Marcus'a.
+1. **SHA *Marcus* 4.9**: «studuit et picturae sub magistro Diogneto» — «занимался также живописью под учительством Диогнета». Это единственное прямое биографическое сообщение помимо самого Марка.
 
-2. **Med. 1.6** ([[01-06]]) — Marcus приписывает ему перечень добродетелей, связанных с философской инициацией: скептицизм к шарлатанству, открытость к παρρησία, οἰκείωσις с философией, перечень дальнейших учителей ([[bacchius|Бакхий]], [[tandasis|Тандасид]], [[marcianus|Маркиан]]), написание подростковых диалогов, эллинская аскеза.
+2. **Med. 1.6** ([[01-06]]) — Марк приписывает ему перечень добродетелей, связанных с философской инициацией: скептицизм к шарлатанству, открытость к παρρησία, οἰκείωσις с философией, перечень дальнейших учителей ([[bacchius|Бакхий]], [[tandasis|Тандасид]], [[marcianus|Маркиан]]), написание подростковых диалогов, эллинская аскеза.
 
-Школьная принадлежность Диогнета не установлена. Birley (2000) предполагает Платоническую школу — на основании косвенного соответствия между темами 01-06 и платоническим топосом критики суеверия; Hadot осторожнее, считая школьную атрибуцию недостаточно обоснованной. Hard в комментарии к OWC-изданию: «we know nothing further about him». Farquharson в комментарии 1944 г.: «scarcely identifiable beyond Marcus's own mention».
+Школьная принадлежность Диогнета не установлена. Birley (2000) предполагает Платоническую школу — на основании косвенного соответствия между темами 01-06 и платоническим топосом критики суеверия; Hadot осторожнее, считая школьную атрибуцию недостаточно обоснованной. Hard в комментарии к OWC-изданию: «больше мы о нём ничего не знаем». Farquharson в комментарии 1944 г.: «едва ли поддаётся отождествлению за пределами упоминания у самого Марка».
 
-**Хронология.** По *SHA Marcus* 2.6 — Marcus принял аскетическую жизнь с двенадцати лет (т. е. ок. 133 г.). Если эта аскеза — следствие Диогнетова обучения, то Диогнет должен был преподавать Marcus'у приблизительно в 132–133 гг., когда Marcus'у было 11–12 лет. Это до формального стоического обучения Marcus'a (Юний Рустик начнётся позже, в подростковые годы).
+**Хронология.** По *SHA Marcus* 2.6 — Марк принял аскетическую жизнь с двенадцати лет (т. е. ок. 133 г.). Если эта аскеза — следствие Диогнетова обучения, то Диогнет должен был преподавать Марку приблизительно в 132–133 гг., когда Марку было 11–12 лет. Это до формального стоического обучения Марка (Юний Рустик начнётся позже, в подростковые годы).
 
-**Парадокс «учитель живописи».** SHA приписывает Диогнету только живопись; Marcus приписывает ему философскую конверсию. Это не противоречие, а отражение того, что **формальная** статусная роль Диогнета в доме [[domitia-lucilla|Domitia Lucilla]] была учитель живописи (стандартная позиция в аристократическом доме II в.), но **неформально** он, по-видимому, был интеллектуально близок к философскому кругу и сыграл роль mentor'a в этой плоскости. Параллель: Сенека-старший упоминает учителей риторики, которые передали ученикам куда больше философии, чем своей формальной дисциплины.
+**Парадокс «учитель живописи».** SHA приписывает Диогнету только живопись; Марк приписывает ему философскую конверсию. Это не противоречие, а отражение того, что **формальная** статусная роль Диогнета в доме [[domitia-lucilla|Domitia Lucilla]] была учитель живописи (стандартная позиция в аристократическом доме II в.), но **неформально** он, по-видимому, был интеллектуально близок к философскому кругу и сыграл роль mentor'a в этой плоскости. Параллель: Сенека-старший упоминает учителей риторики, которые передали ученикам куда больше философии, чем своей формальной дисциплины.
+
+#### Образовательная роль
+
+Учительство Диогнета над Марком — **философская инициация** подростка, по-видимому, в три плоскости (см. подробно в [[01-06]]):
+
+1. **Эпистемическая чистка** — учить отличать философию от чудотворства, шарлатанства, магии; и от лёгких страстных увлечений (типа перепелиного спорта).
+2. **Этическая открытость** — учить принимать παρρησία от других, не закрываться перед критикой; и быть-сделанным-своим (οἰκειωθῆναι) для философской традиции.
+3. **Практическая инициация** — направление к следующим учителям ([[bacchius|Бакхию]], [[tandasis|Тандасиду]], [[marcianus|Маркиану]]), указание написать собственные диалоги, принятие эллинской аскезы (σκίμπους + δορά + философский плащ).
 
 ## Biography
-
 **Attestation.** Diognetus is an almost unattested figure in the sources. Two primary testimonies:
 
 1. **SHA *Marcus* 4.9**: "studuit et picturae sub magistro Diogneto" — "he also studied painting under the teacher Diognetus." This is the sole direct biographical report apart from Marcus himself.
@@ -40,15 +46,7 @@ The school affiliation of Diognetus is not established. Birley (2000) conjecture
 
 **The "painting teacher" paradox.** SHA ascribes only painting to Diognetus; Marcus ascribes the philosophical conversion to him. This is not a contradiction but a reflection of the fact that the **formal** status-role of Diognetus in the house of [[domitia-lucilla|Domitia Lucilla]] was as teacher of painting (a standard position in an aristocratic household of the second century), while **informally** he was apparently intellectually close to the philosophical circle and played the part of mentor on that plane. A parallel: Seneca the Elder mentions teachers of rhetoric who imparted to their pupils far more philosophy than of their own formal discipline.
 
-## Образовательная роль
-
-Учительство Диогнета над Marcus'ом — **философская инициация** подростка, по-видимому, в три плоскости (см. подробно в [[01-06]]):
-
-1. **Эпистемическая чистка** — учить отличать философию от чудотворства, шарлатанства, магии; и от лёгких страстных увлечений (типа перепелиного спорта).
-2. **Этическая открытость** — учить принимать παρρησία от других, не закрываться перед критикой; и быть-сделанным-своим (οἰκειωθῆναι) для философской традиции.
-3. **Практическая инициация** — направление к следующим учителям ([[bacchius|Бакхию]], [[tandasis|Тандасиду]], [[marcianus|Маркиану]]), указание написать собственные диалоги, принятие эллинской аскезы (σκίμπους + δορά + философский плащ).
-
-## Educational role
+#### Educational role
 
 Diognetus's tutelage over Marcus is a **philosophical initiation** of the adolescent on, it seems, three planes (see at length in [[01-06]]):
 
@@ -58,7 +56,7 @@ Diognetus's tutelage over Marcus is a **philosophical initiation** of the adoles
 
 ## Цитируется/упоминается у Марка
 
-- [[01-06]] — единственное упоминание Диогнета у Marcus'a.
+- [[01-06]] — единственное упоминание Диогнета у Марка.
 
 ## Mentions in Marcus
 
@@ -70,10 +68,9 @@ Diognetus's tutelage over Marcus is a **philosophical initiation** of the adoles
 - A. Birley, *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, гл. 3 («Education») — реконструкция роли Диогнета.
 - A. S. L. Farquharson, *The Meditations of the Emperor Marcus Antoninus*, Oxford 1944, vol. II, ad 1.6 — стандартный комментарий, фиксирующий скудость атрибуции.
 - R. Hard, *Marcus Aurelius: Meditations*, OWC, Oxford 2011, notes ad 1.6 — современная сводка.
-- P. Hadot, *The Inner Citadel*, tr. M. Chase, Harvard 1998, гл. 2 — общая реконструкция образовательной биографии Marcus'a.
+- P. Hadot, *The Inner Citadel*, tr. M. Chase, Harvard 1998, гл. 2 — общая реконструкция образовательной биографии Марка.
 
 ## Literature
-
 - **SHA *Marcus* 4.9** — the sole direct biographical testimony.
 - A. Birley, *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, ch. 3 ("Education") — the reconstruction of Diognetus's role.
 - A. S. L. Farquharson, *The Meditations of the Emperor Marcus Antoninus*, Oxford 1944, vol. II, ad 1.6 — the standard commentary, recording the scarcity of attestation.

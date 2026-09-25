@@ -8,12 +8,11 @@ dates_en: c. 45 — c. 125 CE
 birthplace_ru: Херонея в Беотии
 birthplace_en: Chaeronea in Boeotia
 school: Средняя Платоническая академия (т. н. Middle Platonism)
-role_ru: главная философско-литературная фигура греческой провинции эпохи Антонинов; платоник эклектического склада, биограф (*Параллельные жизнеописания*) и эссеист (*Моралии*); дядя Секста из Херонеи — одного из главных стоических учителей Marcus'a; для Marcus'a не учитель, но косвенный фон через Секста и через корпус *Моралий*, фигурирующий в параллелях к Книге I (особенно 01-05, 01-06, 01-09, 01-14)
+role_ru: главная философско-литературная фигура греческой провинции эпохи Антонинов; платоник эклектического склада, биограф (*Параллельные жизнеописания*) и эссеист (*Моралии*); дядя Секста из Херонеи — одного из главных стоических учителей Марка; для Марка не учитель, но косвенный фон через Секста и через корпус *Моралий*, фигурирующий в параллелях к Книге I (особенно 01-05, 01-06, 01-09, 01-14)
 role_en: the principal philosophical-literary figure of the Greek province in the Antonine age; a Platonist of eclectic cast, biographer (*Parallel Lives*) and essayist (*Moralia*); uncle of Sextus of Chaeronea, one of Marcus's chief Stoic teachers; not a teacher of Marcus himself, but an indirect background through Sextus and through the corpus of the *Moralia*, recurring in the parallels to Book I (especially 01-05, 01-06, 01-09, 01-14)
 ---
 
 ## Биография
-
 **Происхождение.** Плутарх родился около 45 г. н.э. в **Херонее** — небольшом городе в Беотии, знаменитом полем битвы 338 г. до н.э. (Филипп II и Александр против греческой коалиции). Семья — местная аристократия с философско-литературной традицией; брат Ламприй и сыновья Аутобул и Плутарх-младший фигурируют как собеседники в его собственных диалогах. Сам Плутарх прожил в Херонее почти всю жизнь, лишь дважды-трижды съездив в Рим и Александрию.
 
 **Образование.** Учился в Афинах у платоника **Аммония** (точные даты неизвестны), под влиянием которого сформировалась его платоническая школьная принадлежность. По обыкновению эпохи усвоил также стоические, перипатетические и эпикурейские темы — что делает его философию **эклектико-платонической**, типичной для Средней Академии I–II вв. (т. н. Middle Platonism).
@@ -23,15 +22,22 @@ role_en: the principal philosophical-literary figure of the Greek province in th
 **Отношения с Римом.** Плутарх получил римское гражданство (его tria nomina — Mestrius Plutarchus), был знаком с сенаторами и при Адриане, по одной версии, занимал почётную прокуратуру Ахайи. Но **жил он в Греции**, не в Риме — что отличает его от римских философов антониновского круга (Сенека, Эпиктет, Музоний Руф) и делает фигурой именно греко-провинциальной интеллектуальной жизни.
 
 **Корпус.** Сохранились две большие группы сочинений:
-- ***Параллельные жизнеописания*** (Βίοι Παράλληλοι): около 23 пар + 4 отдельных биографий — греческий и римский герой попарно, с этическим сопоставлением (σύγκρισις). Из этих жизнеописаний Marcus в Книге I прямо опирается на **Cato Minor**, **Dion**, **Brutus** для канона стоической оппозиции (см. [[01-14]]).
+- ***Параллельные жизнеописания*** (Βίοι Παράλληλοι): около 23 пар + 4 отдельных биографий — греческий и римский герой попарно, с этическим сопоставлением (σύγκρισις). Из этих жизнеописаний Марк в Книге I прямо опирается на жизнеописания **Катона Младшего**, **Диона** и **Брута** для канона стоической оппозиции (см. [[01-14]]).
 - ***Моралии*** (Ἠθικά / *Moralia*): сборник из ~78 эссе и диалогов на этические, риторические, философские, антикварные и популярно-научные темы. Параллели к Книге I:
   - *De curiositate* — каноническая разработка ἀπραγμοσύνη, фон к [[01-05]] о τροφεύς.
   - *De superstitione* — стоическая критика δεισιδαιμονία, фон к [[01-06]] о Диогнетовом скептицизме.
   - *De fraterno amore*, *De amicorum multitudine* — о дружбе, фон к [[01-09]] о Сексте.
   - *Quomodo adulator ab amico internoscatur* — о различии друга и льстеца, фон к [[01-07]] о παρρησία у Юния Рустика.
 
-## Biography
+#### Связь с Марком Аврелием
 
+**Через [[sextus|Секста из Херонеи]].** Прямого личного знакомства Марка с Плутархом не было: Плутарх умер около 125 г., когда Марку было приблизительно четыре года. Но Секст — племянник Плутарха (сын одного из его братьев или племянник в более широком смысле; точное родство не реконструируемо однозначно из источников) — был одним из главных философских учителей Марка в зрелые годы. Через Секста Марк косвенно унаследовал часть **херонейской интеллектуальной среды**: семейный дом Плутарха, его философскую академию в Херонее, его сеть учеников и племянников.
+
+**Эклектико-моральный регистр.** Плутарх — платоник по школьной принадлежности, но его *Моралии* и *Жизнеописания* совместимы со стоической этикой Марка по практическому регистру. Это объясняет, почему Марк в [[01-09]] описывает Секста как **стоика**, но допускает в его портрет платонико-моралистические оттенки (παράδειγμα οἴκου, εὐμενές, πάντας εὐάρμοστον). Секст — стоик с **платоническим педагогическим багажом**, унаследованным от херонейского круга Плутарха.
+
+**Канон оппозиции в [[01-14]].** Когда Марк в 01-14 перечисляет «Тразею, Гельвидия, Катона, Диона, Брута» как пятёрку моральных образцов сопротивления тирании, **три из пяти** — это герои отдельных *Жизнеописаний* Плутарха (Катон Младший, Дион, Брут). Это не случайно: канон оппозиции в той форме, в какой Марк его наследует, **сформирован Плутарховым подбором фигур**. Север передал Марку канон, но сам канон опирается на Плутарховы биографии как на стандартные тексты-источники.
+
+## Biography
 **Origin.** Plutarch was born around 45 CE at **Chaeronea** — a small town in Boeotia, famous for the battlefield of 338 BCE (Philip II and Alexander against the Greek coalition). His family was local aristocracy with a philosophical-literary tradition; his brother Lamprias and his sons Autobulus and Plutarch the younger appear as interlocutors in his own dialogues. Plutarch himself lived almost his whole life in Chaeronea, travelling only two or three times to Rome and Alexandria.
 
 **Education.** He studied at Athens under the Platonist **Ammonius** (exact dates unknown), under whose influence his Platonist school-allegiance was formed. As was customary in the period, he also took up Stoic, Peripatetic, and Epicurean themes — which makes his philosophy **eclectic-Platonist**, typical of the Middle Academy of the first and second centuries (so-called Middle Platonism).
@@ -48,15 +54,7 @@ role_en: the principal philosophical-literary figure of the Greek province in th
   - *De fraterno amore*, *De amicorum multitudine* — on friendship, background to [[01-09]] on Sextus.
   - *Quomodo adulator ab amico internoscatur* — on the difference between friend and flatterer, background to [[01-07]] on the παρρησία of Junius Rusticus.
 
-## Связь с Marcus Aurelius
-
-**Через [[sextus|Секста из Херонеи]].** Прямого личного знакомства Marcus'a с Плутархом не было: Плутарх умер около 125 г., когда Marcus'у было приблизительно четыре года. Но Секст — племянник Плутарха (сын одного из его братьев или племянник в более широком смысле; точное родство не реконструируемо однозначно из источников) — был одним из главных философских учителей Marcus'a в зрелые годы. Через Секста Marcus косвенно унаследовал часть **херонейской интеллектуальной среды**: семейный дом Плутарха, его философскую академию в Херонее, его сеть учеников и племянников.
-
-**Эклектико-моральный регистр.** Плутарх — платоник по школьной принадлежности, но его *Моралии* и *Жизнеописания* совместимы со стоической этикой Marcus'a по практическому регистру. Это объясняет, почему Marcus в [[01-09]] описывает Секста как **стоика**, но допускает в его портрет платонико-моралистические оттенки (παράδειγμα οἴκου, εὐμενές, πάντας εὐάρμοστον). Секст — стоик с **платоническим педагогическим багажом**, унаследованным от херонейского круга Плутарха.
-
-**Канон оппозиции в [[01-14]].** Когда Marcus в 01-14 перечисляет «Тразею, Гельвидия, Катона, Диона, Брута» как пятёрку моральных образцов сопротивления тирании, **три из пяти** — это герои отдельных *Жизнеописаний* Плутарха (Cato Minor, Dion, Brutus). Это не случайно: канон оппозиции в той форме, в какой Marcus его наследует, **сформирован Плутарховым подбором фигур**. Север передал Marcus'у канон, но сам канон опирается на Плутарховы биографии как на стандартные тексты-источники.
-
-## Connection with Marcus Aurelius
+#### Connection with Marcus Aurelius
 
 **Through [[sextus|Sextus of Chaeronea]].** Marcus had no direct personal acquaintance with Plutarch: Plutarch died around 125, when Marcus was about four years old. But Sextus, Plutarch's nephew (son of one of his brothers or a nephew in the wider sense; the exact kinship cannot be reconstructed unambiguously from the sources), was one of Marcus's principal philosophical teachers in his mature years. Through Sextus Marcus indirectly inherited a share of the **Chaeronean intellectual milieu**: the family house of Plutarch, his philosophical academy at Chaeronea, his network of pupils and nephews.
 
@@ -85,7 +83,6 @@ role_en: the principal philosophical-literary figure of the Greek province in th
 - *Cambridge Companion to Plutarch*, ed. F. B. Titchener and A. Zadorojnyi, Cambridge 2022 — современный обзорный том.
 
 ## Literature
-
 - Plutarchus, *Vitae Parallelae* and *Moralia* — Teubner edition is standard; Russian translations of the *Lives* in the "Литературные памятники" series (Losev and others), the *Moralia* partially, by various translators.
 - D. A. Russell, *Plutarch*, London 1973 (a brief introduction).
 - C. P. Jones, *Plutarch and Rome*, Oxford 1971 — the standard monograph on Plutarch's Roman connections.

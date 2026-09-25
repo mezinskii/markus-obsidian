@@ -13,7 +13,6 @@ role_en: father of Marcus Aurelius; son of M. Annius Verus the elder; Roman sena
 ---
 
 ## Биография
-
 М. Анний Вер младший — фигура, о которой исторические источники сообщают крайне скупо. Это отчасти случайность сохранности (он умер до того, как достиг консулата и сколько-нибудь заметного политического веса), отчасти неизбежное следствие самой биографии: умер молодым, не оставив политических следов, а в основном источнике для семьи — собственных *Размышлениях* Марка — упомянут только в [[01-02]], в крайне опосредованной формуле.
 
 **Имя.** Полное имя — M. Annius Verus, как у деда и (поначалу) у самого Марка. Эта тройная одноимёнка отца, сына и внука в трёх поколениях — стандартная для римских патрицианских родов практика, но в случае Анниев она даёт хроническую путаницу: «M. Annius Verus» без дополнительной квалификации требует контекста, чтобы понять, о каком из трёх речь. В современной литературе принято различать: *the elder* (дед, трижды консул) — *the younger* (отец, претор) — *Marcus Aurelius* (сын, император). *Praenomen* отца — Marcus — принимается современной просопографией единодушно (PIR² A 696; Birley 2000, гл. 2). Примечание Роговина в [[01-02]] даёт «Пубий Анний Вер»; расхождение с модерным консенсусом, источник варианта у Роговина не установлен.
@@ -24,8 +23,17 @@ role_en: father of Marcus Aurelius; son of M. Annius Verus the elder; Roman sena
 
 **Смерть.** Умер около 124 г. н.э. Марку было приблизительно три года. Точная причина и обстоятельства неизвестны.
 
-## Biography
+#### Этический портрет
 
+Марк характеризует отца, которого фактически не знал, через два качества: τὸ αἰδῆμον (см. [[aidos]]) — стоически нагруженная «способность не делать постыдного из уважения к собственному разуму», — и τὸ ἀρρενικόν — «мужественность» в более «природном», менее техническом смысле, чем стоическая ἀνδρεία. Источник этого знания — δόξα καὶ μνήμη, общественная репутация и сохранённая семейная память (см. [[01-02]] и комментарий к нему). Эта избирательность характеристики важна:
+
+- Марк не описывает отца как политическую фигуру (хотя тот был сенатор и претор) — у него для этого не было оснований ни по личному опыту, ни даже по семейным рассказам, видимо.
+- Не описывает его и через интеллектуальные качества — те качества, которые Марк ценит в учителях (Юний Рустик, Аполлоний, Секст), для отца не приводятся.
+- Названы именно два **этических tone-качества** — внутренний стыд и мужественность, — то есть то, что в римской культуре могло сохраниться в коллективной памяти семьи как **общий характерологический портрет**, а не как биографический факт.
+
+Иными словами: то, что Марк приписывает отцу, есть, по всей видимости, **то, что говорили о нём в доме**. Это и есть нагрузка слов δόξα καὶ μνήμη — не реконструкция, а наследие словесного предания.
+
+## Biography
 M. Annius Verus the younger is a figure of whom the historical sources tell very little. Partly this is an accident of preservation (he died before reaching the consulate or any noticeable political weight), partly the inevitable consequence of the biography itself: he died young, left no political footprint, and in the principal source for his family — Marcus's own *Meditations* — is mentioned only in [[01-02]], in an exceedingly mediated formula.
 
 **The name.** The full name is M. Annius Verus, like that of the grandfather and (initially) that of Marcus himself. This threefold homonymy of father, son, and grandson across three generations is standard practice in Roman patrician families, but in the case of the Annii it generates a chronic confusion: "M. Annius Verus," without further qualification, requires context to indicate which of the three is meant. In modern scholarship the convention is to distinguish: *the elder* (the grandfather, thrice consul) — *the younger* (the father, praetor) — *Marcus Aurelius* (the son, emperor). The *praenomen* of the father — Marcus — is accepted unanimously by modern prosopography (PIR² A 696; Birley 2000, ch. 2). Rogovin's note in [[01-02]] gives "Publius Annius Verus"; the variant is at variance with the modern consensus, and its source in Rogovin has not been established.
@@ -36,17 +44,7 @@ M. Annius Verus the younger is a figure of whom the historical sources tell very
 
 **Death.** He died around 124 CE. Marcus was about three years old. The precise cause and circumstances are unknown.
 
-## Этический портрет
-
-Марк характеризует отца, которого фактически не знал, через два качества: τὸ αἰδῆμον (см. [[aidos]]) — стоически нагруженная «способность не делать постыдного из уважения к собственному разуму», — и τὸ ἀρρενικόν — «мужественность» в более «природном», менее техническом смысле, чем стоическая ἀνδρεία. Источник этого знания — δόξα καὶ μνήμη, общественная репутация и сохранённая семейная память (см. [[01-02]] и комментарий к нему). Эта избирательность характеристики важна:
-
-- Марк не описывает отца как политическую фигуру (хотя тот был сенатор и претор) — у него для этого не было оснований ни по личному опыту, ни даже по семейным рассказам, видимо.
-- Не описывает его и через интеллектуальные качества — те качества, которые Марк ценит в учителях (Юний Рустик, Аполлоний, Секст), для отца не приводятся.
-- Названы именно два **этических tone-качества** — внутренний стыд и мужественность, — то есть то, что в римской культуре могло сохраниться в коллективной памяти семьи как **общий характерологический портрет**, а не как биографический факт.
-
-Иными словами: то, что Марк приписывает отцу, есть, по всей видимости, **то, что говорили о нём в доме**. Это и есть нагрузка слов δόξα καὶ μνήμη — не реконструкция, а наследие словесного предания.
-
-## Ethical portrait
+#### Ethical portrait
 
 Marcus characterises the father he did not in fact know through two qualities: τὸ αἰδῆμον (see [[aidos]]) — the Stoically charged "capacity to refrain from anything shameful out of respect for one's own rational nature" — and τὸ ἀρρενικόν — "manliness" in a more "natural," less technical sense than the Stoic ἀνδρεία. The source of this knowledge is δόξα καὶ μνήμη, public reputation and preserved family memory (see [[01-02]] and the commentary there). This selectivity of the characterisation is important:
 
@@ -76,7 +74,6 @@ In other words: what Marcus ascribes to his father is, all things considered, **
 - M. van Ackeren, *Die Philosophie Marc Aurels*, Walter de Gruyter, 2011, Bd. 1, ch. 1 — современный немецкий стандарт по биографическому контексту.
 
 ## Literature
-
 - **SHA *Marcus*** 1.5 — the only direct report of the father's death ("patre orbatus est primum, dum praetorem ageret" — "he was bereaved of his father first, while he was still a praetor").
 - **PIR² A 696** — the standard prosopographical entry (separate from no. 695 — the grandfather).
 - A. Birley, *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000 — ch. 2 ("The Family"), pp. 28–32; an account of what can be reconstructed of the father's figure.

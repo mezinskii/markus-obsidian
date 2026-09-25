@@ -13,16 +13,32 @@ role_en: pupil of Diogenes of Sinope and Crates of Thebes; an early Cynic
 ---
 
 ## Биография
-
 Моним из Сиракуз — кинический философ IV в. до н.э., младший ученик Диогена Синопского и Кратета Фиванского. Главный биографический источник — Диоген Лаэртский VI 82–83. По его рассказу Моним сначала был **слугой** (или рабом) у коринфского менялы. Услышав от Ксениада, у которого тогда жил Диоген, рассказы о философе, Моним так загорелся желанием учиться у него, что **симулировал безумие**: стал разбрасывать со стола хозяина мелкие монеты и хлеб. Хозяин, естественно, его прогнал. Моним отправился к Диогену в обучение. После смерти Диогена продолжил у Кратета (тот же Лаэртский: συνῆν δὲ καὶ Κράτητι).
 
 Эпизод с симуляцией безумия — характерный кинический жест: Моним избирает кратчайший путь к философии через демонстративное отбрасывание здравого расчёта (μανία ради σοφία).
 
-## Biography
+#### Сохранившиеся фрагменты
 
+Сочинения Монима не сохранились. DL VI 83 перечисляет его произведения:
+- *Παίγνια σπουδῇ λεληθυίᾳ μεμιγμένα* — «Игривые сочинения, в которые тайно подмешана серьёзность» (характерный кинический жанр серьёзно-смешного, σπουδαιογέλοιον)
+- Две книги *Περὶ ὁρμῶν* — «О побуждениях» (любопытно: тот же термин ὁρμή, что у стоиков; возможно, прото-разработка темы)
+- *Προτρεπτικός* — «Протрептик» (увещание к философии)
+
+Фраза «τῦφον τὰ πάντα» сохранена через цитирование — главное свидетельство у Sextus Empiricus *Adv. Math.* VII 88; VIII 5. Cf. также Stob. *Flor.* IV 51 (приписывание Мониму родственных высказываний).
+
+## Biography
 Monimus of Syracuse was a Cynic philosopher of the 4th century BCE, a younger pupil of Diogenes of Sinope and of Crates of Thebes. The principal biographical source is Diogenes Laertius VI 82–83. According to his account, Monimus was first a **servant** (or slave) of a Corinthian money-changer. Hearing from Xeniades, with whom Diogenes was then living, accounts of the philosopher, Monimus burned so to learn from him that he **feigned madness**: he began scattering his master's small coins and bread from the table. The master, naturally, drove him out. Monimus went off to study with Diogenes. After Diogenes' death he continued with Crates (Laertius again: συνῆν δὲ καὶ Κράτητι).
 
 The episode of feigned madness is a characteristic Cynic gesture: Monimus chooses the shortest road to philosophy by a demonstrative casting-off of common-sense calculation (μανία in the service of σοφία).
+
+#### Surviving fragments
+
+Monimus' writings do not survive. DL VI 83 lists his works:
+- *Παίγνια σπουδῇ λεληθυίᾳ μεμιγμένα* — "Playful writings, with seriousness secretly mixed in" (a characteristically Cynic genre of the serio-comic, σπουδαιογέλοιον)
+- Two books *Περὶ ὁρμῶν* — "On Impulses" (intriguingly the same term ὁρμή as the Stoics use; perhaps a proto-elaboration of the theme)
+- *Προτρεπτικός* — "Protreptic" (an exhortation to philosophy)
+
+The phrase «τῦφον τὰ πάντα» is preserved by citation — the principal witness is Sextus Empiricus *Adv. Math.* VII 88; VIII 5. Cf. also Stob. *Flor.* IV 51 (the attribution to Monimus of kindred sayings).
 
 ## Философское значение
 
@@ -66,24 +82,6 @@ This position is **proto-Stoic**. The Stoics — through Zeno of Citium, who stu
 
   Marcus accepts cautiously: he adds the qualification «μέχρι τοῦ ἀληθοῦς» — "to the extent that it is true," and «τὸ νόστιμον δέχηται» — "let one take only the edible kernel." The signal: the Cynic is right in substance, but his rhetorical exaggeration (as if **literally** everything were illusion) must be moderated. The Stoics do not hold that the cosmos, virtue, or rational nature are τῦφος; what is illusory is **only** the axiological superstructure of the external indifferents.
 
-## Сохранившиеся фрагменты
-
-Сочинения Монима не сохранились. DL VI 83 перечисляет его произведения:
-- *Παίγνια σπουδῇ λεληθυίᾳ μεμιγμένα* — «Игривые сочинения, в которые тайно подмешана серьёзность» (характерный кинический жанр серьёзно-смешного, σπουδαιογέλοιον)
-- Две книги *Περὶ ὁρμῶν* — «О побуждениях» (любопытно: тот же термин ὁρμή, что у стоиков; возможно, прото-разработка темы)
-- *Προτρεπτικός* — «Протрептик» (увещание к философии)
-
-Фраза «τῦφον τὰ πάντα» сохранена через цитирование — главное свидетельство у Sextus Empiricus *Adv. Math.* VII 88; VIII 5. Cf. также Stob. *Flor.* IV 51 (приписывание Мониму родственных высказываний).
-
-## Surviving fragments
-
-Monimus' writings do not survive. DL VI 83 lists his works:
-- *Παίγνια σπουδῇ λεληθυίᾳ μεμιγμένα* — "Playful writings, with seriousness secretly mixed in" (a characteristically Cynic genre of the serio-comic, σπουδαιογέλοιον)
-- Two books *Περὶ ὁρμῶν* — "On Impulses" (intriguingly the same term ὁρμή as the Stoics use; perhaps a proto-elaboration of the theme)
-- *Προτρεπτικός* — "Protreptic" (an exhortation to philosophy)
-
-The phrase «τῦφον τὰ πάντα» is preserved by citation — the principal witness is Sextus Empiricus *Adv. Math.* VII 88; VIII 5. Cf. also Stob. *Flor.* IV 51 (the attribution to Monimus of kindred sayings).
-
 ## Литература
 
 - **Diogenes Laertius VI 82–83** — биография
@@ -93,7 +91,6 @@ The phrase «τῦφον τὰ πάντα» is preserved by citation — the pri
 - D. Krueger, "The Bawdy and Society" (в *The Cynics: The Cynic Movement in Antiquity and its Legacy*, ed. R. B. Branham & M.-O. Goulet-Cazé, Berkeley 1996)
 
 ## Literature
-
 - **Diogenes Laertius VI 82–83** — biography
 - **Sextus Empiricus** *Adv. Math.* VII 88; VIII 5 — for the preservation of τῦφον τὰ πάντα
 - G. Giannantoni, *Socratis et Socraticorum Reliquiae* (SSR), vol. II, sect. V H (Monimus): the full corpus of fragments and testimonia

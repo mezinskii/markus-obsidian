@@ -577,7 +577,8 @@ const passageCardToSanity = (
     motifs: refs.motifs,
     people: refs.people,
     place: placeRef,
-    parallels: pc.parallels,
+    // `[verify:…]` work-markers stay in Obsidian only (same rule as in markdownToPortableText).
+    parallels: pc.parallels.map((p) => p.replace(/[ \t]?\[verify:[^\]\n]*\]/g, '')),
     footnotes: allFootnotes,
     status: pc.status,
     createdAt: toIsoDateTime(pc.created),

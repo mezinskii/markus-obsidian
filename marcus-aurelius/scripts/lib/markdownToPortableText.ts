@@ -102,8 +102,13 @@ interface PreprocessResult {
 const preprocess = (input: string): PreprocessResult => {
   const rawFootnotes: Record<string, string> = {}
 
+  // Editorial work-markers `[verify:source]` flag a citation still to be
+  // checked against a printed edition. They stay in Obsidian; the site never
+  // shows them. Stripped first, so footnote bodies are cleaned too.
+  const unmarked = input.replace(/[ \t]?\[verify:[^\]\n]*\]/g, '')
+
   // Footnote definitions: single-line for now.
-  let text = input.replace(
+  let text = unmarked.replace(
     /^\[\^([^\]]+)\]:[ \t]*(.+?)[ \t]*$/gm,
     (_match, key: string, body: string) => {
       rawFootnotes[key.trim()] = body.trim()

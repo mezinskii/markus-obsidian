@@ -14,7 +14,7 @@ role_en: wife of Marcus Aurelius (married 145); daughter of Antoninus Pius and F
 
 Annia Galeria Faustina Minor (c. 130–175/176) — daughter of Antoninus Pius and Faustina the Elder, cousin and, from 145, wife of Marcus Aurelius. She bore him many children (of the survivors, Commodus and Lucilla). She accompanied Marcus on campaign and received the title *mater castrorum* ("mother of the camps"). She died in the East c. 175; Marcus deified her and founded the *puellae Faustinianae* (a charity for girls) in her memory. A later hostile tradition (SHA) charged her with debauchery — hence the tart footnote in translators (Petrarch: "he might have been called happy, had he not had Faustina for a wife and Commodus for a son"); the historical reliability of these charges is doubtful.
 
-## Значение у Марка
+## Цитируется/упоминается у Марка
 
 - [[01-17]] — в перечне благодарностей богам: «такая преданная, любвеобильная, откровенная жена» (τοιαύτη … ἡ γυνή). Единственное прямое, тёплое упоминание жены во всём корпусе — важное свидетельство домашнего мира Марка, вопреки позднейшей клевете.
 
@@ -22,6 +22,10 @@ Annia Galeria Faustina Minor (c. 130–175/176) — daughter of Antoninus Pius a
 
 - [[01-17]] — in the list of thanks to the gods: "so devoted, so affectionate, so frank a wife" (τοιαύτη … ἡ γυνή). The one direct, warm mention of his wife in the whole corpus — an important testimony to Marcus's domestic peace, against the later slander.
 
-## Источники / Sources
+## Литература
 
 SHA *Marcus* 19, 26; Cassius Dio 71–72; A. Birley, *Marcus Aurelius: A Biography*, гл. 4, 9. Отличать от матери — [[antoninus-pius|Антонин Пий]] был её отцом; её мать — [[faustina-the-elder|Фаустина Старшая]].
+
+## Literature
+
+SHA *Marcus* 19, 26; Cassius Dio 71–72; A. Birley, *Marcus Aurelius: A Biography*, chs. 4, 9. To be distinguished from her mother: [[antoninus-pius|Antoninus Pius]] was her father, and her mother was [[faustina-the-elder|Faustina the Elder]].

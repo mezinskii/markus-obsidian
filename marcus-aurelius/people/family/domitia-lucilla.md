@@ -13,7 +13,6 @@ role_en: mother of Marcus Aurelius; daughter of P. Calvisius Tullus Ruso (consul
 ---
 
 ## Биография
-
 **Имя.** Domitia Lucilla, дочь P. Calvisius Tullus Ruso (консул 109). По матери — внучка Domitia Lucilla Maior (то есть носит имя бабушки по материнской линии; это дополнительный источник путаницы, и в литературе её сегодня обычно называют Domitia Lucilla **Minor** для дезамбигуации). Унаследовала и имя, и колоссальное состояние своей бабушки, которая в свою очередь получила его от своего отца, Cn. Domitius Lucanus, при сложной адопции/наследственной комбинации (см. Eck 1978 о юридических деталях).
 
 **Семья.** Муж — M. Annius Verus младший (см. [[marcus-annius-verus-the-younger]]), претор, умер около 124 г. Дети — Марк (будущий император, рожд. 26 апреля 121 г.) и Annia Cornificia Faustina (младшая сестра Марка). После смерти мужа осталась вдовой; повторно замуж не выходила. Воспитанием маленького Марка занимался в первую очередь дед-консуляр [[marcus-annius-verus|M. Annius Verus старший]], в чей дом Марк формально перешёл по адопции; но Domitia Lucilla продолжала быть для Марка фигурой повседневного материнского присутствия — судя и по 01-03, и по корреспонденции Фронтона (где Марк регулярно справляется о здоровье матери и пересылает ей приветы).
@@ -24,8 +23,21 @@ role_en: mother of Marcus Aurelius; daughter of P. Calvisius Tullus Ruso (consul
 
 **Смерть.** Дата точно не известна. Birley на основании косвенных указаний даёт интервал 155–161 гг. — после этого имя Лусиллы перестаёт фигурировать в корреспонденции Фронтона; *terminus ante quem* — начало правления Марка (161 г.), к этому моменту её уже не было в живых.
 
-## Biography
+#### Этический портрет
 
+Марк характеризует мать четырьмя качествами (см. [[01-03]] и комментарий к нему): θεοσεβές (благочестие), μεταδοτικόν (щедрость), ἀφεκτικόν не только от поступков, но и от мыслей (внутренняя бдительность) и λιτὸν κατὰ τὴν δίαιταν (простота быта при удалённости от πλουσιακὴ διαγωγή). Три замечания о структуре этой характеристики:
+
+1. **Семейный, не школьный регистр.** Ни одно из четырёх качеств не является каноническим стоическим термином из списка четырёх кардинальных добродетелей. Это латинские *pietas*, *liberalitas*, *abstinentia*/*continentia*, *frugalitas* в греческой облатке. Марк, как и в случае с отцом ([[01-02]]: ἀρρενικόν вместо канонической [[arete|ἀνδρεία]]), сохраняет домашний словарь.
+
+2. **Простота как осознанный выбор.** Из всех римских матрон своего ранга Лусилла была одной из наиболее богатых; «простой образ жизни, далёкий от πλουσιακή διαγωγή» — это не свойство экономии необходимостью, а **выбор**, демонстративное отстранение от того социального стиля, который от неё ожидался. Стоически это иллюстрация правильного обращения с [[adiaphora|ἀδιάφορα]]: богатство — не зло и не благо, и правильное к нему отношение проявляется именно в том, как им (не)пользуются. Эту установку Марк воспроизводит, став императором, — ср. *Med.* 6.30 («жить, насколько возможно, при дворе самым простым образом»).
+
+3. **Раннее становление внутренней дисциплины.** Тезис «удерживать себя не только от поступков, но и от мыслей» — программное для всех *Размышлений* место и одно из главных мест стоической интериоризации этики. Атрибутируя эту дисциплину **матери**, Марк сообщает, что стоическая внутренняя бдительность для него не была интеллектуальным открытием взрослого возраста — она была частью семейного габитуса с детства, до систематической философской выучки.
+
+#### Внешний корпус: Фронтон
+
+Главный внеавторский источник о Domitia Lucilla — переписка Фронтона. Среди дошедших писем — несколько *прямо адресованных ей* на греческом языке (например, *Ad M. Caes.* 2.15: пожелания здоровья на её день рождения). В письмах к самому Марку Фронтон регулярно осведомляется о её здоровье, передаёт приветы, ссылается на её мнения в общих с ней вопросах. По этому корпусу восстанавливается образ женщины тонкой греческой образованности, поддерживавшей домашний философско-литературный круг и обладавшей собственной интеллектуальной репутацией в окружении сына.
+
+## Biography
 **Name.** Domitia Lucilla, daughter of P. Calvisius Tullus Ruso (consul 109). On her mother's side, the granddaughter of Domitia Lucilla Maior (that is, she bears her maternal grandmother's name; an additional source of confusion, and in modern literature she is usually called Domitia Lucilla **Minor** for disambiguation). She inherited both the name and the colossal fortune of her grandmother, who had in turn received it from her own father, Cn. Domitius Lucanus, through a complex adoption and inheritance arrangement (see Eck 1978 on the legal details).
 
 **Family.** Her husband was M. Annius Verus the younger (see [[marcus-annius-verus-the-younger]]), a praetor who died around 124. Their children were Marcus (the future emperor, born 26 April 121) and Annia Cornificia Faustina (Marcus's younger sister). After her husband's death she remained a widow and did not remarry. Marcus's upbringing was undertaken in the first place by his consular grandfather [[marcus-annius-verus|M. Annius Verus the elder]], into whose house Marcus formally passed by adoption; but Domitia Lucilla continued to be for Marcus a figure of everyday maternal presence — to judge both from 01-03 and from Fronto's correspondence (in which Marcus regularly enquires about his mother's health and sends his regards to her).
@@ -36,17 +48,7 @@ role_en: mother of Marcus Aurelius; daughter of P. Calvisius Tullus Ruso (consul
 
 **Death.** The date is not securely known. Birley, on the basis of indirect indications, gives a range 155–161 — after this Lucilla's name ceases to appear in Fronto's correspondence; the *terminus ante quem* is the beginning of Marcus's reign (161), by which point she was no longer alive.
 
-## Этический портрет
-
-Марк характеризует мать четырьмя качествами (см. [[01-03]] и комментарий к нему): θεοσεβές (благочестие), μεταδοτικόν (щедрость), ἀφεκτικόν не только от поступков, но и от мыслей (внутренняя бдительность) и λιτὸν κατὰ τὴν δίαιταν (простота быта при удалённости от πλουσιακὴ διαγωγή). Три замечания о структуре этой характеристики:
-
-1. **Семейный, не школьный регистр.** Ни одно из четырёх качеств не является каноническим стоическим термином из списка четырёх кардинальных добродетелей. Это латинские *pietas*, *liberalitas*, *abstinentia*/*continentia*, *frugalitas* в греческой облатке. Марк, как и в случае с отцом ([[01-02]]: ἀρρενικόν вместо канонической [[arete|ἀνδρεία]]), сохраняет домашний словарь.
-
-2. **Простота как осознанный выбор.** Из всех римских матрон своего ранга Лусилла была одной из наиболее богатых; «простой образ жизни, далёкий от πλουσιακή διαγωγή» — это не свойство экономии необходимостью, а **выбор**, демонстративное отстранение от того социального стиля, который от неё ожидался. Стоически это иллюстрация правильного обращения с [[adiaphora|ἀδιάφορα]]: богатство — не зло и не благо, и правильное к нему отношение проявляется именно в том, как им (не)пользуются. Эту установку Марк воспроизводит, став императором, — ср. *Med.* 6.30 («жить, насколько возможно, при дворе самым простым образом»).
-
-3. **Раннее становление внутренней дисциплины.** Тезис «удерживать себя не только от поступков, но и от мыслей» — программное для всех *Размышлений* место и одно из главных мест стоической интериоризации этики. Атрибутируя эту дисциплину **матери**, Марк сообщает, что стоическая внутренняя бдительность для него не была интеллектуальным открытием взрослого возраста — она была частью семейного габитуса с детства, до систематической философской выучки.
-
-## Ethical portrait
+#### Ethical portrait
 
 Marcus characterises his mother by four qualities (see [[01-03]] and the commentary): θεοσεβές (piety), μεταδοτικόν (generosity), ἀφεκτικόν not only from deeds but even from thoughts (inner vigilance), and λιτὸν κατὰ τὴν δίαιταν (simplicity of daily life, kept far from the πλουσιακὴ διαγωγή). Three observations on the structure of this characterisation:
 
@@ -55,6 +57,10 @@ Marcus characterises his mother by four qualities (see [[01-03]] and the comment
 2. **Simplicity as a deliberate choice.** Of all Roman matrons of her rank, Lucilla was one of the wealthiest; "a simple manner of living, far removed from the πλουσιακὴ διαγωγή" is not the simplicity of economy compelled by necessity but a **choice**, a demonstrative distancing from the social style expected of her. Stoically this illustrates the right handling of [[adiaphora|ἀδιάφορα]]: wealth is neither bad nor good, and the right relation to it is shown precisely in how it is (not) used. This disposition Marcus carries forward when he becomes emperor — cf. *Med.* 6.30 ("to live, as far as possible, at court in the simplest way").
 
 3. **Early formation of inner discipline.** The thesis "to refrain not only from deeds but even from thoughts" is one of the programmatic statements of the whole *Meditations* and one of the principal loci of Stoic interiorisation of ethics. By ascribing this discipline to his **mother**, Marcus communicates that Stoic inner vigilance was not for him an intellectual discovery in his adult years — it was part of the family *habitus* from childhood, prior to systematic philosophical schooling.
+
+#### External corpus: Fronto
+
+The principal external source on Domitia Lucilla is Fronto's correspondence. Among the surviving letters are several *addressed directly to her* in Greek (for example, *Ad M. Caes.* 2.15: birthday wishes for her health). In his letters to Marcus himself, Fronto regularly enquires after her health, sends his greetings, and refers to her opinions on matters shared with her. From this corpus one can reconstruct the picture of a woman of refined Greek learning, sustaining a domestic philosophical-literary circle and possessing her own intellectual reputation in her son's environment.
 
 ## Цитируется/упоминается у Марка
 
@@ -65,14 +71,6 @@ Marcus characterises his mother by four qualities (see [[01-03]] and the comment
 
 - [[01-03]] — the only direct mention in the *Meditations*, with the four virtues ascribed to her.
 - [[01-17]] — in the closing thanksgiving paragraph Marcus mentions "τὸ τυχεῖν τοιαύτης μητρός" ("that I came to have such a mother") among the goods for which he gives thanks to fortune and the gods; a secondary, more general reference.
-
-## Внешний корпус: Фронтон
-
-Главный внеавторский источник о Domitia Lucilla — переписка Фронтона. Среди дошедших писем — несколько *прямо адресованных ей* на греческом языке (например, *Ad M. Caes.* 2.15: пожелания здоровья на её день рождения). В письмах к самому Марку Фронтон регулярно осведомляется о её здоровье, передаёт приветы, ссылается на её мнения в общих с ней вопросах. По этому корпусу восстанавливается образ женщины тонкой греческой образованности, поддерживавшей домашний философско-литературный круг и обладавшей собственной интеллектуальной репутацией в окружении сына.
-
-## External corpus: Fronto
-
-The principal external source on Domitia Lucilla is Fronto's correspondence. Among the surviving letters are several *addressed directly to her* in Greek (for example, *Ad M. Caes.* 2.15: birthday wishes for her health). In his letters to Marcus himself, Fronto regularly enquires after her health, sends his greetings, and refers to her opinions on matters shared with her. From this corpus one can reconstruct the picture of a woman of refined Greek learning, sustaining a domestic philosophical-literary circle and possessing her own intellectual reputation in her son's environment.
 
 ## Литература
 
@@ -87,7 +85,6 @@ The principal external source on Domitia Lucilla is Fronto's correspondence. Amo
 - A. R. Birley, "The Wives of the Emperor Marcus Aurelius", *Klio* 79 (1997) — реконструкция женского окружения Марка, с разделом о матери.
 
 ## Literature
-
 - **SHA *Marcus*** 1.3, 1.10 — brief references to the mother.
 - **Fronto**, *Ad M. Caesarem* and *Ad Antoninum Imperatorem*, ed. M. P. J. van den Hout, *M. Cornelii Frontonis Epistulae* (Teubner, 2nd ed., 1988) — the principal modern critical text; letters to Domitia Lucilla — *Ad M. Caes.* 2.15 and *passim*.
 - **PIR² D 183** — the standard prosopographical entry.

@@ -14,7 +14,7 @@ role_en: wife of Antoninus Pius; paternal aunt of Marcus Aurelius; mother of Fau
 
 Annia Galeria Faustina Maior (c. 100–140/141) — sister of Marcus's father (Marcus Annius Verus the Younger) and wife of Antoninus Pius. She died early in her husband's reign (140/141) and was deified by the Senate; in her honour Antoninus raised a temple in the Roman Forum (after his own death in 161 the dedication was extended to both — *Templum Antonini et Faustinae*). Her daughter Faustina the Younger became Marcus's wife.
 
-## Значение у Марка
+## Цитируется/упоминается у Марка
 
 Появляется как **пример транзиенции даже императорского дома**, не как философски весомая фигура:
 
@@ -28,6 +28,10 @@ She appears as an **exemplum of the transience of even the imperial house**, not
 - [[08-25]] — "Antoninus buried Faustina, then he too was buried": a pair in the roll-call of the dead.
 - [[01-02]] — biographical background: sister of Marcus's father, wife of Antoninus Pius (footnote).
 
-## Источники / Sources
+## Литература
 
 SHA *Antoninus Pius* 1, 5; A. Birley, *Marcus Aurelius: A Biography*, гл. 2. Не путать с дочерью — [[faustina-the-younger|Фаустиной Младшей]], женой Марка; муж — [[antoninus-pius|Антонин Пий]].
+
+## Literature
+
+SHA *Antoninus Pius* 1, 5; A. Birley, *Marcus Aurelius: A Biography*, ch. 2. Not to be confused with her daughter, [[faustina-the-younger|Faustina the Younger]], Marcus's wife; her husband was [[antoninus-pius|Antoninus Pius]].

@@ -13,16 +13,32 @@ role_en: successor of Aristotle at the Lyceum, scholarch of the Peripatetic scho
 ---
 
 ## Биография
-
 Феофраст из Эреса (Лесбос), первоначально ученик Платона, потом — Аристотеля, чьё доверие он завоевал настолько, что Аристотель в завещании назначил его опекуном своих детей и преемником в Ликее. После смерти Аристотеля (322 до н.э.) Феофраст возглавил школу и был её схолархом 35 лет. При нём Ликей достиг максимальной численности — Диоген Лаэртский (V 37) сообщает о двух тысячах слушателей, что для античной философской школы — небывалая цифра.
 
 Был автором приблизительно 240 сочинений (полный каталог сохранил DL V 42–50) — по логике, физике, естествознанию (особенно ботанике и минералогии), психологии, этике, риторике, политической теории, физиогномии и истории философии. До нас полностью дошли только три работы: *Характеры* (этические зарисовки 30 человеческих типов — параграф о льстеце, параграф о суеверном и т. д.); *Исследование о растениях* (Περὶ φυτῶν ἱστορία); *О причинах растений* (Περὶ φυτῶν αἰτιῶν). Этими двумя книгами по ботанике Феофраст основал европейскую ботаническую науку. Остальные сочинения сохранились во фрагментах, часто через цитирование позднейшими авторами.
 
-## Biography
+#### Утраченное сочинение
 
+Точное название работы, цитируемой в [[02-10]], неизвестно. Кандидаты:
+- *Περὶ ἁμαρτημάτων* — «О проступках» (часто предполагается)
+- *Περὶ ἀδικημάτων* — «О несправедливостях»
+- *Περὶ ἠθῶν* — «Об этосах» (более общее)
+
+Фрагмент в Марке — один из основных дошедших до нас источников Феофрастовой этики. Включён в стандартное издание Fortenbaugh, *Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence* (FHSG); этическая секция фрагментов охватывает №№ 436–451, цитата Марка соответствует fr. 449 (в принятой нумерации Fortenbaugh).
+
+## Biography
 Theophrastus of Eresos (Lesbos) was first a pupil of Plato, then of Aristotle, whose confidence he won to such a degree that in his will Aristotle appointed him guardian of his children and his successor at the Lyceum. After Aristotle's death (322 BCE), Theophrastus took over the school and was its scholarch for thirty-five years. Under him the Lyceum reached its largest size — Diogenes Laertius (V 37) reports an attendance of two thousand, an unprecedented figure for an ancient philosophical school.
 
 He was the author of some 240 works (Diogenes Laertius preserves the full catalogue at V 42–50) — on logic, physics, natural science (especially botany and mineralogy), psychology, ethics, rhetoric, political theory, physiognomy, and the history of philosophy. Only three works survive entire: the *Characters* (ethical sketches of thirty human types — the paragraph on the flatterer, the paragraph on the superstitious man, and so on); the *Enquiry into Plants* (Περὶ φυτῶν ἱστορία); and *On the Causes of Plants* (Περὶ φυτῶν αἰτιῶν). With these two books of botany Theophrastus founded the European science of botany. The remaining works survive in fragments, often through citation by later authors.
+
+#### The lost work
+
+The exact title of the work cited in [[02-10]] is unknown. Candidates:
+- *Περὶ ἁμαρτημάτων* — "On Offences" (often assumed)
+- *Περὶ ἀδικημάτων* — "On Injustices"
+- *Περὶ ἠθῶν* — "On Characters" (more general)
+
+The fragment in Marcus is one of the principal surviving sources for Theophrastus' ethics. It is included in the standard edition of Fortenbaugh, *Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence* (FHSG); the ethical section of fragments covers nos. 436–451, and Marcus's citation corresponds to fr. 449 (in the established Fortenbaugh numbering).
 
 ## Философское значение
 
@@ -54,24 +70,6 @@ Influence on the Stoics: Chrysippus, in shaping his theory of the [[pathos|passi
 
 - [[02-10]] — the only sustained citation in Marcus. From a lost ethical work: the thesis that offences born of [[epithymia|ἐπιθυμία]] (desire) are graver than offences born of [[thymos|θυμός]] (anger), because they are initiated out of pleasure and one's own impulse, and not driven by a preceding pain. Marcus cites it approvingly: «ὀρθῶς οὖν καὶ φιλοσοφίας ἀξίως» — "rightly, and worthily of philosophy." This is the **only** place in the whole of Book II where Marcus names a philosophical authority.
 
-## Утраченное сочинение
-
-Точное название работы, цитируемой в [[02-10]], неизвестно. Кандидаты:
-- *Περὶ ἁμαρτημάτων* — «О проступках» (часто предполагается)
-- *Περὶ ἀδικημάτων* — «О несправедливостях»
-- *Περὶ ἠθῶν* — «Об этосах» (более общее)
-
-Фрагмент в Марке — один из основных дошедших до нас источников Феофрастовой этики. Включён в стандартное издание Fortenbaugh, *Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence* (FHSG); этическая секция фрагментов охватывает №№ 436–451, цитата Марка соответствует fr. 449 (в принятой нумерации Fortenbaugh).
-
-## The lost work
-
-The exact title of the work cited in [[02-10]] is unknown. Candidates:
-- *Περὶ ἁμαρτημάτων* — "On Offences" (often assumed)
-- *Περὶ ἀδικημάτων* — "On Injustices"
-- *Περὶ ἠθῶν* — "On Characters" (more general)
-
-The fragment in Marcus is one of the principal surviving sources for Theophrastus' ethics. It is included in the standard edition of Fortenbaugh, *Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence* (FHSG); the ethical section of fragments covers nos. 436–451, and Marcus's citation corresponds to fr. 449 (in the established Fortenbaugh numbering).
-
 ## Литература
 
 - Diogenes Laertius V 36–57 — биография
@@ -81,7 +79,6 @@ The fragment in Marcus is one of the principal surviving sources for Theophrastu
 - F. Wehrli, ред., *Die Schule des Aristoteles*, Bd. I (Феофрастовы тексты ранее Fortenbaugh)
 
 ## Literature
-
 - Diogenes Laertius V 36–57 — biography
 - W. W. Fortenbaugh, P. M. Huby, R. W. Sharples, D. Gutas, *Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence*, Brill, 1992–2005 (the standard collection of fragments, 10 volumes)
 - W. W. Fortenbaugh, *Theophrastus of Eresus: Commentary Volume 6.1, Sources on Ethics*, Brill, 2011

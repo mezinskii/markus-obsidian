@@ -48,7 +48,7 @@ Diogenes authored not a system but a *way of life*; his "teaching" is a practice
 
 The line of succession **Diogenes → Crates → Zeno** makes Cynicism a direct root of the Stoa; for Marcus, Diogenes is a model of [[virtue-is-sufficient|the sufficiency of virtue]] and of indifference to externals.
 
-## Упоминания у Марка
+## Цитируется/упоминается у Марка
 
 - [[08-03]] — в триаде истинных мудрецов **Диоген, Гераклит, Сократ**, противопоставленных завоевателям (Александр, Гай, Помпей): они «прозревали вещи, их причины и материю», и руководящее начало их было верно себе.
 - **Назван в тексте** в [[11-06]]: в очерке истории драмы древняя комедия наделена παιδαγωγικὴ παρρησία и пользой для ἀτυφίας, «для чего и Диоген кое-что у неё перенял» (παρελάμβανε) — единственное место, где Марк отмечает долг киника перед литературным жанром.
@@ -60,18 +60,22 @@ The line of succession **Diogenes → Crates → Zeno** makes Cynicism a direct 
 - Cynic-Stoic **autarkeia** — the background of [[04-13]] (philosophy without tunic, book, or bread) and [[04-30]] (the philosopher without means); Diogenes is named as the exemplar in the commentary to both.
 - **Named in the text** at [[11-06]]: in the sketch of the history of drama, the old comedy is credited with παιδαγωγικὴ παρρησία and with usefulness toward ἀτυφία, "and for that purpose Diogenes too took things over from it" (παρελάμβανε) — the one place where Marcus records a debt of the Cynic to a literary genre.
 
-## Источники и свидетельства
+## Литература
+- D. R. Dudley, *A History of Cynicism*, London 1937.
+- R. Bracht Branham & M.-O. Goulet-Cazé (eds.), *The Cynics: The Cynic Movement in Antiquity and Its Legacy*, Berkeley 1996.
+- A. A. Long, "The Socratic Tradition: Diogenes, Crates, and Hellenistic Ethics," in *From Epicurus to Epictetus*, Oxford 2006.
+
+#### Источники и свидетельства
 
 - **Diogenes Laertius VI 20–81** — главный источник (жизнь, хрии, апофтегмы).
 - Дион Хрисостом, речи 6, 8–10 (кинические). Эпиктет, *Disc.* 3.22 (портрет истинного киника). Стоическая линия — SVF I (Зенон, ученик Кратета).
 
-## Sources and testimonia
-
-- **Diogenes Laertius VI 20–81** — the principal source (life, chreiai, apophthegms).
-- Dio Chrysostom, orations 6, 8–10 (the Cynic discourses). Epictetus, *Disc.* 3.22 (portrait of the true Cynic). The Stoic line — SVF I (Zeno, pupil of Crates).
-
-## Литература / Literature
-
+## Literature
 - D. R. Dudley, *A History of Cynicism*, London 1937.
 - R. Bracht Branham & M.-O. Goulet-Cazé (eds.), *The Cynics: The Cynic Movement in Antiquity and Its Legacy*, Berkeley 1996.
 - A. A. Long, "The Socratic Tradition: Diogenes, Crates, and Hellenistic Ethics," in *From Epicurus to Epictetus*, Oxford 2006.
+
+#### Sources and testimonia
+
+- **Diogenes Laertius VI 20–81** — the principal source (life, chreiai, apophthegms).
+- Dio Chrysostom, orations 6, 8–10 (the Cynic discourses). Epictetus, *Disc.* 3.22 (portrait of the true Cynic). The Stoic line — SVF I (Zeno, pupil of Crates).

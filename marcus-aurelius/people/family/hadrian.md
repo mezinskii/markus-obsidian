@@ -14,7 +14,7 @@ role_en: Roman emperor (117–138); adoptive "grandfather" of Marcus by the adop
 
 Publius Aelius Hadrianus (76–138) — Roman emperor from 117, successor of Trajan, one of the "five good emperors." A philhellene, a builder (the villa at Tibur, the Pantheon, the wall in Britain), a tireless traveller through the provinces. Childless, in 138 he adopted Antoninus Pius on condition that Antoninus in turn adopt the young Marcus (and Lucius Verus) — so Hadrian set in place the whole dynastic chain that brought Marcus to power. He died at Baiae in 138.
 
-## Значение у Марка
+## Цитируется/упоминается у Марка
 
 Адриан появляется у Марка **не как родич, а как эталон**: если даже недавний всесильный принцепс уже «нигде», то забота о посмертной славе пуста. Это устойчивый мотив транзиенции власти, идущий парой с Августом.
 
@@ -40,6 +40,10 @@ Hadrian appears in Marcus **not as kin but as a measure**: if even the recent al
 - [[01-04]] — biographical background (Catilius Severus's disgrace under Hadrian in 138).
 - [[01-16]] — the context of Antoninus's reign, succeeding Hadrian.
 
-## Источники / Sources
+## Литература
 
-SHA *Hadrian*; Cassius Dio 69; A. Birley, *Hadrian: The Restless Emperor*, Routledge, 1997; A. Birley, *Marcus Aurelius: A Biography*, гл. 2–3 (цепь усыновления / the adoption chain).
+SHA *Hadrian*; Cassius Dio 69; A. Birley, *Hadrian: The Restless Emperor*, Routledge, 1997; A. Birley, *Marcus Aurelius: A Biography*, гл. 2–3 (цепь усыновления).
+
+## Literature
+
+SHA *Hadrian*; Cassius Dio 69; A. Birley, *Hadrian: The Restless Emperor*, Routledge, 1997; A. Birley, *Marcus Aurelius: A Biography*, chs. 2–3 (the adoption chain).

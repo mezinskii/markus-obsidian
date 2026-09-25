@@ -13,18 +13,11 @@ role_en: king of Macedon, conqueror of the Persian Empire, pupil of Aristotle; i
 ---
 
 ## Биография
-
-Александр III — сын Филиппа II Македонского и Олимпиады; в отрочестве воспитанник **Аристотеля**. Унаследовав престол в 336 г. до н.э., за неполные тринадцать лет завоевал Персидскую империю, дошёл до Индии, основал ряд городов (прежде всего Александрию Египетскую) и создал державу, невиданную по размаху. Умер в Вавилоне в 323 г. до н.э., тридцати двух лет, от лихорадки (versions: also debated — drink or poison). Империя немедленно распалась в войнах диадохов.
+Александр III — сын Филиппа II Македонского и Олимпиады; в отрочестве воспитанник **Аристотеля**. Унаследовав престол в 336 г. до н.э., за неполные тринадцать лет завоевал Персидскую империю, дошёл до Индии, основал ряд городов (прежде всего Александрию Египетскую) и создал державу, невиданную по размаху. Умер в Вавилоне в 323 г. до н.э., тридцати двух лет, от лихорадки (по другим версиям — от пьянства или яда). Империя немедленно распалась в войнах диадохов.
 
 Александр у Марка появляется **не как философ**, а как **исторический пример**: величайший из завоевателей, чья власть и слава не отменили смерти. Это фигура для [[meditatio-mortis|памятования смерти]], а не источник доктрины.
 
-## Biography
-
-Alexander III was the son of Philip II of Macedon and Olympias; in boyhood a pupil of **Aristotle**. Succeeding to the throne in 336 BCE, in not quite thirteen years he conquered the Persian Empire, reached India, founded a number of cities (above all Alexandria in Egypt), and created a dominion of unheard-of extent. He died at Babylon in 323 BCE, aged thirty-two, of a fever (the cause is also debated — drink, or poison). The empire fragmented at once in the wars of the Diadochi.
-
-Alexander appears in Marcus **not as a philosopher** but as a **historical exemplum**: the greatest of conquerors, whose power and fame did not annul death. He is a figure for [[meditatio-mortis|the memory of death]], not a source of doctrine.
-
-## Значение у Марка
+#### Значение у Марка
 
 Александр — постоянный образ **уравнивающей силы смерти**. Самый яркий пример — [[06-24]]: «Александр Великий и его погонщик мулов по смерти пришли в одно и то же: либо были приняты в те же семенные основания (λόγοι σπερματικοί) мира, либо одинаково рассеялись в атомы». Завоеватель вселенной мёртв ровно так же, как последний из его слуг; величие при жизни ничего не меняет в исходе. (Заметим: и здесь Марк держит наготове ту же развилку «семенные логосы или атомы» — стоики или [[democritus|Демокрит]].)
 
@@ -32,7 +25,12 @@ Alexander appears in Marcus **not as a philosopher** but as a **historical exemp
 
 В [[08-03]] Александр, Цезарь и Помпей прямо **противопоставлены** мудрецам ([[socrates|Сократу]], Диогену, [[heraclitus|Гераклиту]]): завоеватели подчиняли тела, философы постигали природу вещей — и кто оказался свободнее?
 
-## Significance in Marcus
+## Biography
+Alexander III was the son of Philip II of Macedon and Olympias; in boyhood a pupil of **Aristotle**. Succeeding to the throne in 336 BCE, in not quite thirteen years he conquered the Persian Empire, reached India, founded a number of cities (above all Alexandria in Egypt), and created a dominion of unheard-of extent. He died at Babylon in 323 BCE, aged thirty-two, of a fever (the cause is also debated — drink, or poison). The empire fragmented at once in the wars of the Diadochi.
+
+Alexander appears in Marcus **not as a philosopher** but as a **historical exemplum**: the greatest of conquerors, whose power and fame did not annul death. He is a figure for [[meditatio-mortis|the memory of death]], not a source of doctrine.
+
+#### Significance in Marcus
 
 Alexander is a recurring image of the **levelling power of death**. The most vivid instance is [[06-24]]: "Alexander the Great and his muleteer came, in death, to one and the same state: either they were taken up into the same seminal principles (λόγοι σπερματικοί) of the world, or were alike scattered into atoms." The conqueror of the world is exactly as dead as the least of his servants; greatness in life changes nothing in the outcome. (Note: here too Marcus keeps ready the same fork "seminal principles or atoms" — the Stoics or [[democritus|Democritus]].)
 
@@ -40,20 +38,31 @@ In [[03-03]] Alexander heads the **triad of conquerors** (with Pompey and Gaius 
 
 In [[08-03]] Alexander, Caesar, and Pompey are directly **contrasted** with the sages ([[socrates|Socrates]], Diogenes, [[heraclitus|Heraclitus]]): the conquerors subdued bodies, the philosophers grasped the nature of things — and which proved the freer?
 
-## Упоминания у Марка / Mentions in Marcus
+## Цитируется/упоминается у Марка
 
 - [[03-03]] — глава триады завоевателей в каталоге смертей.
 - [[06-24]] — Александр и погонщик мулов уравнены смертью (самый известный образ).
 - [[08-03]] — завоеватели против мудрецов.
-- [[10-27]] — Александр среди пяти дворов «более древней истории», рядом с Филиппом и Крезом: те же драмы, «только через других». / Alexander among the five courts of "older history," beside Philip and Croesus: the same dramas, "only through others."
-- [[09-29]] — Александр, Филипп, Деметрий Фалерский: понимали ли они, чего хочет общая природа, и воспитали ли себя? Если «играли трагедию» — подражать им никто не велит. / Alexander, Philip and Demetrius of Phalerum: did they discern what the common nature willed and school themselves? If they "played it as tragedy," no one bids us imitate them.
+- [[10-27]] — Александр среди пяти дворов «более древней истории», рядом с Филиппом и Крезом: те же драмы, «только через других».
+- [[09-29]] — Александр, Филипп, Деметрий Фалерский: понимали ли они, чего хочет общая природа, и воспитали ли себя? Если «играли трагедию» — подражать им никто не велит.
 
-## Источники / Sources
+## Mentions in Marcus
+
+- [[03-03]] — at the head of the triad of conquerors in the catalogue of deaths.
+- [[06-24]] — Alexander and the mule-driver made equal by death (the best-known image).
+- [[08-03]] — conquerors against sages.
+- [[10-27]] — Alexander among the five courts of "older history," beside Philip and Croesus: the same dramas, "only through others."
+- [[09-29]] — Alexander, Philip and Demetrius of Phalerum: did they discern what the common nature willed and school themselves? If they "played it as tragedy," no one bids us imitate them.
+
+## Литература
 
 - **Арриан**, *Анабасис Александра*; **Плутарх**, *Александр*; Квинт Курций Руф; Диодор Сицилийский, кн. XVII.
 - Связь с перипатетиками — через наставника Аристотеля; ср. карточку [[theophrastus]].
+- A. B. Bosworth, *Conquest and Empire: The Reign of Alexander the Great*, Cambridge 1988.
+- R. Lane Fox, *Alexander the Great*, London 1973.
 
-## Литература / Literature
-
+## Literature
+- **Arrian**, *Anabasis of Alexander*; **Plutarch**, *Alexander*; Quintus Curtius Rufus; Diodorus Siculus, book XVII.
+- The link with the Peripatetics runs through his teacher Aristotle; cf. the card [[theophrastus]].
 - A. B. Bosworth, *Conquest and Empire: The Reign of Alexander the Great*, Cambridge 1988.
 - R. Lane Fox, *Alexander the Great*, London 1973.

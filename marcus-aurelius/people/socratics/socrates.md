@@ -54,7 +54,7 @@ Socrates effected the **turn of philosophy from nature to ethics**: the central 
 
 Strikingly, the **disjunction on death** in [[03-03]] (either another life or insensibility — and neither is to be feared) reproduces Socrates' own argument in the *Apology* 40c–41c (death is either a dreamless sleep or a migration of the soul). Here Marcus thinks in literally Socratic terms.
 
-## Упоминания у Марка
+## Цитируется/упоминается у Марка
 
 - [[03-03]] — гибель «от других вшей» (обвинителей) в каталоге знаменитых смертей; и дизъюнктивное утешение, восходящее к сократовой *Апологии*.
 - [[03-06]] — явная атрибуция: даймон «оторвал себя от обольщений чувств, **как говорил Сократ**» (ὡς ὁ Σωκράτης ἔλεγεν) — отсылка к платоновскому *Федону* (65a–67b: философия как отвлечение души от тела и чувств), вплавленная в стоическую дисциплину согласия.
@@ -82,21 +82,24 @@ Strikingly, the **disjunction on death** in [[03-03]] (either another life or in
 - [[11-28]] — Socrates girt with a sheepskin after Xanthippe had gone out with his cloak; Marcus notes not his nerve but that his companions "were ashamed and withdrew," and **does not give the line itself**.
 - [[11-39]] — the cross-examination in four moves with which **Book XI ends**: souls rational or irrational, sound or worthless, "why then do you not seek them?" — "because we have them" — "why then do you fight and quarrel?"
 
-## Источники
+## Литература
+- G. Vlastos, *Socrates: Ironist and Moral Philosopher*, Cambridge 1991.
+- A. A. Long, "Socrates in Hellenistic Philosophy," *Classical Quarterly* 38 (1988), 150–171.
+
+#### Источники
 
 - **Платон** — диалоги, особенно *Апология*, *Критон*, *Федон* (суд, тюрьма, смерть); *Апология* 40c–41d — дизъюнкция о смерти и тезис о неуязвимости доброго.
 - **Ксенофонт** — *Воспоминания о Сократе* (Ἀπομνημονεύματα), *Апология*, *Пир*.
 - **Диоген Лаэртский II 18–47** — биография.
 - Стоическая рецепция: A. A. Long, "Socrates in Hellenistic Philosophy," в *Stoic Studies*, Cambridge 1996.
 
-## Sources
+## Literature
+- G. Vlastos, *Socrates: Ironist and Moral Philosopher*, Cambridge 1991.
+- A. A. Long, "Socrates in Hellenistic Philosophy," *Classical Quarterly* 38 (1988), 150–171.
+
+#### Sources
 
 - **Plato** — the dialogues, especially the *Apology*, *Crito*, *Phaedo* (trial, prison, death); *Apology* 40c–41d — the disjunction on death and the thesis of the good man's invulnerability.
 - **Xenophon** — *Memorabilia* (Ἀπομνημονεύματα), *Apology*, *Symposium*.
 - **Diogenes Laertius II 18–47** — biography.
 - Stoic reception: A. A. Long, "Socrates in Hellenistic Philosophy," in *Stoic Studies*, Cambridge 1996.
-
-## Литература / Literature
-
-- G. Vlastos, *Socrates: Ironist and Moral Philosopher*, Cambridge 1991.
-- A. A. Long, "Socrates in Hellenistic Philosophy," *Classical Quarterly* 38 (1988), 150–171.

@@ -48,7 +48,7 @@ Heraclitus is a pivotal figure for the Stoics; it is from him that the Stoa draw
 
 For understanding Marcus, Heraclitus matters more than any other Presocratic: the Stoic λόγος, ἐκπύρωσις, the cosmic fire-[[pneuma|pneuma]], and the doctrine of ceaseless [[metabole|transformation]] all go back to him.
 
-## Упоминания у Марка
+## Цитируется/упоминается у Марка
 
 - [[03-03]] — смерть от водянки в каталоге знаменитых смертей: «столько рассуждавший о всемирном пожаре (ἐκπύρωσις), умер, наполнившись водой изнутри». Урок: глубочайшая φυσιολογία не избавляет тело от жалкого конца.
 - [[04-46]] — самое **развёрнутое** обращение: Марк прямо цитирует Гераклита (смерть земли — стать водой, воды — стать воздухом; «они расходятся с тем логосом, с которым более всего связаны»; «не должно поступать как дети своих родителей»).
@@ -66,20 +66,24 @@ For understanding Marcus, Heraclitus matters more than any other Presocratic: th
 - [[08-03]] — in the triad of true sages (Diogenes, Heraclitus, Socrates) against the conquerors (Alexander, Gaius, Pompey).
 - The river/stream image — *Med.* 2.17, 4.43, 5.23, 6.15, 9.29; see the card [[body-as-river]].
 
-## Источники и фрагменты
+## Литература
+- Ch. Kahn, *The Art and Thought of Heraclitus*, Cambridge 1979.
+- G. S. Kirk, J. E. Raven, M. Schofield, *The Presocratic Philosophers*, 2nd ed., Cambridge 1983, ch. VI.
+- A. A. Long, "Heraclitus and Stoicism," in *Stoic Studies*, Cambridge 1996.
+
+#### Источники и фрагменты
 
 - **Diels-Kranz 22** (раздел B — собственные фрагменты, ок. 125): B1 (логос), B12/B49a/B91 (река), B30 (вечно живой огонь), B53 (война — отец всего), B60 (путь вверх-вниз), B90 (обмен огня на всё).
 - **Diogenes Laertius IX 1–17** — биография и смерть.
 - Стоическая рецепция — SVF I (Зенон) и II (Хрисипп о ἐκπύρωσις); Long & Sedley гл. 46 (Stoic cosmology), гл. 28.
 
-## Sources and fragments
+## Literature
+- Ch. Kahn, *The Art and Thought of Heraclitus*, Cambridge 1979.
+- G. S. Kirk, J. E. Raven, M. Schofield, *The Presocratic Philosophers*, 2nd ed., Cambridge 1983, ch. VI.
+- A. A. Long, "Heraclitus and Stoicism," in *Stoic Studies*, Cambridge 1996.
+
+#### Sources and fragments
 
 - **Diels-Kranz 22** (section B — his own fragments, c. 125): B1 (the logos), B12/B49a/B91 (the river), B30 (the ever-living fire), B53 (war the father of all), B60 (the way up and down), B90 (the exchange of fire for all things).
 - **Diogenes Laertius IX 1–17** — biography and death.
 - The Stoic reception — SVF I (Zeno) and II (Chrysippus on ἐκπύρωσις); Long & Sedley ch. 46 (Stoic cosmology), ch. 28.
-
-## Литература / Literature
-
-- Ch. Kahn, *The Art and Thought of Heraclitus*, Cambridge 1979.
-- G. S. Kirk, J. E. Raven, M. Schofield, *The Presocratic Philosophers*, 2nd ed., Cambridge 1983, ch. VI.
-- A. A. Long, "Heraclitus and Stoicism," in *Stoic Studies*, Cambridge 1996.
