@@ -1,0 +1,68 @@
+filters:
+  and:
+    - file.inFolder("letters")
+    - type == "letter"
+    - '!file.inFolder("letters/_templates")'
+properties:
+  file.name:
+    displayName: Файл
+  number:
+    displayName: №
+  date:
+    displayName: Дата
+  status:
+    displayName: Статус
+  passages:
+    displayName: Фрагмент
+  subject:
+    displayName: Тема
+  lang:
+    displayName: Языки
+  open_rate:
+    displayName: Open rate
+  book_chapter:
+    displayName: Глава книги
+views:
+  - type: table
+    name: Все письма
+    order:
+      - number
+      - date
+      - passages
+      - subject
+      - status
+      - lang
+      - open_rate
+      - book_chapter
+    sort:
+      - property: number
+        direction: DESC
+  - type: table
+    name: В работе
+    filters:
+      and:
+        - status != "sent"
+    order:
+      - number
+      - date
+      - passages
+      - subject
+      - status
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: Ещё не в книге
+    filters:
+      and:
+        - status == "sent"
+        - kind == "fragment"
+        - "!book_chapter"
+    order:
+      - passages
+      - subject
+      - number
+      - open_rate
+    sort:
+      - property: passages
+        direction: ASC
