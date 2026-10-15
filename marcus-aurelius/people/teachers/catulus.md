@@ -15,7 +15,7 @@ role_en: one of the Stoic teachers of Marcus, mentioned in the canonical list of
 ## Биография
 **Скудость источников.** Цинна Катулл — фигура, биографически восстанавливаемая **минимально**. Все, что́ нам надёжно известно о нём, исчерпывается:
 1. Упоминанием в каталоге наставников у Марка ([[01-13]]) — единственным развёрнутым свидетельством, и при этом сообщающим только этическую «расписку», а не биографические данные.
-2. Включением в стандартный список философских учителей Марка в **SHA *Марк*** (Vita Marci, гл. 3), где Катулл назван среди стоических наставников вместе с [[apollonius|Аполлонием Халкидонским]], [[junius-rusticus|Юнием Рустиком]], [[sextus|Секстом из Херонеи]], Клавдием Максимом и другими. (Точная сегментация подпараграфов в гл. 3 разнится по изданиям SHA; следует сверить по изданию Hohl.)
+2. Включением в стандартный список философских учителей Марка в **SHA *Марк*** (Vita Marci, гл. 3), где Катулл назван среди стоических наставников вместе с [[apollonius|Аполлонием Халкидонским]], [[junius-rusticus|Юнием Рустиком]], [[sextus|Секстом из Херонеи]], Клавдием Максимом и другими.
 
 Помимо этих двух свидетельств — **ни биографических деталей, ни анекдотов, ни сохранившихся фрагментов сочинений**. Просопографические справочники (PIR², просопографические базы римских философов) дают на него короткую запись преимущественно по тем же двум источникам, не добавляя достоверной информации. В сноске Роговина к [[01-13]] он назван «Цинна Катулл», и эта форма имени — стандартная для современного академического употребления.
 
@@ -37,7 +37,7 @@ role_en: one of the Stoic teachers of Marcus, mentioned in the canonical list of
 ## Biography
 **Scarcity of sources.** Cinna Catulus is a figure to be reconstructed biographically **only minimally**. Everything we securely know about him is exhausted by:
 1. The mention in Marcus's catalogue of mentors ([[01-13]]) — the only developed testimony, and even this reports only the ethical "receipt," not biographical data.
-2. Inclusion in the standard list of Marcus's philosophical teachers in **SHA *Marcus*** (Vita Marci, ch. 3), where Catulus is named among the Stoic mentors alongside [[apollonius|Apollonius of Chalcedon]], [[junius-rusticus|Junius Rusticus]], [[sextus|Sextus of Chaeronea]], Claudius Maximus, and others. (The exact segmentation of sub-paragraphs in ch. 3 varies between editions of the SHA; consult Hohl's edition.)
+2. Inclusion in the standard list of Marcus's philosophical teachers in **SHA *Marcus*** (Vita Marci, ch. 3), where Catulus is named among the Stoic mentors alongside [[apollonius|Apollonius of Chalcedon]], [[junius-rusticus|Junius Rusticus]], [[sextus|Sextus of Chaeronea]], Claudius Maximus, and others.
 
 Beyond these two testimonies, **no biographical details, no anecdotes, no surviving fragments of writings**. The prosopographical handbooks (PIR², prosopographical databases of Roman philosophers) give him a short entry primarily on the basis of these same two sources, without adding reliable information. In Rogovin's footnote to [[01-13]] he is called "Cinna Catulus," and this form of the name is standard in current academic usage.
 
@@ -68,17 +68,17 @@ Beyond these two testimonies, **no biographical details, no anecdotes, no surviv
 
 ## Литература
 
-- **SHA *Марк*** (Vita Marci), гл. 3 — каталог философских учителей Марка, где Катулл числится среди стоиков. Стандартный текст — Hohl, Teubner; точную сегментацию подпараграфов следует сверить по изданию.
+- **SHA *Марк*** (Vita Marci), гл. 3 — каталог философских учителей Марка, где Катулл числится среди стоиков. Стандартный текст — Hohl, Teubner.
 - **A. Birley,** *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, гл. 3 («Education») — реконструкция стоического образовательного окружения Марка; для Катулла Birley констатирует ту же скудость источников.
 - **A. S. L. Farquharson,** *The Meditations of the Emperor Marcus Antoninus*, Oxford 1944, vol. II, ad 1.13 — стандартный филологический комментарий; обсуждает в т. ч. безуспешные попытки идентифицировать Домиция и Атенодота.
 - **R. Hard,** *Marcus Aurelius: Meditations*, OWC, Oxford 2011, notes ad 1.13.
-- **P. Hadot,** *The Inner Citadel*, tr. M. Chase, Harvard 1998 — общая реконструкция стоического образования Марка (по индексу, если есть статья о Катулле).
-- **PIR²** — короткая просопографическая запись преимущественно на основании SHA и Med. (точный entry-number следует сверить по PIR²).
+- **P. Hadot,** *The Inner Citadel*, tr. M. Chase, Harvard 1998 — общая реконструкция стоического образования Марка.
+- **PIR²** — короткая просопографическая запись преимущественно на основании SHA и Med..
 
 ## Literature
-- **SHA *Marcus*** (Vita Marci), ch. 3 — the catalogue of Marcus's philosophical teachers, where Catulus is reckoned among the Stoics. Standard text — Hohl, Teubner; the precise segmentation of sub-paragraphs should be verified against the edition.
+- **SHA *Marcus*** (Vita Marci), ch. 3 — the catalogue of Marcus's philosophical teachers, where Catulus is reckoned among the Stoics. Standard text — Hohl, Teubner.
 - **A. Birley,** *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, ch. 3 ("Education") — the reconstruction of Marcus's Stoic educational environment; for Catulus, Birley records the same scarcity of sources.
 - **A. S. L. Farquharson,** *The Meditations of the Emperor Marcus Antoninus*, Oxford 1944, vol. II, ad 1.13 — the standard philological commentary; discusses, among other matters, the unsuccessful attempts to identify Domitius and Athenodotus.
 - **R. Hard,** *Marcus Aurelius: Meditations*, OWC, Oxford 2011, notes ad 1.13.
-- **P. Hadot,** *The Inner Citadel*, tr. M. Chase, Harvard 1998 — the general reconstruction of Marcus's Stoic education (consult the index for any entry on Catulus).
-- **PIR²** — a short prosopographical entry mainly on the basis of the SHA and the *Meditations* (the exact entry-number should be verified against PIR²).
+- **P. Hadot,** *The Inner Citadel*, tr. M. Chase, Harvard 1998 — the general reconstruction of Marcus's Stoic education.
+- **PIR²** — a short prosopographical entry mainly on the basis of the SHA and the *Meditations*.

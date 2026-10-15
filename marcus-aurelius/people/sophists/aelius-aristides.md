@@ -24,7 +24,7 @@ role_en: the principal representative of the Second Sophistic of the Antonine ge
 - **Городские речи** в честь крупных полисов (Смирны, Афин, Кизика).
 - **Полемические сочинения** против платоников-критиков риторики (две большие речи «Против Платона» в защиту риторики).
 - **Гимны** в прозе богам (Зевсу, Афине, Серапису).
-- **Похвальные и погребальные речи**, в том числе **Ἐπιτάφιος εἰς Ἀλέξανδρον** (Funeral Oration for Alexander) — речь в честь смерти [[alexander-the-grammarian|Александра-грамматика]], в стандартной нумерации Behr — *Or.* 32, но за точную привязку номера к этой речи в разных изданиях лучше сверяться непосредственно (нумерация Dindorf отличается).
+- **Похвальные и погребальные речи**, в том числе **Ἐπιτάφιος εἰς Ἀλέξανδρον** (Funeral Oration for Alexander) — речь в честь смерти [[alexander-the-grammarian|Александра-грамматика]], в стандартной нумерации Behr это *Or.* 32 (нумерация Dindorf отличается).
 
 #### Связь с Марком Аврелием
 
@@ -48,7 +48,7 @@ role_en: the principal representative of the Second Sophistic of the Antonine ge
 - **City-orations** in honour of major *poleis* (Smyrna, Athens, Cyzicus).
 - **Polemical works** against Platonist critics of rhetoric (two large speeches "Against Plato" in defence of rhetoric).
 - **Hymns** in prose to the gods (to Zeus, Athena, Serapis).
-- **Encomiastic and funeral orations**, including the **Ἐπιτάφιος εἰς Ἀλέξανδρον** (the Funeral Oration for Alexander) — the speech in honour of the death of [[alexander-the-grammarian|Alexander the Grammarian]], numbered *Or.* 32 in Behr's standard numbering, though for the precise correspondence of the number to this speech in different editions it is better to consult directly (the Dindorf numbering differs).
+- **Encomiastic and funeral orations**, including the **Ἐπιτάφιος εἰς Ἀλέξανδρον** (the Funeral Oration for Alexander) — the speech in honour of the death of [[alexander-the-grammarian|Alexander the Grammarian]], numbered *Or.* 32 in Behr's standard numbering (the Dindorf numbering differs).
 
 #### Connection with Marcus Aurelius
 

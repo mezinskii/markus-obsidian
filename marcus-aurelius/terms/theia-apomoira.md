@@ -1,5 +1,5 @@
 ---
-greek: ἀπόσπασμα θεοῦ (θεία ἀπομοῖρα)
+greek: ἀπόσπασμα θεοῦ (θεία ἀπόμοιρα)
 translit: theia apomoira
 translation_ru: божественный удел, божественная часть
 translation_en: the divine portion, the portion broken off from god
@@ -13,11 +13,11 @@ related_terms:
 
 ## Определение
 
-«Божественный удел» — доля, отделённая каждому человеку от божественного целого. Образ опирается на стоическую материалистическую теологию: бог-Логос пронизывает мир как творящий огонь (πῦρ τεχνικόν), и человеческая душа — особенно её разумная часть — есть «оторванный кусок» (ἀπόσπασμα) этого огня. ἀπομοῖρα буквально означает «выделенная часть» (от μοῖρα — «доля», «жребий»).
+«Божественный удел» — доля, отделённая каждому человеку от божественного целого. Образ опирается на стоическую материалистическую теологию: бог-Логос пронизывает мир как творящий огонь (πῦρ τεχνικόν), и человеческая душа — особенно её разумная часть — есть «оторванный кусок» (ἀπόσπασμα) этого огня. ἀπόμοιρα буквально означает «выделенная часть» (от μοῖρα — «доля», «жребий»).
 
 ## Definition
 
-"The divine portion" — the share apportioned to each human being out of the divine whole. The image rests on Stoic materialist theology: god-as-Logos pervades the world as a creative fire (πῦρ τεχνικόν), and the human soul — especially its rational part — is a "fragment torn off" (ἀπόσπασμα) from that fire. ἀπομοῖρα means literally "the portion separated out" (from μοῖρα, "lot," "share").
+"The divine portion" — the share apportioned to each human being out of the divine whole. The image rests on Stoic materialist theology: god-as-Logos pervades the world as a creative fire (πῦρ τεχνικόν), and the human soul — especially its rational part — is a "fragment torn off" (ἀπόσπασμα) from that fire. ἀπόμοιρα means literally "the portion separated out" (from μοῖρα, "lot," "share").
 
 ## Источник определения
 

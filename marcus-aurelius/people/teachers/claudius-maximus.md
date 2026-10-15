@@ -22,7 +22,7 @@ role_en: one of the principal Stoic teachers of Marcus (listed in the canonical 
 
 **Процесс Апулея и развёрнутое современное свидетельство.** Главный нехирологический источник о Максиме — собственная защитительная речь **Апулея**, известная как **Apologia** (или *Pro se de magia* — «За себя, в ответ на обвинение в магии»). Около 158/159 г. в Сабрате (город в провинции Tripolitania, на территории римской Африки) Апулей предстал перед судом по обвинению в применении магии для соблазнения богатой вдовы Пуденциллы и завладения её имуществом. **Максим председательствовал на процессе** как проконсул. Апулей, оправдавшись, опубликовал расширенную литературную версию своей защиты — *Apologia* — посвящённую Максиму.
 
-В *Apologia* Максим упомянут по имени многократно (Apol. 1, 19, 36, 65, 84, 91, 96, 102 — точные ссылки следует сверить по изданию). Характеристика, которую даёт Апулей, **независима** от Марка (Апулей и Марк вряд ли знали друг друга лично; их связь — через Максима как общую философскую среду антониновского сенаторства). Апулей подчёркивает:
+В *Apologia* Максим упомянут по имени многократно. Характеристика, которую даёт Апулей, **независима** от Марка (Апулей и Марк вряд ли знали друг друга лично; их связь — через Максима как общую философскую среду антониновского сенаторства). Апулей подчёркивает:
 - **Учёность Максима**: глубокое знание философии (Apol. 41 и др.), особенно стоической доктрины.
 - **Справедливость и беспристрастность** как судебная норма (Apol. 1, 91).
 - **Серьёзность и dignitas** в сочетании с открытостью к рассуждению (Apol. 65).
@@ -69,7 +69,7 @@ role_en: one of the principal Stoic teachers of Marcus (listed in the canonical 
 
 **The trial of Apuleius and an extended contemporary testimony.** The main non-Marcusian source on Maximus is Apuleius's own defence speech, known as the **Apologia** (or *Pro se de magia* — "For Himself, in Reply to the Charge of Magic"). Around 158/159, at Sabratha (a city in the province of Tripolitania, in Roman Africa), Apuleius stood trial on the charge of having used magic to seduce the wealthy widow Pudentilla and seize her property. **Maximus presided over the trial** as proconsul. Apuleius, having been acquitted, published an extended literary version of his defence — the *Apologia* — dedicated to Maximus.
 
-In the *Apologia* Maximus is named many times (Apol. 1, 19, 36, 65, 84, 91, 96, 102 — the precise references should be verified against the edition). The characterisation given by Apuleius is **independent** of Marcus (Apuleius and Marcus probably did not know each other personally; their connection is through Maximus as the common philosophical environment of Antonine senatorialism). Apuleius emphasises:
+In the *Apologia* Maximus is named many times. The characterisation given by Apuleius is **independent** of Marcus (Apuleius and Marcus probably did not know each other personally; their connection is through Maximus as the common philosophical environment of Antonine senatorialism). Apuleius emphasises:
 - **Maximus's learning**: deep knowledge of philosophy (Apol. 41 and elsewhere), especially of Stoic doctrine.
 - **Justice and impartiality** as a judicial norm (Apol. 1, 91).
 - **Seriousness and *dignitas*** combined with openness to reasoning (Apol. 65).
@@ -121,21 +121,21 @@ This external characterisation **converges** with Marcus's internal portrait in 
 
 ## Литература
 
-- **Apuleius, *Apologia*** (= *Pro se de magia*) — главный современный нехирологический источник о характере Максима; стандартный текст: Helm, Teubner. Английский перевод: Hunink, *Apuleius of Madauros: Pro se de magia* (Brill, 1997). NB: точные ссылки на упоминания Максима в *Apologia* следует сверять по изданию.
+- **Apuleius, *Apologia*** (= *Pro se de magia*) — главный современный нехирологический источник о характере Максима; стандартный текст: Helm, Teubner. Английский перевод: Hunink, *Apuleius of Madauros: Pro se de magia* (Brill, 1997).
 - **SHA *Марк*** (Vita Marci), гл. 3 — Максим в каталоге стоических учителей Марка.
 - **A. Birley,** *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, гл. 3 («Education») — реконструкция учительского окружения Марка; для Максима — также упоминание о связи с процессом Апулея.
 - **A. S. L. Farquharson,** *The Meditations of the Emperor Marcus Antoninus*, Oxford 1944, vol. II, ad 1.15 — детальный филологический комментарий, в т. ч. о редкой лексике (προσσεσηρός, ἀδιάστροφος, εὐχαριεντίζεσθαι).
 - **R. Hard,** *Marcus Aurelius: Meditations*, OWC, Oxford 2011, notes ad 1.15.
 - **P. Hadot,** *The Inner Citadel*, tr. M. Chase, Harvard 1998 — общая реконструкция стоической программы (см. по индексу «Maximus»).
 - **V. Hunink,** *Apuleius of Madauros: Pro se de magia*, 2 vols., Brill, Leiden 1997 — стандартный современный комментарий к *Apologia*, с просопографическим разбором Максима.
-- **PIR² C 933** (для Claudius Maximus; точный entry-number следует сверить по PIR²).
+- **PIR² C 933** (для Claudius Maximus).
 
 ## Literature
-- **Apuleius, *Apologia*** (= *Pro se de magia*) — the main contemporary non-Marcusian source on Maximus's character; standard text: Helm, Teubner. English translation: Hunink, *Apuleius of Madauros: Pro se de magia* (Brill, 1997). NB: precise references to mentions of Maximus in the *Apologia* should be verified against the edition.
+- **Apuleius, *Apologia*** (= *Pro se de magia*) — the main contemporary non-Marcusian source on Maximus's character; standard text: Helm, Teubner. English translation: Hunink, *Apuleius of Madauros: Pro se de magia* (Brill, 1997).
 - **SHA *Marcus*** (Vita Marci), ch. 3 — Maximus in the catalogue of Marcus's Stoic teachers.
 - **A. Birley,** *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, ch. 3 ("Education") — the reconstruction of Marcus's tutorial environment; for Maximus, also the mention of his connection with the trial of Apuleius.
 - **A. S. L. Farquharson,** *The Meditations of the Emperor Marcus Antoninus*, Oxford 1944, vol. II, ad 1.15 — the detailed philological commentary, including on the rare vocabulary (προσσεσηρός, ἀδιάστροφος, εὐχαριεντίζεσθαι).
 - **R. Hard,** *Marcus Aurelius: Meditations*, OWC, Oxford 2011, notes ad 1.15.
 - **P. Hadot,** *The Inner Citadel*, tr. M. Chase, Harvard 1998 — the general reconstruction of the Stoic programme (consult the index for "Maximus").
 - **V. Hunink,** *Apuleius of Madauros: Pro se de magia*, 2 vols., Brill, Leiden 1997 — the standard modern commentary on the *Apologia*, with the prosopographical treatment of Maximus.
-- **PIR² C 933** (for Claudius Maximus; the exact entry-number should be verified against PIR²).
+- **PIR² C 933** (for Claudius Maximus).

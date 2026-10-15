@@ -27,7 +27,7 @@ role_en: paternal grandfather of Marcus Aurelius; Roman senator, thrice consul (
 - **Мать Марка** — Domitia Lucilla (она же Lucilla Minor; от неё Марк наследовал крупное состояние, см. [[01-03]]).
 - **Сестра Марка** — Annia Cornificia Faustina.
 - **Дед Марка по материнской линии** — P. Calvisius Tullus Ruso (консул 109).
-- **Прадед Марка** — L. Catilius Severus (см. [[01-04]]; иногда называется «дедом», т. к. через сложную семейную сеть он также покровитель Марка).
+- **Сводный прадед Марка** — L. Catilius Severus (см. [[01-04]]): муж Дасумии Поллы, вдовы приёмного отца бабушки Марка, Домиции Луциллы Старшей.
 - **Тётка** — Vibia Sabina, жена Адриана (родство через Annia Galeria Faustina). Через неё дом Анниев был связан с правящим домом ещё до усыновления Марка Антонином.
 
 #### Этический портрет
@@ -51,7 +51,7 @@ Marcus Annius Verus (the elder) was a patrician of Italo-Hispanic descent. The A
 - **Marcus's mother** — Domitia Lucilla (also called Lucilla Minor; from her Marcus inherited a substantial fortune, see [[01-03]]).
 - **Marcus's sister** — Annia Cornificia Faustina.
 - **Marcus's maternal grandfather** — P. Calvisius Tullus Ruso (consul 109).
-- **Marcus's great-grandfather** — L. Catilius Severus (see [[01-04]]; sometimes called "grandfather," as through a complex family network he, too, served as a patron of Marcus).
+- **Marcus's step-great-grandfather** — L. Catilius Severus (see [[01-04]]): husband of Dasumia Polla, widow of the adoptive father of Marcus's grandmother Domitia Lucilla the Elder.
 - **Aunt** — Vibia Sabina, wife of Hadrian (the connection runs through Annia Galeria Faustina). Through her, the house of the Annii was already linked to the ruling house before Marcus's adoption by Antoninus.
 
 #### Ethical portrait

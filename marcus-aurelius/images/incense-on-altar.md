@@ -11,13 +11,13 @@ related_dogmas:
 
 ## Образ
 
-Крупицы ладана (λιβανωτοῦ βωλάρια), брошенные на один жертвенник: одни падают в огонь раньше, другие позже — но все сгорают на том же алтаре и для одной и той же цели. Так и люди: одни умирают раньше, другие позже, но «разницы никакой» (διαφέρει δʼ οὐδέν) — все приносятся одному и тому же (космической [[physis|Природе]]), и срок не меняет сути. Образ снимает тревогу о **времени** смерти: важно не «когда», а то, что исход для всех один.
+Крупицы ладана (λιβανωτοῦ βωλάρια), брошенные на один жертвенник: одни падают в огонь раньше, другие позже — но все сгорают на том же алтаре и для одной и той же цели. Так и люди: одни умирают раньше, другие позже, но «разницы никакой» (διαφέρει δ’ οὐδέν) — все приносятся одному и тому же (космической [[physis|Природе]]), и срок не меняет сути. Образ снимает тревогу о **времени** смерти: важно не «когда», а то, что исход для всех один.
 
 Тонкость в материале: ладан — **жертва**. Подразумевается, что жизнь и её завершение суть приношение Целому; падая в огонь раньше или позже, крупица одинаково исполняет своё назначение. Поэтому ранняя смерть — не «недодано», а исполнено.
 
 ## Image
 
-Grains of incense (λιβανωτοῦ βωλάρια) cast on a single altar: some fall into the fire sooner, others later — but all burn on the same altar and to one and the same end. So with human beings: some die sooner, others later, but "it makes no difference" (διαφέρει δʼ οὐδέν) — all are offered to the same thing (cosmic [[physis|Nature]]), and the timing does not change the substance. The image dissolves anxiety about the **hour** of death: what matters is not "when," but that the outcome is one for all.
+Grains of incense (λιβανωτοῦ βωλάρια) cast on a single altar: some fall into the fire sooner, others later — but all burn on the same altar and to one and the same end. So with human beings: some die sooner, others later, but "it makes no difference" (διαφέρει δ’ οὐδέν) — all are offered to the same thing (cosmic [[physis|Nature]]), and the timing does not change the substance. The image dissolves anxiety about the **hour** of death: what matters is not "when," but that the outcome is one for all.
 
 The nuance lies in the material: incense is an **offering**. The implication is that a life and its end are an offering to the Whole; falling into the fire sooner or later, the grain equally fulfils its purpose. An early death is therefore not "cut short" but completed.
 

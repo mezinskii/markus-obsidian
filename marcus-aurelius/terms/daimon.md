@@ -25,7 +25,7 @@ related_terms:
 
 - ἡγεμονικόν акцентирует **управленческую** функцию (правит душой);
 - νοῦς акцентирует **мыслительную** функцию (видит истину);
-- θεία ἀπομοῖρα акцентирует **онтологическое происхождение** (отделена от бога);
+- θεία ἀπόμοιρα акцентирует **онтологическое происхождение** (отделена от бога);
 - δαίμων акцентирует **личностно-проводнический** характер (мой персональный гений-хранитель).
 
 ## Definition
@@ -42,7 +42,7 @@ In Stoic technical terminology, δαίμων is **functionally identical** with 
 
 - ἡγεμονικόν foregrounds **the governing function** (it rules the soul);
 - νοῦς foregrounds **the noetic function** (it sees truth);
-- θεία ἀπομοῖρα foregrounds **ontological origin** (a portion broken off from god);
+- θεία ἀπόμοιρα foregrounds **ontological origin** (a portion broken off from god);
 - δαίμων foregrounds **the personal-guiding character** (my own guardian spirit).
 
 ## Источник определения

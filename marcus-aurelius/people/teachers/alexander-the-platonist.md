@@ -81,7 +81,7 @@ The cautious modern consensus (Hadot, Birley, Hard): the identification is **not
 
 ## Литература
 
-- **Philostratus, *Vitae Sophistarum*** — основной просопографический источник для **Александра Пелоплатона** (книга вторая, в развёрнутом портрете). Стандартный текст: Kayser, Teubner (XIX в., перепечатки); английский перевод — Wright (Loeb, 1921). NB: вопрос об отождествлении Пелоплатона с «Александром-Платоником» у Марка — отдельный, не решённый Филостратом.
+- **Philostratus, *Vitae Sophistarum*** — основной просопографический источник для **Александра Пелоплатона** (книга вторая, в развёрнутом портрете). Стандартный текст: Kayser, Teubner (XIX в., перепечатки); английский перевод — Wright (Loeb, 1921). Вопрос об отождествлении Пелоплатона с «Александром-Платоником» у Марка отдельный, Филострат его не решает.
 - **SHA *Марк*** — раздел об образовании Марка (гл. 2–3); Александр-Платоник в дошедших до нас рукописях SHA эксплицитно не назван.
 - **Brunt, P. A.,** «Marcus Aurelius in His *Meditations*», *JRS* 64 (1974) — классическая статья об источниках и адресатах Книги I; включает скептический пересмотр отождествлений в Книге I, в т. ч. для Александра.
 - **A. Birley,** *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, гл. 3 («Education») — биографическая реконструкция учительского окружения Марка с осторожным отношением к идентификации Александра.
@@ -89,10 +89,10 @@ The cautious modern consensus (Hadot, Birley, Hard): the identification is **not
 - **R. Hard,** *Marcus Aurelius: Meditations*, OWC, Oxford 2011, notes ad 1.12.
 - **P. Hadot,** *The Inner Citadel*, tr. M. Chase, Harvard 1998 — раздел об учителях Марка в Книге I (см. по индексу «Alexander the Platonist»).
 - **G. R. Bowersock,** *Greek Sophists in the Roman Empire*, Oxford 1969 — контекстная реконструкция Второй софистики, в которой Александр Пелоплатон занимает заметное место.
-- **PIR² A 503** (для Александра Пелоплатона; точный номер просопографической статьи следует сверить по изданию PIR²).
+- **PIR² A 503** (для Александра Пелоплатона).
 
 ## Literature
-- **Philostratus, *Vitae Sophistarum*** — the principal prosopographical source for **Alexander Peloplaton** (book two, in a developed portrait). Standard text: Kayser, Teubner (19th c., reprints); English translation — Wright (Loeb, 1921). NB: the question of the identification of Peloplaton with Marcus's "Alexander the Platonist" is a separate matter, not settled by Philostratus.
+- **Philostratus, *Vitae Sophistarum*** — the principal prosopographical source for **Alexander Peloplaton** (book two, in a developed portrait). Standard text: Kayser, Teubner (19th c., reprints); English translation — Wright (Loeb, 1921). The question of the identification of Peloplaton with Marcus's "Alexander the Platonist" is a separate matter, not settled by Philostratus.
 - **SHA *Marcus*** — the section on Marcus's education (chs. 2–3); Alexander the Platonist is not explicitly named in the SHA as it has come down to us.
 - **Brunt, P. A.,** "Marcus Aurelius in His *Meditations*," *JRS* 64 (1974) — the classic article on the sources and addressees of Book I; includes a sceptical re-examination of the identifications in Book I, Alexander among them.
 - **A. Birley,** *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, ch. 3 ("Education") — the biographical reconstruction of Marcus's tutorial environment with a cautious attitude toward the identification of Alexander.
@@ -100,4 +100,4 @@ The cautious modern consensus (Hadot, Birley, Hard): the identification is **not
 - **R. Hard,** *Marcus Aurelius: Meditations*, OWC, Oxford 2011, notes ad 1.12.
 - **P. Hadot,** *The Inner Citadel*, tr. M. Chase, Harvard 1998 — the section on Marcus's teachers in Book I (consult the index s.v. "Alexander the Platonist").
 - **G. R. Bowersock,** *Greek Sophists in the Roman Empire*, Oxford 1969 — contextual reconstruction of the Second Sophistic, in which Alexander Peloplaton occupies a noticeable place.
-- **PIR² A 503** (for Alexander Peloplaton; the exact prosopographical entry number should be verified against PIR² edition).
+- **PIR² A 503** (for Alexander Peloplaton).

@@ -8,23 +8,23 @@ dates_en: c. 80/90 – c. 150 CE (exact dates conjectural; died in Rome during M
 birthplace_ru: Котиэй (Cotiaeum) в Фригии, римская провинция Asia (совр. Кютахья в Турции)
 birthplace_en: Cotiaeum in Phrygia, Roman province of Asia (modern Kütahya, Turkey)
 school: грамматическая (не философская); главный греческий грамматик и комментатор Гомера своего поколения
-role_ru: учитель греческого языка и греческой литературы Марка Аврелия в Риме; ранее преподавал в Афинах, где среди его учеников был Aelius Aristides
-role_en: teacher of Greek language and literature to Marcus Aurelius in Rome; previously taught in Athens, where among his pupils was Aelius Aristides
+role_ru: учитель греческого языка и греческой литературы Марка Аврелия в Риме; ранее среди его учеников был Aelius Aristides
+role_en: teacher of Greek language and literature to Marcus Aurelius in Rome; earlier among his pupils was Aelius Aristides
 ---
 
 ## Биография
 **Происхождение.** Александр родом из **Котиэя** (Cotiaeum, греч. Κοτιάειον) — города в центральной Фригии в римской провинции Asia (современный Кютахья в Турции). Фригия во II в. — это эллинизированная часть Малой Азии, давшая Риму немало учёных и философов. Стандартное обозначение в источниках — Ἀλέξανδρος ὁ Κοτιαεύς (Александр Котиэйский), у Марка в [[01-10]] — кратко ὁ γραμματικός («Грамматик»).
 
-**Карьера: Афины.** До приглашения в Рим Александр преподавал в Афинах. Афины во II в. — главный центр греческого образования (особенно после хадрианских реформ, давших Афинам государственные кафедры философии). Александр держал там, по-видимому, собственный «дом» (т. е. школу), куда приходили ученики с тематикой греческой литературы, грамматики и экзегезы поэтических текстов (особенно Гомера). Среди его афинских учеников — **[[aelius-aristides|Элий Аристид]]**, ставший главным греческим оратором Антонинской эпохи. Аристид относился к Александру с глубоким почтением и сохранил по нему память до самой смерти учителя.
+**Карьера до Рима.** Где именно Александр преподавал до приглашения в Рим, источники точно не говорят; распространённое мнение об Афинах не подтверждено. Среди его учеников — **[[aelius-aristides|Элий Аристид]]**, ставший главным греческим оратором Антонинской эпохи. Аристид относился к Александру с глубоким почтением и сохранил по нему память до самой смерти учителя.
 
 **Приглашение в Рим.** Александр был приглашён в Рим, по-видимому, в составе образовательной программы Марка — после усыновления того Антонином Пием в 138 г. Это характерная антониновская практика: ведущих греческих учёных-учителей **импортировали** в Рим для обучения наследников императорского дома (то же сделали с [[apollonius|Аполлонием]], которого пригласили из Афин в Рим в те же годы). Капитолин (*SHA Marcus* 2.3) перечисляет Александра среди ранних учителей Марка.
 
 **Главное сочинение: Комментарий к Гомеру.** Сноска ¹⁹ Роговина к [[01-10]] упоминает «комментарий к поэмам Гомера». Это **главное** сохранившееся в репутации сочинение Александра. Полный текст не сохранился; цитаты и упоминания в позднейших схолиях к Илиаде/Одиссее (схолии Венециана А, схолии BT, etc.) позволяют реконструировать характер: филологические замечания о трудных словах, толкование редких форм, разрешение текстологических проблем, иногда — мифологические и культурно-исторические комментарии. Это типичный труд **эллинистическо-римской** Гомеровой филологии (в традиции Аристарха, Аристофана Византийского, Дидима).
 
-**Смерть и погребальная речь Aelius Aristides.** Александр умер в Риме (или, возможно, в Котиэе по возвращении на родину; точное место смерти спорно) приблизительно в начале 150-х гг., при жизни Марка (тогда ещё кесаря, не императора). По смерти Александра его бывший афинский ученик **Aelius Aristides** произнёс **погребальную речь** — «Ἐπιτάφιος εἰς Ἀλέξανδρον» (Aristides, *Or.* 32 в нумерации Behr). Это **главный** внешний источник о биографии и характере Александра. Из этой речи восстанавливаются:
+**Смерть и погребальная речь Aelius Aristides.** Александр умер в Риме (или, возможно, в Котиэе по возвращении на родину; точное место смерти спорно) приблизительно в начале 150-х гг., при жизни Марка (тогда ещё кесаря, не императора). По смерти Александра его бывший ученик **Aelius Aristides** произнёс **погребальную речь** — «Ἐπιτάφιος εἰς Ἀλέξανδρον» (Aristides, *Or.* 32 в нумерации Behr). Это **главный** внешний источник о биографии и характере Александра. Из этой речи восстанавливаются:
 - Преданность Александра гомеровской текстологии и преподаванию.
 - Его репутация **тактичного** учителя — то же качество, что Марк фиксирует в 01-10.
-- Афинский период преподавания и круг учеников.
+- Ранний период преподавания и круг учеников.
 - Высокий социальный и культурный статус (Aristides помещает Александра в ряду великих греческих учителей своей эпохи).
 
 #### Образовательная роль
@@ -44,16 +44,16 @@ role_en: teacher of Greek language and literature to Marcus Aurelius in Rome; pr
 ## Biography
 **Origin.** Alexander was a native of **Cotiaeum** (Greek Κοτιάειον) — a city in central Phrygia in the Roman province of Asia (modern Kütahya, Turkey). Phrygia in the second century was a Hellenised part of Asia Minor that gave Rome many scholars and philosophers. The standard designation in the sources is Ἀλέξανδρος ὁ Κοτιαεύς (Alexander of Cotiaeum); Marcus in [[01-10]] briefly calls him ὁ γραμματικός ("the grammarian").
 
-**Career: Athens.** Before the summons to Rome Alexander taught at Athens. Athens in the second century was the principal centre of Greek education (especially after Hadrian's reforms, which gave Athens state chairs of philosophy). Alexander apparently maintained his own "house" (i.e. school) there, to which pupils came for Greek literature, grammar, and the exegesis of poetic texts (especially Homer). Among his Athenian pupils was **[[aelius-aristides|Aelius Aristides]]**, who became the principal Greek orator of the Antonine age. Aristides held Alexander in deep reverence and preserved a memory of him to the very death of his teacher.
+**Career before Rome.** Where exactly Alexander taught before his summons to Rome the sources do not say; the common view that it was Athens is unconfirmed. Among his pupils was **[[aelius-aristides|Aelius Aristides]]**, who became the principal Greek orator of the Antonine age. Aristides held Alexander in deep reverence and preserved a memory of him to the very death of his teacher.
 
 **The summons to Rome.** Alexander was summoned to Rome, in all likelihood, in the framework of Marcus's educational programme — after Marcus's adoption by Antoninus Pius in 138. This is a characteristic Antonine practice: leading Greek scholar-teachers were **imported** to Rome for the instruction of the heirs of the imperial house (the same was done with [[apollonius|Apollonius]], who was summoned from Athens to Rome in the same years). Capitolinus (*SHA Marcus* 2.3) enumerates Alexander among Marcus's early teachers.
 
 **The principal work: the Commentary on Homer.** Rogovin's footnote ¹⁹ to [[01-10]] mentions "the commentary on the poems of Homer." This is the **principal** work preserved in Alexander's reputation. The full text has not survived; quotations and mentions in later scholia on the *Iliad* and *Odyssey* (the Venice A scholia, the BT scholia, etc.) allow the character to be reconstructed: philological remarks on difficult words, the explication of rare forms, the resolution of text-critical problems, sometimes mythological and cultural-historical comments. This is the typical work of **Hellenistic-Roman** Homeric philology (in the tradition of Aristarchus, Aristophanes of Byzantium, and Didymus).
 
-**Death and the funeral oration of Aelius Aristides.** Alexander died in Rome (or, possibly, in Cotiaeum after a return to his native place; the precise place of death is disputed) approximately in the early 150s, in Marcus's lifetime (while Marcus was still Caesar, not emperor). On Alexander's death his former Athenian pupil **Aelius Aristides** delivered a **funeral oration** — the "Ἐπιτάφιος εἰς Ἀλέξανδρον" (Aristides, *Or.* 32 in the numbering of Behr). This is the **principal** external source on Alexander's biography and character. From this oration may be reconstructed:
+**Death and the funeral oration of Aelius Aristides.** Alexander died in Rome (or, possibly, in Cotiaeum after a return to his native place; the precise place of death is disputed) approximately in the early 150s, in Marcus's lifetime (while Marcus was still Caesar, not emperor). On Alexander's death his former pupil **Aelius Aristides** delivered a **funeral oration** — the "Ἐπιτάφιος εἰς Ἀλέξανδρον" (Aristides, *Or.* 32 in the numbering of Behr). This is the **principal** external source on Alexander's biography and character. From this oration may be reconstructed:
 - Alexander's devotion to Homeric text-criticism and teaching.
 - His reputation as a **tactful** teacher — the very quality Marcus fixes in 01-10.
-- The Athenian period of his teaching and the circle of pupils.
+- The early period of his teaching and the circle of pupils.
 - His high social and cultural standing (Aristides places Alexander in the company of the great Greek teachers of his age).
 
 #### Educational role

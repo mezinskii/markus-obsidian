@@ -8,8 +8,8 @@ dates_en: c. 60/70 – c. 138/9 CE
 birthplace_ru: Малая Азия (по разным реконструкциям — Апамея в Вифинии или Антиохия в Писидии; точно не установлено)
 birthplace_en: Asia Minor (variously reconstructed as Apamea in Bithynia or Antioch in Pisidia; not securely established)
 school: 
-role_ru: прадед Марка Аврелия по материнской линии (через брак с Domitia Lucilla Maior); римский сенатор, дважды консул (110 г. суффект, 120 г. ординарный), префект Рима при Адриане
-role_en: maternal great-grandfather of Marcus Aurelius (through marriage to Domitia Lucilla Maior); Roman senator, twice consul (suffect 110, ordinary 120 CE), prefect of the city under Hadrian
+role_ru: сводный прадед Марка Аврелия по материнской линии, муж Дасумии Поллы, вдовы Гнея Домиция Тулла, приёмного отца Domitia Lucilla Maior (бабушки Марка); в SHA Marcus 1.4 назван *proavus maternus*; римский сенатор, дважды консул (110 г. суффект, 120 г. ординарный), префект Рима при Адриане
+role_en: maternal step-great-grandfather of Marcus Aurelius, husband of Dasumia Polla, widow of Cn. Domitius Tullus, the adoptive father of Domitia Lucilla Maior (Marcus's grandmother); called *proavus maternus* in SHA Marcus 1.4; Roman senator, twice consul (suffect 110, ordinary 120 CE), prefect of the city under Hadrian
 ---
 
 ## Биография
@@ -19,15 +19,15 @@ role_en: maternal great-grandfather of Marcus Aurelius (through marriage to Domi
 
 **Развязка при сукцессии 138 г.** В критический момент адоптивных передач 138 г. (Адриан → Антонин Пий → Марк) Catilius Severus, по сообщению *SHA Hadrian* 24, оказался в оппозиции к выбору Антонина и был лишён префектуры Рима — историки расходятся в том, было ли это его собственное несостоявшееся притязание на сукцессию, или просто противодействие усыновлению Антонина. После этого его имя исчезает из источников; умер приблизительно тогда же (138/9 г.), скорее всего в опале.
 
-**Связь с Марком: брак с Domitia Lucilla Maior.** Главное родственное отношение Севера к Марку — через **брак с Домицией Лусиллой Старшей** (бабушкой Марка по матери). Это, по-видимому, была её *второй* брак (первый — с отцом Domitia Lucilla Minor, см. ниже). Через этот брак Северус становится отчимом матери Марка и, по римской семейной логике, его «прадедом» (*proavus* / προπάππος), хотя биологически он Марку никем не приходился.
+**Связь с Марком: брак с Дасумией Поллой.** Катилий Север был женат на **Дасумии Полле**, вдове Гнея Домиция Тулла. Тулл удочерил свою племянницу Домицию Луциллу Старшую (Domitia Lucilla Maior, родную дочь его брата Гнея Домиция Лукана); она вышла замуж за P. Calvisius Tullus Ruso (консул 109), и их дочь, Домиция Луцилла Младшая, стала матерью Марка. Таким образом, Катилий Север был отчимом Луциллы Старшей, сводным дедом матери Марка и сводным прадедом самого Марка. Отсюда «прадед» в Med. 1.4 и *proavus maternus* в SHA Marcus 1.4, хотя по крови он Марку никем не приходился.
 
-Эта приёмная связь была настолько весомой формально, что **полное детское имя Марка** включало его когномен: *M. Annius Catilius Severus*. Имя Catilius Севр выпало из марковского полнимени только после 138 г. — после усыновления Адрианом-Антонином и опалы Catilius Севра.
+Эта приёмная связь была настолько весомой формально, что **полное детское имя Марка** включало его когномен: *M. Annius Catilius Severus*. Имя Catilius Севр выпало из марковского полнимени только после 138 г. — после усыновления Адрианом-Антонином и опалы Катилия Севера.
 
 #### Образовательная роль
 
-Главная атрибуция Severu от Марка — три практических принципа об образовании (см. [[01-04]] и комментарий): (1) не отдавать ребёнка в публичные школы, (2) приглашать хороших учителей на дом, (3) понимать, что на это нельзя жалеть денег. Это **не** свидетельство о том, что Severus сам преподавал Марку или лично выбирал тутора; это, по-видимому, **семейный принцип**, который Марк идентифицирует с фигурой прадеда как с авторитетом, установившим этот стандарт. На практике, по-видимому, выбор конкретных учителей в детстве Марка лежал на матери (Domitia Lucilla, см. её карточку) и деде-консуляре (M. Annius Verus старший); но институциональный *принцип*, в рамках которого этот выбор делался, восходит к Severu.
+Главная атрибуция Северу от Марка — три практических принципа об образовании (см. [[01-04]] и комментарий): (1) не отдавать ребёнка в публичные школы, (2) приглашать хороших учителей на дом, (3) понимать, что на это нельзя жалеть денег. Это **не** свидетельство о том, что Severus сам преподавал Марку или лично выбирал тутора; это, по-видимому, **семейный принцип**, который Марк идентифицирует с фигурой прадеда как с авторитетом, установившим этот стандарт. На практике, по-видимому, выбор конкретных учителей в детстве Марка лежал на матери (Domitia Lucilla, см. её карточку) и деде-консуляре (M. Annius Verus старший); но институциональный *принцип*, в рамках которого этот выбор делался, восходит к Северу.
 
-Учителя, нанятые в этом институциональном модусе, перечислены Марком в 01-05 (его воспитатель), 01-06 (Диогнет — живопись, философия), 01-07 (Юний Рустик — стоицизм), 01-08 (Аполлоний из Халкидона — стоицизм), 01-09 (Секст из Херонеи), 01-10 (Александр-грамматик), 01-11 (Фронтон — латинская риторика), 01-12 (Александр-платоник), 01-13 (Катулл — стоицизм) и др. Это — *корпус* частных учителей крупнейших философских школ своего времени, доступных только для дома такого уровня, какой обеспечивала финансовая база Domitia Lucilla и институциональный принцип Catilius Севра.
+Учителя, нанятые в этом институциональном модусе, перечислены Марком в 01-05 (его воспитатель), 01-06 (Диогнет — живопись, философия), 01-07 (Юний Рустик — стоицизм), 01-08 (Аполлоний из Халкидона — стоицизм), 01-09 (Секст из Херонеи), 01-10 (Александр-грамматик), 01-11 (Фронтон — латинская риторика), 01-12 (Александр-платоник), 01-13 (Катулл — стоицизм) и др. Это — *корпус* частных учителей крупнейших философских школ своего времени, доступных только для дома такого уровня, какой обеспечивала финансовая база Domitia Lucilla и институциональный принцип Катилия Севера.
 
 ## Biography
 **Origin and early career.** L. Catilius Severus came from the eastern provinces — variously reconstructed as Apamea in Bithynia or as Antioch in Pisidia (the exact localisation remains a matter of dispute in the prosopographical literature; see Birley 2000 and PIR² C 558). The full polyonymous name — *L. Catilius Severus Iulianus Claudius Reginus* — reflects several generations of family adoptions and inheritances. This is the first generation in the family to reach the Roman consulate.
@@ -36,7 +36,7 @@ role_en: maternal great-grandfather of Marcus Aurelius (through marriage to Domi
 
 **The denouement at the succession of 138.** At the critical moment of the adoptive transmissions of 138 (Hadrian → Antoninus Pius → Marcus), Catilius Severus, according to *SHA Hadrian* 24, found himself in opposition to the choice of Antoninus and was deprived of the prefecture of Rome — historians disagree as to whether this was his own frustrated claim to the succession or simply opposition to the adoption of Antoninus. His name then disappears from the sources; he died approximately at the same time (138/9), most likely in disgrace.
 
-**The connection to Marcus: marriage to Domitia Lucilla Maior.** Severus's principal kin relationship to Marcus is through his **marriage to Domitia Lucilla the Elder** (Marcus's maternal grandmother). This was apparently her *second* marriage (the first to the father of Domitia Lucilla Minor, see below). Through this marriage Severus became the stepfather of Marcus's mother and, by the Roman family reckoning, Marcus's "great-grandfather" (*proavus* / προπάππος), although biologically he stood in no kinship at all to Marcus.
+**The connection to Marcus: marriage to Dasumia Polla.** Catilius Severus married **Dasumia Polla**, the widow of Cn. Domitius Tullus. Tullus had adopted his niece Domitia Lucilla the Elder (Domitia Lucilla Maior, the biological daughter of his brother Cn. Domitius Lucanus); she married P. Calvisius Tullus Ruso (consul 109), and their daughter, Domitia Lucilla the Younger, became Marcus's mother. Catilius Severus was thus the stepfather of Lucilla the Elder, the step-grandfather of Marcus's mother, and Marcus's step-great-grandfather. Hence "great-grandfather" in Med. 1.4 and *proavus maternus* in SHA Marcus 1.4, although by blood he stood in no kinship at all to Marcus.
 
 The adoptive connection was so formally weighty that **Marcus's full childhood name** included his cognomen: *M. Annius Catilius Severus*. The name Catilius Severus dropped out of Marcus's full names only after 138 — following the adoption by Hadrian-Antoninus and the disgrace of Catilius Severus.
 
@@ -48,7 +48,7 @@ The teachers brought in under this institutional mode are enumerated by Marcus i
 
 ## Цитируется/упоминается у Марка
 
-- [[01-04]] — единственное прямое упоминание Catilius Севра у Марка; программно: три принципа об образовании.
+- [[01-04]] — единственное прямое упоминание Катилия Севера у Марка; программно: три принципа об образовании.
 - В [[01-17]] (благодарственный параграф) Марк благодарит за то, что «получил хороших родственников, хороших учителей»; конкретно прадед по имени не назван, но имплицитно включён.
 
 ## Mentions in Marcus
@@ -58,19 +58,19 @@ The teachers brought in under this institutional mode are enumerated by Marcus i
 
 ## Литература
 
-- **SHA *Hadrian*** 5.10 и 24.5–8 — два главных места: первое о ранней службе Catilius Севра под Адрианом, второе — о его опале при сукцессии 138 г.
-- **SHA *Marcus*** 1.4–9 — биографический контекст ранних учителей Марка (имя Catilius Севра как «прадеда» в 1.10).
+- **SHA *Hadrian*** 5.10 и 24.5–8 — два главных места: первое о ранней службе Катилия Севера под Адрианом, второе — о его опале при сукцессии 138 г.
+- **SHA *Marcus*** 1.4–10 — Катилий Север назван *proavus maternus* Марка (1.4); его имя в детском имени Марка (1.10); биографический контекст ранних учителей.
 - **PIR² C 558** — стандартная просопографическая статья.
-- A. Birley, *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, гл. 2 («The Family»), особенно стр. 31–35 — реконструкция родственной связи через Domitia Lucilla Maior.
+- A. Birley, *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, гл. 2 («The Family»), особенно стр. 31–35 — реконструкция родственной связи через Дасумию Поллу и Domitia Lucilla Maior.
 - A. Birley, *Hadrian: The Restless Emperor*, Routledge, 1997 — для контекста префектуры Рима при Адриане и кризиса 138 г.
-- R. Syme, *Tacitus*, Oxford 1958, app. 65 и passim — родственная сеть Antonine элиты, с упоминаниями Catilius Севра.
-- W. Eck, *Die Statthalter der germanischen Provinzen vom 1.–3. Jahrhundert*, Köln 1985 — для контекста наместнических карьер сенаторов поколения Catilius Севра.
+- R. Syme, *Tacitus*, Oxford 1958, app. 65 и passim — родственная сеть Antonine элиты, с упоминаниями Катилия Севера.
+- W. Eck, *Die Statthalter der germanischen Provinzen vom 1.–3. Jahrhundert*, Köln 1985 — для контекста наместнических карьер сенаторов поколения Катилия Севера.
 
 ## Literature
 - **SHA *Hadrian*** 5.10 and 24.5–8 — the two principal places: the first on Catilius Severus's early service under Hadrian, the second on his disgrace at the succession of 138.
-- **SHA *Marcus*** 1.4–9 — biographical context for Marcus's early tutors (the name Catilius Severus as "great-grandfather" at 1.10).
+- **SHA *Marcus*** 1.4–10 — Catilius Severus called Marcus's *proavus maternus* (1.4); his name in Marcus's childhood name (1.10); biographical context for the early tutors.
 - **PIR² C 558** — the standard prosopographical entry.
-- A. Birley, *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, ch. 2 ("The Family"), especially pp. 31–35 — the reconstruction of the kin connection through Domitia Lucilla Maior.
+- A. Birley, *Marcus Aurelius: A Biography*, rev. ed., Routledge, 2000, ch. 2 ("The Family"), especially pp. 31–35 — the reconstruction of the kin connection through Dasumia Polla and Domitia Lucilla Maior.
 - A. Birley, *Hadrian: The Restless Emperor*, Routledge, 1997 — for the context of the city prefecture under Hadrian and the crisis of 138.
 - R. Syme, *Tacitus*, Oxford 1958, app. 65 and *passim* — the kin network of the Antonine elite, with mentions of Catilius Severus.
 - W. Eck, *Die Statthalter der germanischen Provinzen vom 1.–3. Jahrhundert*, Köln 1985 — for the context of governorship careers of senators of Catilius Severus's generation.

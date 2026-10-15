@@ -19,7 +19,7 @@ role_en: one of the principal Stoic teachers of Marcus Aurelius; nephew of Pluta
 
 **Карьера: Афины и Рим.** Преподавал в Афинах (как и [[apollonius|Аполлоний]] до приглашения в Рим) и впоследствии в Риме — куда переехал, по всей видимости, в составе образовательной программы Марка. Точная датировка приезда Секста в Рим не известна, но из того, что Марк в [[01-09]] упоминает дом Секста (πατρονομούμενος οἶκος) как образец, явствует, что Секст имел в Риме оседлую резиденцию, куда Марк приходил.
 
-**Постоянное присутствие: Марк как император.** Главное внешнее свидетельство о Сексте — Дион Кассий 71.1.2: уже **будучи императором**, Марк продолжал посещать лекции Секста. Когда его охраны префект (Pomponius Proculus или иной) спросил, не странно ли это для императора, Марк ответил (по передаче Диона): «Учиться — это хорошо. Я даже как старик иду к Сексту, чтобы научиться чему-то ещё». Этот анекдот значительно параллелен Дион-Кассиевскому сообщению о [[junius-rusticus|Юнии Рустике]] (71.35) — Марк сохранял свои учительские связи в зрелые годы. Различие в модусе: Рустик был **постоянным политическим советником** (консул 162 г., префект Рима); Секст — **постоянным учителем** (школа, лекции, не политическая роль).
+**Постоянное присутствие: Марк как император.** Главное внешнее свидетельство о Сексте — Дион Кассий 71.1.2: уже **будучи императором**, Марк продолжал ходить к Сексту (и к ритору Гермогену), не стыдясь учиться. Анекдот сохранил Филострат («Жизнеописания софистов» II, 1): философ Луций спросил Марка, куда он идёт, и услышал: «Хорошо учиться и старику; иду к философу Сексту узнать то, чего ещё не знаю». Похоже, Марк сохранял свои учительские связи в зрелые годы (ср. сообщение Диона о [[junius-rusticus|Юнии Рустике]], 71.35). Различие в модусе: Рустик был **постоянным политическим советником** (консул 162 г., префект Рима); Секст — **постоянным учителем** (школа, лекции, не политическая роль).
 
 **Утраченные сочинения.** В *Suidas* (s. v. Σέξτος, σ 235) приписывается некоему Сексту-философу авторство «Ἠθικῶν Ὑποθετικῶν» в десяти книгах. Если эта атрибуция относится к нашему Сексту (что предположительно, но не доказано), то у него был писательский корпус, не сохранившийся. **Заметка:** Не следует смешивать Секста-Стоика, племянника Плутарха, с **Сектом Эмпириком** (Sextus Empiricus, ок. конец II — начало III в.) — главным источником о Пирроновом скептицизме, автором *Πυρρώνειοι Ὑποτυπώσεις* и *Πρὸς μαθηματικούς*. Это разные люди, одноимённые. **Также не следует смешивать** с «Сентенциями Секста» (*Sextou Gnōmai*) — пифагорейско-христианским сборником афоризмов, авторство которого приписывают разным фигурам.
 
@@ -44,7 +44,7 @@ role_en: one of the principal Stoic teachers of Marcus Aurelius; nephew of Pluta
 
 **Career: Athens and Rome.** He taught at Athens (as did [[apollonius|Apollonius]] before the summons to Rome) and afterwards at Rome — to which he moved, in all likelihood, in the framework of Marcus's educational programme. The precise dating of Sextus's arrival in Rome is not known, but from the fact that Marcus in [[01-09]] mentions Sextus's house (the πατρονομούμενος οἶκος) as an exemplar, it is plain that Sextus had a settled residence in Rome to which Marcus would come.
 
-**Continuing presence: Marcus as emperor.** The principal external testimony about Sextus is Dio Cassius 71.1.2: already **as emperor**, Marcus continued to attend Sextus's lectures. When his prefect of the guard (Pomponius Proculus or another) asked whether this was not strange for an emperor, Marcus answered (in Dio's report): "To learn is good. Even as an old man I will go to Sextus, to learn something more." This anecdote is significantly parallel to Dio Cassius's notice about [[junius-rusticus|Junius Rusticus]] (71.35) — Marcus kept his teacherly connections in his mature years. The difference in mode: Rusticus was a **continuing political counsellor** (consul of 162, prefect of the city); Sextus a **continuing teacher** (school, lectures, no political role).
+**Continuing presence: Marcus as emperor.** The principal external testimony about Sextus is Dio Cassius 71.1.2: already **as emperor**, Marcus continued to go to Sextus (and to the rhetor Hermogenes), not ashamed to learn. The anecdote is preserved by Philostratus (*Lives of the Sophists* II, 1): the philosopher Lucius asked Marcus where he was going and was told: "It is good even for an old man to learn; I am going to the philosopher Sextus to learn what I do not yet know." Marcus apparently kept his teacherly connections in his mature years (cf. Dio's notice about [[junius-rusticus|Junius Rusticus]], 71.35). The difference in mode: Rusticus was a **continuing political counsellor** (consul of 162, prefect of the city); Sextus a **continuing teacher** (school, lectures, no political role).
 
 **The lost writings.** In *Suidas* (s. v. Σέξτος, σ 235) the authorship of "Ἠθικῶν Ὑποθετικῶν" in ten books is ascribed to one Sextus the philosopher. If this attribution refers to our Sextus (which is conjectural but not proved), he had a written corpus that has not survived. **Note:** Sextus the Stoic, the nephew of Plutarch, is not to be confused with **Sextus Empiricus** (Sextus Empiricus, c. late 2nd – early 3rd century), the principal source on Pyrrhonian scepticism and the author of the *Πυρρώνειοι Ὑποτυπώσεις* and the *Πρὸς μαθηματικούς*. These are different people of the same name. **Nor** is he to be confused with the "Sentences of Sextus" (*Sextou Gnōmai*) — a Pythagorean-Christian collection of aphorisms variously attributed.
 
@@ -75,7 +75,8 @@ Sextus is the **third** and **synthetic** of Marcus's principal Stoic mentors. T
 ## Литература
 
 - **SHA *Марк*** 3.3 — Секст среди главных философских наставников Марка.
-- **Dio Cassius 71.1.2** — Марк как император продолжает посещать лекции Секста; ключевой анекдот «учиться — это хорошо».
+- **Dio Cassius 71.1.2** — Марк как император продолжает ходить к Сексту.
+- **Philostratus, VS II, 1** — анекдот о философе Луции: «Хорошо учиться и старику».
 - ***Suidas*** s. v. Σέξτος (σ 235) — атрибуция «Ἠθικῶν Ὑποθετικῶν» в 10 книгах Сексту-философу (conjectural, не доказано, что это наш Секст).
 - **PIR² S 469** — стандартная просопографическая статья.
 - **Plutarch**, относящаяся к Херонейскому семейному кругу литература (*Quaest. conv.*, *De fraterno amore*) — контекст семейного фона Секста.
@@ -87,7 +88,8 @@ Sextus is the **third** and **synthetic** of Marcus's principal Stoic mentors. T
 
 ## Literature
 - **SHA *Marcus*** 3.3 — Sextus among Marcus's principal philosophical teachers.
-- **Dio Cassius 71.1.2** — Marcus as emperor continues to attend Sextus's lectures; the key anecdote "to learn is good."
+- **Dio Cassius 71.1.2** — Marcus as emperor continues to go to Sextus.
+- **Philostratus, VS II, 1** — the anecdote of the philosopher Lucius: "It is good even for an old man to learn."
 - ***Suidas*** s. v. Σέξτος (σ 235) — the attribution of "Ἠθικῶν Ὑποθετικῶν" in 10 books to a Sextus-philosopher (conjectural; not proved to be our Sextus).
 - **PIR² S 469** — the standard prosopographical entry.
 - **Plutarch**, the literature relating to the family circle at Chaeronea (*Quaest. conv.*, *De fraterno amore*) — the context of Sextus's family background.
