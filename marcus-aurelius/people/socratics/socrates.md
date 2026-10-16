@@ -18,7 +18,7 @@ role_en: founder of ethical philosophy; for the Stoics the archetype of the sage
 
 Жизнь его — беседа: на афинской агоре он подвергал сограждан **эленхосу** (испытующему опросу), обнажая мнимость их «знания». Дельфийский оракул назвал его мудрейшим из людей — что Сократ толковал так: он мудрее лишь тем, что знает о своём незнании. Его направлял **δαιμόνιον** — внутренний божественный «голос», удерживавший от неверных поступков (связь с [[daimon|δαίμων]]).
 
-В 399 г. до н.э. обвинён Анитом, Мелетом и Ликоном в нечестии и развращении юношества, осуждён и казнён цикутой. Отказался бежать (*Критон*) и встретил смерть невозмутимо (*Федон*). В [[03-03]] Марк называет его погубителей «другими вшами» — человеческими паразитами, в отличие от буквальных вшей, заевших [[democritus|Демокрита]].
+В 399 г. до н.э. обвинён Анитом, Мелетом и Ликоном в нечестии и развращении юношества, осуждён и казнён цикутой. Отказался бежать (*Критон*) и встретил смерть невозмутимо (*Федон*). В [[03-03|3.3]] Марк называет его погубителей «другими вшами» — человеческими паразитами, в отличие от буквальных вшей, заевших [[democritus|Демокрита]].
 
 ## Biography
 
@@ -26,7 +26,7 @@ Socrates was an Athenian, son of the stonemason Sophroniscus and the midwife Pha
 
 His life was conversation: in the Athenian agora he subjected his fellow-citizens to the **elenchus** (the testing cross-examination), exposing the emptiness of their supposed "knowledge." The Delphic oracle called him the wisest of men — which Socrates construed thus: he is wiser only in knowing that he does not know. He was guided by a **δαιμόνιον** — an inner divine "voice" that held him back from wrong acts (a link to [[daimon|δαίμων]]).
 
-In 399 BCE he was charged by Anytus, Meletus, and Lycon with impiety and the corruption of the youth, condemned, and executed by hemlock. He refused to escape (*Crito*) and met death with composure (*Phaedo*). In [[03-03]] Marcus calls his destroyers "other lice" — human parasites, as against the literal lice that consumed [[democritus|Democritus]].
+In 399 BCE he was charged by Anytus, Meletus, and Lycon with impiety and the corruption of the youth, condemned, and executed by hemlock. He refused to escape (*Crito*) and met death with composure (*Phaedo*). In [[03-03|3.3]] Marcus calls his destroyers "other lice" — human parasites, as against the literal lice that consumed [[democritus|Democritus]].
 
 ## Философское значение
 
@@ -39,7 +39,7 @@ In 399 BCE he was charged by Anytus, Meletus, and Lycon with impiety and the cor
 
 **Для стоиков** Сократ — **прообраз мудреца** (σοφός). Линия преемства: Сократ → киник Антисфен (его ученик) → Диоген → Кратет → Зенон Китийский. Стоики видели в Сократе совершенный образец: невозмутимость перед лицом смерти, безразличие к внешнему, верность разуму и [[daimon|внутреннему голосу]], добродетель как единственное благо. Сократов спокойный конец — эталон стоического отношения к смерти.
 
-Замечательно, что **дизъюнкция о смерти** в [[03-03]] (либо инобытие, либо бесчувствие — и оба не страшны) воспроизводит аргумент самого Сократа из *Апологии* 40c–41c (смерть есть либо сон без сновидений, либо переселение души). Марк здесь буквально мыслит по-сократовски.
+Замечательно, что **дизъюнкция о смерти** в [[03-03|3.3]] (либо инобытие, либо бесчувствие — и оба не страшны) воспроизводит аргумент самого Сократа из *Апологии* 40c–41c (смерть есть либо сон без сновидений, либо переселение души). Марк здесь буквально мыслит по-сократовски.
 
 ## Philosophical significance
 
@@ -52,35 +52,35 @@ Socrates effected the **turn of philosophy from nature to ethics**: the central 
 
 **For the Stoics** Socrates is the **archetype of the sage** (σοφός). The line of descent: Socrates → the Cynic Antisthenes (his pupil) → Diogenes → Crates → Zeno of Citium. The Stoics saw in Socrates a perfect model: equanimity in the face of death, indifference to externals, fidelity to reason and to the [[daimon|inner voice]], virtue as the only good. Socrates' calm end is the benchmark of the Stoic stance toward death.
 
-Strikingly, the **disjunction on death** in [[03-03]] (either another life or insensibility — and neither is to be feared) reproduces Socrates' own argument in the *Apology* 40c–41c (death is either a dreamless sleep or a migration of the soul). Here Marcus thinks in literally Socratic terms.
+Strikingly, the **disjunction on death** in [[03-03|3.3]] (either another life or insensibility — and neither is to be feared) reproduces Socrates' own argument in the *Apology* 40c–41c (death is either a dreamless sleep or a migration of the soul). Here Marcus thinks in literally Socratic terms.
 
 ## Цитируется/упоминается у Марка
 
-- [[03-03]] — гибель «от других вшей» (обвинителей) в каталоге знаменитых смертей; и дизъюнктивное утешение, восходящее к сократовой *Апологии*.
-- [[03-06]] — явная атрибуция: даймон «оторвал себя от обольщений чувств, **как говорил Сократ**» (ὡς ὁ Σωκράτης ἔλεγεν) — отсылка к платоновскому *Федону* (65a–67b: философия как отвлечение души от тела и чувств), вплавленная в стоическую дисциплину согласия.
+- [[03-03|3.3]] — гибель «от других вшей» (обвинителей) в каталоге знаменитых смертей; и дизъюнктивное утешение, восходящее к сократовой *Апологии*.
+- [[03-06|3.6]] — явная атрибуция: даймон «оторвал себя от обольщений чувств, **как говорил Сократ**» (ὡς ὁ Σωκράτης ἔλεγεν) — отсылка к платоновскому *Федону* (65a–67b: философия как отвлечение души от тела и чувств), вплавленная в стоическую дисциплину согласия.
 - *Med.* 1.16 — добродетели Антонина Пия описаны в духе сократовского образца.
-- [[06-47]] — Сократ в перечне умерших (рядом с Гераклитом и др.).
-- [[07-66]] — развёрнутое размышление: внешние подвиги Сократа (славная смерть, диспуты, ночь на морозе, отказ арестовать Льва, гордая походка) недостаточны; мера — какую он имел ψυχή (справедлив к людям, благочестив к богам, не раб чужому неведению).
-- [[07-19]] — «сколько Сократов поглотила уже вечность»: имя во множественном числе, в перекличке величайших рядом с Хрисиппом и Эпиктетом; 7.66 — подлинное величие Сократа (анекдот из Ксенофонта о его выносливости и самообладании).
-- [[08-03]] — Сократ, Диоген, Гераклит противопоставлены Александру, Цезарю, Помпею: мудрецы против завоевателей.
-- [[11-23]] — Сократ называл мнения большинства **ламиями**, детскими страшилками.
-- [[11-25]] — ответ Пердикке о том, почему он не едет к нему: «чтобы не погибнуть наихудшей гибелью», то есть не оказаться облагодетельствованным без возможности отблагодарить.
-- [[11-28]] — Сократ, подпоясавшийся овчиной, когда Ксантиппа ушла, взяв его плащ; Марк отмечает не его выдержку, а то, что спутники «застыдились и отошли», и **самой реплики не приводит**.
-- [[11-39]] — допрос в четыре хода, которым **кончается Книга XI**: души разумных или неразумных, здоровых или негодных, «что же вы не ищете?» — «имеем» — «что же вы деретесь и ссоритесь?».
+- [[06-47|6.47]] — Сократ в перечне умерших (рядом с Гераклитом и др.).
+- [[07-66|7.66]] — развёрнутое размышление: внешние подвиги Сократа (славная смерть, диспуты, ночь на морозе, отказ арестовать Льва, гордая походка) недостаточны; мера — какую он имел ψυχή (справедлив к людям, благочестив к богам, не раб чужому неведению).
+- [[07-19|7.19]] — «сколько Сократов поглотила уже вечность»: имя во множественном числе, в перекличке величайших рядом с Хрисиппом и Эпиктетом; 7.66 — подлинное величие Сократа (анекдот из Ксенофонта о его выносливости и самообладании).
+- [[08-03|8.3]] — Сократ, Диоген, Гераклит противопоставлены Александру, Цезарю, Помпею: мудрецы против завоевателей.
+- [[11-23|11.23]] — Сократ называл мнения большинства **ламиями**, детскими страшилками.
+- [[11-25|11.25]] — ответ Пердикке о том, почему он не едет к нему: «Чтобы не погибнуть самым постыдным образом», то есть не оказаться облагодетельствованным без возможности отблагодарить.
+- [[11-28|11.28]] — Сократ, подпоясавшийся овчиной, когда Ксантиппа ушла, взяв его плащ; Марк отмечает не его выдержку, а то, что спутники «застыдились и отошли», и **самой реплики не приводит**.
+- [[11-39|11.39]] — допрос в четыре хода, которым **кончается Книга XI**: души разумных или неразумных, здоровых или негодных, «что же вы не ищете?» — «имеем» — «что же вы деретесь и ссоритесь?».
 
 ## Mentions in Marcus
 
-- [[03-03]] — death "by other lice" (his accusers) in the catalogue of famous deaths; and the disjunctive consolation that goes back to Socrates' *Apology*.
-- [[03-06]] — an explicit attribution: the daimon has detached itself from the persuasions of the senses, "**as Socrates said**" (ὡς ὁ Σωκράτης ἔλεγεν) — a reference to the Platonic *Phaedo* (65a–67b: philosophy as the soul's withdrawal from the body and the senses), folded into the Stoic discipline of assent.
+- [[03-03|3.3]] — death "by other lice" (his accusers) in the catalogue of famous deaths; and the disjunctive consolation that goes back to Socrates' *Apology*.
+- [[03-06|3.6]] — an explicit attribution: the daimon has detached itself from the persuasions of the senses, "**as Socrates said**" (ὡς ὁ Σωκράτης ἔλεγεν) — a reference to the Platonic *Phaedo* (65a–67b: philosophy as the soul's withdrawal from the body and the senses), folded into the Stoic discipline of assent.
 - *Med.* 1.16 — the virtues of Antoninus Pius are described after a Socratic model.
-- [[06-47]] — Socrates in the roll-call of the dead (beside Heraclitus and others).
-- [[07-66]] — an extended reflection: Socrates' outward feats (the noble death, the disputes, the night in the frost, the refusal to arrest Leon, the swaggering gait) are insufficient; the measure is what ψυχή he had (just toward men, pious toward the gods, no slave to another's ignorance).
-- [[07-19]] — "how many Socrateses has eternity already swallowed": the name in the plural, in the roll-call of the greatest beside Chrysippus and Epictetus; 7.66 — the true greatness of Socrates (the anecdote from Xenophon on his endurance and self-command).
-- [[08-03]] — Socrates, Diogenes, Heraclitus set against Alexander, Caesar, Pompey: the sages against the conquerors.
-- [[11-23]] — Socrates used to call the opinions of the many **Lamiae**, bogeys for frightening children.
-- [[11-25]] — the reply to Perdiccas on why he would not come to him: "that I may not perish by the worst destruction," that is, be well treated without the means of returning the favour.
-- [[11-28]] — Socrates girt with a sheepskin after Xanthippe had gone out with his cloak; Marcus notes not his nerve but that his companions "were ashamed and withdrew," and **does not give the line itself**.
-- [[11-39]] — the cross-examination in four moves with which **Book XI ends**: souls rational or irrational, sound or worthless, "why then do you not seek them?" — "because we have them" — "why then do you fight and quarrel?"
+- [[06-47|6.47]] — Socrates in the roll-call of the dead (beside Heraclitus and others).
+- [[07-66|7.66]] — an extended reflection: Socrates' outward feats (the noble death, the disputes, the night in the frost, the refusal to arrest Leon, the swaggering gait) are insufficient; the measure is what ψυχή he had (just toward men, pious toward the gods, no slave to another's ignorance).
+- [[07-19|7.19]] — "how many Socrateses has eternity already swallowed": the name in the plural, in the roll-call of the greatest beside Chrysippus and Epictetus; 7.66 — the true greatness of Socrates (the anecdote from Xenophon on his endurance and self-command).
+- [[08-03|8.3]] — Socrates, Diogenes, Heraclitus set against Alexander, Caesar, Pompey: the sages against the conquerors.
+- [[11-23|11.23]] — Socrates used to call the opinions of the many **Lamiae**, bogeys for frightening children.
+- [[11-25|11.25]] — the reply to Perdiccas on why he would not come to him: "that I may not perish by the worst destruction," that is, be well treated without the means of returning the favour.
+- [[11-28|11.28]] — Socrates girt with a sheepskin after Xanthippe had gone out with his cloak; Marcus notes not his nerve but that his companions "were ashamed and withdrew," and **does not give the line itself**.
+- [[11-39|11.39]] — the cross-examination in four moves with which **Book XI ends**: souls rational or irrational, sound or worthless, "why then do you not seek them?" — "because we have them" — "why then do you fight and quarrel?"
 
 ## Литература
 - G. Vlastos, *Socrates: Ironist and Moral Philosopher*, Cambridge 1991.
