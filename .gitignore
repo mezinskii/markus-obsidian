@@ -3,3 +3,6 @@ node_modules/
 .DS_Store
 .obsidian/workspace*
 .obsidian/cache
+books/reading-marcus/dist/
+books/reading-marcus/tools/
+books/reading-marcus/fonts-src/
