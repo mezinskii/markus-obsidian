@@ -9,6 +9,7 @@ import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import MarkdownIt from 'markdown-it';
+import { buildFb2 } from './fb2.mjs';
 import footnote from 'markdown-it-footnote';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../..');
@@ -481,6 +482,19 @@ fs.mkdirSync(OUT_DIR, { recursive: true });
 fs.writeFileSync(OUT, zip(entries));
 console.log(`EPUB: ${path.relative(ROOT, OUT)}  (${(fs.statSync(OUT).size / 1024).toFixed(0)} КБ; файлов ${entries.length}; примечаний ${endnotes.length}; комментариев ${commented.length})`);
 
+// ---------- FB2 из тех же страниц ----------
+{
+  const fb2 = buildFb2({ files, meta: { title: TITLE, subtitle: SUBTITLE, authorFirst: AUTHOR.split(" ")[0], authorLast: AUTHOR.split(" ").slice(1).join(" "), translatorGen: TRANSLATOR, year: YEAR, uid, dateStr, isoDate: now.toISOString().slice(0, 10) } });
+  checkXml("fb2", fb2);
+  const fb2Out = OUT.replace(/.epub$/, ".fb2");
+  fs.writeFileSync(fb2Out, fb2);
+  const ids = new Set([...fb2.matchAll(/\sid="([^"]+)"/g)].map((m) => m[1]));
+  const broken = [...fb2.matchAll(/l:href="#([^"]+)"/g)].map((m) => m[1]).filter((h) => !ids.has(h));
+  if (broken.length) console.log(`FB2: битые ссылки: ${[...new Set(broken)].slice(0, 10).join(", ")}`);
+  globalThis.__fb2Out = fb2Out;
+  console.log(`FB2: ${path.relative(ROOT, fb2Out)}  (${(fs.statSync(fb2Out).size / 1024).toFixed(0)} КБ)`);
+}
+
 // ---------- проверка EPUBCheck (если есть Java и books/reading-marcus/tools/epubcheck-*/epubcheck.jar) ----------
 import { spawnSync } from "node:child_process";
 {
@@ -499,5 +513,14 @@ import { spawnSync } from "node:child_process";
     const sum = out.match(/Messages:.*$/m);
     console.log("EPUBCheck: " + (sum ? sum[0] : "готово"));
     if (r.status !== 0) process.exitCode = 1;
+    // FB2 по схеме FictionBook.xsd (Jing из комплекта EPUBCheck)
+    const xsd = path.join(toolsDir, "fb2xsd", "FictionBook.xsd");
+    if (fs.existsSync(xsd) && globalThis.__fb2Out) {
+      const v = spawnSync(java, ["-cp", path.join(toolsDir, jarDir, "lib", "*"), "com.thaiopensource.relaxng.util.Driver", xsd, globalThis.__fb2Out], { encoding: "utf8" });
+      const errs = ((v.stdout || "") + (v.stderr || "")).split(/\r?\n/).filter((l) => /error/.test(l) && !/cos-element-consistent/.test(l));
+      for (const l of errs.slice(0, 10)) console.log("  " + l.replace(/^.*\.fb2:/, ""));
+      console.log(`FB2 schema: ${errs.length} ошибок`);
+      if (errs.length) process.exitCode = 1;
+    }
   }
 }
