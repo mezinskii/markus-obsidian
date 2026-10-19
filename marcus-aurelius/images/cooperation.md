@@ -13,19 +13,19 @@ related_dogmas:
 
 ## Образ
 
-Сотрудничество (συνέργια) — не моральный идеал, а конститутивная характеристика разумной природы. Образ «работающих вместе» инструментов или органов делает кооперацию не выбором, а функцией: пчёлы для роя, овцы для стада, разумные существа — для одного общего дела. Поэтому всякое уклонение от сотрудничества — не «неудача в добродетели», а саморасторжение: вышедшее из общей работы становится бесполезным и для целого, и для себя.
+Сотрудничество (συνεργία) — не моральный идеал, а конститутивная характеристика разумной природы. Образ «работающих вместе» инструментов или органов делает кооперацию не выбором, а функцией: пчёлы для роя, овцы для стада, разумные существа — для одного общего дела. Поэтому всякое уклонение от сотрудничества — не «неудача в добродетели», а саморасторжение: вышедшее из общей работы становится бесполезным и для целого, и для себя.
 
 ## Image
 
-Cooperation (συνέργια) is not a moral ideal but a constitutive feature of the rational nature. The image of "working-together" tools or organs makes cooperation not a choice but a function: bees for the swarm, sheep for the flock, rational beings for one common task. Every withdrawal from cooperation is therefore not "a failure in virtue" but self-dissolution: that which has left the common work becomes useless both to the whole and to itself.
+Cooperation (συνεργία) is not a moral ideal but a constitutive feature of the rational nature. The image of "working-together" tools or organs makes cooperation not a choice but a function: bees for the swarm, sheep for the flock, rational beings for one common task. Every withdrawal from cooperation is therefore not "a failure in virtue" but self-dissolution: that which has left the common work becomes useless both to the whole and to itself.
 
 ## Источник
 
-*Med.* 2.1 (конец пассажа); [[05-22]] («что не вредит городу, не вредит и гражданину»); [[06-42]] («все мы содействуем одному делу — одни сознательно, другие невольно… ты же позаботься быть среди первых»); [[07-07]] (воин на штурме стены — не стыдись помощи: σὺν ἄλλῳ δυνατόν); [[07-13]] (члены единого тела — разумные существа, устроенные для одного содействия); 9.23 («всякое действие, не относящееся непосредственно или опосредованно к общественной цели, разрывает жизнь»). Греческий фон — Аристотель *Pol.* I 2 (человек как ζῷον πολιτικόν), переосмысленный стоиками в терминах [[oikeiosis]] и общности логоса.
+*Med.* 2.1 (конец пассажа); [[05-22]] («что не вредит городу, не вредит и гражданину»); [[06-42|6.42]] («все мы содействуем одному делу — одни сознательно, другие невольно… ты же позаботься быть среди первых»); [[07-07]] (воин на штурме стены — не стыдись помощи: σὺν ἄλλῳ δυνατόν); [[07-13]] (члены единого тела — разумные существа, устроенные для одного содействия); 9.23 («всякое действие, не относящееся непосредственно или опосредованно к общественной цели, разрывает жизнь»). Греческий фон — Аристотель *Pol.* I 2 (человек как ζῷον πολιτικόν), переосмысленный стоиками в терминах [[oikeiosis]] и общности логоса.
 
 ## Source
 
-*Med.* 2.1 (the end of the passage); [[05-22]] ("what does not harm the city does not harm the citizen either"); [[06-42]] ("we are all cooperating in a single work — some consciously, others unwillingly… see that you are among the first"); [[07-07]] (the soldier at the storming of the wall — be not ashamed of help: σὺν ἄλλῳ δυνατόν); [[07-13]] (members of one body — rational beings framed for one joint work); 9.23 ("every action that does not relate directly or indirectly to the social end tears one's life apart"). The Greek background: Aristotle *Pol.* I 2 (the human being as ζῷον πολιτικόν, the political animal), reinterpreted by the Stoics in the terms of [[oikeiosis]] and the community of the Logos.
+*Med.* 2.1 (the end of the passage); [[05-22]] ("what does not harm the city does not harm the citizen either"); [[06-42|6.42]] ("we are all cooperating in a single work — some consciously, others unwillingly… see that you are among the first"); [[07-07]] (the soldier at the storming of the wall — be not ashamed of help: σὺν ἄλλῳ δυνατόν); [[07-13]] (members of one body — rational beings framed for one joint work); 9.23 ("every action that does not relate directly or indirectly to the social end tears one's life apart"). The Greek background: Aristotle *Pol.* I 2 (the human being as ζῷον πολιτικόν, the political animal), reinterpreted by the Stoics in the terms of [[oikeiosis]] and the community of the Logos.
 
 ## Использование
 
