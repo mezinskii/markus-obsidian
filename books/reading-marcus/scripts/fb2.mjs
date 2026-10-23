@@ -31,6 +31,13 @@ function convert(html, slug, notes) {
       const intro = html.slice(headStop, first).trim();
       const groups = html.slice(first, close).split(/(?=<h2)/).map((g) => `<section>${g}</section>`).join('\n');
       html = html.slice(0, headStop) + (intro ? `<annotation>${intro}</annotation>` : '') + groups + html.slice(close);
+    } else if (first < 0 && headEnd > 0) {
+      // без групп (словарь): вступление в <annotation>, дальше одни статьи-секции
+      const endTag = html.slice(headEnd).match(/^<\/(h1|hgroup)>/)[0];
+      const headStop = headEnd + endTag.length;
+      const firstEntry = html.indexOf('<section class="entry"');
+      const intro = html.slice(headStop, firstEntry).trim();
+      html = html.slice(0, headStop) + (intro ? `<annotation>${intro}</annotation>` : '') + html.slice(firstEntry);
     }
   }
   // 2. заголовки-группы и подписи
@@ -91,7 +98,7 @@ export function buildFb2({ files, meta }) {
 <date value="${meta.year}-01-01">${meta.year}</date>
 <lang>ru</lang>
 <src-lang>grc</src-lang>
-<translator><first-name>Сергей</first-name><middle-name>Михайлович</middle-name><last-name>Роговин</last-name></translator>
+<translator><first-name>Семён</first-name><middle-name>Миронович</middle-name><last-name>Роговин</last-name></translator>
 </title-info>
 <document-info>
 <author><first-name>${meta.authorFirst}</first-name><last-name>${meta.authorLast}</last-name></author>

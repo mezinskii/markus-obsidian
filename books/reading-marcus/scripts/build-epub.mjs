@@ -10,6 +10,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import MarkdownIt from 'markdown-it';
 import { buildFb2 } from './fb2.mjs';
+import { buildLinkMaps, linkify, wrapEntries } from './links.mjs';
 import footnote from 'markdown-it-footnote';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../..');
@@ -18,6 +19,7 @@ const PASS = path.join(ROOT, 'marcus-aurelius/passages');
 const CORPUS = path.join(ROOT, 'marcus-aurelius');
 const OUT_DIR = path.join(ROOT, 'books/reading-marcus/dist');
 const OUT = path.join(OUT_DIR, 'chitaya-marka-avreliya.epub');
+const LINKS = buildLinkMaps({ BOOK, CORPUS });
 
 const TITLE = 'Читая Марка Аврелия';
 const SUBTITLE = '«Размышления» полностью, с комментарием';
@@ -164,7 +166,7 @@ const files = []; // {name, content, id, props?}
 function buildIntro() {
   const { data, content } = matter(read(path.join(BOOK, '00-vvedenie.md')));
   const src = wikiLinks(content).replace(/^### /gm, '## ');
-  let body = renderWithNotes(src, 'vvedenie.xhtml');
+  let body = linkify(renderWithNotes(src, 'vvedenie.xhtml'), { maps: LINKS });
   const children = [];
   let k = 0;
   body = body.replace(/<h2>([\s\S]*?)<\/h2>/g, (a, t) => { const id = `s-${++k}`; children.push({ href: `vvedenie.xhtml#${id}`, title: t.replace(/<[^>]+>/g, '') }); return `<h2 id="${id}">${t}</h2>`; });
@@ -204,7 +206,7 @@ function buildBook(b) {
     }
   }
   // сноски карточек: определения уже внутри текста фрагментов; markdown-it соберёт их в конец
-  const body = renderWithNotes(src, file);
+  const body = linkify(renderWithNotes(src, file), { maps: LINKS, book: b });
   const title = `Книга ${ROMAN[b]}`;
   files.push({ name: file, content: page(title, `<section id="kniga-${b}" epub:type="chapter" role="doc-chapter">\n<hgroup><p class="book-label">Книга</p><h1>${ROMAN[b]}</h1></hgroup>\n${body}</section>`) });
   toc.push({ file, title, children });
@@ -217,6 +219,8 @@ function appendixPage(fileMd, fileOut, transform) {
   const title = String(data.title || fileOut).replace(/^Приложение\s+([A-ZА-Я])\.\s*/, (a, l) => `Приложение ${l}. `);
   let src = wikiLinks(content);
   if (transform) src = transform(src);
+  if (fileOut === 'slovar.xhtml') src = wrapEntries(src, 'terms', LINKS);
+  if (fileOut === 'imena.xhtml') src = wrapEntries(src, 'people', LINKS);
   let body = renderWithNotes(src, fileOut);
   const children = [];
   let k = 0;
@@ -323,7 +327,7 @@ function buildFront(dateStr) {
 <p>Текст «Размышлений» дан полностью в переводе ${TRANSLATOR} (1914), сверенном с греческим по изданию Леопольда (Oxford, 1908). Нумерация фрагментов каноническая.</p>
 <p>Подробный комментарий к каждому фрагменту: <a href="https://readaurelius.org/ru">readaurelius.org/ru</a>.</p>
 <p>Греческий набран шрифтом Gentium Plus © SIL International, лицензия SIL Open Font License 1.1.</p>
-<p class="build">Сборка от ${dateStr}.</p>
+<p class="build">Сборка от ${dateStr.replace(/\.$/, "")}.</p>
 </section>`, { bodyType: 'frontmatter' }) });
 }
 
