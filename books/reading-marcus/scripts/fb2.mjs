@@ -96,6 +96,7 @@ export function buildFb2({ files, meta }) {
 <annotation><p>${meta.subtitle}. Полный текст «Размышлений» Марка Аврелия в переводе ${meta.translatorGen} с комментарием к ключевым фрагментам.</p></annotation>
 <keywords>Марк Аврелий, стоицизм, Размышления, античная философия</keywords>
 <date value="${meta.year}-01-01">${meta.year}</date>
+<coverpage><image l:href="#cover.jpg"/></coverpage>
 <lang>ru</lang>
 <src-lang>grc</src-lang>
 <translator><first-name>Семён</first-name><middle-name>Миронович</middle-name><last-name>Роговин</last-name></translator>
@@ -122,6 +123,7 @@ ${sections.join('\n')}
 <title><p>Примечания</p></title>
 ${notesBody}
 </body>
+<binary id="cover.jpg" content-type="image/jpeg">${meta.coverB64}</binary>
 </FictionBook>
 `;
 }

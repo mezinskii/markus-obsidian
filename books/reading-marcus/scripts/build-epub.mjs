@@ -300,21 +300,11 @@ function buildIndex() {
 
 
 // ---------- обложка, титул ----------
-const COVER_SVG = `<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 2100" width="1400" height="2100">
-<rect width="1400" height="2100" fill="#1d1b19"/>
-<rect x="90" y="90" width="1220" height="1920" fill="none" stroke="#b9a37a" stroke-width="4"/>
-<text x="700" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" letter-spacing="12" fill="#b9a37a">ΤΑ ΕΙΣ ΕΑΥΤΟΝ</text>
-<text x="700" y="900" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="128" fill="#f2ebe0">Читая</text>
-<text x="700" y="1060" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="128" fill="#f2ebe0">Марка Аврелия</text>
-<line x1="560" y1="1180" x2="840" y2="1180" stroke="#b9a37a" stroke-width="3"/>
-<text x="700" y="1290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#d9cfbf">${SUBTITLE}</text>
-<text x="700" y="1820" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="60" fill="#f2ebe0">${AUTHOR}</text>
-</svg>
-`;
+// Обложка: books/reading-marcus/cover/cover-ebook.jpg (1600×2560). Бюст — Мюнхенская глиптотека, инв. 569 (фото в общественном достоянии).
+const COVER_JPG = fs.readFileSync(path.join(ROOT, 'books/reading-marcus/cover/cover-ebook.jpg'));
 
 function buildFront(dateStr) {
-  files.push({ name: 'cover.xhtml', content: page('Обложка', `<section epub:type="cover" class="cover"><img src="cover.svg" alt="${TITLE}" /></section>`, { bodyType: 'frontmatter', cls: 'cover-page' }) });
+  files.push({ name: 'cover.xhtml', content: page('Обложка', `<section epub:type="cover" class="cover"><img src="cover.jpg" alt="${TITLE}" /></section>`, { bodyType: 'frontmatter', cls: 'cover-page' }) });
   files.push({ name: 'titlepage.xhtml', content: page(TITLE, `<section epub:type="titlepage" class="titlepage">
 <p class="t-author">${AUTHOR}</p>
 <h1 class="t-title">${TITLE}</h1>
@@ -325,6 +315,7 @@ function buildFront(dateStr) {
 <p>© ${AUTHOR}, ${YEAR}. Комментарий, введение, приложения.</p>
 <p>Текст «Размышлений» дан полностью в переводе ${TRANSLATOR} (1914), сверенном с греческим по изданию Леопольда (Oxford, 1908). Нумерация фрагментов каноническая.</p>
 <p>Подробный комментарий к каждому фрагменту: <a href="https://readaurelius.org/ru">readaurelius.org/ru</a>.</p>
+<p>На обложке бюст Марка Аврелия из Мюнхенской глиптотеки.</p>
 <p>Греческий набран шрифтом Gentium Plus © SIL International, лицензия SIL Open Font License 1.1.</p>
 <p class="build">Сборка от ${dateStr.replace(/\.$/, "")}.</p>
 </section>`, { bodyType: 'frontmatter' }) });
@@ -397,7 +388,7 @@ function opf(uid, modified) {
 </metadata>
 <manifest>
 <item id="css" href="style.css" media-type="text/css"/>
-<item id="cover-image" href="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+<item id="cover-image" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
 <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
 ${FONTS.map((f, i) => `<item id="font${i}" href="fonts/${f}" media-type="font/ttf"/>`).join('\n')}
 ${items}
@@ -477,7 +468,7 @@ const entries = [
   { name: 'OEBPS/content.opf', data: opf(uid, now.toISOString().replace(/\.\d+Z$/, 'Z')) },
   { name: 'OEBPS/toc.ncx', data: tocNcx(uid) },
   { name: 'OEBPS/style.css', data: css },
-  { name: 'OEBPS/cover.svg', data: COVER_SVG },
+  { name: 'OEBPS/cover.jpg', data: COVER_JPG },
   ...FONTS.map((f) => ({ name: `OEBPS/fonts/${f}`, data: fs.readFileSync(path.join(FONTS_DIR, f)) })),
   ...files.map((f) => ({ name: `OEBPS/${f.name}`, data: f.content })),
 ];
@@ -487,7 +478,7 @@ console.log(`EPUB: ${path.relative(ROOT, OUT)}  (${(fs.statSync(OUT).size / 1024
 
 // ---------- FB2 из тех же страниц ----------
 {
-  const fb2 = buildFb2({ files, meta: { title: TITLE, subtitle: SUBTITLE, authorFirst: AUTHOR.split(" ")[0], authorLast: AUTHOR.split(" ").slice(1).join(" "), translatorGen: TRANSLATOR, year: YEAR, uid, dateStr, isoDate: now.toISOString().slice(0, 10) } });
+  const fb2 = buildFb2({ files, meta: { title: TITLE, subtitle: SUBTITLE, authorFirst: AUTHOR.split(" ")[0], authorLast: AUTHOR.split(" ").slice(1).join(" "), translatorGen: TRANSLATOR, year: YEAR, uid, dateStr, isoDate: now.toISOString().slice(0, 10), coverB64: COVER_JPG.toString("base64") } });
   checkXml("fb2", fb2);
   const fb2Out = OUT.replace(/.epub$/, ".fb2");
   fs.writeFileSync(fb2Out, fb2);
