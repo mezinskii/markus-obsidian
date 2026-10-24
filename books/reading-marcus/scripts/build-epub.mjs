@@ -27,6 +27,7 @@ const AUTHOR = 'Ян Мезинский';
 const TRANSLATOR = 'С. М. Роговина';
 const TRANSLATOR_NAME = 'С. М. Роговин';
 const YEAR = '2026';
+const KEEP_CHARS = 700; // первый абзац фрагмента короче этого не отрывается от номера
 const FONTS_DIR = path.join(path.dirname(fileURLToPath(import.meta.url)), 'fonts');
 const APPENDICES = [
   ['pril-a-o-tekste.md', 'o-tekste.xhtml'],
@@ -206,7 +207,13 @@ function buildBook(b) {
     }
   }
   // сноски карточек: определения уже внутри текста фрагментов; markdown-it соберёт их в конец
-  const body = linkify(renderWithNotes(src, file), { maps: LINKS, book: b });
+  let body = linkify(renderWithNotes(src, file), { maps: LINKS, book: b });
+  // номер фрагмента и начало текста — один блок, чтобы читалка не оставила номер внизу страницы;
+  // короткий первый абзац держим целиком (keep), длинный может разорваться, но не раньше 3 строк (orphans)
+  body = body.replace(/<h3 class="fnum">([^<]*)<\/h3>\s*<div class="marcus">\s*<p>([\s\S]*?)<\/p>/g, (all, n, p) => {
+    const keep = p.replace(/<[^>]+>/g, '').length <= KEEP_CHARS;
+    return `<div class="marcus">\n<div class="fstart${keep ? ' keep' : ''}"><h3 class="fnum">${n}</h3>\n<p>${p}</p></div>`;
+  });
   const title = `Книга ${ROMAN[b]}`;
   files.push({ name: file, content: page(title, `<section id="kniga-${b}" epub:type="chapter" role="doc-chapter">\n<hgroup><p class="book-label">Книга</p><h1>${ROMAN[b]}</h1></hgroup>\n${body}</section>`) });
   toc.push({ file, title, children });
@@ -278,7 +285,7 @@ function buildKartaAuto() {
     .map(([t, slug, ids]) => `<section class="entry" id="${prefix}-${slug}">\n<h3>${esc(t)}</h3>\n<p class="places">${list(ids)}</p>\n</section>`).join('\n');
   const body = `<section id="karta" epub:type="appendix" role="doc-appendix">
 <h1>Карта практики</h1>
-<p class="lead">Все места, где Марк возвращается к одному догмату или упражнению. Жирным отмечены фрагменты с комментарием в этой книге.</p>
+<p class="lead">Все места, где Марк Аврелий возвращается к одному догмату или упражнению. Жирным отмечены фрагменты с комментарием в этой книге.</p>
 <h2>Догматы</h2>
 ${block('dogmas', 'dogmas', 'd')}
 <h2>Упражнения</h2>
