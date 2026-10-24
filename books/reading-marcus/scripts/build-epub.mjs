@@ -22,7 +22,7 @@ const OUT = path.join(OUT_DIR, 'chitaya-marka-avreliya.epub');
 const LINKS = buildLinkMaps({ BOOK, CORPUS });
 
 const TITLE = 'Читая Марка Аврелия';
-const SUBTITLE = '«Размышления» полностью, с комментарием';
+const SUBTITLE = 'Как читать «Размышления»';
 const AUTHOR = 'Ян Мезинский';
 const TRANSLATOR = 'С. М. Роговина';
 const TRANSLATOR_NAME = 'С. М. Роговин';
@@ -308,8 +308,7 @@ const COVER_SVG = `<?xml version="1.0" encoding="utf-8"?>
 <text x="700" y="900" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="128" fill="#f2ebe0">Читая</text>
 <text x="700" y="1060" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="128" fill="#f2ebe0">Марка Аврелия</text>
 <line x1="560" y1="1180" x2="840" y2="1180" stroke="#b9a37a" stroke-width="3"/>
-<text x="700" y="1290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#d9cfbf">«Размышления» полностью,</text>
-<text x="700" y="1360" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#d9cfbf">с комментарием</text>
+<text x="700" y="1290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#d9cfbf">${SUBTITLE}</text>
 <text x="700" y="1820" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="60" fill="#f2ebe0">${AUTHOR}</text>
 </svg>
 `;
