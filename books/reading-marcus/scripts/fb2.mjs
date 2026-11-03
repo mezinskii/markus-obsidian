@@ -14,7 +14,7 @@ function convert(html, slug, notes) {
   // 1. сноски главы
   html = html.replace(/<section class="chapter-notes">([\s\S]*?)<\/section>\s*/g, (all, body) => {
     for (const a of body.matchAll(/<aside id="note-(\d+)"[^>]*>([\s\S]*?)<\/aside>/g)) {
-      const text = a[2].replace(/<a href="#noteref-\d+" class="note-num"[^>]*>[^<]*<\/a>\s*/g, '');
+      const text = a[2].replace(/\s*<a href="#noteref-\d+" class="note-back"[^>]*>[^<]*<\/a>/g, '');
       notes.push({ id: `n-${slug}-${a[1]}`, num: a[1], html: text });
     }
     return '';
@@ -56,6 +56,7 @@ function convert(html, slug, notes) {
   html = html.replace(/<blockquote>/g, '<cite>').replace(/<\/blockquote>/g, '</cite>');
   html = html.replace(/<hr\s*\/>/g, '<empty-line/>');
   // 6. ссылки
+  html = html.replace(/<sup class="nr">(<a href="#note-\d+"[^>]*>[^<]*<\/a>)<\/sup>/g, '$1');
   html = html.replace(/<a href="#note-(\d+)"[^>]*>([^<]*)<\/a>/g, (a, n, t) => `<a l:href="#n-${slug}-${n}" type="note">[${t}]</a>`);
   html = html.replace(/<a href="[^"#]*\.xhtml#([^"]+)"[^>]*>/g, '<a l:href="#$1">');
   html = html.replace(/<a href="([^"#]*)\.xhtml"[^>]*>/g, '<a l:href="#$1">');

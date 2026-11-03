@@ -130,11 +130,12 @@ function renderWithNotes(src, fileName) {
   html = html.replace(/<sup class="footnote-ref"><a href="#fn(\d+)" id="fnref(\d+)(?::(\d+))?">\[[^\]]*\]<\/a><\/sup>/g, (all, a, b, c) => {
     const n = local.get(a);
     const id = c ? `noteref-${n}-${c}` : `noteref-${n}`;
-    return `<a href="#note-${n}" id="${id}" class="noteref" epub:type="noteref" role="doc-noteref">${n}</a>`;
+    return `<sup class="nr"><a href="#note-${n}" id="${id}" class="noteref" epub:type="noteref" role="doc-noteref">${n}</a></sup>`;
   });
   if (notes.length) {
     const asides = notes.map(({ n, body }) => {
-      const withNum = body.replace(/^<p>/, `<p><a href="#noteref-${n}" class="note-num" role="doc-backlink">${n}.</a> `);
+      // номер сноски читалки ставят сами, поэтому в тексте сноски только стрелка возврата в конце
+      const withNum = body.replace(/<\/p>\s*$/, ` <a href="#noteref-${n}" class="note-back" role="doc-backlink" title="Назад к тексту">↩</a></p>`);
       return `<aside id="note-${n}" class="footnote" epub:type="footnote" role="doc-footnote">\n${withNum}\n</aside>`;
     }).join('\n');
     html += `\n<section class="chapter-notes">\n<h2 class="notes-title">Примечания</h2>\n${asides}\n</section>\n`;
@@ -197,7 +198,7 @@ function buildBook(b) {
       if (hasCom) {
         commented.push({ b, m, file });
         const com = rest.replace(/^\*\*Комментарий\.\*\*\s*/m, '');
-        src += `<aside class="commentary" aria-label="Комментарий">\n<p class="label">Комментарий</p>\n\n${wikiLinks(com)}\n\n</aside>\n`;
+        src += `<aside class="commentary" aria-label="Комментарий">\n<h4 class="label">Комментарий</h4>\n\n${wikiLinks(com)}\n\n</aside>\n`;
       }
       src += `</section>\n\n`;
     } else {
