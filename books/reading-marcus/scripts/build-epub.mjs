@@ -222,7 +222,8 @@ function buildBook(b) {
 
 // ---------- приложения ----------
 // Обычное приложение: markdown файла pril-*.md, заголовок из фронтматтера.
-function appendixPage(fileMd, fileOut, transform) {
+// sem — семантика раздела: приложение, литература (bibliography) или «Об авторе» (без роли).
+function appendixPage(fileMd, fileOut, transform, sem = 'epub:type="appendix" role="doc-appendix"') {
   const { data, content } = matter(read(path.join(BOOK, fileMd)));
   const title = String(data.title || fileOut).replace(/^Приложение\s+([A-ZА-Я])\.\s*/, (a, l) => `Приложение ${l}. `);
   let src = wikiLinks(content);
@@ -235,7 +236,7 @@ function appendixPage(fileMd, fileOut, transform) {
   body = body.replace(/<h2>([\s\S]*?)<\/h2>/g, (a, t) => { const id = `a-${++k}`; children.push({ href: `${fileOut}#${id}`, title: t.replace(/<[^>]+>/g, '') }); return `<h2 id="${id}">${t}</h2>`; });
   const [label, ...rest] = title.split('. ');
   const head = rest.length ? `<hgroup><p class="book-label">${esc(label)}</p><h1>${esc(rest.join('. '))}</h1></hgroup>` : `<h1>${esc(title)}</h1>`;
-  files.push({ name: fileOut, content: page(title, `<section id="${fileOut.replace('.xhtml', '')}" epub:type="appendix" role="doc-appendix">\n${head}\n${body}</section>`, { bodyType: 'backmatter' }) });
+  files.push({ name: fileOut, content: page(title, `<section id="${fileOut.replace('.xhtml', '')}" ${sem}>\n${head}\n${body}</section>`, { bodyType: 'backmatter' }) });
   toc.push({ file: fileOut, title, children: children.length > 1 ? children : [] });
 }
 
@@ -464,7 +465,9 @@ buildFront(dateStr);
 buildIntro();
 for (let b = 1; b <= 12; b++) buildBook(b);
 for (const [src, out] of APPENDICES) (out === "karta-praktiki.xhtml" ? buildKarta() : appendixPage(src, out));
+appendixPage('literatura.md', 'literatura.xhtml', null, 'epub:type="bibliography" role="doc-bibliography"');
 buildIndex();
+appendixPage('ob-avtore.md', 'ob-avtore.xhtml', null, '');
 files.splice(3, 0, { name: 'nav.xhtml', content: navXhtml() });
 
 const css = read(path.join(path.dirname(fileURLToPath(import.meta.url)), 'epub.css'));

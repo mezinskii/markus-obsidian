@@ -119,8 +119,8 @@ aside.commentary .label {
   letter-spacing: 0.1em;
   margin-bottom: 0.4em;
 }
-aside.commentary p { margin-bottom: 0.5em; text-indent: 0; }
-aside.commentary p:last-child { margin-bottom: 0; }
+aside.commentary p { margin: 0; text-indent: 1.2em; }
+aside.commentary .label + p { text-indent: 0; }
 
 /* --- «Главное в книге» --- */
 .glavnoe {

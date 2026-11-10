@@ -41,7 +41,9 @@ const APPENDICES = [
   ['A', 'pril-a-o-tekste.md'], ['B', 'pril-b-slovar.md'], ['C', 'pril-c-imena.md'],
   ['D', 'pril-d-karta-praktiki.md'], ['E', 'pril-e-hronologiya.md'],
 ];
-const labels = new Set(['vvedenie', ...APPENDICES.map(([k]) => `pril-${k}`)]);
+// разделы после приложений: литература и «Об авторе»
+const BACKMATTER = [['literatura', 'literatura.md', 'Литература'], ['ob-avtore', 'ob-avtore.md', 'Об авторе']];
+const labels = new Set(['vvedenie', ...APPENDICES.map(([k]) => `pril-${k}`), ...BACKMATTER.map(([l]) => l)]);
 // статьи карты практики: ### Название ^slug → метка d-slug
 for (const m of read(path.join(BOOK, 'pril-d-karta-praktiki.md')).matchAll(/^### .*?\s+\^([\w-]+)\s*$/gm)) labels.add(`d-${m[1]}`);
 for (const b of BOOKS) {
@@ -271,6 +273,14 @@ function buildAppendices() {
   return out;
 }
 
+function buildBackmatter() {
+  return BACKMATTER.map(([lab, file, title]) => {
+    noteNo = 0;
+    const { content } = matter(read(path.join(BOOK, file)));
+    return `#section-open("${lab}", none, [${escText(title)}], "${title}")\n${toTypst(wikiLinks(content))}`;
+  }).join('\n');
+}
+
 // ---------- сборка ----------
 const chapters = BOOKS.map(buildBook).join('\n');
 // содержание: все двенадцать книг (в пробной сборке страницы есть только у собранных)
@@ -288,6 +298,7 @@ toc += '#toc-band[Размышления]\n';
 for (let b = 1; b <= 12; b++) toc += tocEntry(`Книга ${ROMAN[b]}`, allTitles.get(b), `kniga-${b}`) + '\n';
 toc += '#toc-band[Приложения]\n';
 for (const [k, t] of [['A', 'О тексте и переводе'], ['B', 'Словарь терминов'], ['C', 'Указатель имён'], ['D', 'Карта практики'], ['E', 'Хронология жизни Марка Аврелия']]) toc += tocEntry(`Приложение ${k}`, t, `pril-${k}`) + '\n';
+for (const [lab, , t] of BACKMATTER) toc += tocEntry(t, null, lab) + '\n';
 toc += ']\n';
 
 const colophon = [
@@ -310,6 +321,7 @@ ${toc}
 ${buildIntro()}
 ${chapters}
 ${buildAppendices()}
+${buildBackmatter()}
 `;
 const work = path.join(OUT_DIR, 'pdf');
 fs.mkdirSync(work, { recursive: true });

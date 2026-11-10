@@ -100,7 +100,7 @@ for (let b = 1; b <= 12; b++) {
     }
   }
 }
-for (const file of ['pril-a-o-tekste.md', 'pril-b-slovar.md', 'pril-c-imena.md', 'pril-d-karta-praktiki.md', 'pril-e-hronologiya.md']) {
+for (const file of ['pril-a-o-tekste.md', 'pril-b-slovar.md', 'pril-c-imena.md', 'pril-d-karta-praktiki.md', 'pril-e-hronologiya.md', 'literatura.md', 'ob-avtore.md']) {
   const { data, content } = matter(read(path.join(BOOK, file)));
   let src = content;
   if (file.startsWith('pril-d')) {
@@ -109,7 +109,7 @@ for (const file of ['pril-a-o-tekste.md', 'pril-b-slovar.md', 'pril-c-imena.md',
       return `### ${t}\n\n${b.trim()}\n\n*Места (${ids.length}):* ${ids.join(', ')}\n\n`;
     });
   }
-  out += `# ${String(data.title).replace(/\s*:.*$/, '')}\n\n${uniq(plain(src), file.slice(5, 6))}\n\n`;
+  out += `# ${String(data.title).replace(/\s*:.*$/, '')}\n\n${uniq(plain(src), file.startsWith('pril-') ? file.slice(5, 6) : file.slice(0, 3))}\n\n`;
 }
 
 // символы, которых нет в шрифте Ridero (PT Sans): кавычки ʽ…ʼ → «…», греческий апостроф ’ → обычный
