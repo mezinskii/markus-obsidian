@@ -16,11 +16,11 @@ Six key passages: make haste while the mind is whole (3.1) → beauty where one 
 
 ## Introduction
 
-Book III has fewer passages than Book II, but the passages themselves are longer and denser. In many of them sounds a word that appeared briefly in Book II (2.13, 2.17): the daemon, in Greek δαίμων, the divinity that dwells within a man. This is what Marcus Aurelius calls the ruling faculty, the reason spoken of in 2.2. In Book II he learned to distinguish reason from flesh and breath; in Book III reason becomes an inner god, served as a priest serves in a temple (3.4).
+Book III has fewer passages than Book II, but the passages themselves are longer and denser. A word that appeared briefly in Book II (2.13, 2.17) recurs in many of them: the daemon, in Greek δαίμων, the divinity that dwells within a man. By it Marcus Aurelius means the ruling faculty, the reason spoken of in 2.2. In Book II he learned to distinguish reason from flesh and breath; in Book III reason becomes an inner god, served as a priest serves in a temple (3.4).
 
 The themes of the sixteen passages are these. Make haste before the mind begins to fail (3.1). The beauty of the cracks in bread and of the overripe olive (3.2). The great died too (3.3). Do not spend the rest of life on thoughts about others (3.4). Be upright, not kept upright (3.5). Nothing is better than virtue (3.6). Do not count useful what will make you lie and hide (3.7). The purified soul (3.8). Guard the faculty of forming opinions (3.9). Each lives only the present (3.10). Give each thing its definition (3.11). Do what is in hand, expecting nothing and avoiding nothing (3.12). Keep your principles ready, as a physician keeps his instruments (3.13). No longer wander (3.14). Simple words have many meanings (3.15). Body, soul, intelligence (3.16).
 
-Among the passages without commentary, 3.13 deserves notice, where Marcus compares principles to the instruments a physician always keeps at hand for a sudden operation: "As physicians have always their instruments and knives ready for cases which suddenly require their skill, so do thou have principles ready." This is the exercise of πρόχειρον, "at hand," spoken of in the introduction. And in 3.14, discussed below, Marcus calls his notes ὑπομνημάτια, "little notes," reminders for himself; perhaps these are the very notes we are reading.
+Among the passages without commentary, note 3.13, in which Marcus compares principles to the instruments a physician always keeps at hand for a sudden operation: "As physicians have always their instruments and knives ready for cases which suddenly require their skill, so do thou have principles ready." This is the exercise of πρόχειρον, "at hand," spoken of in the introduction. And in 3.14, discussed below, Marcus calls his notes ὑπομνημάτια, "little notes," reminders for himself; perhaps these are the very notes we are reading.
 
 The note "This in Carnuntum" stands in the manuscript after 2.17, between the second and third books, and some editors take it as the heading of Book III. Either way, Book III too was most likely written at war.
 
@@ -30,7 +30,7 @@ The note "This in Carnuntum" stands in the manuscript after 2.17, between the se
 
 **Commentary.**
 
-The usual remembrance of death says that time is short and death is near. Marcus adds a second argument: even if one lives long, "it is quite uncertain whether the understanding will still continue sufficient."
+The usual meditation on death says that time is short and death is near. Marcus adds a second argument: even if one lives long, "it is quite uncertain whether the understanding will still continue sufficient."
 
 Breathing, nutrition, imagination and appetite will remain: all of these animals have too. What will be extinguished is what makes a man rational: "the power of making use of ourselves, and filling up the measure of our duty, and clearly separating all appearances." Long renders the first item exactly: the Greek ἑαυτῷ χρῆσθαι means literally "to make use of oneself." A man who has begun to "fall into dotage" (παραληρεῖν, literally "to talk nonsense") still breathes and desires, but no longer commands himself.
 
@@ -48,7 +48,7 @@ Hence the conclusion: "We must make haste then, not only because we are daily ne
 
 **Commentary.**
 
-When bread is baked, its surface splits. The baker did not aim at the cracks; they have, as Marcus writes, "a certain fashion contrary to the purpose of the baker's art." The Greek is more precise still: παρὰ τὸ ἐπάγγελμα, "against the promise" of baking. And yet the cracks "in a peculiar way excite a desire for eating." Then follows a list: figs that "gape open," ripe olives whose "very circumstance of their being near to rottenness adds a peculiar beauty to the fruit," "the ears of corn bending down, and the lion's eyebrows, and the foam which flows from the mouth of wild boars."
+When bread is baked, its surface splits. The baker did not aim at the cracks; they have, as Marcus writes, "a certain fashion contrary to the purpose of the baker's art." The Greek is more precise still: παρὰ τὸ ἐπάγγελμα, "against the promise" of baking. And yet the cracks "in a peculiar way excite a desire for eating." Marcus then lists figs that "gape open," ripe olives whose "very circumstance of their being near to rottenness adds a peculiar beauty to the fruit," "the ears of corn bending down, and the lion's eyebrows, and the foam which flows from the mouth of wild boars."
 
 Each of these, taken by itself, is unlovely or even unpleasant. Marcus speaks of what is secondary, of things "which follow after" (ἐπακολουθεῖν) the works of nature. Taken alone, it looks like a defect; seen as part of the whole process, it turns out to be in its place. Marcus does not say that everything in nature is beautiful: such a sentence would be too easy. He is learning to ask to what process a thing belongs, what in it is ripening and what is coming to an end.
 
@@ -68,7 +68,7 @@ In [[02-02|2.2]] Marcus took the body apart into blood and bones to strip it of 
 
 Each example is built on irony. Heraclitus, who taught the conflagration of the universe, "was filled with water internally," that is, the philosopher of fire was destroyed by water. Long's "smeared all over with mud" is softer than the Greek: βολβίτῳ κατακεχρισμένος, "smeared with cow dung," with which, the story goes, he tried to cure his dropsy. The lice of Democritus are real lice (φθεῖρες); for Socrates the "other lice" were his accusers.
 
-Mastery in one's craft saves from death neither the physician, nor the soothsayer, nor the conqueror.
+Neither physician, soothsayer nor conqueror is saved from death by mastery of his craft.
 
 "What means all this?" The answer is given in four verbs: ἐνέβης, ἔπλευσας, κατήχθης· ἔκβηθι. Long keeps their brevity: "Thou hast embarked, thou hast made the voyage, thou art come to shore; get out." Life is likened to a voyage that has a harbor, and death to going ashore.
 
@@ -84,17 +84,17 @@ The last sentence is built on a contrast: τὸ μὲν γὰρ νοῦς κα�
 
 **Commentary.**
 
-The longest passage of Book III begins with the words: "Do not waste the remainder of thy life in thoughts about others, when thou dost not refer thy thoughts to some object of common utility." Thoughts about what someone is doing, and why, what he is saying and contriving, take up time, and above all, whatever else is of this kind "makes us wander away from the observation of our own ruling power." This continues [[02-08|2.8]]: do not peer into other souls; watch your own.
+The longest passage of Book III begins with the words: "Do not waste the remainder of thy life in thoughts about others, when thou dost not refer thy thoughts to some object of common utility." Thoughts about what someone is doing, and why, what he is saying and contriving, take up time; above all, such thoughts "make us wander away from the observation of our own ruling power." This continues [[02-08|2.8]]: do not peer into other souls; watch your own.
 
-Marcus sets himself a test: to accustom himself only to such thoughts that, if someone should suddenly ask, "What hast thou now in thy thoughts?" one could answer at once, "This or That," "with perfect openness." The Greek is μετὰ παρρησίας; παρρησία meant for the Greeks the right and the courage to speak openly, and here that openness is turned inward. It follows that a thought one would be ashamed to name aloud has no place in the head. Marcus lists what will not pass the test: thoughts "about pleasure or sensual enjoyments," "rivalry or envy and suspicion."
+Marcus sets himself a test: to accustom himself only to such thoughts as, if someone should suddenly ask, "What hast thou now in thy thoughts?" one could answer at once, "This or That," "with perfect openness." The Greek is μετὰ παρρησίας; παρρησία meant for the Greeks the right and the courage to speak openly, and here that openness is turned inward. A thought one would be ashamed to name aloud, then, should not be entertained. Marcus lists what will not pass the test: thoughts "about pleasure or sensual enjoyments," "rivalry or envy and suspicion."
 
 The man who lives so "is like a priest and minister of the gods, using too the deity which is planted within him." For "planted" the Greek has ἱδρυμένῳ, from ἱδρύω, "to set up, to enthrone": so one spoke of the statue of a god installed in a temple. Reason in a man is like such a divinity, and philosophy is service to it.
 
-This divinity makes a man "uncontaminated by pleasure, unharmed by any pain," and "a fighter in the noblest fight, one who cannot be overpowered by any passion." It also makes him "dyed deep with justice," and Long renders the Greek δικαιοσύνῃ βεβαμμένον εἰς βάθος exactly: dyed through, like wool colored to the core.
+This daemon makes a man "uncontaminated by pleasure, unharmed by any pain," and "a fighter in the noblest fight, one who cannot be overpowered by any passion." It also makes him "dyed deep with justice," and Long renders the Greek δικαιοσύνῃ βεβαμμένον εἰς βάθος exactly: dyed through, like wool colored to the core.
 
 Such a man attends only to what is his own, and of the lot the whole assigns him "he is persuaded that his own portion is good. For the lot which is assigned to each man is carried along with him and carries him along with it."
 
-"Every rational animal is his kinsman," and "to care for all men is according to man's nature." Yet one should value the opinion "not of all, but of those only who confessedly live according to nature." The praise of those who live otherwise such a man counts for nothing, "since they are not even satisfied with themselves."
+"Every rational animal is his kinsman," and "to care for all men is according to man's nature." Yet one should value the opinion "not of all, but of those only who confessedly live according to nature." Such a man counts the praise of those who live otherwise as nothing, "since they are not even satisfied with themselves."
 
 **Doctrines.** [[app-d-map-of-practice#^oikeiosis|Men are born for one another]]: every rational being is kin. Only the praise of those who [[app-d-map-of-practice#^live-according-to-nature|live according to nature]] has value. And such a man [[app-d-map-of-practice#^amor-fati|accepts his lot with trust]], because "he is persuaded that his own portion is good."
 
@@ -114,7 +114,7 @@ The four virtues are almost the usual Stoic set: justice, temperance (σωφρο
 
 If nothing better exists, then best of all is "the deity which is planted in thee." Marcus describes it by five traits: it "has subjected to itself all thy appetites," "carefully examines all the impressions," "as Socrates said, has detached itself from the persuasions of sense," "has submitted itself to the gods," and "cares for mankind."
 
-And then "give place to nothing else." Beside the good of reason nothing of another kind may be set: "praise from the many, or power, or enjoyment of pleasure." Long's "it is not right" renders οὐ θέμις, a stronger word: it was used of a sacred prohibition, of what is contrary to the will of the gods and to hallowed custom. Then comes a warning: these things, even if they seem to fit in "in a small degree," "obtain the superiority all at once, and carry us away."
+And then "give place to nothing else." Beside the good of reason nothing of another kind may be set: "praise from the many, or power, or enjoyment of pleasure." Long's "it is not right" renders οὐ θέμις, a stronger word: it was used of a sacred prohibition, of what is contrary to the will of the gods and to hallowed custom. A warning follows: these things, even if they seem to fit in "in a small degree," "obtain the superiority all at once, and carry us away."
 
 The end of the passage is like an argument with an interlocutor. "But that which is useful is the better." Marcus agrees and asks for whom it is useful: "if it is useful to thee as a rational being, keep to it; but if it is only useful to thee as an animal, say so."
 
@@ -158,9 +158,9 @@ The end of the passage is like an argument with an interlocutor. "But that which
 
 Long renders τὰ ὑπομνημάτιά σου as "thy own memoirs," but these are not memoirs. In antiquity ὑπομνήματα meant reminders, summaries and extracts, texts for one's own work, not for a reader, and here the word is in the diminutive: "your little notes." Scholars suppose that Marcus is speaking of the very notes we now read. If so, he names the genre of his own text himself: these are notes to oneself. The same word in [[01-07|1.7]] names the records of Epictetus's discourses that he received from Rusticus.
 
-Reading Marcus had put off until old age, as a future leisure. Now he understands that a leisured old age may never come. This echoes [[02-02|2.2]], where he says "Throw away thy books," and [[02-03|2.3]], where he tells himself to "cast away the thirst after books." Philosophy, then, is not an accumulation of things read but a work to be done now.
+Marcus had put off his reading until old age, as a future leisure. Now he understands that a leisured old age may never come. This echoes [[02-02|2.2]], where he says "Throw away thy books," and [[02-03|2.3]], where he tells himself to "cast away the thirst after books." Philosophy, then, is not an accumulation of things read but a work to be done now.
 
-Then come the commands: "Hasten then to the end which thou hast before thee," "throwing away idle hopes," "come to thy own aid." The end in Greek is τέλος, the goal of life. The idle hopes look to the future: to old age, leisure and books finished at last. And the last condition: "while it is in thy power." Why it may become too late is explained in [[03-01|3.1]]: the mind may fail before the body.
+The commands follow: "Hasten then to the end which thou hast before thee," "throwing away idle hopes," "come to thy own aid." The end in Greek is τέλος, the goal of life. The idle hopes look to the future: to old age, leisure and books finished at last. And the last condition: "while it is in thy power." Why it may become too late is explained in [[03-01|3.1]]: the mind may fail before the body.
 
 **Doctrines.** [[app-d-map-of-practice#^virtue-is-sufficient|Virtue is sufficient for happiness]], and one can become virtuous only now, not in the future. [[app-d-map-of-practice#^dichotomy-of-control|The future does not depend on us]], and so hopes placed in it are idle.
 

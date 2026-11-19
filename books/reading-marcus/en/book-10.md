@@ -16,7 +16,7 @@ Eight key passages: perishing as change (10.7) → names instead of rules (10.8)
 
 ## Introduction
 
-Marcus asks his own soul: "Wilt thou, then, my soul, never be good and simple and one and naked, more manifest than the body which surrounds thee?" (10.1). This is the question of a man who has long known what he ought to be and sees that he has not yet become it.
+Marcus Aurelius asks his own soul: "Wilt thou, then, my soul, never be good and simple and one and naked, more manifest than the body which surrounds thee?" (10.1). This is the question of a man who has long known what he ought to be and sees that he has not yet become it.
 
 Here too he explains why it is so hard. "Mimi, war, astonishment, torpor, slavery, will daily wipe out those holy principles of thine" (10.9). Long's "Mimi" is the Greek μῖμος, the mime, the low farce of the Roman stage; the word seems to stand for the whole spectacle of public life. The Greek adds which principles are wiped out: those that one holds ἀφυσιολογήτως, "without studying nature." This continues [[07-02|7.2]]: principles die out if they are not fanned into a flame, and those not thought through to the end are put out by life itself, and daily.
 
@@ -28,7 +28,7 @@ The passages fall into several themes.
 - **Others' judgments and faults:** 10.4, 10.13, 10.19, 10.30, 10.37.
 - **Reason and the material of action:** 10.2, 10.3, 10.9, 10.12, 10.33, 10.35, 10.38.
 
-Among the passages without commentary, 10.15 deserves notice: "Short is the little which remains to thee of life. Live as on a mountain." And further: "Let men see, let them know a real man who lives according to nature."
+Among the passages without commentary, note 10.15: "Short is the little which remains to thee of life. Live as on a mountain." And further: "Let men see, let them know a real man who lives according to nature."
 
 ## 10.1
 
@@ -126,7 +126,7 @@ This is another morning exercise, and its time is set precisely: "as soon as tho
 
 "Thou hast not forgotten, I suppose, that those who assume arrogant airs in bestowing their praise or blame on others, are such as they are at bed and at board." The device is not to argue with the judgment but to look at the one who judges: the value of praise falls with the value of the one who praises.
 
-Strong is the sentence about how these people steal and rob "not with hands and feet, but with their most valuable part": vice is committed not by the body but by the mind. That same part is the one "by means of which there is produced, when a man chooses, fidelity, modesty, truth, law, a good daemon." The Greek is stronger still: that part itself "becomes, when it wishes," fidelity, modesty, truth, law, a good daemon. Long adds in brackets "(happiness)," and rightly: from the last words, ἀγαθὸς δαίμων, comes the Greek word for happiness, εὐδαιμονία, literally "having a good daemon." So the morning question about others' praise ends with a description of happiness, and it has one condition: to will it.
+A strong sentence follows: these people steal and rob "not with hands and feet, but with their most valuable part": vice is committed not by the body but by the mind. That same part is the one "by means of which there is produced, when a man chooses, fidelity, modesty, truth, law, a good daemon." The Greek is stronger still: that part itself "becomes, when it wishes," fidelity, modesty, truth, law, a good daemon. Long adds in brackets "(happiness)," and rightly: from the last words, ἀγαθὸς δαίμων, comes the Greek word for happiness, εὐδαιμονία, literally "having a good daemon." So the morning question about others' praise ends with a description of happiness, and it has one condition: to will it.
 
 **Doctrines.** [[app-d-map-of-practice#^fame-is-empty|Fame is empty]]: praise and blame are worth no more than those who hand them out.
 
@@ -228,11 +228,11 @@ There are several ways of passing away: dissolution, change, putrefaction, dispe
 
 At first sight this is a puzzling list of names. "When thou hast seen Satyron the Socratic, think of either Eutyches or Hymen, and when thou hast seen Euphrates, think of Eutychion or Silvanus." Most of these people are unknown today, but the device is clear without them: in each pair, it seems, a man Marcus has before him is set beside a long-dead man of the same type. Looking at one, picture the one who was the same before him. Among the names is Severus, perhaps the one Marcus thanks in [[01-14|1.14]]. Long reverses this pair; the Greek says literally, "when thou hast seen Severus, think of Crito or Xenophon."
 
-The last pair matters most: "when thou hast looked on thyself, think of any other Caesar." Marcus puts himself in the same row, and he does not even name the Caesar beside him: not Augustus, not Hadrian, but "any."
+The last pair matters most: "when thou hast looked on thyself, think of any other Caesar." Marcus counts himself among them, and he does not even name the Caesar beside him: not Augustus, not Hadrian, but "any."
 
-Then comes the question that should arise of itself: "Where then are those men?" And the answer: "Nowhere, or nobody knows where." Marcus does not choose between annihilation and another life: for the argument it is enough that they are not here. So one will see "human things as smoke and nothing at all."
+The question follows naturally: "Where then are those men?" And the answer: "Nowhere, or nobody knows where." Marcus does not choose between annihilation and another life: for the argument it is enough that they are not here. So one will see "human things as smoke and nothing at all."
 
-The second half of the passage, however, turns the thought. "What matter and opportunity for thy activity art thou avoiding? For what else are all these things, except exercises for the reason." What seemed a hindrance becomes raw material. Two images are given as well: so "the stomach which is strengthened makes all things its own," so "the blazing fire makes flame and brightness out of everything that is thrown into it."
+The second half of the passage, however, turns the thought. "What matter and opportunity for thy activity art thou avoiding? For what else are all these things, except exercises for the reason." What seemed a hindrance becomes raw material. Two images are given as well: as "the stomach which is strengthened makes all things its own," as "the blazing fire makes flame and brightness out of everything that is thrown into it."
 
 **Doctrines.** [[app-d-map-of-practice#^fame-is-empty|Fame is empty]]: where are they all? And everything that happens can become material for reason.
 
@@ -248,7 +248,7 @@ The second half of the passage, however, turns the thought. "What matter and opp
 
 "What is that which as to this material (our life) can be done or said in the way most conformable to reason. For whatever this may be, it is in thy power to do it or to say it, and do not make excuses that thou art hindered." Circumstances are called here "material," in Greek ὕλη, the raw stuff of work.
 
-Marcus then borrows a comparison from those whose life he does not approve. For those who enjoy pleasure there is "luxury," and in it lies their delight. A man will not cease to lament, he says, until the doing of what accords with his constitution is to him what luxury is to them, whatever the material given him. "For a man ought to consider as an enjoyment everything which it is in his power to do according to his own nature. And it is in his power everywhere."
+Marcus then borrows a comparison from people whose way of life he does not approve of. For those who enjoy pleasure there is "luxury," and in it lies their delight. A man will not cease to lament, he says, until the doing of what accords with his constitution is to him what luxury is to them, whatever the material given him. "For a man ought to consider as an enjoyment everything which it is in his power to do according to his own nature. And it is in his power everywhere."
 
 The central comparison is this. To a cylinder, to water, to fire their own motion is not always given: "the things which check them and stand in the way are many." But "intelligence and reason are able to go through everything that opposes them." And at once the image turns: reason is carried through all things "as fire upwards, as a stone downwards, as a cylinder down an inclined surface." A moment ago the cylinder was an example of limitation; now it is an image of the unstoppable.
 

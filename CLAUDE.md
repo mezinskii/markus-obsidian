@@ -44,6 +44,8 @@ Vault Obsidian с несколькими проектами об антично�
 - Термины: ἡγεμονικόν — "ruling faculty" (как у Лонга); δαίμων — "daemon"; три дисциплины — "disciplines" (assent, action, desire), по Адо; единица текста — "passage".
 - Параллели по переводам из общественного достояния: Сенека — Gummere; Эпиктет — Long; Диоген Лаэртский — Hicks. Где перевода нет или он не сверен, "my translation" и пометка для сверки.
 - Марк Аврелий в английском — "Marcus" допустимо после первого упоминания в главе (так принято по-английски).
+- Файлы: введение `en/00-introduction.md`, приложения `en/app-a-text-and-translation.md`, `app-b-glossary.md`, `app-c-names.md`, `app-d-map-of-practice.md` (те же `^slug`, что в pril-d), `app-e-chronology.md`; `en/bibliography.md`, `en/about-the-author.md`. Ссылки на догматы — `[[app-d-map-of-practice#^slug|…]]`. Имя автора по-английски: Ian Mezinskii.
+- Сборка: `npm run book:epub:en` (тот же `build-epub.mjs` с флагом `--en`) → `dist/reading-marcus-aurelius.epub`, с EPUBCheck; FB2 не собирается. Обложка `cover/en/cover-ebook.jpg` (1600×2560, увеличена из `cover/en/ebook.png`); пока её нет, вставляется русская с предупреждением.
 
 EPUB: `npm run book:epub` (сборщик `books/reading-marcus/scripts/build-epub.mjs`, стили `epub.css`, греческий шрифт `scripts/fonts/`) собирает `books/reading-marcus/dist/chitaya-marka-avreliya.epub` и `.fb2` (`scripts/fb2.mjs`) из глав, карточек, приложений `pril-*.md` и обложки `books/reading-marcus/cover/cover-ebook.jpg` (1600×2560) и сразу проверяет EPUBCheck и схемой FictionBook (`books/reading-marcus/tools/`, нужна Java). В карте практики (`pril-d`) статьи пишутся как `### Название ^slug`, места сборщик добавляет сам по разметке карточек.
 

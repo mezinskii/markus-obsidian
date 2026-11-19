@@ -10,7 +10,7 @@ commented: 12
 
 ## Line of the Book
 
-**Not to Be Made into a Caesar.** In Book VI Marcus Aurelius looks at himself as an emperor more often, perhaps, than anywhere else. He takes the purple apart (6.13), tells himself "Take care that thou art not made into a Caesar" (6.30), calls Rome his city "so far as I am Antoninus," and the world his city "so far as I am a man" (6.44). His support against the temptations of power is the same as always: sound judgment, trust in a world ordered by providence, and the example of Antoninus.
+**Not to Be Made into a Caesar.** In Book VI Marcus Aurelius looks at himself as an emperor more often, perhaps, than anywhere else. He takes the purple apart (6.13), tells himself "Take care that thou art not made into a Caesar" (6.30), calls Rome his city "so far as I am Antoninus," and the world his city "so far as I am a man" (6.44). His defense against the temptations of power is the same as always: sound judgment, trust in a world ordered by providence, and the example of Antoninus.
 
 Twelve key passages: death as one of the acts of life (6.2) → vapor or dispersion (6.4) → providence or atoms (6.10) → the stripped view of the purple (6.13) → the sparrow already gone (6.15) → what is worth valuing (6.16) → death as rest (6.28) → not to be made into a Caesar (6.30) → what is truly mine (6.32) → Asia and Europe as corners of the universe (6.36) → all work together to one end (6.42) → two cities (6.44).
 
@@ -30,7 +30,7 @@ The passages fall into several themes.
 
 Among the passages without commentary, two deserve particular notice. In 6.12 Marcus finds what is perhaps the most exact comparison for life at court: "If thou hadst a step-mother and a mother at the same time, thou wouldst be dutiful to thy step-mother, but still thou wouldst constantly return to thy mother. Let the court and philosophy now be to thee step-mother and mother." One must, then, keep returning to philosophy, "through whom what thou meetest with in the court appears to thee tolerable, and thou appearest tolerable in the court."
 
-The second is 6.21: "If any man is able to convince me and show me that I do not think or act right, I will gladly change." This is written by a man of immense power, whom few dared to contradict. Marcus seems to remind himself that the truth matters more than his being right: "he is injured who abides in his error and ignorance."
+The second is 6.21: "If any man is able to convince me and show me that I do not think or act right, I will gladly change." The man who wrote this held immense power, and few, it seems, dared to contradict him. Marcus seems to remind himself that the truth matters more than his being right: "he is injured who abides in his error and ignorance."
 
 ## 6.1
 
@@ -44,7 +44,7 @@ The second is 6.21: "If any man is able to convince me and show me that I do not
 
 Whether you are cold or warm, drowsy or rested, ill-spoken of or praised: your duty does not depend on it. Cold, weariness and rumor change; what the act requires does not. Long's "doing thy duty" renders the Greek τὸ πρέπον, "the fitting," what the matter itself demands.
 
-The last item on the list concerns death, and it stands in a row with cold and sleeplessness. "For it is one of the acts of life, this act by which we die"; the Greek is μία τῶν βιωτικῶν πράξεων, "one of the acts of life." Death, then, is not the end of all acts but one more act, which also has to be done well.
+The last item on the list concerns death, and it is listed alongside cold and sleeplessness. "For it is one of the acts of life, this act by which we die"; the Greek is μία τῶν βιωτικῶν πράξεων, "one of the acts of life." Death, then, is not the end of all acts but one more act, which also has to be done well.
 
 How is it to be done well? Like any other: "it is sufficient then in this act also to do well what we have in hand." The Greek is τὸ παρὸν εὖ θέσθαι, "to arrange the present well," and Long's "what we have in hand" echoes his own rendering in [[02-05|2.5]], where Marcus told himself to do every act as if it were the last; here he says that the last act is done in the same way.
 
@@ -62,7 +62,7 @@ How is it to be done well? Like any other: "it is sufficient then in this act al
 
 Universal change is laid out here in one sentence, and Marcus sets two pictures of the world side by side in it: "All existing things soon change, and they will either be reduced to vapour, if indeed all substance is one, or they will be dispersed." In the first picture, the Stoic one, the world is one, and a thing returns through "vapour" into the one substance; in the second, the Epicurean one, the world is made of atoms, and a thing is simply dispersed. Which is true he does not decide here. What matters is that both lead to one conclusion: nothing stays as it was, and a single thing is only a temporary combination.
 
-We met this double figure already in [[04-03|4.3]]: "either there is providence or atoms." In Book VI it sounds especially often, and in [[06-10|6.10]] it is set out in full.
+We met this double figure already in [[04-03|4.3]]: "either there is providence or atoms." In Book VI it recurs especially often, and in [[06-10|6.10]] it is set out in full.
 
 **Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|Everything flows and passes into something else]]. And since a thing will vanish in any case, it is senseless to cling to it and fear its loss.
 
@@ -122,7 +122,7 @@ Falernian was the most famous wine of Italy, and purple was the color of imperia
 
 The exercise is simple. Every impression reaches us not bare but clothed: in its price, in stories about the thing, in others' enthusiasm, in the general wish to possess it. Marcus proposes to remove everything superfluous: such impressions "reach the things themselves and penetrate them, and so we see what kind of things they are." And "just in the same way ought we to act all through life."
 
-Near the end the passage speaks of the most dangerous deception: "For outward show is a wonderful perverter of the reason, and when thou art most sure that thou art employed about things worth thy pains, it is then that it cheats thee most." Long's "outward show" stands for τῦφος, literally "smoke," "fumes," that is, inflation and an empty halo. It is easy to see an expensive dish bare; much harder to see bare one's own position, office and reputation: there the halo holds most firmly, since we have a stake in it. The last sentence refers to the Cynic Crates, who mocked the self-importance of the Platonist Xenocrates; the story itself seems not to have survived.
+Near the end the passage speaks of the most dangerous deception: "For outward show is a wonderful perverter of the reason, and when thou art most sure that thou art employed about things worth thy pains, it is then that it cheats thee most." Long's "outward show" stands for τῦφος, literally "smoke," "fumes," that is, inflation and an empty halo. It is easy to see an expensive dish bare; much harder to see one's own position, office and reputation bare: there the halo holds most firmly, since we have a stake in it. The last sentence refers to the Cynic Crates, who mocked the self-importance of the Platonist Xenocrates; the story itself seems not to have survived.
 
 The reverse exercise we saw in [[03-02|3.2]], where Marcus found real beauty in the cracks of bread; here he strips a false value from the purple. In both cases he is learning to see a thing as it is.
 
@@ -156,7 +156,7 @@ The passage answers the question of what in a man is truly worth valuing. Marcus
 
 What remains? "To move thyself and to restrain thyself in conformity to thy proper constitution." Every art aims at the same: that the thing made "should be adapted to the work for which it has been made"; so "the vine-planter who looks after the vine, and the horse-breaker, and he who trains the dog." Education and teaching seek the same in a man. "In this then is the value."
 
-Then Marcus shows what follows if one values something else. Then "thou wilt be neither free, nor sufficient for thy own happiness, nor without passion": one must envy, be jealous, suspect those who can take away what one values, and in the end "find fault with the gods."
+Then Marcus shows what follows if one values something else. Then "thou wilt be neither free, nor sufficient for thy own happiness, nor without passion": one is bound to envy, to be jealous, to suspect those who can take away what one values, and in the end "find fault with the gods."
 
 But "to reverence and honour thy own mind will make thee content with thyself, and in harmony with society, and in agreement with the gods."
 
@@ -214,9 +214,9 @@ But "to reverence and honour thy own mind will make thee content with thyself, a
 
 Death is defined here in one sentence, and the key word in the Greek is ἀνάπαυλα, "rest," "respite." Long's "cessation" is accurate but loses the sense of relief. Death here is not annihilation but rest from four things: from the jolts of sensation, from "the pulling of the strings which move the appetites," from "the discursive movements of the thoughts," and from "the service to the flesh." Long keeps the image of the second item: the Greek ὁρμητικὴ νευροσπαστία is the same puppet as in [[06-16|6.16]] and [[02-02|2.2]].
 
-This is a physical definition, the same device as in [[06-13|6.13]], applied to death. Named soberly, death ceases to frighten: the work stops, and there is no evil in that.
+This is the stripped view of [[06-13|6.13]], applied to death. Named soberly, death ceases to frighten: the work stops, and there is no evil in that.
 
-**Doctrines.** Death only puts an end to labor and unfreedom, and to accept it as rest is to come to [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
+**Doctrines.** Death only puts an end to labor and servitude, and to accept it as rest is to come to [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
 
 ## 6.29
 
@@ -230,7 +230,7 @@ This is a physical definition, the same device as in [[06-13|6.13]], applied to 
 
 The longest passage of Book VI gathers themes familiar from Book I: tyranny from [[01-11|1.11]] and the portrait of Antoninus from [[01-16|1.16]].
 
-"Take care that thou art not made into a Caesar, that thou art not dyed with this dye; for such things happen." The Greek word here occurs nowhere else and was apparently coined by Marcus himself: ὅρα μὴ ἀποκαισαρωθῇς, "see that you are not Caesarified." To it he adds μὴ βαφῇς, "do not be dyed." We met the image of dye in [[03-04|3.4]] and [[05-16|5.16]], but here it is especially apt: the color of imperial power was purple, and purple, as [[06-13|6.13]] says, is only dyed wool. Power dyes a man as dye colors wool. And the words γίνεται γάρ, "for such things happen," show that Marcus does not consider himself an exception.
+"Take care that thou art not made into a Caesar, that thou art not dyed with this dye; for such things happen." The Greek word here occurs nowhere else and was apparently coined by Marcus himself: ὅρα μὴ ἀποκαισαρωθῇς, "see that you are not Caesarified." To it he adds μὴ βαφῇς, "do not be dyed." We met the image of dye in [[03-04|3.4]] and [[05-16|5.16]], but here it is especially apt: the color of imperial power was purple, and purple, as [[06-13|6.13]] says, is only dyed wool. And the words γίνεται γάρ, "for such things happen," show that Marcus does not consider himself an exception.
 
 Against this Marcus sets a list of what must be kept: "simple, good, pure, serious, free from affectation, a friend of justice, a worshipper of the gods, kind, affectionate," to remain "such as philosophy wished to make thee." All this he reduces to a short formula: "Reverence the gods, and help men," in Greek αἰδοῦ θεούς, σῷζε ἀνθρώπους, literally "revere the gods, save men." "Short is life. There is only one fruit of this terrene life, a pious disposition and social acts."
 
@@ -250,7 +250,7 @@ The last sentence speaks of death: "Imitate all this that thou mayest have as go
 
 **Commentary.**
 
-"I consist of a little body and a soul": with these words Marcus begins a brief analysis of what is truly his. Long keeps the diminutive σωμάτιον, "a little body." To the body all things are indifferent, "for it is not able to perceive differences." To the understanding "those things only are indifferent, which are not the works of its own activity"; but its own works, judgments, assent and impulses, "all these are in its power." This is the distinction spoken of in the introduction: our judgments and desires depend on us; nothing else does.
+"I consist of a little body and a soul": with these words Marcus begins a brief analysis of what is truly his. Long keeps the diminutive σωμάτιον, "a little body." To the body all things are indifferent, "for it is not able to perceive differences." To the understanding "those things only are indifferent, which are not the works of its own activity"; but its own works, judgments, assent and impulses, "all these are in its power." This is the distinction spoken of in the book's introduction: our judgments and desires depend on us; nothing else does.
 
 Marcus takes one more step and narrows even this domain. Of the mind's works only "those which are done with reference to the present" are in its power; "as to the future and the past activities of the mind, even these are for the present indifferent": the past can no longer be disposed of, and the future not yet.
 
@@ -314,7 +314,7 @@ The conclusion: "Do not then imagine that they are of another kind from that whi
 
 Even the man who finds fault with what happens and tries to hinder it co-operates: "for the universe had need even of such men as these." Resistance too is built into the common course of things.
 
-It does not follow, however, that it makes no difference how one behaves. "It remains then for thee to understand among what kind of workmen thou placest thyself." The ruler of all will make use of you in any case; the only question is what you will be: a conscious fellow worker or a part like "the mean and ridiculous verse in the play, which Chrysippus speaks of." According to Plutarch, Chrysippus said that a comic verse is poor in itself but adds charm to the whole comedy. The whole will find a use even for such a part, but it is not worth being one.
+It does not follow, however, that it makes no difference how one behaves. "It remains then for thee to understand among what kind of workmen thou placest thyself." The ruler of all will make use of you in any case; the only question is what you will be: a conscious fellow worker or a part like "the mean and ridiculous verse in the play, which Chrysippus speaks of." According to Plutarch, Chrysippus said that a comic verse is poor in itself but adds charm to the whole comedy. The whole will find a use even for such a part, but one need not choose to be that part.
 
 **Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole]], and all work together to one end. [[app-d-map-of-practice#^providence|The world is ordered by providence]], and a man's choice lies only in how he takes part.
 
@@ -334,7 +334,7 @@ If the gods have determined about me, "they have determined well, for it is not 
 
 From this comes one of his best-known formulas: "my city and country, so far as I am Antoninus, is Rome, but so far as I am a man, it is the world." Antoninus here is not his adoptive father but Marcus's own name as emperor: Marcus Aurelius Antoninus. As emperor he is a citizen of Rome; as a man, a citizen of the world. Hence the measure of the good: "The things then which are useful to these cities are alone useful to me."
 
-**Doctrines.** [[app-d-map-of-practice#^providence|The world is ordered by providence]]. [[app-d-map-of-practice#^cosmopolis|The world is a single city]], and man is its citizen. And even if the gods cared only for the whole, it remains to "accept with pleasure and to be content with" what happens by way of sequence in it: in this lies [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
+**Doctrines.** [[app-d-map-of-practice#^providence|The world is ordered by providence]]. [[app-d-map-of-practice#^cosmopolis|The world is a single city]], and man is its citizen. And even if the gods cared only for the whole, one should still "accept with pleasure and to be content with" what happens by way of sequence in it: in this lies [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
 
 ## 6.45
 
@@ -398,6 +398,6 @@ From this comes one of his best-known formulas: "my city and country, so far as 
 
 ## The Book in Brief
 
-**Key thought.** Book VI is about how not to let power corrupt one. The first support here is sound judgment: seen bare, the purple turns out to be dyed wool ([[06-13|6.13]]), and Marcus tells himself not to be made into a Caesar but to learn from Antoninus ([[06-30|6.30]]). The second support is trust in the world: providence or atoms, the conclusion is the same, and there is nothing to complain of ([[06-10|6.10]]).
+**Key thought.** Book VI is about how not to let power corrupt one. The first defense here is sound judgment: seen bare, the purple turns out to be dyed wool ([[06-13|6.13]]), and Marcus tells himself not to be made into a Caesar but to learn from Antoninus ([[06-30|6.30]]). The second is trust in the world: providence or atoms, the conclusion is the same, and there is nothing to complain of ([[06-10|6.10]]).
 
 **Practice: the stripped view.** Marcus gives the formula himself: "where there are things which appear most worthy of our approbation, we ought to lay them bare and look at their worthlessness and strip them of all the words by which they are exalted" ([[06-13|6.13]]). The exercise is to put simple questions to a thing that strongly attracts or repels: what it is made of, what will remain of it, what it is without its price and others' enthusiasm. It is enough to call it by its honest name, briefly and without ornament: wine is grape juice, purple is dyed wool. Hardest of all is to apply this to one's own office and reputation: outward show, Marcus says, cheats us most "when thou art most sure that thou art employed about things worth thy pains."

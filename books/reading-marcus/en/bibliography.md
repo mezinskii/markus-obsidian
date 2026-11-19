@@ -18,7 +18,7 @@ Listed here are the editions on which this book relies or from which it quotes. 
 - *Historia Augusta*. Translated by David Magie. 3 vols. Loeb Classical Library. London: William Heinemann; New York: G. P. Putnam's Sons, 1921–1932. Latin text consulted at LacusCurtius.
 - Marcus Cornelius Fronto. *The Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus*. Translated by C. R. Haines. 2 vols. Loeb Classical Library. London: William Heinemann; New York: G. P. Putnam's Sons, 1919–1920. The letters can be read at [readaurelius.org/fronto](https://readaurelius.org/fronto).
 - Seneca. *Ad Lucilium Epistulae Morales*. Translated by Richard M. Gummere. 3 vols. Loeb Classical Library. London: William Heinemann; New York: G. P. Putnam's Sons, 1917–1925.
-- Seneca. *On Leisure* (*De otio*). Quoted in my translation.
+- Seneca. *On Leisure* (*De otio*). Cited by reference, without quotation.
 
 ## Pierre Hadot
 

@@ -10,7 +10,7 @@ commented: 8
 
 ## Line of the Book
 
-**What the Rational Soul Can Do.** Book XI opens with the properties of the rational soul (11.1) and tests them on hard cases: on indifferent things (11.16), on anger (11.18), on the death of a child (11.33, 11.34). At the end, in the extracts from Epictetus, we find the source of the three disciplines by which Marcus lived (11.37).
+**What the Rational Soul Can Do.** Book XI opens with the properties of the rational soul (11.1) and tests them on hard cases: on indifferent things (11.16), on anger (11.18), on the death of a child (11.33, 11.34). At the end, in the extracts from Epictetus, we find what seems to be the source of the three disciplines Marcus Aurelius practiced (11.37).
 
 Eight key passages: the properties of the rational soul (11.1) → tragedy as a reminder (11.6) → wiping out what is written (11.16) → ten gifts against anger (11.18) → a morning look at the stars (11.27) → figs in winter (11.33) → ears of corn are reaped (11.34) → the three disciplines in Epictetus (11.37).
 
@@ -31,7 +31,7 @@ The passages fall into several themes.
 - **Death and loss:** 11.3, 11.33, 11.34, 11.35.
 - **Extracts from Socrates, Homer and Epictetus:** 11.22–11.25, 11.28–11.39.
 
-Among the passages without commentary, 11.12 deserves notice, one of the finest images in the book: "The spherical form of the soul maintains its figure when it is neither extended towards any object, nor contracted inwards, nor dispersed, nor sinks down, but is illuminated by light." In antiquity the sphere was held to be the perfect form.
+Among the passages without commentary, note 11.12, with one of the finest images in the book: "The spherical form of the soul maintains its figure when it is neither extended towards any object, nor contracted inwards, nor dispersed, nor sinks down, but is illuminated by light." In antiquity the sphere was held to be the perfect form.
 
 ## 11.1
 
@@ -77,7 +77,7 @@ Tragedy, the old comedy, the middle and the new pass before Marcus one after ano
 
 Of tragedy he says that it was brought on the stage "as means of reminding men of the things which happen to them, and that it is according to nature for things to happen so." The Greek ὑπομνηστικαί, "reminding," comes from the same root as ὑπομνήματα: the theater here is not an art but an exercise of memory. The main argument is this: "if you are delighted with what is shown on the stage, you should not be troubled with that which takes place on the larger stage." In the theater we watch another's grief with pleasure; in life the same event seems unbearable; it follows that the event is not the cause. Marcus adds that such things are borne even by those "who cry out 'O Cithaeron.'" This is the cry of Oedipus in Sophocles when he learns the truth about himself, and even he bears his fate.
 
-Then come three extracts from Euripides. Marcus has already copied them separately in Book VII, in the section of extracts ([[07-38|7.38]], [[07-40|7.40]], [[07-41|7.41]]); here he gathers them into one row and drops the second line of two of them.
+Then come three extracts from Euripides. Marcus has already copied them separately in Book VII, in the section of extracts ([[07-38|7.38]], [[07-40|7.40]], [[07-41|7.41]]); here he gathers them together and drops the second line of two of them.
 
 The old comedy, he says, was useful by its very plainness of speaking "in reminding men to beware of insolence," and even Diogenes took from it. Of the middle and new comedy, which "gradually sank down into a mere mimic artifice," Marcus pronounces not a verdict but a question: "the whole plan of such poetry and dramaturgy, to what end does it look?" It is the same question that in [[07-04|7.4]] he told himself to put to every act: to what end?
 
@@ -149,7 +149,7 @@ The passage ends thus: if something is contrary to nature, "seek what is conform
 
 In [[09-42|9.42]] there were five remedies against anger; here there are nine, and a tenth besides: it is the fullest set in the *Meditations*. Marcus calls them gifts of the Muses, as though he had received them from above rather than gathered them himself from the Stoic tradition.
 
-The first six help one see the offender and the offense differently. Men are made for one another, and you were set over them "as a ram over the flock or a bull over the herd": he compares himself not to a shepherd but to the leader of the same kind. Consider what they are "at table, in bed, and so forth," and under what compulsion of their opinions they act. If they do wrong, "they do so involuntarily and in ignorance." You yourself are no better, and if you abstain from some fault, it may be "through cowardice, or concern about reputation." You "dost not even understand whether men are doing wrong or not," since much is done with reference to circumstances. And life is too short to spend on vexation: "after a short time we are all laid out dead."
+The first six help one see the offender and the offense differently. Men are made for one another, and you were set over them "as a ram over the flock or a bull over the herd": he compares himself not to a shepherd but to a leader of his own kind. Consider what they are "at table, in bed, and so forth," and under what compulsion of their opinions they act. If they do wrong, "they do so involuntarily and in ignorance." You yourself are no better, and if you abstain from some fault, it may be "through cowardice, or concern about reputation." "Thou dost not even understand whether men are doing wrong or not," he tells himself, since much is done with reference to circumstances. And life is too short to spend on vexation: "after a short time we are all laid out dead."
 
 The seventh remedy is the core of the set, and we know it already: "it is not men's acts which disturb us... but it is our own opinions which disturb us. Take away these opinions then... and thy anger is gone." The Greek has the same verb as [[04-07|4.7]], ἆρον, "take away," and Long renders it the same way in both places. Another's act lives in another's soul; it enters yours only through your judgment of it.
 
@@ -235,11 +235,11 @@ The comparison of figs in winter with a dead child is taken from Epictetus, and 
 
 The comparison rests not on insensibility but on the logic of the impossible: both are a demand for what is not there. No one is angry with winter for having no figs, because everyone understands that the season has passed.
 
-Long is exact here: "when it is no longer allowed," for the Greek ὅτε οὐκέτι δίδοται, literally "when it is no longer given." The child was given, and the gift has ended; such a loss has no one to blame.
+Long is exact here: "when it is no longer allowed," for the Greek ὅτε οὐκέτι δίδοται, literally "when it is no longer given." The child was given, and the gift has ended; for such a loss there is no one to blame.
 
 Marcus does not say that grief is forbidden. What is called mad is to "look for" the child (ζητεῖν), that is, to demand back what is gone. What is condemned, then, is not the feeling but the demand for the impossible.
 
-It is worth remembering who copies this out. Many of Marcus's children died in infancy, and he kept these words by him not as a theory.
+It is worth remembering who copies this out. Many of Marcus's children died in infancy, and he did not copy these words out as theory.
 
 **Doctrines.** [[app-d-map-of-practice#^externals-on-loan|Nothing is our own]]: even children are given for a time. And to accept what is no longer given, without demanding the impossible, is to come to [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
 
@@ -251,7 +251,7 @@ It is worth remembering who copies this out. Many of Marcus's children died in i
 
 When a man kisses his child, Epictetus advises, he should say to himself: "To-morrow perchance thou wilt die." Then comes the objection of an interlocutor and the answer that this word "expresses any work of nature."
 
-The exercise is done during the caress and to oneself; the Greek ἔνδον means "within," and Long's "whisper to himself" conveys it. Tenderness is not cancelled, and the child knows nothing of it. And the formula is careful: "perchance," a possibility, not a prophecy. This is the anticipation of evils familiar from [[02-01|2.1]], carried to the most painful place.
+The words are said inwardly, during the caress; the Greek ἔνδον means "within," and Long's "whisper to himself" conveys it. Tenderness is not cancelled, and the child knows nothing of it. And the formula is careful: "perchance," a possibility, not a prophecy. This is the anticipation of evils familiar from [[02-01|2.1]], carried to the most painful place.
 
 The objection is natural. "Words of bad omen" are in Greek δύσφημον, an ill word, one not to be spoken lest it bring misfortune. Epictetus does not argue with the fear but redefines the word. His thought seems to be this: an ill word is one by which people fear to call down misfortune, while a word that simply names the course of nature calls nothing down. The ear of corn has already appeared in [[11-06|11.6]], in the line from Euripides: "Life's harvest reap like the wheat's fruitful ear."
 
@@ -271,7 +271,7 @@ The objection is natural. "Words of bad omen" are in Greek δύσφημον, an 
 
 **Commentary.**
 
-In this extract from Epictetus stand the very three disciplines that Marcus named in his own words in [[08-07|8.7]] and [[09-06|9.6]]: judgment, action, desire. Their source is Epictetus, who in the *Discourses* explicitly names three fields of exercise (III.2); it was Pierre Hadot, as noted at [[08-07|8.7]], who called them disciplines.
+This extract from Epictetus contains the very three disciplines that Marcus named in his own words in [[08-07|8.7]] and [[09-06|9.6]]: assent, action, desire. Their source is Epictetus, who in the *Discourses* explicitly names three fields of exercise (III.2); it was Pierre Hadot, as noted at [[08-07|8.7]], who called them disciplines.
 
 Of assent the Greek says not "lay down rules" but "discover an art," τέχνη, and Long keeps it: assent must be learned as a craft is learned. For the movements of the soul three conditions are given. First, that they be made, in Long's words, "with regard to circumstances"; the Greek μεθ' ὑπεξαιρέσεως is more precise, "with reservation," that is, to strive while remembering that the outcome is not in our power: "if nothing prevents." Second, that they "be consistent with social interests." Third, that they "have regard to the value of the object." Of desire it is said that one should keep away from it altogether; Long's "sensual desire" narrows the Greek ὄρεξις, which means desire of every kind. And one should show avoidance toward none of "the things which are not in our power."
 

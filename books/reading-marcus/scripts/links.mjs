@@ -33,7 +33,23 @@ const RU_TERMS = [
   ['prohairesis', /свободн[а-яё]{0,3}\s+выбор[а-яё]{0,3}/u],
 ];
 
-export function buildLinkMaps({ BOOK, CORPUS }) {
+// Английские названия терминов, однозначные в книге (первое упоминание в комментарии → словарь)
+const EN_TERMS = [
+  ['hegemonikon', /ruling faculty/],
+  ['daimon', /daemon(?![a-z])/],
+  ['apatheia', /freedom from (?:the )?passions?/],
+  ['pronoia', /providence/],
+  ['arete', /virtue(?:s)?(?![a-z])/],
+  ['adiaphora', /indifferent things?/],
+  ['pathos', /passions?(?![a-z])/],
+  ['hedone', /pleasures?(?![a-z])/],
+  ['dikaiosyne', /justice/],
+  ['kakia', /vice(?:s)?(?![a-z])/],
+  ['sophrosyne', /temperance/],
+  ['andreia', /courage/],
+];
+
+export function buildLinkMaps({ BOOK, CORPUS, lang = 'ru', glossary = 'pril-b-slovar.md', names = 'pril-c-imena.md' }) {
   // --- словарь: заголовки статей pril-b → slug карточки термина
   const cards = fs.readdirSync(path.join(CORPUS, 'terms')).filter((f) => f.endsWith('.md')).map((f) => {
     const { data } = matter(fs.readFileSync(path.join(CORPUS, 'terms', f), 'utf8'));
@@ -42,7 +58,7 @@ export function buildLinkMaps({ BOOK, CORPUS }) {
     const alt = (all.match(/\(([^)]+)\)/) || [])[1] || '';
     return { slug: f.replace(/\.md$/, ''), lemma: norm(g), alt: norm(alt) };
   });
-  const slovar = fs.readFileSync(path.join(BOOK, 'pril-b-slovar.md'), 'utf8');
+  const slovar = fs.readFileSync(path.join(BOOK, glossary), 'utf8');
   const terms = [];
   for (const m of slovar.matchAll(/^### (.+)$/gm)) {
     const head = m[1].trim();
@@ -55,22 +71,25 @@ export function buildLinkMaps({ BOOK, CORPUS }) {
     terms.push({ head, id: `t-${slug}`, lemma: words, stem, bases });
   }
   // --- указатель имён: заголовки pril-c
-  const imena = fs.readFileSync(path.join(BOOK, 'pril-c-imena.md'), 'utf8');
+  const imena = fs.readFileSync(path.join(BOOK, names), 'utf8');
   const people = [];
   let i = 0;
   const heads = [...imena.matchAll(/^### (.+)$/gm)].map((m) => m[1].trim());
   const firstWords = heads.map((h) => h.split(/\s+/)[0]);
+  const noShort = lang === 'en' ? /^(Marcus|Lucius|Faustina|Alexander|Claudius|Catilius|Sextus|Plutarch|Aelius|Cinna|Domitia)$/ : /^(Марк|Луций|Фаустина|Александр|Клавдий|Катилий|Секст|Плутарх|Элий|Цинна)$/;
+  const sextus = lang === 'en' ? /^(Sextus)$/ : /^(Секст)$/;
+  const never = lang === 'en' ? /^(Verus|Marcus|Faustina|Alexander)$/ : /^(Вер|Марк|Фаустина|Александр)$/;
   for (const head of heads) {
     const id = `p-${++i}`;
     const forms = [head];
     const w = head.split(/\s+/);
     // однословная форма только если она однозначна и не короче 5 букв
-    if (w.length > 1 && w[0].length >= 5 && firstWords.filter((x) => x === w[0]).length === 1 && !/^(Марк|Луций|Фаустина|Александр|Клавдий|Катилий|Секст|Плутарх|Элий|Цинна)$/.test(w[0])) forms.push(w[0]);
-    if (w.length > 1 && /^(Секст)$/.test(w[0])) forms.push(w[0]);
-    people.push({ head, id, forms: forms.filter((f) => !/^(Вер|Марк|Фаустина|Александр)$/.test(f)) });
+    if (w.length > 1 && w[0].length >= 5 && firstWords.filter((x) => x === w[0]).length === 1 && !noShort.test(w[0])) forms.push(w[0]);
+    if (w.length > 1 && sextus.test(w[0])) forms.push(w[0]);
+    people.push({ head, id, forms: forms.filter((f) => !never.test(f)) });
   }
   people.sort((a, b) => b.head.length - a.head.length);
-  return { terms, people };
+  return { terms, people, lang };
 }
 
 // оборачивает статьи приложения (### …) в секции с якорями
@@ -88,7 +107,11 @@ export function wrapEntries(src, kind, maps) {
 }
 
 // регэксп для русского имени с падежными окончаниями
-function nameRe(form) {
+function nameRe(form, lang) {
+  if (lang === 'en') {
+    const w = form.split(/\s+/).map((x) => x.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('\\s+');
+    return new RegExp(`(^|[^A-Za-z])(${w})(?![A-Za-z])`, 'u');
+  }
   const words = form.split(/\s+/).map((w) => {
     const base = w.replace(/(ий|ия|ая|ой|ый|а|я|й|ь|о)$/u, '');
     return base.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '[а-яё]{0,3}';
@@ -96,7 +119,9 @@ function nameRe(form) {
   return new RegExp(`(^|[^А-Яа-яЁё])(${words.join('\\s+')})(?![А-Яа-яЁё])`, 'u');
 }
 
-export function linkify(html, { maps, book }) {
+export function linkify(html, { maps, book, lang = 'ru' }) {
+  const TERMS = lang === 'en' ? EN_TERMS : RU_TERMS;
+  const letters = lang === 'en' ? 'A-Za-z' : 'А-Яа-яЁё';
   const out = [];
   const tokens = html.split(/(<[^>]+>)/);
   let skip = 0; // глубина зон без ссылок: div.marcus, section.chapter-notes, заголовки, ссылки
@@ -153,7 +178,7 @@ export function linkify(html, { maps, book }) {
       for (const p of maps.people) {
         if (peopleSeen.has(p.id)) continue;
         for (const f of p.forms) {
-          const re = nameRe(f);
+          const re = nameRe(f, lang);
           const m = text.match(re);
           if (m) {
             const at = m.index + m[1].length;
@@ -166,11 +191,11 @@ export function linkify(html, { maps, book }) {
     }
     if (!skip) {
       const scopeKey = inCommentary ? 'c' : 'g';
-      for (const [slug, re, notIf] of RU_TERMS) {
+      for (const [slug, re, notIf] of TERMS) {
         const id = `t-${slug}`;
         if (termSeen.has(scopeKey + id) || !maps.terms.some((x) => x.id === id)) continue;
         if (notIf && notIf.test(text)) continue;
-        const full = new RegExp('(^|[^А-Яа-яЁё])(' + re.source + ')(?![А-Яа-яЁё])', 'iu');
+        const full = new RegExp(`(^|[^${letters}])(` + re.source + `)(?![${letters}])`, 'iu');
         // ищем только вне уже вставленных ссылок
         const parts = text.split(/(<a [^>]*>.*?<\/a>)/);
         let done = false;
@@ -189,7 +214,8 @@ export function linkify(html, { maps, book }) {
   let res = out.join('');
   // практика книги → карта практики
   if (book && PRACTICE[book]) {
-    res = res.replace(/<strong>Практика: ([^<(]+?)(\s*\(|\.)/, (a, name, tail) => `<strong>Практика: <a href="karta-praktiki.xhtml#d-${PRACTICE[book]}" class="gloss">${name}</a>${tail}`);
+    const word = lang === 'en' ? 'Practice' : 'Практика';
+    res = res.replace(new RegExp(`<strong>${word}: ([^<(]+?)(\\s*\\(|\\.)`), (a, name, tail) => `<strong>${word}: <a href="karta-praktiki.xhtml#d-${PRACTICE[book]}" class="gloss">${name}</a>${tail}`);
   }
   return res;
 }

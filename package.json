@@ -13,7 +13,8 @@
     "prayers:to-sanity": "tsx antique-prayers/scripts/to-sanity.ts",
     "book:pdf": "node books/reading-marcus/scripts/build-pdf.mjs",
     "book:docx": "node books/reading-marcus/scripts/build-docx.mjs",
-    "letter:copy": "node letters/scripts/copy-letter.mjs"
+    "letter:copy": "node letters/scripts/copy-letter.mjs",
+    "book:epub:en": "node books/reading-marcus/scripts/build-epub.mjs --en"
   },
   "devDependencies": {
     "@sanity/client": "^7.20.0",

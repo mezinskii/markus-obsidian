@@ -6,7 +6,7 @@ lang: en
 order: 93
 ---
 
-This appendix is meant not as a manual of practice but as a guide to the *Meditations*: it leads to every passage where a doctrine or an exercise appears, not only to those discussed in the commentaries. For each doctrine and each exercise it says in a few words what it is, and lists the places where Marcus Aurelius returns to it. Passages with a commentary in this book are marked in bold; the rest can be read in the chapters in order. For each exercise the appendix notes which of the three disciplines it belongs to: the discipline of assent (not to assent to an impression until one has checked what in it comes from the thing and what from one's own valuation), of action (to act justly and for the good of others), or of desire (to accept what the course of nature brings). Pierre Hadot links them to the three parts of Stoic philosophy: assent to logic, action to ethics, desire to physics.
+This appendix is meant not as a manual of practice but as a guide to the *Meditations*: it leads to every passage where a doctrine or an exercise appears, not only to those discussed in the commentaries. For each doctrine and each exercise it says in a few words what it is, and lists the passages where Marcus Aurelius returns to it. Passages with a commentary in this book are marked in bold; the rest can be read in the chapters in order. For each exercise the appendix notes which of the three disciplines it belongs to: the discipline of assent (not to assent to an impression until one has checked what in it comes from the thing and what from one's own valuation), of action (to act justly and for the good of others), or of desire (to accept what the course of nature brings). Pierre Hadot links them to the three parts of Stoic philosophy: assent to logic, action to ethics, desire to physics.
 
 ## Doctrines
 
@@ -35,7 +35,7 @@ The goal of life is to live in agreement with nature: with the nature of the who
 The world is one living being, pervaded by one reason. All things in it are connected and pass into one another, and men share in this unity through a common mind.
 
 ### The world is ordered by providence ^providence
-The world is governed by a reason that arranges everything for the good of the whole. Nothing happens by blind chance, even if the sense of what happens cannot be seen from the place of a single man. Marcus often tests this against the other possibility, a blind concourse of atoms, and comes to the same conclusion: in neither case is there anything to complain of.
+The world is governed by a reason that arranges everything for the good of the whole. Nothing happens by blind chance, even if the sense of what happens cannot be seen from where a single man stands. Marcus often tests this against the other possibility, a blind concourse of atoms, and comes to the same conclusion: in neither case is there anything to complain of.
 
 ### Acceptance of fate ^amor-fati
 Everything that happens is a link in one chain of causes, that is, in the same rational order. So what happens is to be accepted and even loved, not met with the demand that the whole be arranged otherwise. This holds for death too: it is also one of the works of nature and comes in its season.
@@ -61,7 +61,7 @@ To reduce doctrines to short formulas and keep them ready, so as to apply them a
 To describe a thing or an event as it is, without valuation or ornament: what it is made of, what it will dissolve into. Then what opinion has added to the thing falls away. The discipline of assent.
 
 ### Attending to the movements of the soul ^parakolouthesis
-To watch soberly what impressions arrive, what one assents to and what impulses arise from it, and above all to notice what the mind has added of its own to the first impression. The aim is to catch a false assent at once, not by its consequences. The discipline of assent.
+To watch soberly what impressions arrive, what one assents to and what impulses arise from it, and above all to notice what the mind has added of its own to the first impression. The aim is to catch a false assent at once, not afterward from its consequences. The discipline of assent.
 
 ### Retiring into oneself ^inner-retreat
 To withdraw not to the country or the sea but into one's own ruling faculty, where it is always quiet. Such a retreat is available at any hour and is needed in order to return to one's work renewed. The discipline of assent.

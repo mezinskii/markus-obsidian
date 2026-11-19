@@ -10,13 +10,13 @@ commented: 8
 
 ## Line of the Book
 
-**Living Among Men.** Book IX opens with a charge of impiety: to act unjustly toward men is to sin against nature and the gods (9.1). It closes with a long reasoning on how not to be angry with the shameless (9.42). Between the two runs a single theme: how to live and act among people who think otherwise, expecting from them neither agreement nor gratitude.
+**Living Among Men.** Book IX opens with a charge of impiety: to act unjustly toward men is to sin against nature and the gods (9.1). It closes with a long argument against anger at the shameless (9.42). Between the two runs a single theme: how to live and act among people who think otherwise, expecting from them neither agreement nor gratitude.
 
 Eight key passages: injustice as impiety (9.1) → wait for death as one waits for a birth (9.3) → three things that are enough (9.6) → four commands (9.7) → if there is a god, all is well (9.28) → do not expect Plato's Republic (9.29) → ample space (9.32) → five remedies against anger (9.42).
 
 ## Introduction
 
-In 9.11 Marcus gives a rule in two sentences: "If thou art able, correct by teaching those who do wrong; but if thou canst not, remember that indulgence is given to thee for this purpose." In 9.24 and 9.30 he looks at men from above, and in 9.3 he admits how heavy he finds "the discordance of those who live together."
+In 9.11 Marcus Aurelius gives a rule in two sentences: "If thou art able, correct by teaching those who do wrong; but if thou canst not, remember that indulgence is given to thee for this purpose." In 9.24 and 9.30 he looks at men from above, and in 9.3 he admits how heavy he finds "the discordance of those who live together."
 
 The passages fall into several themes.
 
@@ -42,7 +42,7 @@ Marcus then widens the circle. The liar too is impious, since the same nature "i
 
 Impious too is the man who "pursues pleasure as good, and avoids pain as evil." Such a man must often find fault with nature because the bad enjoy pleasure and the good have pain for their share, and complaint against the order of the world is itself impiety.
 
-Hence the conclusion. Pain and pleasure, death and life, honor and dishonor are things "which the universal nature employs equally"; the Greek ἐπίσης means "evenly, alike." Whoever wishes to follow nature must be "equally affected" toward them as well. What the Stoics call indifference to indifferent things here becomes piety: to treat unevenly what nature treats evenly is to quarrel with God.
+The conclusion follows. Pain and pleasure, death and life, honor and dishonor are things "which the universal nature employs equally"; the Greek ἐπίσης means "evenly, alike." Whoever wishes to follow nature must be "equally affected" toward them as well. What the Stoics call indifference to indifferent things here becomes piety: to treat unevenly what nature treats evenly is to quarrel with God.
 
 **Doctrines.** [[app-d-map-of-practice#^oikeiosis|Men are born for one another]], and that is why injustice is impiety. [[app-d-map-of-practice#^providence|The world is ordered by providence]]. Whoever wishes to [[app-d-map-of-practice#^live-according-to-nature|live according to nature]] treats evenly what nature treats evenly.
 
@@ -58,11 +58,11 @@ Hence the conclusion. Pain and pleasure, death and life, honor and dishonor are 
 
 "Do not despise death, but be well content with it, since this too is one of those things which nature wills." Contempt for death would still be a pose; Marcus asks for something quieter, to be "neither careless nor impatient nor contemptuous with respect to death."
 
-He sets death in a row with the other works of nature: "to be young and to grow old, and to increase and to reach maturity, and to have teeth and beard and grey hairs, and to beget, and to be pregnant and to bring forth." Dissolution belongs to the same order as everything else in the life of the body. Hence the comparison: "As thou now waitest for the time when the child shall come out of thy wife's womb, so be ready for the time when thy soul shall fall out of this envelope." The word "now" deserves notice: when Marcus wrote this, Faustina was apparently expecting a child. Birth and death are described as one and the same passage.
+He places death among the other works of nature: "to be young and to grow old, and to increase and to reach maturity, and to have teeth and beard and grey hairs, and to beget, and to be pregnant and to bring forth." Dissolution belongs to the same order as everything else in the life of the body. Hence the comparison: "As thou now waitest for the time when the child shall come out of thy wife's womb, so be ready for the time when thy soul shall fall out of this envelope." The word "now" matters: when Marcus wrote this, Faustina was apparently expecting a child. Birth and death are described as one and the same crossing.
 
 Then comes what Long calls "a vulgar kind of comfort"; the Greek ἰδιωτικός means plain, the comfort of an ordinary man rather than of a philosopher. It is to look at what one is leaving and at the people one is leaving. One must not be offended with men; it is "thy duty to care for them and to bear with them gently." And yet one should remember that the parting "will not be from men who have the same principles as thyself." The only thing that could hold us to life would be "to be permitted to live with those who have the same principles as ourselves," and that is not granted. At the end comes an almost bitter cry: "Come quick, O death, lest perchance I, too, should forget myself." A long life among people who think otherwise is a danger: one may forget one's own principles.
 
-**Doctrines.** Death stands in a row with growth, grey hair and childbirth, and to wait for it calmly, as one waits for a birth, is [[app-d-map-of-practice#^amor-fati|acceptance of fate]]. So meets death the one who [[app-d-map-of-practice#^live-according-to-nature|lives according to nature]]. And [[app-d-map-of-practice#^oikeiosis|men are born for one another]], so one must care even for those who do not agree.
+**Doctrines.** Death belongs with growth, grey hair and childbirth, and to wait for it calmly, as one waits for a birth, is [[app-d-map-of-practice#^amor-fati|acceptance of fate]]. This is how one who [[app-d-map-of-practice#^live-according-to-nature|lives according to nature]] meets death. And [[app-d-map-of-practice#^oikeiosis|men are born for one another]], so one must care even for those who do not agree.
 
 ## 9.4
 
@@ -80,7 +80,7 @@ Then comes what Long calls "a vulgar kind of comfort"; the Greek ἰδιωτικ
 
 All three disciplines are named here at once. In the Greek the chief word stands first: ἀρκεῖ, "it is enough." Long moves it to the end, "that is enough," where it sounds like a conclusion. Marcus lists three things and adds nothing more: neither wealth, nor health, nor anyone's approval. These three suffice.
 
-Sound "opinion founded on understanding" means not accepting unexamined the valuation that comes along with an impression, and separating the fact from what is attached to it ([[04-07|4.7]]). "Conduct directed to social good" requires remembering that "we are made for co-operation, like feet, like hands, like eyelids" ([[02-01|2.1]]). "Contentment with everything which happens" means accepting what befalls us as the stones in a wall fit one another in [[05-08|5.8]]. Judgment, action and desire are the same three conditions we saw in [[08-07|8.7]], here pressed into a single line.
+Sound "opinion founded on understanding" means not accepting unexamined the valuation that comes along with an impression, and separating the fact from what is attached to it ([[04-07|4.7]]). "Conduct directed to social good" requires remembering that "we are made for co-operation, like feet, like hands, like eyelids" ([[02-01|2.1]]). "Contentment with everything which happens" means accepting what befalls us as the stones in a wall fit one another in [[05-08|5.8]]. Assent, action and desire are the same three conditions we saw in [[08-07|8.7]], here pressed into a single line.
 
 One more word matters, and Long keeps it: "thy present," three times over, for the Greek παροῦσα. The opinion is about what is before one's eyes, the conduct is what one is doing now, the contentment is with what is happening.
 
@@ -94,9 +94,9 @@ One more word matters, and Long keeps it: "thy present," three times over, for t
 
 The first two of the four commands repeat almost word for word the opening of the seven commands in [[07-29|7.29]]: the same verb ἐξαλεῖψαι, "wipe out," the same στῆσαι, "stop." Long keeps the first ("Wipe out the imagination" there, "Wipe out imagination" here), but renders the second differently: "Stop the pulling of the strings" in 7.29, "check desire" here.
 
-This is the reverse side of [[09-06|9.6]]. There the three things were given as what must be done: judge rightly, act for the common good, accept. Here they are given as what must be cut short: wipe out the impression, check the impulse, extinguish the appetite (the Greek σβέσαι is used of putting out a fire). The last command, "keep the ruling faculty in its own power," says what all of this is for.
+This passage is the counterpart of [[09-06|9.6]]. There the three things were given as what must be done: judge rightly, act for the common good, accept. Here they are given as what must be cut short: wipe out the impression, check the impulse, extinguish the appetite (the Greek σβέσαι is used of putting out a fire). The last command, "keep the ruling faculty in its own power," says what all of this is for.
 
-The order is not accidental: first the impression, then the impulse, then the appetite. Impulse and appetite are born of an impression that has been accepted, and if the impression is wiped out at the start, they have nothing to be born from.
+The order matters: first the impression, then the impulse, then the appetite. Impulse and appetite are born of an impression that has been accepted, and if the impression is wiped out at the start, they have nothing to be born from.
 
 **Doctrines.** [[app-d-map-of-practice#^self-is-hegemonikon|The true self is the ruling faculty]], and everything depends on its remaining in its own power.
 

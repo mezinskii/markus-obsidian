@@ -13,29 +13,88 @@ import { buildFb2 } from './fb2.mjs';
 import { buildLinkMaps, linkify, wrapEntries } from './links.mjs';
 import footnote from 'markdown-it-footnote';
 
+// Язык сборки: по умолчанию русская книга; с флагом --en английская (npm run book:epub:en).
+const LANG = process.argv.includes('--en') ? 'en' : 'ru';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../..');
-const BOOK = path.join(ROOT, 'books/reading-marcus/ru');
+const BOOK = path.join(ROOT, `books/reading-marcus/${LANG}`);
 const PASS = path.join(ROOT, 'marcus-aurelius/passages');
 const CORPUS = path.join(ROOT, 'marcus-aurelius');
 const OUT_DIR = path.join(ROOT, 'books/reading-marcus/dist');
-const OUT = path.join(OUT_DIR, 'chitaya-marka-avreliya.epub');
-const LINKS = buildLinkMaps({ BOOK, CORPUS });
 
-const TITLE = 'Читая Марка Аврелия';
-const SUBTITLE = 'Как читать «Размышления»';
-const AUTHOR = 'Ян Мезинский';
-const TRANSLATOR = 'С. М. Роговина';
-const TRANSLATOR_NAME = 'С. М. Роговин';
+// Всё, что зависит от языка. Имена выходных xhtml-файлов общие для обеих версий.
+const L = {
+  ru: {
+    out: 'chitaya-marka-avreliya.epub',
+    title: 'Читая Марка Аврелия', subtitle: 'Как читать «Размышления»', author: 'Ян Мезинский',
+    translatorGen: 'С. М. Роговина', translatorName: 'С. М. Роговин', marcus: 'Марк Аврелий',
+    section: 'Русский', sourceMark: /^\*\(пер\.[^)]*\)\*\s*$/m,
+    intro: '00-vvedenie.md', introTitle: 'Введение', introPrefix: /^Введение:\s*/,
+    chapter: (b) => `kniga-${pad(b)}.md`, bookWord: 'Книга',
+    commentary: 'Комментарий', notes: 'Примечания', backToText: 'Назад к тексту',
+    parts: { 'Линия главы': 'liniya', 'Вступление': 'vstuplenie', 'Главное в книге': 'glavnoe' },
+    appendices: [
+      ['pril-a-o-tekste.md', 'o-tekste.xhtml'], ['pril-b-slovar.md', 'slovar.xhtml'], ['pril-c-imena.md', 'imena.xhtml'],
+      ['pril-d-karta-praktiki.md', 'karta-praktiki.xhtml'], ['pril-e-hronologiya.md', 'hronologiya.xhtml'],
+    ],
+    mapLink: 'pril-d-karta-praktiki', namesLink: 'pril-c-imena', glossaryLink: 'pril-b-slovar',
+    appendixRe: /^Приложение\s+([A-ZА-Я])\.\s*/, appendixWord: 'Приложение',
+    bibliography: 'literatura.md', about: 'ob-avtore.md',
+    places: 'Места', indexTitle: 'Указатель комментариев', indexLead: 'Фрагменты, к которым в книге есть комментарий.',
+    contents: 'Содержание', landmarks: 'Ориентиры', coverWord: 'Обложка', start: 'Начало', aboutBook: 'О книге',
+    cover: 'cover/cover-ebook.jpg', subjects: ['Стоицизм', 'Античная философия'], dateLocale: 'ru-RU',
+    titleTrans: () => `Перевод «Размышлений» С. М. Роговина`,
+    colophon: (A, Y, d) => `<p>© ${A}, ${Y}. Комментарий, введение, приложения.</p>
+<p>Текст «Размышлений» дан полностью в переводе С. М. Роговина (1914), сверенном с греческим по изданию Леопольда (Oxford, 1908). Нумерация фрагментов каноническая.</p>
+<p>Подробный комментарий к каждому фрагменту: <a href="https://readaurelius.org/ru">readaurelius.org/ru</a>.</p>
+<p>На обложке бюст Марка Аврелия из Мюнхенской глиптотеки.</p>
+<p>Греческий набран шрифтом Gentium Plus © SIL International, лицензия SIL Open Font License 1.1.</p>
+<p class="build">Сборка от ${d}.</p>`,
+    a11y: 'Книга размечена семантически: главы, примечания со ссылками туда и обратно, языковая разметка греческих слов.',
+    fb2: true,
+  },
+  en: {
+    out: 'reading-marcus-aurelius.epub',
+    title: 'Reading Marcus Aurelius', subtitle: 'The Meditations as Spiritual Exercises', author: 'Ian Mezinskii',
+    translatorGen: 'George Long', translatorName: 'George Long', marcus: 'Marcus Aurelius',
+    section: 'Английский', sourceMark: /^\*\(Long\)\*\s*$/m,
+    intro: '00-introduction.md', introTitle: 'Introduction', introPrefix: /^Introduction:\s*/,
+    chapter: (b) => `book-${pad(b)}.md`, bookWord: 'Book',
+    commentary: 'Commentary', notes: 'Notes', backToText: 'Back to text',
+    parts: { 'Line of the Book': 'liniya', 'Introduction': 'vstuplenie', 'The Book in Brief': 'glavnoe' },
+    appendices: [
+      ['app-a-text-and-translation.md', 'o-tekste.xhtml'], ['app-b-glossary.md', 'slovar.xhtml'], ['app-c-names.md', 'imena.xhtml'],
+      ['app-d-map-of-practice.md', 'karta-praktiki.xhtml'], ['app-e-chronology.md', 'hronologiya.xhtml'],
+    ],
+    mapLink: 'app-d-map-of-practice', namesLink: 'app-c-names', glossaryLink: 'app-b-glossary',
+    appendixRe: /^Appendix\s+([A-Z])\.\s*/, appendixWord: 'Appendix',
+    bibliography: 'bibliography.md', about: 'about-the-author.md',
+    places: 'Places', indexTitle: 'Index of Commentaries', indexLead: 'Passages with a commentary in this book.',
+    contents: 'Contents', landmarks: 'Landmarks', coverWord: 'Cover', start: 'Start', aboutBook: 'About This Book',
+    cover: 'cover/en/cover-ebook.jpg', subjects: ['Stoicism', 'Ancient philosophy'], dateLocale: 'en-US',
+    titleTrans: () => 'The Meditations in the translation of George Long',
+    colophon: (A, Y, d) => `<p>© ${A}, ${Y}. Commentary, introduction, appendices.</p>
+<p>The text of the <i>Meditations</i> is given in full in the translation of George Long (1862), checked against the Greek of Leopold's edition (Oxford, 1908). The passages follow the standard numbering.</p>
+<p>A commentary on every passage: <a href="https://readaurelius.org">readaurelius.org</a>.</p>
+<p>The cover shows a bust of Marcus Aurelius in the Glyptothek, Munich.</p>
+<p>Greek is set in Gentium Plus © SIL International, licensed under the SIL Open Font License 1.1.</p>
+<p class="build">Built ${d}.</p>`,
+    a11y: 'The book is semantically structured: chapters, notes linked in both directions, language markup for Greek words.',
+    fb2: false,
+  },
+}[LANG];
+
+const OUT = path.join(OUT_DIR, L.out);
+const LINKS = buildLinkMaps({ BOOK, CORPUS, lang: LANG, glossary: L.appendices[1][0], names: L.appendices[2][0] });
+
+const TITLE = L.title;
+const SUBTITLE = L.subtitle;
+const AUTHOR = L.author;
+const TRANSLATOR = L.translatorGen;
+const TRANSLATOR_NAME = L.translatorName;
 const YEAR = '2026';
 const KEEP_CHARS = 700; // первый абзац фрагмента короче этого не отрывается от номера
 const FONTS_DIR = path.join(path.dirname(fileURLToPath(import.meta.url)), 'fonts');
-const APPENDICES = [
-  ['pril-a-o-tekste.md', 'o-tekste.xhtml'],
-  ['pril-b-slovar.md', 'slovar.xhtml'],
-  ['pril-c-imena.md', 'imena.xhtml'],
-  ['pril-d-karta-praktiki.md', 'karta-praktiki.xhtml'],
-  ['pril-e-hronologiya.md', 'hronologiya.xhtml'],
-];
+const APPENDICES = L.appendices;
 const ROMAN = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'];
 
 const md = new MarkdownIt({ html: true, xhtmlOut: true, typographer: false, breaks: false }).use(footnote);
@@ -45,7 +104,7 @@ const read = (p) => fs.readFileSync(p, 'utf8').replace(/\r\n/g, '\n');
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const pad = (n) => String(n).padStart(2, '0');
 const fid = (b, m) => `f-${pad(b)}-${pad(m)}`;
-const bookFile = (b) => `kniga-${pad(b)}.xhtml`;
+const bookFile = (b) => `kniga-${pad(b)}.xhtml`; // имя xhtml общее для обоих языков
 
 // где какой фрагмент: id → файл
 const fragmentFile = new Map();
@@ -82,7 +141,9 @@ function wikiLinks(s) {
       const label = alias ?? `${+m[1]}.${+m[2]}`;
       return `[${label}](${fragmentFile.get(target)}#${fid(+m[1], +m[2])})`;
     }
-    if (target === 'pril-d-karta-praktiki') return `[${text}](karta-praktiki.xhtml${anchor ? '#d-' + anchor : ''})`;
+    if (target === L.mapLink) return `[${text}](karta-praktiki.xhtml${anchor ? '#d-' + anchor : ''})`;
+    if (target === L.namesLink) return `[${text}](imena.xhtml)`;
+    if (target === L.glossaryLink) return `[${text}](slovar.xhtml)`;
     return text; // термины, люди, догматы корпуса: в книге просто текст
   });
 }
@@ -91,8 +152,8 @@ function wikiLinks(s) {
 function fragmentText(id) {
   const [b] = id.split('-');
   const t = read(path.join(PASS, `book ${+b}`, `${id}.md`));
-  let s = (t.split(/^## Русский\s*$/m)[1] || '').split(/^## /m)[0];
-  s = s.replace(/^\*\(пер\.[^)]*\)\*\s*$/m, '').trim();
+  let s = (t.split(new RegExp(`^## ${L.section}\\s*$`, 'm'))[1] || '').split(/^## /m)[0];
+  s = s.replace(L.sourceMark, '').trim();
   // уникальные метки сносок
   s = s.replace(/\[\^(\w+)\]/g, `[^${id}-$1]`);
   return wikiLinks(s);
@@ -135,10 +196,10 @@ function renderWithNotes(src, fileName) {
   if (notes.length) {
     const asides = notes.map(({ n, body }) => {
       // номер сноски читалки ставят сами, поэтому в тексте сноски только стрелка возврата в конце
-      const withNum = body.replace(/<\/p>\s*$/, ` <a href="#noteref-${n}" class="note-back" role="doc-backlink" title="Назад к тексту">↩</a></p>`);
+      const withNum = body.replace(/<\/p>\s*$/, ` <a href="#noteref-${n}" class="note-back" role="doc-backlink" title="${L.backToText}">↩</a></p>`);
       return `<aside id="note-${n}" class="footnote" epub:type="footnote" role="doc-footnote">\n${withNum}\n</aside>`;
     }).join('\n');
-    html += `\n<section class="chapter-notes">\n<h2 class="notes-title">Примечания</h2>\n${asides}\n</section>\n`;
+    html += `\n<section class="chapter-notes">\n<h2 class="notes-title">${L.notes}</h2>\n${asides}\n</section>\n`;
   }
   return tagGreek(html);
 }
@@ -147,7 +208,7 @@ function renderWithNotes(src, fileName) {
 function page(title, body, { bodyType = 'bodymatter', cls = '' } = {}) {
   return `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ru" lang="ru">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="${LANG}" lang="${LANG}">
 <head>
 <meta charset="utf-8" />
 <title>${esc(title)}</title>
@@ -166,19 +227,20 @@ const commented = []; // {b, m, file}
 const files = []; // {name, content, id, props?}
 
 function buildIntro() {
-  const { data, content } = matter(read(path.join(BOOK, '00-vvedenie.md')));
+  const { data, content } = matter(read(path.join(BOOK, L.intro)));
   const src = wikiLinks(content).replace(/^### /gm, '## ');
-  let body = linkify(renderWithNotes(src, 'vvedenie.xhtml'), { maps: LINKS });
+  let body = linkify(renderWithNotes(src, 'vvedenie.xhtml'), { maps: LINKS, lang: LANG });
   const children = [];
   let k = 0;
   body = body.replace(/<h2>([\s\S]*?)<\/h2>/g, (a, t) => { const id = `s-${++k}`; children.push({ href: `vvedenie.xhtml#${id}`, title: t.replace(/<[^>]+>/g, '') }); return `<h2 id="${id}">${t}</h2>`; });
-  const title = 'Введение';
-  files.push({ name: 'vvedenie.xhtml', content: page(title, `<section id="vvedenie" epub:type="introduction" role="doc-introduction">\n<h1>Введение</h1>\n<p class="subtitle">${esc(String(data.title).replace(/^Введение:\s*/, ''))}</p>\n${body}</section>`) });
+  const title = L.introTitle;
+  files.push({ name: 'vvedenie.xhtml', content: page(title, `<section id="vvedenie" epub:type="introduction" role="doc-introduction">\n<h1>${title}</h1>\n<p class="subtitle">${esc(String(data.title).replace(L.introPrefix, ''))}</p>\n${body}</section>`) });
   toc.push({ file: 'vvedenie.xhtml', title, children });
 }
 
 function buildBook(b) {
-  const { content } = matter(read(path.join(BOOK, `kniga-${pad(b)}.md`)));
+  const { content } = matter(read(path.join(BOOK, L.chapter(b))));
+  const comMark = `**${L.commentary}.**`;
   const file = bookFile(b);
   const parts = content.split(/^## /m);
   let src = '';
@@ -192,31 +254,31 @@ function buildBook(b) {
     if (fm) {
       const m = +fm[2];
       const id = `${pad(b)}-${pad(m)}`;
-      rest = rest.replace(/^!\[\[[^\]]*#Русский\]\]\s*$/m, '').trim();
-      const hasCom = rest.includes('**Комментарий.**');
+      rest = rest.replace(new RegExp(`^!\\[\\[[^\\]]*#${L.section}\\]\\]\\s*$`, 'm'), '').trim();
+      const hasCom = rest.includes(comMark);
       src += `<section class="fragment${hasCom ? ' has-commentary' : ''}" id="${fid(b, m)}">\n<h3 class="fnum">${b}.${m}</h3>\n<div class="marcus">\n\n${fragmentText(id)}\n\n</div>\n`;
       if (hasCom) {
         commented.push({ b, m, file });
-        const com = rest.replace(/^\*\*Комментарий\.\*\*\s*/m, '');
-        src += `<aside class="commentary" aria-label="Комментарий">\n<h4 class="label">Комментарий</h4>\n\n${wikiLinks(com)}\n\n</aside>\n`;
+        const com = rest.replace(comMark, '').replace(/^\s+/, '');
+        src += `<aside class="commentary" aria-label="${L.commentary}">\n<h4 class="label">${L.commentary}</h4>\n\n${wikiLinks(com)}\n\n</aside>\n`;
       }
       src += `</section>\n\n`;
     } else {
-      const slug = { 'Линия главы': 'liniya', 'Вступление': 'vstuplenie', 'Главное в книге': 'glavnoe' }[head] || `h-${children.length}`;
+      const slug = L.parts[head] || `h-${children.length}`;
       children.push({ href: `${file}#${slug}-${b}`, title: head });
       src += `<section class="part ${slug}" id="${slug}-${b}">\n<h2>${esc(head)}</h2>\n\n${wikiLinks(rest)}\n\n</section>\n\n`;
     }
   }
   // сноски карточек: определения уже внутри текста фрагментов; markdown-it соберёт их в конец
-  let body = linkify(renderWithNotes(src, file), { maps: LINKS, book: b });
+  let body = linkify(renderWithNotes(src, file), { maps: LINKS, book: b, lang: LANG });
   // номер фрагмента и начало текста — один блок, чтобы читалка не оставила номер внизу страницы;
   // короткий первый абзац держим целиком (keep), длинный может разорваться, но не раньше 3 строк (orphans)
   body = body.replace(/<h3 class="fnum">([^<]*)<\/h3>\s*<div class="marcus">\s*<p>([\s\S]*?)<\/p>/g, (all, n, p) => {
     const keep = p.replace(/<[^>]+>/g, '').length <= KEEP_CHARS;
     return `<div class="marcus">\n<div class="fstart${keep ? ' keep' : ''}"><h3 class="fnum">${n}</h3>\n<p>${p}</p></div>`;
   });
-  const title = `Книга ${ROMAN[b]}`;
-  files.push({ name: file, content: page(title, `<section id="kniga-${b}" epub:type="chapter" role="doc-chapter">\n<hgroup><p class="book-label">Книга</p><h1>${ROMAN[b]}</h1></hgroup>\n${body}</section>`) });
+  const title = `${L.bookWord} ${ROMAN[b]}`;
+  files.push({ name: file, content: page(title, `<section id="kniga-${b}" epub:type="chapter" role="doc-chapter">\n<hgroup><p class="book-label">${L.bookWord}</p><h1>${ROMAN[b]}</h1></hgroup>\n${body}</section>`) });
   toc.push({ file, title, children });
 }
 
@@ -225,7 +287,7 @@ function buildBook(b) {
 // sem — семантика раздела: приложение, литература (bibliography) или «Об авторе» (без роли).
 function appendixPage(fileMd, fileOut, transform, sem = 'epub:type="appendix" role="doc-appendix"') {
   const { data, content } = matter(read(path.join(BOOK, fileMd)));
-  const title = String(data.title || fileOut).replace(/^Приложение\s+([A-ZА-Я])\.\s*/, (a, l) => `Приложение ${l}. `);
+  const title = String(data.title || fileOut).replace(L.appendixRe, (a, l) => `${L.appendixWord} ${l}. `);
   let src = wikiLinks(content);
   if (transform) src = transform(src);
   if (fileOut === 'slovar.xhtml') src = wrapEntries(src, 'terms', LINKS);
@@ -255,7 +317,7 @@ function buildKarta() {
     }
   }
   const list = (ids) => ids.map((id) => { const [b, m] = id.split('-').map(Number); const a = `<a href="${bookFile(b)}#${fid(b, m)}">${b}.${m}</a>`; return comSet.has(id) ? `<b>${a}</b>` : a; }).join(', ');
-  appendixPage('pril-d-karta-praktiki.md', 'karta-praktiki.xhtml', (src) => {
+  appendixPage(L.appendices[3][0], 'karta-praktiki.xhtml', (src) => {
     // ### Название ^slug  →  статья с якорем; после сути — все места
     const parts = src.split(/^(?=### |## )/m);
     return parts.map((p) => {
@@ -263,7 +325,7 @@ function buildKarta() {
       if (!m) return p;
       const [, t, slug, body] = m;
       const ids = tagMap.get(slug) || [];
-      return `<section class="entry" id="d-${slug}">\n\n### ${t}\n\n${body.trim()}\n\n<p class="places"><span class="places-label">Места (${ids.length}):</span> ${list(ids)}</p>\n\n</section>\n\n`;
+      return `<section class="entry" id="d-${slug}">\n\n### ${t}\n\n${body.trim()}\n\n<p class="places"><span class="places-label">${L.places} (${ids.length}):</span> ${list(ids)}</p>\n\n</section>\n\n`;
     }).join('');
   });
 }
@@ -301,50 +363,48 @@ function buildIndex() {
   const rows = [];
   for (let b = 1; b <= 12; b++) {
     const items = commented.filter((c) => c.b === b).map((c) => `<a href="${c.file}#${fid(c.b, c.m)}">${c.b}.${c.m}</a>`);
-    if (items.length) rows.push(`<p><span class="idx-book">Книга ${ROMAN[b]}.</span> ${items.join(', ')}</p>`);
+    if (items.length) rows.push(`<p><span class="idx-book">${L.bookWord} ${ROMAN[b]}.</span> ${items.join(', ')}</p>`);
   }
-  files.push({ name: 'kommentarii.xhtml', content: page('Указатель комментариев', `<section id="kommentarii" epub:type="index" role="doc-index">\n<h1>Указатель комментариев</h1>\n<p class="lead">Фрагменты, к которым в книге есть комментарий.</p>\n${rows.join('\n')}\n</section>`, { bodyType: 'backmatter' }) });
-  toc.push({ file: 'kommentarii.xhtml', title: 'Указатель комментариев', children: [] });
+  files.push({ name: 'kommentarii.xhtml', content: page(L.indexTitle, `<section id="kommentarii" epub:type="index" role="doc-index">\n<h1>${L.indexTitle}</h1>\n<p class="lead">${L.indexLead}</p>\n${rows.join('\n')}\n</section>`, { bodyType: 'backmatter' }) });
+  toc.push({ file: 'kommentarii.xhtml', title: L.indexTitle, children: [] });
 }
 
 
 // ---------- обложка, титул ----------
 // Обложка: books/reading-marcus/cover/cover-ebook.jpg (1600×2560). Бюст — Мюнхенская глиптотека, инв. 569 (фото в общественном достоянии).
-const COVER_JPG = fs.readFileSync(path.join(ROOT, 'books/reading-marcus/cover/cover-ebook.jpg'));
+// Английская: cover/en/cover-ebook.jpg (исходник cover/en/ebook.png); пока её нет, временно ставится русская с предупреждением.
+const COVER_PATH = path.join(ROOT, 'books/reading-marcus', L.cover);
+const COVER_JPG = fs.readFileSync(fs.existsSync(COVER_PATH) ? COVER_PATH : path.join(ROOT, 'books/reading-marcus/cover/cover-ebook.jpg'));
+if (!fs.existsSync(COVER_PATH)) console.log(`ВНИМАНИЕ: нет обложки ${L.cover}, временно вставлена русская`);
 
 function buildFront(dateStr) {
-  files.push({ name: 'cover.xhtml', content: page('Обложка', `<section epub:type="cover" class="cover"><img src="cover.jpg" alt="${TITLE}" /></section>`, { bodyType: 'frontmatter', cls: 'cover-page' }) });
+  files.push({ name: 'cover.xhtml', content: page(L.coverWord, `<section epub:type="cover" class="cover"><img src="cover.jpg" alt="${TITLE}" /></section>`, { bodyType: 'frontmatter', cls: 'cover-page' }) });
   files.push({ name: 'titlepage.xhtml', content: page(TITLE, `<section epub:type="titlepage" class="titlepage">
 <p class="t-author">${AUTHOR}</p>
 <h1 class="t-title">${TITLE}</h1>
 <p class="t-sub">${SUBTITLE}</p>
-<p class="t-trans">Перевод «Размышлений» ${TRANSLATOR}</p>
+<p class="t-trans">${L.titleTrans()}</p>
 </section>`, { bodyType: 'frontmatter' }) });
-  files.push({ name: 'colophon.xhtml', content: page('О книге', `<section epub:type="colophon" class="colophon">
-<p>© ${AUTHOR}, ${YEAR}. Комментарий, введение, приложения.</p>
-<p>Текст «Размышлений» дан полностью в переводе ${TRANSLATOR} (1914), сверенном с греческим по изданию Леопольда (Oxford, 1908). Нумерация фрагментов каноническая.</p>
-<p>Подробный комментарий к каждому фрагменту: <a href="https://readaurelius.org/ru">readaurelius.org/ru</a>.</p>
-<p>На обложке бюст Марка Аврелия из Мюнхенской глиптотеки.</p>
-<p>Греческий набран шрифтом Gentium Plus © SIL International, лицензия SIL Open Font License 1.1.</p>
-<p class="build">Сборка от ${dateStr.replace(/\.$/, "")}.</p>
+  files.push({ name: 'colophon.xhtml', content: page(L.aboutBook, `<section epub:type="colophon" class="colophon">
+${L.colophon(AUTHOR, YEAR, dateStr.replace(/\.$/, ''))}
 </section>`, { bodyType: 'frontmatter' }) });
 }
 
 // ---------- навигация ----------
 function navXhtml() {
   const li = (t) => `<li><a href="${t.file}">${esc(t.title)}</a>${t.children.length ? `\n<ol>\n${t.children.map((c) => `<li><a href="${c.href}">${esc(c.title)}</a></li>`).join('\n')}\n</ol>` : ''}</li>`;
-  return page('Содержание', `<nav epub:type="toc" role="doc-toc" id="toc">
-<h1>Содержание</h1>
+  return page(L.contents, `<nav epub:type="toc" role="doc-toc" id="toc">
+<h1>${L.contents}</h1>
 <ol>
 ${toc.map(li).join('\n')}
 </ol>
 </nav>
 <nav epub:type="landmarks" id="landmarks" hidden="hidden">
-<h2>Ориентиры</h2>
+<h2>${L.landmarks}</h2>
 <ol>
-<li><a epub:type="cover" href="cover.xhtml">Обложка</a></li>
-<li><a epub:type="toc" href="nav.xhtml">Содержание</a></li>
-<li><a epub:type="bodymatter" href="vvedenie.xhtml">Начало</a></li>
+<li><a epub:type="cover" href="cover.xhtml">${L.coverWord}</a></li>
+<li><a epub:type="toc" href="nav.xhtml">${L.contents}</a></li>
+<li><a epub:type="bodymatter" href="vvedenie.xhtml">${L.start}</a></li>
 </ol>
 </nav>`, { bodyType: 'frontmatter' });
 }
@@ -353,7 +413,7 @@ function tocNcx(uid) {
   let order = 0;
   const pt = (t) => `<navPoint id="np-${++order}" playOrder="${order}"><navLabel><text>${esc(t.title)}</text></navLabel><content src="${t.href || t.file}"/>${(t.children || []).map(pt).join('')}</navPoint>`;
   return `<?xml version="1.0" encoding="utf-8"?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="${LANG}">
 <head><meta name="dtb:uid" content="${uid}"/><meta name="dtb:depth" content="2"/><meta name="dtb:totalPageCount" content="0"/><meta name="dtb:maxPageNumber" content="0"/></head>
 <docTitle><text>${TITLE}</text></docTitle>
 <navMap>${toc.map(pt).join('')}</navMap>
@@ -367,7 +427,7 @@ function opf(uid, modified) {
   const navIdx = files.findIndex((f) => f.name === 'nav.xhtml');
   spine.splice(3, 0, `<itemref idref="i${navIdx}"/>`); // содержание после обложки, титула и колофона
   return `<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" xml:lang="ru">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" xml:lang="${LANG}">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier id="uid">${uid}</dc:identifier>
 <dc:title id="title">${TITLE}</dc:title>
@@ -376,15 +436,14 @@ function opf(uid, modified) {
 <meta refines="#subtitle" property="title-type">subtitle</meta>
 <dc:creator id="author">${AUTHOR}</dc:creator>
 <meta refines="#author" property="role" scheme="marc:relators">aut</meta>
-<dc:contributor id="marcus">Марк Аврелий</dc:contributor>
+<dc:contributor id="marcus">${L.marcus}</dc:contributor>
 <meta refines="#marcus" property="role" scheme="marc:relators">aut</meta>
 <dc:contributor id="trl">${TRANSLATOR_NAME}</dc:contributor>
 <meta refines="#trl" property="role" scheme="marc:relators">trl</meta>
-<dc:language>ru</dc:language>
+<dc:language>${LANG}</dc:language>
 <dc:date>${YEAR}</dc:date>
 <dc:rights>© ${AUTHOR}, ${YEAR}</dc:rights>
-<dc:subject>Стоицизм</dc:subject>
-<dc:subject>Античная философия</dc:subject>
+${L.subjects.map((s) => `<dc:subject>${s}</dc:subject>`).join('\n')}
 <meta property="dcterms:modified">${modified}</meta>
 <meta name="cover" content="cover-image"/>
 <meta property="schema:accessMode">textual</meta>
@@ -393,7 +452,7 @@ function opf(uid, modified) {
 <meta property="schema:accessibilityFeature">tableOfContents</meta>
 <meta property="schema:accessibilityFeature">readingOrder</meta>
 <meta property="schema:accessibilityHazard">none</meta>
-<meta property="schema:accessibilitySummary">Книга размечена семантически: главы, примечания со ссылками туда и обратно, языковая разметка греческих слов.</meta>
+<meta property="schema:accessibilitySummary">${L.a11y}</meta>
 </metadata>
 <manifest>
 <item id="css" href="style.css" media-type="text/css"/>
@@ -458,16 +517,16 @@ function checkXml(name, s) {
 // ---------- сборка ----------
 const FONTS = fs.existsSync(FONTS_DIR) ? fs.readdirSync(FONTS_DIR).filter((f) => f.endsWith(".ttf")).sort() : [];
 const now = new Date();
-const dateStr = now.toLocaleDateString('ru-RU', { day: 'numeric', month: 'long', year: 'numeric' });
+const dateStr = now.toLocaleDateString(L.dateLocale, { day: 'numeric', month: 'long', year: 'numeric' });
 const uid = 'urn:uuid:' + crypto.createHash('sha1').update(TITLE + AUTHOR).digest('hex').replace(/^(.{8})(.{4})(.{4})(.{4})(.{12}).*/, '$1-$2-$3-$4-$5');
 
 buildFront(dateStr);
 buildIntro();
 for (let b = 1; b <= 12; b++) buildBook(b);
 for (const [src, out] of APPENDICES) (out === "karta-praktiki.xhtml" ? buildKarta() : appendixPage(src, out));
-appendixPage('literatura.md', 'literatura.xhtml', null, 'epub:type="bibliography" role="doc-bibliography"');
+appendixPage(L.bibliography, 'literatura.xhtml', null, 'epub:type="bibliography" role="doc-bibliography"');
 buildIndex();
-appendixPage('ob-avtore.md', 'ob-avtore.xhtml', null, '');
+appendixPage(L.about, 'ob-avtore.xhtml', null, '');
 files.splice(3, 0, { name: 'nav.xhtml', content: navXhtml() });
 
 const css = read(path.join(path.dirname(fileURLToPath(import.meta.url)), 'epub.css'));
@@ -487,8 +546,8 @@ fs.mkdirSync(OUT_DIR, { recursive: true });
 fs.writeFileSync(OUT, zip(entries));
 console.log(`EPUB: ${path.relative(ROOT, OUT)}  (${(fs.statSync(OUT).size / 1024).toFixed(0)} КБ; файлов ${entries.length}; примечаний ${endnotes.length}; комментариев ${commented.length})`);
 
-// ---------- FB2 из тех же страниц ----------
-{
+// ---------- FB2 из тех же страниц (только русская версия) ----------
+if (L.fb2) {
   const fb2 = buildFb2({ files, meta: { title: TITLE, subtitle: SUBTITLE, authorFirst: AUTHOR.split(" ")[0], authorLast: AUTHOR.split(" ").slice(1).join(" "), translatorGen: TRANSLATOR, year: YEAR, uid, dateStr, isoDate: now.toISOString().slice(0, 10), coverB64: COVER_JPG.toString("base64") } });
   checkXml("fb2", fb2);
   const fb2Out = OUT.replace(/.epub$/, ".fb2");

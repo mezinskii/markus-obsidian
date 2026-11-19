@@ -10,7 +10,7 @@ commented: 11
 
 ## Line of the Book
 
-**The Retreat Within.** In 4.3 Marcus Aurelius tells himself that one can retire not to the sea or the mountains but into oneself. The retreat, however, holds only by what is stored in it, and he reduces this store to two truths: things do not touch the soul, and everything you see will soon change and be no more. The book then repeats both truths in many keys: the first Marcus compresses into a formula in 4.7, the second he conveys in images: the river of time, names grown antiquated, the ripe olive.
+**The Retreat Within.** In 4.3 Marcus Aurelius tells himself that one can retire not to the sea or the mountains but into oneself. The retreat, however, is only as good as what is stored in it, and he reduces this store to two truths: things do not touch the soul, and everything you see will soon change and be no more. The book then repeats both truths in many keys: the first Marcus compresses into a formula in 4.7, the second he conveys in images: the river of time, names grown antiquated, the ripe olive.
 
 Eleven key passages: retiring into oneself (4.3) → death as a mystery of nature (4.5) → the juice in the fig tree (4.6) → take away the opinion (4.7) → return into the whole (4.14) → do not live as if you had ten thousand years (4.17) → the times of Vespasian (4.32) → names grown antiquated (4.33) → everything is a seed (4.36) → the river of time (4.43) → the ripe olive (4.48).
 
@@ -44,7 +44,7 @@ The book is rich in images: the juice in the fig tree (4.6), "many grains of fra
 
 **Commentary.**
 
-This passage was already heard in the introduction; now it is worth reading whole. It speaks of a retreat that lies within a man. The image of a citadel will come later, in [[08-48|8.48]]: from it Pierre Hadot took the title of his book on Marcus, *The Inner Citadel*.
+This passage was quoted in the book's introduction; here it is read in full. It speaks of a retreat that lies within a man. The image of a citadel will come later, in [[08-48|8.48]]: from it Pierre Hadot took the title of his book on Marcus, *The Inner Citadel*.
 
 "Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much." Marcus answers himself that this is "altogether a mark of the most common sort of men"; the Greek ἰδιωτικώτατον means literally "most like a layman." One can retire at any moment without going anywhere. This exercise later came to be called the retreat into oneself, ἀναχώρησις εἰς ἑαυτόν.
 
@@ -70,7 +70,7 @@ Then everything is brought down to two truths, to be "among the things readiest 
 
 "Death is such as generation is, a mystery of nature; a composition out of the same elements, and a decomposition into the same." In the Greek these are σύγκρισις and λύσις, combination and dissolution. Nothing vanishes; everything passes into something else.
 
-The word "mystery" is the Greek μυστήριον; so the rites of initiation were called, through which a person passed. Perhaps Marcus has this in mind too: death, like a rite, is hidden, yet entirely natural, as birth is.
+The word "mystery" is the Greek μυστήριον, the word used for the rites of initiation through which a person passed. Perhaps Marcus has this in mind too: death, like a rite, is hidden, yet entirely natural, as birth is.
 
 It follows that death is "altogether not a thing of which any man should be ashamed." It is "not contrary to the nature of a reasonable animal, and not contrary to the reason of our constitution," and what accords with nature cannot be evil. Marcus already said this at the end of Book II ([[02-17|2.17]]).
 
@@ -82,7 +82,7 @@ It follows that death is "altogether not a thing of which any man should be asha
 
 **Commentary.**
 
-Against anger at a bad man Marcus has two arguments. The first: "It is natural that these things should be done by such persons, it is a matter of necessity; and if a man will not have it so, he will not allow the fig-tree to have juice." Such people are so made (πέφυκε) and act so "of necessity," ἐξ ἀνάγκης, and to be angry at this is to demand the impossible. Behind it stands the thought familiar from [[04-03|4.3]]: "men do wrong involuntarily."
+Against anger at a bad man Marcus has two arguments. The first: "It is natural that these things should be done by such persons, it is a matter of necessity; and if a man will not have it so, he will not allow the fig-tree to have juice." Such people are so made (πέφυκε) and act so "of necessity," ἐξ ἀνάγκης, and to be angry at this is to demand the impossible. This rests on the thought familiar from [[04-03|4.3]]: "men do wrong involuntarily."
 
 The second: "by all means bear this in mind, that within a very short time both thou and he will be dead; and soon not even your names will be left behind." A quarrel with a man who is about to vanish along with you is not worth anger.
 
@@ -142,7 +142,7 @@ One should remember that "harm" here is not bodily damage. For the Stoic there i
 
 The "seminal principle" is in Greek λόγος σπερματικός. The Stoics taught that the world's reason contains the "seeds" of all things, from which everything is born and into which everything returns.
 
-This continues [[04-05|4.5]]: there death was a decomposition into elements; here it is a return into the reason of the whole. In Book VI ([[06-24|6.24]]) Marcus applies the same thought to Alexander of Macedon and his muleteer: after death both were either received into the same seminal principles or scattered among the atoms.
+This continues [[04-05|4.5]]: there death was a decomposition into elements; here it is a return into the reason of the whole. In Book VI ([[06-24|6.24]]) Marcus applies the same thought to Alexander the Great and his muleteer: after death both were either received into the same seminal principles or scattered among the atoms.
 
 **Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole]], and man is a part of it. [[app-d-map-of-practice#^externals-on-loan|Nothing is our own]]: even our own life we received for a time and give back.
 
@@ -164,7 +164,7 @@ This continues [[04-05|4.5]]: there death was a decomposition into elements; her
 
 "Death hangs over thee" renders τὸ χρεὼν ἐπήρτηται, literally "what must be hangs over you." The verb ἐπήρτηται means "is suspended over one's head," and Long keeps the image: death will not come someday; it already hangs overhead.
 
-Marcus tells himself not to hurry with business but to become good: ἀγαθὸς γενοῦ, and Long's plain "be good" keeps the force of the command. When the term is limited, only one thing is worth doing, and doing now, "while it is in thy power," ἕως ἔξεστιν. The same Greek words stand at the end of [[03-14|3.14]], and Long renders them the same way there; why the power may end before life does is explained in [[03-01|3.1]].
+Marcus tells himself not to hurry with business but to become good: ἀγαθὸς γενοῦ, and Long's plain "be good" keeps the force of the command. Since time is short, only one thing is worth doing, and doing now, "while it is in thy power," ἕως ἔξεστιν. The same Greek words stand at the end of [[03-14|3.14]], and Long renders them the same way there; why the power may end before life does is explained in [[03-01|3.1]].
 
 **Doctrines.** [[app-d-map-of-practice#^virtue-is-sufficient|Virtue is sufficient for happiness]], and to become good is the only task. And one can become good only now.
 
@@ -236,7 +236,7 @@ The list is long on purpose. It contains not a single event that would distingui
 
 From whole epochs Marcus moves to those who soon fell after great efforts, and most of all he tells himself to think "of those whom thou hast thyself known distracting themselves about idle things, neglecting to do what was in accordance with their proper constitution," that is, what they were made for.
 
-Hence the last advice: the attention given to each thing should match its value. If you apply yourself "to smaller matters no further than is fit," then "thou wilt not be dissatisfied."
+Hence the final counsel: the attention given to each thing should match its value. If you apply yourself "to smaller matters no further than is fit," then "thou wilt not be dissatisfied."
 
 **Doctrines.** [[app-d-map-of-practice#^virtue-is-sufficient|Virtue is sufficient for happiness]], that is, the work that accords with one's own constitution, and consulships and thrones add nothing to it.
 
@@ -246,9 +246,9 @@ Hence the last advice: the attention given to each thing should match its value.
 
 **Commentary.**
 
-"The words which were formerly familiar are now antiquated." The Greek is γλωσσήματα, "glosses": so were called obsolete and rare words that needed explaining; grammarians collected them in special glossaries. Long's "antiquated" gives the sense but loses the technical term. The same happens with names. Camillus, Caeso, Volesus, heroes of old Rome, have already become such words. Long's "Leonnatus" is the reading of the manuscripts; modern editors correct it to Dentatus, since a Macedonian general does not belong among Roman heroes. Soon Scipio and Cato will share the same fate, then Augustus, "then also Hadrian and Antoninus."
+"The words which were formerly familiar are now antiquated." The Greek is γλωσσήματα, "glosses," the term for obsolete and rare words that needed explaining; grammarians collected them in special glossaries. Long's "antiquated" gives the sense but loses the technical term. The same happens with names. Camillus, Caeso, Volesus, heroes of old Rome, have already become such words. Long's "Leonnatus" is the reading of the manuscripts; modern editors correct it to Dentatus, since a Macedonian general does not belong among Roman heroes. Soon Scipio and Cato will share the same fate, then Augustus, "then also Hadrian and Antoninus."
 
-The last name deserves attention. Antoninus Pius was Marcus's adoptive father, the very man to whom the longest passage of Book I is devoted ([[01-16|1.16]]), and even his name Marcus places in this row. "For all things soon pass away and become a mere tale, and complete oblivion soon buries them."
+The last name deserves attention. Antoninus Pius was Marcus's adoptive father, the very man to whom the longest passage of Book I is devoted ([[01-16|1.16]]), and Marcus places even his name in this company. "For all things soon pass away and become a mere tale, and complete oblivion soon buries them."
 
 "What is even an eternal remembrance? A mere nothing." The Greek is ὅλον κενόν, "all empty."
 
@@ -278,7 +278,7 @@ Marcus goes further: "everything that exists is in a manner the seed of that whi
 
 This continues [[04-14|4.14]]: there a man after death returned into the "seminal principle" of the whole; here everything that exists becomes a seed.
 
-**Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole]] and pass continually into one another. And since nature loves change, it can be not endured but accepted: in this lies [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
+**Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole]] and pass continually into one another. And since nature loves change, it need not merely be endured; it can be accepted: in this lies [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
 
 ## 4.37
 
@@ -310,7 +310,7 @@ This continues [[04-14|4.14]]: there a man after death returned into the "semina
 
 **Commentary.**
 
-Time as a river: one of the finest images of the *Meditations*.
+Time is pictured here as a river.
 
 In the Greek, time here is αἰών, "age," "span of life," the time that passes. The waters of this river are τὰ γινόμενα, "the things that come to be": events, things, people. Long renders it "a river made up of the events which happen, and a violent stream." The swiftness is conveyed by a pair of verbs, ὤφθη καὶ παρενήνεκται, "it has been seen and already carried past": "as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too." Long renders the end exactly: τὸ δὲ ἐνεχθήσεται, "and this will be carried away too."
 
@@ -346,7 +346,7 @@ The list of deaths is again long and again ironic, as in [[03-03|3.3]]. How many
 
 Then come those one has known: "One man after burying another has been laid out dead, and another buries him." Everything human is fleeting: "what was yesterday a little mucus to-morrow will be a mummy or ashes." Long's "a little mucus" renders exactly the coarse Greek μυξάριον.
 
-"Pass then through this little space of time conformably to nature, and end thy journey in content, just as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew." The olive appeared already in [[03-02|3.2]], where the overripe olive was beautiful in the very nearness of its end; here it falls in its season and thanks the tree. The contrast with the tyrants who behaved "as if they were immortal" seems deliberate: the wise man does not cling to life but ripens and falls.
+"Pass then through this little space of time conformably to nature, and end thy journey in content, just as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew." The olive appeared already in [[03-02|3.2]], where the overripe olive was beautiful in the very nearness of its end; here it falls in its season and thanks the tree. The contrast with the tyrants who behaved "as if they were immortal" seems deliberate: the olive does not cling to the tree.
 
 **Doctrines.** One who has passed his moment of time [[app-d-map-of-practice#^live-according-to-nature|according to nature]] departs like the olive, [[app-d-map-of-practice#^amor-fati|accepting his term with gratitude]].
 
@@ -364,6 +364,6 @@ Then come those one has known: "One man after burying another has been laid out 
 
 ## The Book in Brief
 
-**Key thought.** One can escape one's troubles not by going to the sea or the mountains but by retiring into oneself ([[04-03|4.3]]), yet this inner retreat holds only by the few brief principles stored in it. The chief of them is this: take away the opinion, and the harm is gone ([[04-07|4.7]]). The second reminds us that everything we see will soon change and be no more, like the water in the river of time ([[04-43|4.43]]).
+**Key thought.** One can escape one's troubles not by going to the sea or the mountains but by retiring into oneself ([[04-03|4.3]]), yet this inner retreat is only as good as the few brief principles stored in it. The chief of them is this: take away the opinion, and the harm is gone ([[04-07|4.7]]). The second reminds us that everything we see will soon change and be no more, like the water in the river of time ([[04-43|4.43]]).
 
 **Practice: retiring into oneself (ἀναχώρησις εἰς ἑαυτόν).** Marcus reminds himself that "it is in thy power whenever thou shalt choose to retire into thyself" ([[04-03|4.3]]). The exercise is, in the midst of business and without going anywhere, to return to the few brief principles kept ready and to apply the right one to whatever is troubling now: vexation with people, with one's lot, with the body, the desire for fame. There are two chief principles: "things do not touch the soul, for they are external and remain immovable," and "all these things which thou seest change immediately and will no longer be." One should return like this often: "Constantly then give to thyself this retreat, and renew thyself." Marcus adds, however, that peace comes most easily to one who has order within.

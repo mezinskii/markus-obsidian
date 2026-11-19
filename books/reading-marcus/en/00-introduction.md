@@ -8,17 +8,17 @@ order: 0
 
 ### A Book Not Meant to Be Read
 
-When we open a book, we usually assume that the author has put some thought into it, and that our task is simply to take it out and carry it away. The *Meditations* of Marcus Aurelius do not yield to this approach, and not because the text is difficult. On the contrary, it is easy: the passages are short, the words are plain, and there is almost no ornament. That very ease is misleading. A reader who goes through the book from cover to cover comes away with a handful of elegant sayings and believes he has taken everything it had to give.
+When we open a book, we usually assume that the author has put some thought into it, and that our task is simply to find it and take it with us. The *Meditations* of Marcus Aurelius do not yield to this approach, and not because the text is difficult. On the contrary, it is easy: the passages are short, the words are plain, and there is almost no ornament. That very ease is misleading. A reader who goes through the book from cover to cover comes away with a handful of elegant sayings and believes he has taken everything it had to give.
 
 That is how I read it the first time. What I had before me was a scatter of notes, unconnected and repeating the same few things: everything flows, everything dies, do not be angry with people, do your work. I concluded that I was holding the fragments of some lost treatise, and I kept asking myself **what was wrong with this text**. The question I should have asked was a different one: **why did Marcus write this at all**.
 
-He seems to give the answer himself. In [[03-14|Book III]] he calls his notes τὰ ὑπομνημάτιά σου, "your little notes." The word comes from a verb meaning "to remind." George Long renders it as "thy own memoirs," and the Russian translator Rogovin made the same choice. But in ancient usage ὑπομνήματα (*hypomnemata*) were reminders, notes and drafts: writing a person does for his own use. A memoir is written for others; these notes were not. Marcus wrote for himself and had no thought of showing what he wrote, still less of publishing it. **The reader here is an outsider**, and whoever forgets this reads someone else's notes as though they were addressed to him.
+He seems to give the answer himself. In [[03-14|Book III]] he calls his notes τὰ ὑπομνημάτιά σου, "your little notes." The word comes from a verb meaning "to remind." George Long renders it as "thy own memoirs." But in ancient usage ὑπομνήματα (*hypomnemata*) were reminders, notes and drafts: writing a person does for his own use. A memoir is written for others; these notes were not. Marcus wrote for himself and had no thought of showing what he wrote, still less of publishing it. **The reader here is an outsider**, and whoever forgets this reads someone else's notes as though they were addressed to him.
 
 For Marcus the act of writing was itself an exercise. He wrote a thought down not to preserve it but so that it would act on his anger, his fear, his weariness and his vanity. Each passage is an effort to bring his own mind back to the state his philosophy required of it.
 
 ### Spiritual Exercises
 
-This activity has a name, and it was Pierre Hadot (1922–2010), the French historian of ancient philosophy, who gave it back to us. He showed that ancient philosophy was less a body of doctrine than a **way of life**, and that many of its texts were written not to convey a theory but to transform the one who wrote them. The practices by which a philosopher worked on himself Hadot called **spiritual exercises**[^1], and to Marcus he devoted a whole book, *The Inner Citadel*[^2].
+This activity has a name, and it was Pierre Hadot (1922–2010), the French historian of ancient philosophy, who restored it to use. He showed that ancient philosophy was less a body of doctrine than a **way of life**, and that many of its texts were written not to convey a theory but to transform the one who wrote them. The practices by which a philosopher worked on himself Hadot called **spiritual exercises**[^1], and to Marcus he devoted a whole book, *The Inner Citadel*[^2].
 
 What these exercises were can be seen from a list given by Philo of Alexandria, the Jewish philosopher of the first century: inquiry, reading, listening, attention, self-mastery, meditation, the therapy of the passions, the remembrance of good things, indifference to indifferent things[^3]. None of these is an occasion for theoretical debate. Theory serves here only as a support, something that allows a person to choose a way of life and to hold to it.
 
@@ -54,7 +54,7 @@ These principles must be brief enough to fit into a single breath, and they must
 
 ### Everything Rests on the Present Moment
 
-The foundation of a philosopher's whole life is the present moment in which we live. A doctrine kept at hand is useless if one fails to notice the moment when it must be applied. That is why the central thing in Stoic practice turns out to be **προσοχή**, attention: an unsleeping watchfulness over what is happening now, what I feel, what I judge, how I act.
+The foundation of a philosopher's whole life is the present moment in which we live. A doctrine kept at hand is useless if one fails to notice the moment when it must be applied. That is why the central thing in Stoic practice turns out to be **προσοχή**, attention: a constant watchfulness over what is happening now, what I feel, what I judge, how I act.
 
 The Stoic lives in the present for the simple reason that there is nowhere else to live. Marcus says so in [[02-14|Book II]]:
 
@@ -65,7 +65,7 @@ The Stoic lives in the present for the simple reason that there is nowhere else 
 Hence a few rules worth keeping in mind when reading the *Meditations*:
 
 - **Read slowly.** Not straight through like a novel, but one or two passages at a time. Find the doctrine in the passage and state it in your own words.
-- **Remember the genre.** The *Meditations* are neither a treatise nor a diary but *hypomnemata*, notes to oneself. What you have before you is not the outpouring of a soul or the author's pessimism, but exercises.
+- **Remember the genre.** The *Meditations* are neither a treatise nor a diary but *hypomnemata*, notes to oneself. What you have before you is not a confession or a record of pessimism, but exercises.
 - **Take what is yours.** Do not try to seize everything at once. Find two or three principles that answer to your own circumstances, write them down briefly, and return to them whenever you need them.
 
 This book is neither a retelling nor a biography of Marcus Aurelius; it is meant as a companion for reading the *Meditations*. It contains their whole text in the translation of George Long, in order, book by book. Each of the twelve books of the *Meditations* has a chapter, and all the chapters are built the same way. Each begins with "Line of the Book," which says what that book of the *Meditations* is about and which passages in it matter most. An introduction follows, listing the book's themes with passage numbers and pointing out a few places worth noticing. Then comes the text itself. Many passages are left without commentary; a detailed commentary on every one of them can be found at [readaurelius.org](https://readaurelius.org). About a hundred key passages are discussed in the book itself: what the Greek says, where the translation loses the sense, which other passages it connects with, and which doctrine is at work in it. Each chapter ends with "The Book in Brief": the key thought of that book and one practice that Marcus himself performs in it.

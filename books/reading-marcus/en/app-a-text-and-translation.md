@@ -8,7 +8,7 @@ order: 90
 
 ## The Translation
 
-The whole text of the *Meditations* is given in this book in the translation of George Long (1800–1879), first published in 1862 as *The Thoughts of the Emperor M. Aurelius Antoninus*. The choice is a simple one. Long's version is in the public domain, it has been reprinted more often than any other English translation, and it is the one most readers are likely to meet. It is also a faithful translation: Long was a classical scholar, and he follows the Greek closely, often more closely than smoother modern versions.
+The whole text of the *Meditations* is given in this book in the translation of George Long (1800–1879), first published in 1862 as *The Thoughts of the Emperor M. Aurelius Antoninus*. The choice is a simple one. Long's version is in the public domain, it is among the most often reprinted English translations, and it is the one most readers are likely to meet. It is also a faithful translation: Long was a classical scholar, and he follows the Greek closely, often more closely than smoother modern versions.
 
 His English, however, is the English of the 1860s. Marcus addresses himself as "thou," and Long keeps the archaic forms ("dost," "hast," "wouldst") throughout. They are left unchanged here. The reader soon grows used to them, and they have one advantage: they mark clearly where Marcus is speaking to himself.
 
@@ -16,7 +16,7 @@ Like every translator, Long sometimes departs from the Greek, and several such p
 
 ## The Greek Text
 
-The Greek text has been checked against the edition of J. H. Leopold (Oxford, 1908). The *Meditations* survive in very few late manuscripts, and in a number of places editors read the text differently; such variants are called readings. Long translated from the editions available to him, and in some places he follows a reading other than Leopold's. In [[10-13|10.13]] his "if another does what is just and right" reflects a different word from Leopold's "if what is just and right is blamed by another." In [[04-33|4.33]] his "Leonnatus" is the reading of the manuscripts, which modern editors correct to Dentatus. In [[09-29|9.29]] Long, with other editors, reads "no small matter," where Leopold prints "a small matter." Where such a difference affects the sense, it is noted in the commentary or in a note.
+The Greek text has been checked against the edition of J. H. Leopold (Oxford, 1908). The *Meditations* survive in very few late manuscripts, and in a number of places editors read the text differently; such variants are called readings. Long translated from the editions available to him, and in some places he follows a reading other than Leopold's. In [[10-13|10.13]] his "if another does what is just and right" reflects a different word from Leopold's "if what is just and right is blamed by another." In [[04-33|4.33]] his "Leonnatus" is the reading of the manuscripts, which modern editors correct to Dentatus. In [[09-29|9.29]] Long, like several editors, follows the reading "no small matter," where Leopold prints "a small matter." Where such a difference affects the sense, it is noted in the commentary or in a note.
 
 ## Numbering
 
@@ -30,4 +30,4 @@ Only errors introduced when the old text was transcribed have been corrected, an
 
 ## Notes
 
-The notes to the text are the editor's, not Long's. They explain names and realities, identify quotations that Marcus copies without naming the author, and mark differences of reading. In Book I, where almost every passage names a person, the notes say briefly who each one was. The notes stand at the end of each chapter; in the electronic edition they can also be opened directly from the text.
+The notes to the text are the editor's, not Long's. They explain names and historical allusions, identify quotations that Marcus copies without naming the author, and mark differences of reading. In Book I, where almost every passage names a person, the notes say briefly who each one was. The notes stand at the end of each chapter; in the electronic edition they can also be opened directly from the text.

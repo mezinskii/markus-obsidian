@@ -18,7 +18,7 @@ Nine key passages: everything can be had now (12.1) → three parts and the sphe
 
 Book XII is the last, and its formulas are very short: "everything is opinion" (12.8, 12.22). "Cast away opinion: thou art saved. Who then hinders thee from casting it away?" (12.25).
 
-Here too Marcus explains most precisely how doctrines are to be kept at hand. "In the application of thy principles thou must be like the pancratiast, not like the gladiator; for the gladiator lets fall the sword which he uses and is killed; but the other always has his hand, and needs to do nothing else than use it" (12.9). The pancratiast fought without weapons, with hands alone. The Greek verb for what happens to the gladiator, ἀναιρεῖται, can be read two ways: Long takes it as "is killed"; read otherwise, it means that the gladiator puts his sword down and takes it up again. Either way the point is the same: a doctrine one must reach for may not be found at the moment it is needed, while a doctrine that has become one's hand is always there. This is the "at hand," πρόχειρα, spoken of in the introduction and in the practice of Book XI.
+Here too Marcus Aurelius explains most precisely how doctrines are to be kept at hand. "In the application of thy principles thou must be like the pancratiast, not like the gladiator; for the gladiator lets fall the sword which he uses and is killed; but the other always has his hand, and needs to do nothing else than use it" (12.9). The pancratiast fought without weapons, with hands alone. The Greek verb for what happens to the gladiator, ἀναιρεῖται, can be read two ways: Long takes it as "is killed"; read otherwise, it means that the gladiator puts his sword down and takes it up again. Either way the point is the same: a doctrine one must reach for may not be found at the moment it is needed, while a doctrine that has become one's hand is always there. This is the "at hand," πρόχειρα, spoken of in the book's introduction and in the practice of Book XI.
 
 The passages fall into several themes.
 
@@ -38,7 +38,7 @@ Among the passages without commentary, 12.15 deserves notice: "Does the light of
 
 **Commentary.**
 
-The last book opens with a promise: "All those things at which thou wishest to arrive by a circuitous road, thou canst have now," and a condition: "if thou dost not refuse them to thyself." The Greek is sharper: ἐὰν μὴ σαυτῷ φθονῇς, "if thou dost not begrudge thyself," that is, if you do not grudge yourself your own good. Between a man and his good, then, stands the man himself.
+The last book opens with a promise: "All those things at which thou wishest to arrive by a circuitous road, thou canst have now," and a condition: "if thou dost not refuse them to thyself." The Greek is sharper: ἐὰν μὴ σαυτῷ φθονῇς, "if thou dost not begrudge thyself," that is, if you do not grudge yourself your own good. The only obstacle is the man himself.
 
 Then comes the formula of the three times: "take no notice of all the past, and trust the future to providence, and direct the present only conformably to piety and justice." The Greek ἀπευθύνῃς means "to straighten," as one straightens what is crooked, and Long's "direct" keeps something of this. Nothing can be done with the past, the future is not in your keeping, and only the present can be set straight.
 
@@ -62,11 +62,11 @@ The theme is familiar; it first appeared in [[02-02|2.2]]: "The things are three
 
 Marcus then lists what must be separated from the mind: what others do or say, what you yourself have done or said, the trouble about the future, whatever is attached to you "independent of thy will," and "the external circumfluent vortex." The most unexpected item is the second: one's own past must be separated too. The sentence grows long and loses its way, and he begins it again: "if thou wilt separate, I say..."
 
-The mind so separated will live free, "doing what is just and accepting what happens and saying the truth." Action, desire, judgment: again the three disciplines, this time in three phrases. Then comes the image from Empedocles: "All round, and in its joyous rest reposing." The soul as a sphere, the perfect form, we met already in [[11-12|11.12]].
+The mind so separated will live free, "doing what is just and accepting what happens and saying the truth." Action, desire, assent: again the three disciplines, this time in three phrases. Marcus then borrows an image from Empedocles: "All round, and in its joyous rest reposing." We have already met the soul as a sphere, the perfect form, in [[11-12|11.12]].
 
 The end of the passage: to pass the rest of life "free from perturbations, nobly, and obedient to thy own daemon." Here Long departs from the Greek. "Nobly" stands for εὐμενῶς, "kindly," and "obedient" for ἵλεως, "gracious, at peace with," a word from the language of prayer. With this same word the *Meditations* will end in [[12-36|12.36]], but in Long the echo is lost.
 
-**Doctrines.** The body and the breath are yours only in part, and the past and the doings of others are [[app-d-map-of-practice#^dichotomy-of-control|not in your power]]; only the third part is truly yours, because [[app-d-map-of-practice#^self-is-hegemonikon|the true self is the mind]]. The separated mind accepts what happens, and in this lies [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
+**Doctrines.** The body and the breath are yours only in part, and the past and the doings of others are [[app-d-map-of-practice#^dichotomy-of-control|not in your power]]; only the third part is truly yours, because [[app-d-map-of-practice#^self-is-hegemonikon|the true self is the ruling faculty]]. The separated mind accepts what happens, and in this lies [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
 
 ## 12.4
 
@@ -162,11 +162,11 @@ Then he turns to himself: "who is to himself the cause of his uneasiness," and "
 
 **Commentary.**
 
-The first half of the sentence is familiar: with it ends the list in [[12-08|12.8]]. But here the main thing is added: "and opinion is in thy power." Without this addition the words "everything is opinion" would be mere theory; with it the theory becomes a tool, because judgment is the only thing wholly in your power.
+The first half of the sentence is familiar: it closes the list in [[12-08|12.8]]. But here the main thing is added: "and opinion is in thy power." Without this addition the words "everything is opinion" would be mere theory; with it the theory becomes a tool, because judgment is the only thing wholly in your power.
 
 The verb is the same as in [[04-07|4.7]], and Long keeps it in both places: ἆρον, "take away." Not "refute," not "argue yourself out of it," but take away, as one takes off what has been laid on top. And "when thou choosest": there is nothing to wait for.
 
-Then comes the image: "like a mariner who has doubled the promontory." The Greek ἄκρα is precisely a promontory, a cape. The sailor goes along an open coast: swell, wind, the wave striking the side; then he rounds the cape and at once finds himself in calm water. What matters most is that the cape has not tamed the sea: the storm has not died down, the cape has only come between the sailor and the wave. So with opinion: the world remains hard and loud, but its waves no longer reach you through judgment.
+An image follows: "like a mariner who has doubled the promontory." The Greek ἄκρα is precisely a promontory, a cape. Along an open coast the sea is rough; once the cape is rounded, the sailor is at once in calm water. What matters most is that the cape has not tamed the sea: the storm has not died down, the cape has only come between the sailor and the wave. So with opinion: the world remains hard and loud, but its waves no longer reach you through judgment.
 
 There is a subtlety in the Greek that the translation does not convey. Long writes "thou wilt find calm," with the verb in the future, as a reward for effort. In Marcus there is no verb at this point at all: γαλήνη, σταθερὰ πάντα, κόλπος ἀκύμων, "calm, everything stable, a waveless bay." The calm, then, is not a reward that will come later but what sets in at once, as soon as the cape is rounded.
 
@@ -184,7 +184,7 @@ The formulation is careful. Marcus does not say that death is no evil at all; he
 
 Who sets the term? Nature: sometimes a man's own, as in old age, but always the universal nature, "by the change of whose parts the whole universe continues ever young and perfect." The death of the parts is what keeps the world young.
 
-Hence the conclusion: the end of life is no evil, because it is not shameful, "since it is both independent of the will and not opposed to the general interest." More than that, it is good, "since it is seasonable, and profitable to and congruent with the universal." The last sentence: "For thus too he is moved by the Deity who is moved in the same manner with the Deity." The Greek has one word, θεοφόρητος, "borne by a god," which was said of a prophet in ecstasy. Marcus keeps from this word not the ecstasy but the direction: borne by God is the one who moves where God moves.
+So the end of life is no evil, because it is not shameful, "since it is both independent of the will and not opposed to the general interest." More than that, it is good, "since it is seasonable, and profitable to and congruent with the universal." The last sentence: "For thus too he is moved by the Deity who is moved in the same manner with the Deity." The Greek has one word, θεοφόρητος, "borne by a god," which was said of a prophet in ecstasy. Marcus keeps from this word not the ecstasy but the direction: borne by God is the one who moves where God moves.
 
 **Doctrines.** Death in its season is useful to the whole, and to accept it is to come to [[app-d-map-of-practice#^amor-fati|acceptance of fate]]. [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole]], and the change of the parts keeps the world young.
 
@@ -220,7 +220,7 @@ The Greek speaks of blood kinship in deliberately diminutive words, αἱμάτ�
 
 The last item seems to remove the ground for distress altogether: one can lose only the present, and that is not much.
 
-**Doctrines.** The man who is troubled has forgotten that [[app-d-map-of-practice#^eternal-recurrence|everything comes round again]] and that [[app-d-map-of-practice#^oikeiosis|men are kin by reason]]: to be angry with a kinsman for his error is strange. And [[app-d-map-of-practice#^externals-on-loan|nothing is our own]]: even the child, the body and the soul are given for a time.
+**Doctrines.** The man who is troubled has forgotten that [[app-d-map-of-practice#^eternal-recurrence|everything comes round again]] and that [[app-d-map-of-practice#^oikeiosis|men are kin by reason]]: it makes little sense to be angry with a kinsman for his error. And [[app-d-map-of-practice#^externals-on-loan|nothing is our own]]: even the child, the body and the soul are given for a time.
 
 ## 12.27
 

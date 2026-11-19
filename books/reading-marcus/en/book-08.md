@@ -10,7 +10,7 @@ commented: 12
 
 ## Line of the Book
 
-**A Philosopher Despite His Station.** Book VIII opens with an admission: Marcus can no longer live the life of a philosopher, and his own station stands in the way (8.1). What remains is what no station can take away: sound judgment, the common work, and a mind that cannot be taken by storm.
+**A Philosopher Despite His Station.** Book VIII opens with an admission: Marcus Aurelius can no longer live the life of a philosopher, and his own station stands in the way (8.1). What remains is what no station can take away: sound judgment, the common work, and a mind that cannot be taken by storm.
 
 Twelve key passages: too late for a philosopher's fame (8.1) → conquerors and philosophers (8.3) → first calm, then the work (8.5) → the three conditions of the right way (8.7) → five questions to put to a thing (8.11) → a second morning (8.12) → turn the body inside out (8.21) → pain and the soul (8.28) → at the tomb of Verus (8.37) → three sources of grief (8.47) → add nothing (8.49) → another's will (8.56).
 
@@ -37,7 +37,7 @@ Among the passages without commentary, two deserve notice. In 8.50: "A cucumber 
 
 **Commentary.**
 
-The emperor admits that he can no longer win the reputation of a philosopher: "thy plan of life also opposes it." The Greek is ἡ ὑπόθεσις, his position: rank, duties, the court. With so much power in his hands, he might, it seems, have left his duties to others, withdrawn from affairs and given himself to a quiet life of contemplation. The Stoics taught otherwise. In the words of Zeno that Seneca reports (*On Leisure* 3.2), the wise man "will take part in public affairs unless something prevents him" (my translation), and a philosopher does not shirk the duties laid upon him.
+The emperor admits that he can no longer win the reputation of a philosopher: "thy plan of life also opposes it." The Greek is ἡ ὑπόθεσις, his position: rank, duties, the court. With so much power in his hands, he might, it seems, have left his duties to others, withdrawn from affairs and given himself to a quiet life of contemplation. The Stoics taught otherwise: Zeno held that the wise man will take part in public affairs unless something prevents him (Seneca, *On Leisure* 3.2), and a philosopher does not shirk the duties laid upon him.
 
 In antiquity a philosopher was not someone who wrote treatises but someone who had chosen the philosophical way of life. Marcus admits that it is plain to him and to others that he has not lived that way. He is probably too hard on himself: his contemporaries already saw in him a philosopher on the throne.
 
@@ -77,7 +77,7 @@ Why are the philosophers greater? "They were acquainted with things, and their c
 
 First calm, then the work: that is the order in which Marcus instructs himself. "This is the chief thing: Be not perturbed, for all things are according to the nature of the universal; and in a little time thou wilt be nobody and nowhere, like Hadrian and Augustus." Two arguments come at once: what happens is lawful, and the one who frets will not last long.
 
-The names are not chosen at random. Augustus was the first emperor; Hadrian adopted Antoninus and so was Marcus's grandfather by adoption. If even they are "nobody and nowhere," the reputation of a philosopher, discussed in [[08-01|8.1]], is all the less worth worrying about.
+The two names are well chosen. Augustus was the first emperor; Hadrian adopted Antoninus and so was Marcus's grandfather by adoption. If even they are "nobody and nowhere," the reputation of a philosopher, discussed in [[08-01|8.1]], is all the less worth worrying about.
 
 Then comes the work: "having fixed thy eyes steadily on thy business look at it." Remember "that it is thy duty to be a good man," and do what man's nature demands "without turning aside." The Greek ἀμεταστρεπτί means "without looking back," as one walks a road without turning around. At the end Marcus says how this is to be done: "only let it be with a good disposition and with modesty and without hypocrisy."
 
@@ -97,7 +97,7 @@ Pierre Hadot built his reading of the *Meditations* on this passage, and for und
 
 First, that "in its thoughts it assents to nothing false or uncertain": this is the discipline of assent. Second, that "it directs its movements to social acts only": the discipline of action. Third, that "it confines its desires and aversions to the things which are in its power, and... is satisfied with everything that is assigned to it by the common nature": the discipline of desire. Assent, action and desire are the three disciplines around which, according to Hadot, the *Meditations* are built.
 
-Then comes a comparison: each particular nature is part of the common nature, "as the nature of the leaf is a part of the nature of the plant." The leaf belongs to a nature "which has not perception or reason, and is subject to be impeded"; man belongs to a nature "which is not subject to impediments, and is intelligent and just." Anything can hinder a leaf; nothing hinders the nature of which man is a part, and so his reason too can be free of hindrance.
+A comparison follows: each particular nature is part of the common nature, "as the nature of the leaf is a part of the nature of the plant." The leaf belongs to a nature "which has not perception or reason, and is subject to be impeded"; man belongs to a nature "which is not subject to impediments, and is intelligent and just." Anything can hinder a leaf; nothing hinders the nature of which man is a part, and so his reason too can be free of hindrance.
 
 **Doctrines.** Desire and aversion are directed only to what depends on us, and for that one must [[app-d-map-of-practice#^dichotomy-of-control|distinguish what is in our power from what is not]]. The right way of a rational being is [[app-d-map-of-practice#^live-according-to-nature|life according to nature]]. And what the common nature sends is accepted without complaint: this is [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
 
@@ -135,11 +135,9 @@ The last question is: "And how long does it subsist?" The stripped view includes
 
 "When thou risest from sleep with reluctance, remember": so begins the second morning meditation in the *Meditations*, after [[05-01|5.1]]. Against the reluctance to rise Marcus sets two arguments: man's purpose is to "perform social acts," whereas sleeping "is common also to irrational animals." The choice between sleep and work is thus presented as a choice between the animal and the human in oneself.
 
-Marcus then answers the objection of laziness from [[05-01|5.1]]: "But this is more pleasant." What accords with each nature "is also more peculiarly its own, and more suitable to its nature, and indeed also more agreeable." Long's "more peculiarly its own" renders the Greek οἰκειότερον exactly. From the same root comes the Stoic οἰκείωσις, "appropriation," the doctrine that every living thing from birth reaches for what is its own. For man what is his own is the common good, while sleep he shares with the animals. Hence the answer to "more pleasant": for the Stoics pleasure is not the goal a living thing strives for but what follows when a nature obtains what is its own. Diogenes Laertius reports their teaching thus: "pleasure, if it is really felt, they declare to be a by-product" (VII.86, trans. Hicks); the Greek is ἐπιγέννημα. Whoever does his own work finds it pleasant.
+Marcus then answers the lazy objection already met in [[05-01|5.1]]: "But this is more pleasant." What accords with each nature "is also more peculiarly its own, and more suitable to its nature, and indeed also more agreeable." Long's "more peculiarly its own" renders the Greek οἰκειότερον exactly. From the same root comes the Stoic οἰκείωσις, "appropriation," the doctrine that every living thing from birth reaches for what is its own. For man what is his own is the common good, while sleep he shares with the animals. Hence the answer to "more pleasant": for the Stoics pleasure is not the goal a living thing strives for but what follows when a nature obtains what is its own. Diogenes Laertius reports their teaching thus: "pleasure, if it is really felt, they declare to be a by-product" (VII.86, trans. Hicks); the Greek is ἐπιγέννημα. Whoever does his own work finds it pleasant.
 
-A thought about measure belongs here too. Sleep is necessary, but even so natural a need has a measure, and in [[05-01|5.1]] Marcus says plainly that "nature has fixed bounds to this too: she has fixed bounds both to eating and drinking." Sleep must be proportioned to activity, and in this temperance shows itself.
-
-On the reluctance to rise Seneca speaks more simply: "we are better men if we anticipate the day and welcome the dawn," and "we are base churls if we lie dozing when the sun is high in the heavens" (Letters 122.1, trans. Gummere).
+Sleep is necessary, but even so natural a need has a measure, and in [[05-01|5.1]] Marcus says plainly that "nature has fixed bounds to this too: she has fixed bounds both to eating and drinking." Sleep must be proportioned to activity, and in this temperance shows itself.
 
 **Doctrines.** For man, to [[app-d-map-of-practice#^live-according-to-nature|live according to nature]] means to labor for the common work. And [[app-d-map-of-practice#^oikeiosis|men are born for one another]], so the common good is what is most truly a man's own.
 
@@ -221,7 +219,7 @@ Two cases are considered. If pain is an evil to the body, "then let the body say
 
 Why is this possible? Because "every judgement and movement and desire and aversion is within, and no evil ascends so high." Pain knocks from outside, but it does not of itself enter the place where we judge and decide; only our assent can let it in. This continues [[07-16|7.16]] and [[07-64|7.64]].
 
-**Doctrines.** Pain is not in our power, but [[app-d-map-of-practice#^dichotomy-of-control|our judgment about pain is]]. [[app-d-map-of-practice#^self-is-hegemonikon|The true self is the reason]], and pain does not reach it.
+**Doctrines.** Pain is not in our power, but [[app-d-map-of-practice#^dichotomy-of-control|our judgment about pain is]]. [[app-d-map-of-practice#^self-is-hegemonikon|The true self is the ruling faculty]], and pain does not reach it.
 
 ## 8.29
 
@@ -261,11 +259,11 @@ Why is this possible? Because "every judgement and movement and desire and avers
 
 **Commentary.**
 
-"Does Panthea or Pergamus now sit by the tomb of Verus? Does Chabrias or Diotimus sit by the tomb of Hadrian?" The Verus here is Lucius Verus, Marcus's adoptive brother and co-emperor, who died in 169; Panthea was his mistress, whose beauty Lucian praised. Marcus, of course, knew Verus's circle well.
+"Does Panthea or Pergamus now sit by the tomb of Verus? Does Chabrias or Diotimus sit by the tomb of Hadrian?" The Verus here is Lucius Verus, Marcus's adoptive brother and co-emperor, who died in 169; Panthea was his mistress, whose beauty Lucian praised. Marcus knew Verus's circle well.
 
-Then comes a ladder of questions. "That would be ridiculous." But suppose they did sit there: "would the dead be conscious of it? And if the dead were conscious, would they be pleased? And if they were pleased, would that make them immortal?" No: "Was it not in the order of destiny that these persons too should first become old women and old men and then die?" Posthumous devotion does not reach the one it honors and changes nothing in his fate or in the fate of the mourners.
+A ladder of questions follows. "That would be ridiculous." But suppose they did sit there: "would the dead be conscious of it? And if the dead were conscious, would they be pleased? And if they were pleased, would that make them immortal?" No: "Was it not in the order of destiny that these persons too should first become old women and old men and then die?" Posthumous devotion does not reach the one it honors and changes nothing in his fate or in the fate of the mourners.
 
-"All this is foul smell and blood in a bag." For "blood" the Greek has λύθρος, the same word as in [[03-03|3.3]]; in Homer it is the gore spattered on warriors in battle, so Long's "blood" softens it a little. This is the stripped view applied to the body of the honored and of those who honor him alike. And its harshness is turned on Marcus's own people: he himself buried his adoptive brother.
+"All this is foul smell and blood in a bag." For "blood" the Greek has λύθρος, the same word as in [[03-03|3.3]]; in Homer it is the gore spattered on warriors in battle, so Long's "blood" softens it a little. This is the stripped view applied to the body of the honored and of those who honor him alike. The harshness extends to Marcus's own circle: he had buried his adoptive brother himself.
 
 **Doctrines.** [[app-d-map-of-practice#^fame-is-empty|Fame is empty]], even the memory kept by those closest to us. And death, appointed for all, is accepted without clinging to the memory of oneself: this is [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
 
@@ -371,7 +369,7 @@ There is one qualification: "Or rather add something, like a man who knows every
 
 Marcus grants that "we are made especially for the sake of one another," but "the ruling power of each of us has its own office," and another's vice does not enter it.
 
-Otherwise, he says, "my neighbour's wickedness would be my harm, which God has not willed in order that my unhappiness may not depend on another." This is not indifference to people, of whom 8.59 says: "Teach them then or bear with them." It is a refusal to hand another the key to one's own happiness.
+Otherwise, he says, "my neighbour's wickedness would be my harm, which God has not willed in order that my unhappiness may not depend on another." This is not indifference to people, of whom 8.59 says: "Teach them then or bear with them." It is a refusal to let another's will decide one's own good.
 
 **Doctrines.** [[app-d-map-of-practice#^no-harm-to-virtuous|No harm can be done to the virtuous]]: another's vice is not my evil. Another's will is [[app-d-map-of-practice#^dichotomy-of-control|not in my power]]. And [[app-d-map-of-practice#^providence|the world is ordered by providence]] so that each person's happiness depends on himself.
 
@@ -399,4 +397,4 @@ Otherwise, he says, "my neighbour's wickedness would be my harm, which God has n
 
 **Key thought.** His station took from Marcus the life of a philosopher, but not his judgment. The key passages of Book VIII converge on one point: between an event and a feeling stands what the mind adds on its own, and that addition is in our power. What pains us is not the external thing but our judgment about it ([[08-47|8.47]]). It was reported that someone speaks ill of you; it was not reported that you have been injured ([[08-49|8.49]]). Pain does not enter the place where we judge and decide ([[08-28|8.28]]).
 
-**Practice: attending to the movements of the soul (παρακολούθησις).** Marcus gives the formula himself: "always abide by the first appearances, and add nothing thyself from within." The exercise is to notice the moment when a judgment is added to what was reported, and to name for oneself what was given and what was added. It is easiest to begin with small things, while little is at stake: a remark from someone else, a delay, a piece of bad news. Usually it turns out that what was added is longer than what was given, and that everything unpleasant lies in the addition.
+**Practice: attending to the movements of the soul (παρακολούθησις).** Marcus gives the formula himself: "always abide by the first appearances, and add nothing thyself from within." The exercise is to notice the moment when a judgment is added to what was reported, and to name for oneself what was given and what was added. It is easiest to begin with small things, while little is at stake: a remark from someone else, a delay, a piece of bad news. Often it turns out that what was added is longer than what was given.

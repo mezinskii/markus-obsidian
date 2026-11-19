@@ -28,7 +28,7 @@ The passages fall into several themes.
 - **What the good is:** 5.12, 5.14, 5.15, 5.37.
 - **Self-examination and returning to philosophy:** 5.5, 5.9, 5.11, 5.32.
 
-Two passages without commentary deserve notice. In 5.6 Marcus describes the man who does good and expects no thanks: "he is like a vine which has produced grapes, and seeks for nothing more after it has once produced its proper fruit." And in 5.28 he asks himself whether it is worth being angry with a man who smells: "Art thou angry with him whose armpits stink?" Here one sees that he can speak with humor of the people who irritate him.
+Two passages without commentary are worth marking. In 5.6 Marcus describes the man who does good and expects no thanks: "he is like a vine which has produced grapes, and seeks for nothing more after it has once produced its proper fruit." And in 5.28 he asks himself whether it is worth being angry with a man who smells: "Art thou angry with him whose armpits stink?" Here one sees that he can speak with humor of the people who irritate him.
 
 ## 5.1
 
@@ -40,7 +40,7 @@ In [[02-01|2.1]] Marcus prepared himself to meet "the busy-body, the ungrateful,
 
 Laziness objects, and he answers it. "But this is more pleasant." "But it is necessary to take rest also." Marcus does not pretend that such thoughts do not exist; he hears them out seriously.
 
-The first argument is that a man has his own work. "I am rising to the work of a human being," in Greek ἐπὶ ἀνθρώπου ἔργον. He tells himself to keep this sentence at hand (πρόχειρον ἔστω, which Long renders "let this thought be present"), so as not to argue with laziness empty-handed in the morning. Then comes the question: "Dost thou exist then to take thy pleasure, and not at all for action or exertion?" The Greek holds another question here: πρὸς πεῖσιν ἢ πρὸς ἐνέργειαν, were you made to have things happen to you, or to act? Long's "take thy pleasure" loses this contrast. An example follows: Marcus tells himself to look at "the little plants, the little birds, the ants, the spiders, the bees working together to put in order their several parts of the universe." Long keeps the Greek diminutives, φυτάρια, στρουθάρια. If the spider does not shirk its share, shall I?
+The first argument is that a man has his own work. "I am rising to the work of a human being," in Greek ἐπὶ ἀνθρώπου ἔργον. He tells himself to keep this sentence at hand (πρόχειρον ἔστω, which Long renders "let this thought be present"), so as not to argue with laziness empty-handed in the morning. A question follows: "Dost thou exist then to take thy pleasure, and not at all for action or exertion?" The Greek holds another question here: πρὸς πεῖσιν ἢ πρὸς ἐνέργειαν, were you made to have things happen to you, or to act? Long's "take thy pleasure" loses this contrast. An example follows: Marcus tells himself to look at "the little plants, the little birds, the ants, the spiders, the bees working together to put in order their several parts of the universe." Long keeps the Greek diminutives, φυτάρια, στρουθάρια. If the spider does not shirk its share, shall I?
 
 The second argument is subtler. Rest is needed, Marcus agrees, and nature has fixed a measure for it, as for eating and drinking. Yet in rest, he tells himself, "thou goest beyond these bounds, beyond what is sufficient," while in action "thou stoppest short of what thou canst do."
 
@@ -80,7 +80,7 @@ The reason, he says, is not weak will: "So thou lovest not thyself, for if thou 
 
 "Aesculapius prescribed to this man horse-exercise": Marcus reasons about fate by comparison with a physician. Aesculapius, the god of healing, "prescribes" to a patient riding, cold baths or going without shoes; it is unpleasant but good for health. In the same way the nature of the universe "prescribed to this man disease or mutilation or loss," with the one difference that this is prescribed not for health but as part of destiny.
 
-Then comes a play on words, and Long signals it himself: "That which happens to (or, suits) every man." The Greek συμβαίνειν means both "to happen" and "to fit together": builders say that "squared stones in walls or the pyramids" are "suitable," "when they fit them to one another in some kind of connexion." So events "fit" us, and each lies in its place in the common masonry. "And as the universe is made up out of all bodies to be such a body as it is, so out of all existing causes necessity (destiny) is made up to be such a cause as it is."
+A play on words follows, and Long signals it himself: "That which happens to (or, suits) every man." The Greek συμβαίνειν means both "to happen" and "to fit together": builders say that "squared stones in walls or the pyramids" are "suitable," "when they fit them to one another in some kind of connexion." So events "fit" us, and each lies in its place in the common masonry. "And as the universe is made up out of all bodies to be such a body as it is, so out of all existing causes necessity (destiny) is made up to be such a cause as it is."
 
 It follows that what happens should be received as one receives a physician's prescriptions. "Many as a matter of course even among his prescriptions are disagreeable, but we accept them in the hope of health." This, however, leads not to your health but "to the health of the universe."
 
@@ -134,7 +134,7 @@ He reminds himself that "philosophy requires only the things which thy nature re
 
 "Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts." The Greek is βάπτεται, "is dyed," like wool in dye, and Long keeps the image. We met it in [[03-04|3.4]], where the good man is "dyed deep with justice." Here we are told how this happens: the soul takes the color of what you think about most often. It follows that it must be dyed deliberately, by constantly repeating right thoughts: "Dye it then with a continuous series of such thoughts as these."
 
-Marcus at once gives two examples of such thoughts. The first: "where a man can live, there he can also live well. But he must live in a palace; well then, he can also live well in a palace." This is written by an emperor who lives at court and who learned from Fronto ([[01-11|1.11]]) "what envy, and duplicity, and hypocrisy are in a tyrant." The court, then, cannot serve as an excuse.
+Marcus at once gives two examples of such thoughts. The first: "where a man can live, there he can also live well. But he must live in a palace; well then, he can also live well in a palace." The writer is an emperor who lives at court and who learned from Fronto ([[01-11|1.11]]) "what envy, and duplicity, and hypocrisy are in a tyrant." The court, then, cannot serve as an excuse.
 
 The second example is a longer argument. Each thing is carried toward that for which it was made; in this is its end; "and where the end is, there also is the advantage and the good of each thing." "Now the good for the reasonable animal is society," in Greek κοινωνία. The inferior exist for the sake of the superior, "and the superior for one another."
 
@@ -176,7 +176,7 @@ And beside us lies "this boundless abyss of the past and of the future in which 
 
 Marcus puts the conclusion as a question: "How then is he not a fool who is puffed up with such things or plagued about them and makes himself miserable? for they vex him only for a time, and a short time." All three feelings, pride, agitation and complaint, assume that the thing will last long, and the stream removes them at once.
 
-**Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole and flow without ceasing]]. One who often thinks how everything rushes past has no reason to be proud of what passes or to complain of it: it remains to be [[app-d-map-of-practice#^amor-fati|accepted]].
+**Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole and flow without ceasing]]. One who often thinks how everything rushes past has no reason to be proud of what passes or to complain of it: all one can do is [[app-d-map-of-practice#^amor-fati|accept]] it.
 
 ## 5.24
 
@@ -200,7 +200,7 @@ Marcus puts the conclusion as a question: "How then is he not a fool who is puff
 
 To live with the gods, in Greek συζῆν θεοῖς, is to show them one's soul constantly in two states. First, the soul must be "satisfied with that which is assigned to him": to complain of one's lot is to reproach the gods with having ordered the world badly. Second, the soul "does all that the daemon wishes."
 
-The daemon, δαίμων, we know from Book III, but here Marcus speaks of it most clearly. Zeus has given it "to every man for his guardian and guide," and it is "a portion of himself," in Greek ἀπόσπασμα, literally "a piece broken off." And the main thing: "this is every man's understanding and reason." The inner god, then, is a man's own reason.
+We know the daemon (δαίμων) from Book III, but here Marcus speaks of it most clearly. Zeus has given it "to every man for his guardian and guide," and it is "a portion of himself," in Greek ἀπόσπασμα, literally "a piece broken off." Most important: "this is every man's understanding and reason." The inner god, then, is a man's own reason.
 
 Zeus for the Stoics is not a bearded Olympian with thunderbolts but the reason that governs the world. If every man has a portion of this reason, then to obey one's own reason is to live with God, and there is no need to go to Olympus or to a temple to find him.
 
@@ -216,7 +216,7 @@ Zeus for the Stoics is not a bearded Olympian with thunderbolts but the reason t
 
 **Commentary.**
 
-One can leave life as one leaves a room full of smoke: in this short passage on freedom sounds the Stoic image of the open door.
+One can leave life as one leaves a room full of smoke: this short passage on freedom uses the Stoic image of the open door.
 
 "As thou intendest to live when thou art gone out, so it is in thy power to live here." One can live truly, according to one's nature, now, putting nothing off.
 

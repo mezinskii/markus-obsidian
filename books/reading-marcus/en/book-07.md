@@ -16,7 +16,7 @@ Sixteen key passages: nothing new (7.1) → how principles revive (7.2) → a bo
 
 ## Introduction
 
-Book VII has more passages than any other: seventy-five. Here are formulas for the chief threats, death, pain and fame (7.32–7.34); commands of a single phrase (7.29); and a whole section of extracts from other writers, from Plato, Antisthenes, Euripides and others (most of 7.35–7.51). These seem to be the very "selections from books" that Marcus Aurelius, as he says in [[03-14|3.14]], "wast reserving for thy old age."
+Book VII has more passages than any other: seventy-five. Here are formulas for the chief threats, death, pain and fame (7.32–7.34); commands of a single phrase (7.29); and a whole section of extracts from other writers, from Plato, Antisthenes, Euripides and others (most of 7.35–7.51). These seem to be the very "selections from books" which, in [[03-14|3.14]], Marcus Aurelius tells himself he "wast reserving for thy old age."
 
 The passages fall into several themes.
 
@@ -40,7 +40,7 @@ Book VII opens with a question: "What is badness?" The answer removes the fright
 
 Marcus tells himself to keep this thought ready, in Greek πρόχειρον ἔχε, for everything that happens: "keep this in mind, that it is that which thou hast often seen." An expected blow loses its force.
 
-The same things fill "the old histories... those of the middle ages and those of our own day," and "cities and houses are filled" with them now. History invents no new events; it only changes the names. Hence the conclusion: "There is nothing new: all things are both familiar and short-lived." Since everything is familiar, there is nothing to wonder at; since everything is short-lived, there is nothing to fear and nothing to cling to.
+The same things fill "the old histories... those of the middle ages and those of our own day," and "cities and houses are filled" with them now. History invents no new events; it only changes the names. The conclusion: "There is nothing new: all things are both familiar and short-lived." Since everything is familiar, there is nothing to wonder at; since everything is short-lived, there is nothing to fear and nothing to cling to.
 
 **Doctrines.** [[app-d-map-of-practice#^eternal-recurrence|Everything comes round again]]: there is nothing new in the world.
 
@@ -64,11 +64,11 @@ The passage ends thus: "To recover thy life is in thy power. Look at things agai
 
 **Commentary.**
 
-Human occupations are set here in a row with the scuffling of puppies and mice: "a bone cast to little dogs, a bit of bread into fish-ponds, labourings of ants and burden-carrying, runnings about of frightened little mice, puppets pulled by strings." This is the view from above, from whose height a grand procession and a fight over a bone look the same. The ants appeared already in [[05-01|5.1]], but there they were an example of creatures doing their work; here their "labourings" mean pointless strain. One and the same image serves different thoughts.
+Human occupations are set here beside the scuffling of puppies and mice: "a bone cast to little dogs, a bit of bread into fish-ponds, labourings of ants and burden-carrying, runnings about of frightened little mice, puppets pulled by strings." This is the view from above, from whose height a grand procession and a fight over a bone look the same. The ants appeared already in [[05-01|5.1]], but there they were an example of creatures doing their work; here their "labourings" mean pointless strain. One and the same image serves different thoughts.
 
 "It is thy duty then in the midst of such things to show good humour and not a proud air." The Greek is μὴ καταφρυαττόμενον, "not snorting," as a horse snorts and tosses its head; Long's "proud air" gives the sense but loses the image. The view from above gives no right to look down on others.
 
-At the end comes a measure of a man's worth: "every man is worth just so much as the things are worth about which he busies himself." One who busies himself with show is worth no more than show; one who busies himself with virtue is worth virtue.
+At the end comes a measure of a man's worth: "every man is worth just so much as the things are worth about which he busies himself." One who busies himself with show is worth no more than show; one who busies himself with virtue is worth as much as virtue.
 
 **Doctrines.** [[app-d-map-of-practice#^virtue-is-sufficient|Virtue is sufficient for happiness]]: a man is worth exactly as much as what he busies himself with.
 
@@ -182,7 +182,7 @@ Marcus tells himself to apply this thought "with reference to every man and thin
 
 How is this to be achieved? Marcus gives four thoughts to keep ready: "that they are kinsmen, and that they do wrong through ignorance and unintentionally, and that soon both of you will die; and above all, that the wrong-doer has done thee no harm, for he has not made thy ruling faculty worse than it was before." The second thought is the simplest: no one chooses to err, and to be angry with one who errs is as strange as being angry with one who sees poorly.
 
-Harm in the strict sense is one: the corruption of one's own soul, and no one can work it from outside. Insult, loss, obstruction remain in the world of externals, and it is easy to love the one who stumbles when he has nothing to take from you. The same thoughts sounded in [[02-01|2.1]]; here they are pressed into one sentence.
+In the strict sense there is only one harm: the corruption of one's own soul, and no one can work it from outside. Insult, loss, obstruction remain in the world of externals, and it is easy to love the one who stumbles when he has nothing to take from you. The same thoughts appear in [[02-01|2.1]]; here they are pressed into one sentence.
 
 **Doctrines.** [[app-d-map-of-practice#^no-harm-to-virtuous|No harm can be done to the virtuous]]. And [[app-d-map-of-practice#^oikeiosis|men are kin to one another]], so it is natural to man to love those who do wrong.
 
@@ -198,9 +198,9 @@ Harm in the strict sense is one: the corruption of one's own soul, and no one ca
 
 "A scowling look is altogether unnatural." Marcus does not reason about the harm of anger but looks at the face. When such an expression is assumed often, "the result is that all comeliness dies away, and at last is so completely extinguished that it cannot be again lighted up at all." The face remembers the passion, and one day the mask no longer comes off. Seneca opens his treatise *On Anger* with a similar portrait of a face disfigured by rage.
 
-The words here are words of fire, as in [[07-02|7.2]]: comeliness is "extinguished," and it "cannot be again lighted up," which renders the Greek ἐξαφθῆναι exactly. Principles go out if they are not fanned; a human face goes out from the habit of anger.
+The words here are words of fire, as in [[07-02|7.2]]: comeliness is "extinguished," and it "cannot be again lighted up," which renders the Greek ἐξαφθῆναι exactly. Principles go out if they are not fanned; the habit of anger puts out the light of a face.
 
-"For if even the perception of doing wrong shall depart, what reason is there for living any longer?" As long as vice is felt as vice, a man is alive as a moral being. Worse than anger is only the state in which one does wrong without noticing it. This echoes [[03-01|3.1]], where reason failed before the body.
+"For if even the perception of doing wrong shall depart, what reason is there for living any longer?" As long as vice is felt as vice, a man is alive as a moral being. The only thing worse than anger is to do wrong without noticing it. This echoes [[03-01|3.1]], where reason failed before the body.
 
 **Doctrines.** Anger is contrary to nature, and this can be seen even in the face; it is proper to man to [[app-d-map-of-practice#^live-according-to-nature|live according to nature]].
 
@@ -246,7 +246,7 @@ This is the densest passage in the book and perhaps a summary of almost all of M
 
 **Commentary.**
 
-Passages 7.32–7.34 are three short notes in a row with headings: on death, on pain, on fame. This is what Marcus in [[07-01|7.1]] tells himself to keep at hand: a folded answer to each chief threat.
+Passages 7.32–7.34 are three short notes in succession, with headings: on death, on pain, on fame. This is what Marcus in [[07-01|7.1]] tells himself to keep at hand: a ready answer to each chief threat.
 
 The answer about death is again built as the dilemma "providence or atoms" of [[06-10|6.10]]. The Greek is precise: if the world is atoms, death is dispersion; if the world is a unity, death is "either extinction or change," ἤτοι σβέσις ἢ μετάστασις, either dissolution into the whole or passage into another state. Long blurs this structure by listing "a dispersion, or a resolution into atoms, or annihilation" side by side, but he keeps the conclusion exactly. There are no other outcomes, and none of them is terrible: dispersion and extinction leave no one to whom it could be bad, and change does not destroy. Whatever picture of the world one takes, there is nothing to fear.
 
@@ -266,7 +266,7 @@ The answer about death is again built as the dilemma "providence or atoms" of [[
 
 **Commentary.**
 
-With this passage begins a special part of Book VII, the extracts from other writers: Plato, Antisthenes, Euripides and others follow one after another almost to 7.51.
+This passage begins a distinct part of Book VII, the extracts from other writers: Plato, Antisthenes, Euripides and others follow one after another almost to 7.51.
 
 The first extract comes from Plato's *Republic* (486a), and in it Marcus finds the ground of his own exercise. "Takes a view of all time and of all substance" is in Greek θεωρία παντὸς μὲν χρόνου, πάσης δὲ οὐσίας, "the contemplation of all time and all substance," an exact definition of the view from above. The conclusion: to one for whom life does not seem great, death will not seem an evil either. The fear of death, then, grows with the overvaluing of life, and it is cured by scale.
 
@@ -324,7 +324,7 @@ The first extract comes from Plato's *Republic* (486a), and in it Marcus finds t
 
 One sentence holds two exercises. The first: "Look round at the courses of the stars, as if thou wert going along with them." The Greek συμπεριθέοντα means "running round with them": not looking at the stars from below, but circling with them in thought at a height where earthly affairs shrink. The second: "constantly consider the changes of the elements into one another," earth becoming water, water air, air fire, and back again.
 
-What is this for? Such thoughts "purge away the filth of the terrene life"; the Greek is τὸν ῥύπον τοῦ χαμαὶ βίου, "the filth of life down on the ground." What works here is not argument but a change of the picture before one's eyes: in place of the bustle of the marketplace one sets before oneself the circling of the stars and the cycle of the elements, and pettiness leaves of itself.
+What is this for? Such thoughts "purge away the filth of the terrene life"; the Greek is τὸν ῥύπον τοῦ χαμαὶ βίου, "the filth of life down on the ground." What acts here is not argument but a change of the picture before one's eyes: in place of the bustle of the marketplace one sets before oneself the circling of the stars and the cycle of the elements, and pettiness leaves of itself.
 
 **Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole]] and pass continually into one another.
 
@@ -398,9 +398,9 @@ What, then, must a man do? "That which is according to its constitution," and Ma
 
 **Commentary.**
 
-"Look within," Long writes, but the Greek is Ἔνδον σκάπτε, "dig within": not "look into yourself" or "listen to yourself," but dig, as a laborer digs. At the end of the passage Long too has the verb: "if thou wilt ever dig." The verb is chosen with care: this is labor, not contemplation.
+"Look within," Long writes, but the Greek is Ἔνδον σκάπτε, "dig within": not "look into yourself" or "listen to yourself," but dig, as a laborer digs. At the end of the passage Long too has the verb: "if thou wilt ever dig."
 
-The image changes the usual view. We usually look for where to get the good: impressions, recognition, things. The image suggests that one should not bring in the new but clear away. The fountain, πηγή, is already within. A man without external goods is not empty but buried: under the silt of others' opinions, valuations, fears and habits lies a pure spring, but one must dig down to it.
+The image changes the usual view. We seek the good outside: impressions, recognition, things. The image suggests that one should not bring in the new but clear away. The fountain, πηγή, is already within. A man without external goods is not empty but buried: under the silt of others' opinions, valuations, fears and habits lies a pure spring, but one must dig down to it.
 
 The condition is named too: the spring "will ever bubble up, if thou wilt ever dig." Long keeps the double ἀεί of the Greek, "ever... ever." The spring lives as long as it is kept open. It is the same thought as in [[07-02|7.2]]: principles go out if they are not fanned.
 
@@ -432,7 +432,7 @@ In [[04-03|4.3]] there was a retreat within, to which one can withdraw; here wit
 
 Against pain Marcus has prepared an answer in three steps (compare [[07-33|7.33]]). The first: in every pain "let this thought be present, that there is no dishonour in it, nor does it make the governing intelligence worse." Pain damages neither the rationality in a man nor his capacity to live with others, so there is no real harm.
 
-The second: "let this remark of Epicurus aid thee." Apart from this place, Epicurus is named only in [[09-41|9.41]]. The Epicureans were the Stoics' chief rivals, but Marcus takes the best from them without embarrassment: "pain is neither intolerable nor everlasting, if thou bearest in mind that it has its limits, and if thou addest nothing to it in imagination." "Addest... in imagination" renders προσδοξάζειν, "to opine in addition to what is there." Pain itself is limited; what makes it unbearable is what we add to it.
+The second: "let this remark of Epicurus aid thee." Elsewhere Epicurus is named only in [[09-41|9.41]]. The Epicureans were the Stoics' chief rivals, but Marcus takes the best from them without embarrassment: "pain is neither intolerable nor everlasting, if thou bearest in mind that it has its limits, and if thou addest nothing to it in imagination." "Addest... in imagination" renders προσδοξάζειν, "to opine in addition to what is there." Pain itself is limited; what makes it unbearable is what we add to it.
 
 The third step widens the very notion of pain. Many disagreeable things "are the same as pain" though we do not notice it, "such as excessive drowsiness, and the being scorched by heat, and the having no appetite." Long renders ἀνορεκτεῖν exactly. Irritated by stuffiness or lack of sleep, we give way to the same enemy without calling it by name, and then one should say to oneself "that thou art yielding to pain."
 

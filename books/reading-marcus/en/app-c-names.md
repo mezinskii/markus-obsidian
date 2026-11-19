@@ -6,9 +6,9 @@ lang: en
 order: 92
 ---
 
-The first book of the *Meditations* consists almost entirely of names. Grandfather, father, mother, great-grandfather, teachers, adoptive father: to each Marcus Aurelius is grateful for something specific, and these short passages show of whom he assembled himself. Later, names appear less often and serve another purpose. Hadrian and Augustus are reminders that even the greatest power is soon forgotten; Alexander of Macedon is made equal in death with his muleteer. Heraclitus, Socrates, Plato, Chrysippus and Epictetus come as interlocutors whose words Marcus copies out for himself.
+The first book of the *Meditations* consists almost entirely of names. Grandfather, father, mother, great-grandfather, teachers, adoptive father: to each Marcus Aurelius is grateful for something specific, and these short passages show the people from whom he formed himself. Later, names appear less often and serve another purpose. Hadrian and Augustus are reminders that even the greatest power is soon forgotten; Alexander the Great is made equal in death with his muleteer. Heraclitus, Socrates, Plato, Chrysippus and Epictetus come as interlocutors whose words Marcus copies out for himself.
 
-Below are the people about whom Marcus says more than a name in a list. Minor names from lists (Celer, Panthea, Charax and others) are not included. On Thrasea, Helvidius, Cato, Dion and Brutus, see the commentary on [[01-14|1.14]]. Places are given by the passages where a person is named or clearly meant; where there are many, the chief ones are given. Each person stands under the name by which he or she is known in the book, and the full name is given at the start of the entry. Three people are called Verus in the *Meditations*: Marcus's grandfather ([[01-01|1.1]]), his father ([[08-25|8.25]]) and his adoptive brother Lucius Verus ([[01-17|1.17]], [[08-37|8.37]]); each has his own entry. At the end of the index are gathered those whom Marcus never names but who belonged to his circle: without them some places in the book are not fully understood.
+Below are the people about whom Marcus says more than a name in a list. Minor names from lists (Celer, Panthea, Charax and others) are not included. On Thrasea, Helvidius, Cato, Dion and Brutus, see the commentary on [[01-14|1.14]]. Places are given by the passages where a person is named or clearly meant; where there are many, the chief ones are given. Each person is listed under the name by which he or she is known in the book, and the full name is given at the start of the entry. Three people are called Verus in the *Meditations*: Marcus's grandfather ([[01-01|1.1]]), his father ([[08-25|8.25]]) and his adoptive brother Lucius Verus ([[01-17|1.17]], [[08-37|8.37]]); each has his own entry. At the end of the index are gathered those whom Marcus never names but who belonged to his circle: without them some places in the book are not fully understood.
 
 ## Family and the Imperial House
 
@@ -22,11 +22,11 @@ Below are the people about whom Marcus says more than a name in a list. Minor na
 
 ### Domitia Lucilla
 
-c. 100 – between 155 and 161. Marcus's mother, heiress to a great fortune, a patron of Greek philosophers and rhetoricians. In 1.3 Marcus thanks her for piety, generosity and a simple way of life. In 1.7 a letter is mentioned that Rusticus wrote to her from Sinuessa, and in 8.25 she is apparently the Lucilla who "saw Verus die," that is, her husband, Marcus's father. In 1.17 Marcus writes that it was "my mother's fate to die young," though by these dates she was over fifty; how to reconcile this is unclear: perhaps the dates are inexact. Mentioned: [[01-03|1.3]], [[01-07|1.7]], [[01-17|1.17]], [[08-25|8.25]], [[09-21|9.21]].
+c. 100 – between 155 and 161. Marcus's mother, heiress to a great fortune, a patron of Greek philosophers and rhetoricians. In 1.3 Marcus thanks her for piety, generosity and a simple way of life. 1.7 mentions a letter that Rusticus wrote to her from Sinuessa, and in 8.25 she is apparently the Lucilla who "saw Verus die," that is, her husband, Marcus's father. In 1.17 Marcus writes that it was "my mother's fate to die young," though by these dates she was over fifty; how to reconcile this is unclear: perhaps the dates are inexact. Mentioned: [[01-03|1.3]], [[01-07|1.7]], [[01-17|1.17]], [[08-25|8.25]], [[09-21|9.21]].
 
 ### Catilius Severus
 
-Lucius Catilius Severus, c. 60/70 – c. 138/139. Senator, consul in 110 and 120, prefect of Rome under Hadrian; in 138 he lost the prefecture: according to the *Historia Augusta*, he had hoped to become Hadrian's heir himself. He was Marcus's step-great-grandfather on his mother's side: the husband of Dasumia Polla, widow of Cn. Domitius Tullus, who had adopted Marcus's grandmother. They were not related by blood, but as a child Marcus also bore his name: Marcus Annius Catilius Severus. In 1.4 Marcus thanks his great-grandfather for having been taught not in the public schools but at home, by good teachers. Mentioned: [[01-04|1.4]].
+Lucius Catilius Severus, c. 60/70 – c. 138/139. Senator, consul in 110 and 120, prefect of Rome under Hadrian; in 138 he lost the prefecture: according to the *Historia Augusta*, he had hoped to become Hadrian's heir himself. He was Marcus's step-great-grandfather on his mother's side: the husband of Dasumia Polla, widow of Cn. Domitius Tullus, who had adopted Marcus's grandmother. They were not related by blood, but as a child Marcus also bore his name: Marcus Annius Catilius Severus. In 1.4 Marcus thanks his great-grandfather that he was taught at home by good teachers, not in the public schools. Mentioned: [[01-04|1.4]].
 
 ### Lucius Verus
 
@@ -42,7 +42,7 @@ c. 90 – c. 124. Marcus's father, senator and praetor; he died young, when his 
 
 ### Faustina the Younger
 
-c. 130 – 175/176. Daughter of Antoninus Pius and Faustina the Elder, Marcus's cousin and from 145 his wife; mother of all his children, of whom there were more than ten, among them Commodus and Lucilla. She accompanied Marcus on campaign and received the title "Mother of the Camps." In 1.17 Marcus thanks the gods for such a wife. He writes nothing more about her, and these words are warm. Later stories of her profligacy are open to doubt. Mentioned: [[01-17|1.17]].
+c. 130 – 175/176. Daughter of Antoninus Pius and Faustina the Elder, Marcus's cousin and from 145 his wife; mother of all his children, of whom there were more than ten, among them Commodus and Lucilla. She accompanied Marcus on campaign and received the title "Mother of the Camps." In 1.17 Marcus thanks the gods for such a wife. He says nothing more of her, but what he says is warm. Later stories of her profligacy are open to doubt. Mentioned: [[01-17|1.17]].
 
 ### Faustina the Elder
 
@@ -60,7 +60,7 @@ Second century. The only teacher of Book I whom Marcus explicitly calls a Platon
 
 ### Apollonius of Chalcedon
 
-First half of the second century. A Stoic summoned to Rome by Antoninus Pius to teach the heir. In 1.8 he is for Marcus a living example: resolution together with gentleness, constancy of reason in pain, the loss of a child and illness. In 1.17 Marcus thanks the gods that he knew him, Rusticus and Maximus. Mentioned: [[01-08|1.8]], [[01-17|1.17]].
+First half of the second century. A Stoic summoned to Rome by Antoninus Pius to teach the heir. In 1.8 Marcus presents him as a living example: resolution together with gentleness, constancy of reason in pain, the loss of a child and illness. In 1.17 Marcus thanks the gods that he knew him, Rusticus and Maximus. Mentioned: [[01-08|1.8]], [[01-17|1.17]].
 
 ### Bacchius
 
@@ -76,7 +76,7 @@ Second century; suffect consul around 142 or 144. A Stoic and senator, later pro
 
 ### Claudius Severus
 
-Gnaeus Claudius Severus Arabianus, born c. 113; apparently still alive in 176. A senator from Pompeiopolis, a Peripatetic philosopher, consul in 146; the only Peripatetic among the teachers of Book I. His son, also Gnaeus Claudius Severus, married a daughter of Marcus, so the teacher became Marcus's relative by marriage. He is usually taken to be the Severus whom Marcus in 1.14 calls "my brother" and thanks for introducing him to Thrasea, Helvidius, Cato, Dion and Brutus; why "brother" is unclear: perhaps because of this tie or simply from closeness; in the seventeenth century Gataker proposed reading "friend." Mentioned: [[01-14|1.14]].
+Gnaeus Claudius Severus Arabianus, born c. 113; apparently still alive in 176. A senator from Pompeiopolis, a Peripatetic philosopher, consul in 146; the only Peripatetic among the teachers of Book I. His son, also Gnaeus Claudius Severus, married a daughter of Marcus, so the teacher became Marcus's relative by marriage. He is usually taken to be the Severus whom Marcus in 1.14 calls "my brother" and thanks for introducing him to Thrasea, Helvidius, Cato, Dion and Brutus; why Marcus calls him "brother" is unclear, perhaps because of this tie or simply from closeness. In the seventeenth century Gataker proposed reading "friend." Mentioned: [[01-14|1.14]].
 
 ### Marcianus
 
@@ -106,7 +106,7 @@ Second century; he probably taught Marcus in the late 130s and the 140s. A Stoic
 
 ### Heraclitus
 
-c. 540 – c. 480 BCE. The Ionian natural philosopher called "the Obscure," one of the chief Presocratic sources of Stoic physics. In 4.46 Marcus copies out several of his sayings, and in 6.42 recalls his words about sleepers, who also co-operate in what happens in the world. In 3.3 he notes that the teacher of the world conflagration died of dropsy, and in 8.3 he sets him beside Diogenes and Socrates against the conquerors. Mentioned: [[03-03|3.3]], [[04-46|4.46]], [[06-42|6.42]], [[06-47|6.47]], [[08-03|8.3]].
+c. 540 – c. 480 BCE. The Ionian natural philosopher called "the Obscure," one of the chief Presocratic sources of Stoic physics. In 4.46 Marcus copies out several of his sayings, and in 6.42 recalls his words about sleepers, who also co-operate in what happens in the world. In 3.3 he notes that the man who taught the world conflagration died of dropsy, and in 8.3 he sets him beside Diogenes and Socrates against the conquerors. Mentioned: [[03-03|3.3]], [[04-46|4.46]], [[06-42|6.42]], [[06-47|6.47]], [[08-03|8.3]].
 
 ### Democritus
 
@@ -118,7 +118,7 @@ c. 412/404 – 323 BCE. The founder of Cynicism as a way of life, nicknamed "the
 
 ### Monimus
 
-Second half of the fourth century BCE. A Cynic, pupil of Diogenes and Crates. In 2.15 Marcus cites him in support of his own thought: "all is opinion." And he adds at once that one should take from the Cynic's words only what is true in them, that is, not take them literally. Mentioned: [[02-15|2.15]].
+Second half of the fourth century BCE. A Cynic, pupil of Diogenes and Crates. In 2.15 Marcus cites him in support of his own thought: "all is opinion." And he adds at once that one should take from the Cynic's words only what is true in them, that is, perhaps, not take them literally. Mentioned: [[02-15|2.15]].
 
 ### Plato
 
@@ -150,7 +150,7 @@ c. 50 – c. 135. A Stoic, pupil of Musonius Rufus; he wrote nothing himself, an
 
 63 BCE – 14 CE. The first Roman emperor. For Marcus he is the utmost measure of power and fame, which time nonetheless swallows; he is usually named together with Hadrian. In 8.31 Marcus lists the wife, daughter, friends and counselors of Augustus and concludes: "the whole court is dead." Mentioned: [[04-33|4.33]], [[08-05|8.5]], [[08-31|8.31]].
 
-### Alexander of Macedon
+### Alexander the Great
 
 356–323 BCE. King of Macedon, pupil of Aristotle, conqueror of the Persian empire. For Marcus he is the model of the futility of power: in 6.24 death makes him equal with his muleteer, and in 8.3 he, with Gaius Caesar and Pompey, gives place to Diogenes, Heraclitus and Socrates. Mentioned: [[03-03|3.3]], [[06-24|6.24]], [[08-03|8.3]], [[09-29|9.29]], [[10-27|10.27]].
 
