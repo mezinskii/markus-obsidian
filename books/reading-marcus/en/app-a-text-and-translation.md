@@ -26,7 +26,7 @@ The passages are numbered by the standard system: the number of the book and the
 
 Long's text has not been rewritten. Where his translation departs from the sense of the Greek, this is discussed in a commentary or a note, not silently corrected: the reader sees the translator's words and knows where they cannot be trusted.
 
-Only errors introduced when the old text was transcribed have been corrected, and only where the Project Gutenberg edition of Long (#15877) confirms the correction: in [[05-09|5.9]], for example, "bast" has been restored to "hast," and in [[05-08|5.8]] "precribed" to "prescribed." Long's dashes, which older transcriptions render in different ways, are given throughout as dashes. Long's square brackets, his own forms of proper names and his spelling ("honour," "neighbour") are kept as he wrote them.
+Only errors introduced when the old text was transcribed have been corrected, and only where the Project Gutenberg edition of Long confirms the correction: in [[05-09|5.9]], for example, "bast" has been restored to "hast," and in [[05-08|5.8]] "precribed" to "prescribed." Long's dashes, which older transcriptions render in different ways, are given throughout as dashes. Long's square brackets, his own forms of proper names and his spelling ("honour," "neighbour") are kept as he wrote them.
 
 ## Notes
 
