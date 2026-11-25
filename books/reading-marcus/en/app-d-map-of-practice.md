@@ -11,7 +11,7 @@ This appendix is meant not as a manual of practice but as a guide to the *Medita
 ## Doctrines
 
 ### To distinguish what is in our power from what is not ^dichotomy-of-control
-Some things depend on us: our judgments, impulses and desires. Others do not: the body, property, the opinion of others, the future, death itself. Good and evil lie only in the first, and so the second is no cause for distress.
+Some things are up to us: our judgments, impulses and desires. Others are not: the body, property, the opinion of others, the future, death itself. Good and evil lie only in the first, and so the second is no cause for distress.
 
 ### The true self is the ruling faculty ^self-is-hegemonikon
 Of all that makes up a man, the self proper is only his reason, the ruling faculty. The body and the breath are given for a time and will return to nature, and everything else lies outside our power.
@@ -40,7 +40,7 @@ The world is governed by a reason that arranges everything for the good of the w
 ### Acceptance of fate ^amor-fati
 Everything that happens is a link in one chain of causes, that is, in the same rational order. So what happens is to be accepted and even loved, not met with the demand that the whole be arranged otherwise. This holds for death too: it is also one of the works of nature and comes in its season.
 
-### Everything comes round again ^eternal-recurrence
+### Everything comes around again ^eternal-recurrence
 Everything flows and changes, but in a circle: things dissolve and return into the reason of the whole, and the world passes through the same cycles. So there is nothing new in human affairs: the same scenes were played before and will be played again. Whoever has seen the present has seen everything.
 
 ### The world is a single city ^cosmopolis

@@ -30,4 +30,4 @@ Only errors introduced when the old text was transcribed have been corrected, an
 
 ## Notes
 
-The notes to the text are the editor's, not Long's. They explain names and historical allusions, identify quotations that Marcus copies without naming the author, and mark differences of reading. In Book I, where almost every passage names a person, the notes say briefly who each one was. The notes stand at the end of each chapter; in the electronic edition they can also be opened directly from the text.
+The notes to the text are mine, not Long's. They explain names and historical allusions, identify quotations that Marcus copies without naming the author, and mark differences of reading. In Book I, where almost every passage names a person, the notes say briefly who each one was. The notes stand at the end of each chapter; in the electronic edition they can also be opened directly from the text.

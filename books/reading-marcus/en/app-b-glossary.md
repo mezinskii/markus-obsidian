@@ -14,7 +14,7 @@ The English equivalents given here are approximate: one Greek word often has to 
 
 *agathon*: the good.
 
-For the Stoics there is only one good: virtue and what shares in it; health, wealth and fame are not among goods. The good is inseparable from the beautiful (καλόν), and evil from the shameful. As early as [[02-01|2.1]] the knowledge of what good and evil are frees Marcus from anger at people: none of them can make him bad. Key passages: [[02-01|2.1]], [[03-06|3.6]], [[04-17|4.17]], [[05-16|5.16]], [[06-30|6.30]], [[07-59|7.59]], [[08-01|8.1]], [[08-05|8.5]] and elsewhere.
+For the Stoics there is only one good: virtue and what shares in it; health, wealth and fame are not goods. The good is inseparable from the beautiful (καλόν), and evil from the shameful. As early as [[02-01|2.1]] the knowledge of what good and evil are frees Marcus from anger at people: none of them can make him bad. Key passages: [[02-01|2.1]], [[03-06|3.6]], [[04-17|4.17]], [[05-16|5.16]], [[06-30|6.30]], [[07-59|7.59]], [[08-01|8.1]], [[08-05|8.5]] and elsewhere.
 
 ### ἄγνοια
 

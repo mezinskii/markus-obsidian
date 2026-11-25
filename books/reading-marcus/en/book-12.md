@@ -8,9 +8,9 @@ passages: 36
 commented: 9
 ---
 
-## Line of the Book
+## The Thread of the Book
 
-**Bringing Everything Down to a Few Things.** Almost everything said before returns here in its most compressed form. And the book ends with a farewell addressed, it seems, no longer to himself but to man in general (12.36).
+**Bringing Everything Down to a Few Things.** Almost everything said before returns here in its most compressed form. And the book ends with a farewell that Marcus Aurelius addresses, it seems, no longer to himself but to man in general (12.36).
 
 Nine key passages: everything can be had now (12.1) → three parts and the sphere of Empedocles (12.3) → in what condition death should find you (12.7) → questions to put to things (12.8) → doubling the promontory (12.22) → life as a sum of acts (12.23) → three principles in readiness (12.24) → what you have forgotten (12.26) → depart in peace (12.36).
 
@@ -18,7 +18,7 @@ Nine key passages: everything can be had now (12.1) → three parts and the sphe
 
 Book XII is the last, and its formulas are very short: "everything is opinion" (12.8, 12.22). "Cast away opinion: thou art saved. Who then hinders thee from casting it away?" (12.25).
 
-Here too Marcus Aurelius explains most precisely how doctrines are to be kept at hand. "In the application of thy principles thou must be like the pancratiast, not like the gladiator; for the gladiator lets fall the sword which he uses and is killed; but the other always has his hand, and needs to do nothing else than use it" (12.9). The pancratiast fought without weapons, with hands alone. The Greek verb for what happens to the gladiator, ἀναιρεῖται, can be read two ways: Long takes it as "is killed"; read otherwise, it means that the gladiator puts his sword down and takes it up again. Either way the point is the same: a doctrine one must reach for may not be found at the moment it is needed, while a doctrine that has become one's hand is always there. This is the "at hand," πρόχειρα, spoken of in the book's introduction and in the practice of Book XI.
+Here too Marcus Aurelius explains, more precisely than anywhere else, how doctrines are to be kept at hand. "In the application of thy principles thou must be like the pancratiast, not like the gladiator; for the gladiator lets fall the sword which he uses and is killed; but the other always has his hand, and needs to do nothing else than use it" (12.9). The pancratiast fought without weapons, with hands alone. The Greek verb for what happens to the gladiator, ἀναιρεῖται, can be read two ways: Long takes it as "is killed"; read otherwise, it means that the gladiator puts his sword down and takes it up again. Either way the point is the same: a doctrine one must reach for may not be found at the moment it is needed, while a doctrine that has become one's hand is always there. This is the "at hand," πρόχειρα, spoken of in the book's introduction and in the practice of Book XI.
 
 The passages fall into several themes.
 
@@ -42,7 +42,7 @@ The last book opens with a promise: "All those things at which thou wishest to a
 
 Then comes the formula of the three times: "take no notice of all the past, and trust the future to providence, and direct the present only conformably to piety and justice." The Greek ἀπευθύνῃς means "to straighten," as one straightens what is crooked, and Long's "direct" keeps something of this. Nothing can be done with the past, the future is not in your keeping, and only the present can be set straight.
 
-Piety is needed "that thou mayest be content with the lot which is assigned to thee, for nature designed it for thee and thee for it"; justice, "that thou mayest always speak the truth freely and without disguise, and do the things which are agreeable to law and according to the worth of each." In other words: accept what does not depend on you, and act rightly in what does. As for the sensations of the body, let them stay with the body: "the passive part will look to this."
+Piety is needed "that thou mayest be content with the lot which is assigned to thee, for nature designed it for thee and thee for it"; justice, "that thou mayest always speak the truth freely and without disguise, and do the things which are agreeable to law and according to the worth of each." In other words: accept what is not up to you, and act rightly in what is. As for the sensations of the body, let them stay with the body: "the passive part will look to this."
 
 The passage ends thus: fear "not because thou must some time cease to live," but "never to have begun to live according to nature." Then you will "cease to be a stranger in thy native land," that is, in the world, and cease to wonder at each day as at something unexpected.
 
@@ -86,7 +86,7 @@ The end of the passage: to pass the rest of life "free from perturbations, nobly
 
 **Commentary.**
 
-In the Greek there is not even a verb "consider" here; Long adds it twice. Four objects stand in a row, and this is not an argument but a list to which one returns. And the first item is not "when you will die" but in what condition death should find you: it is the only thing here that depends on you.
+In the Greek there is not even a verb "consider" here; Long adds it twice. Four objects stand in a row, and this is not an argument but a list to which one returns. And the first item is not "when you will die" but in what condition death should find you: it is the only thing here that is up to you.
 
 "The boundless abyss of time" is in Greek ἀχάνεια, from a verb meaning "to gape," "to open the mouth wide": time opens like jaws in both directions, "past and future." The order of the four objects runs from within outward: my condition at the hour of death, the shortness of my life, the abyss of time, "the feebleness of all matter."
 
@@ -214,13 +214,13 @@ The third principle is the view from above. Raised above the earth, you will see
 
 The passage is built on a single verb: "thou hast forgotten." "When thou art troubled about anything, thou hast forgotten this," and then comes a list of what has been forgotten. Distress is not refuted here; it is declared a sign of forgetfulness.
 
-The list is an almost complete summary of what we have seen throughout the *Meditations*. All things happen according to the universal nature. Another's wrongful act is nothing to you. Everything that happens always happened so and will happen so. All men are kin, "not of a little blood or seed, but of intelligence." Every man's intelligence "is a god and is an efflux of the Deity." "Nothing is a man's own, but... his child and his body and his very soul came from the Deity." Everything is opinion. And each lives only the present and can lose only that.
+The list is an almost complete summary of what we have seen throughout the *Meditations*. All things happen according to the universal nature. Another's wrongful act is nothing to you. Everything that happens always happened so and will happen so. All men are kin, "not of a little blood or seed, but of intelligence." Every man's intelligence "is a god and is an efflux of the Deity." "Nothing is a man's own, but... his child and his body and his very soul came from the Deity." Everything is opinion. And each of us lives only in the present and can lose only that.
 
 The Greek speaks of blood kinship in deliberately diminutive words, αἱμάτιον and σπερμάτιον, and Long's "a little blood or seed" conveys them. Kinship by reason is wider than kinship by blood, and so the human race is one without exception. This repeats [[02-01|2.1]], the beginning of Book II. The same diminutives return a line later, "the little child, the little body, the little soul," but here Long drops them.
 
 The last item seems to remove the ground for distress altogether: one can lose only the present, and that is not much.
 
-**Doctrines.** The man who is troubled has forgotten that [[app-d-map-of-practice#^eternal-recurrence|everything comes round again]] and that [[app-d-map-of-practice#^oikeiosis|men are kin by reason]]: it makes little sense to be angry with a kinsman for his error. And [[app-d-map-of-practice#^externals-on-loan|nothing is our own]]: even the child, the body and the soul are given for a time.
+**Doctrines.** The man who is troubled has forgotten that [[app-d-map-of-practice#^eternal-recurrence|everything comes around again]] and that [[app-d-map-of-practice#^oikeiosis|men are kin by reason]]: it makes little sense to be angry with a kinsman for his error. And [[app-d-map-of-practice#^externals-on-loan|nothing is our own]]: even the child, the body and the soul are given for a time.
 
 ## 12.27
 
@@ -264,7 +264,7 @@ The last item seems to remove the ground for distress altogether: one can lose o
 
 **Commentary.**
 
-"Man, thou hast been a citizen in this great state": so begins the last passage of the *Meditations*. The whole book Marcus wrote "to himself," but this passage, it seems, is addressed to man in general. The world, as in [[06-44|6.44]], is called a state, and the measure is a civic one: "that which is conformable to the laws is just for all." Five years or three, it makes no difference.
+"Man, thou hast been a citizen in this great state": so begins the last passage of the *Meditations*. Marcus wrote the whole book "to himself," but this passage, it seems, is addressed to man in general. The world, as in [[06-44|6.44]], is called a state, and the measure is a civic one: "that which is conformable to the laws is just for all." Five years or three, it makes no difference.
 
 Who sends you away from this city? "No tyrant nor yet an unjust judge," but "nature, who brought thee into it." The one who brought you in leads you out; there is neither caprice nor judicial error here, and nothing to resent.
 

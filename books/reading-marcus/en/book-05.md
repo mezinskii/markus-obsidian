@@ -8,7 +8,7 @@ passages: 37
 commented: 7
 ---
 
-## Line of the Book
+## The Thread of the Book
 
 **The Work of a Human Being.** Book V, like Book II, begins in the morning: Marcus Aurelius does not want to get up, and he reminds himself: "I am rising to the work of a human being" (5.1). The whole book answers the question of what that work is.
 
@@ -28,7 +28,7 @@ The passages fall into several themes.
 - **What the good is:** 5.12, 5.14, 5.15, 5.37.
 - **Self-examination and returning to philosophy:** 5.5, 5.9, 5.11, 5.32.
 
-Two passages without commentary are worth marking. In 5.6 Marcus describes the man who does good and expects no thanks: "he is like a vine which has produced grapes, and seeks for nothing more after it has once produced its proper fruit." And in 5.28 he asks himself whether it is worth being angry with a man who smells: "Art thou angry with him whose armpits stink?" Here one sees that he can speak with humor of the people who irritate him.
+Two passages without commentary are worth noting. In 5.6 Marcus describes the man who does good and expects no thanks: "he is like a vine which has produced grapes, and seeks for nothing more after it has once produced its proper fruit." And in 5.28 he asks himself whether it is worth being angry with a man who smells: "Art thou angry with him whose armpits stink?" Here one sees that he can speak with humor of the people who irritate him.
 
 ## 5.1
 
@@ -78,7 +78,7 @@ The reason, he says, is not weak will: "So thou lovest not thyself, for if thou 
 
 **Commentary.**
 
-"Aesculapius prescribed to this man horse-exercise": Marcus reasons about fate by comparison with a physician. Aesculapius, the god of healing, "prescribes" to a patient riding, cold baths or going without shoes; it is unpleasant but good for health. In the same way the nature of the universe "prescribed to this man disease or mutilation or loss," with the one difference that this is prescribed not for health but as part of destiny.
+"Aesculapius prescribed to this man horse-exercise": Marcus reasons about fate by comparing it to a physician's prescriptions. Aesculapius, the god of healing, "prescribes" to a patient riding, cold baths or going without shoes; it is unpleasant but good for health. In the same way the nature of the universe "prescribed to this man disease or mutilation or loss," with the one difference that this is prescribed not for health but as part of destiny.
 
 A play on words follows, and Long signals it himself: "That which happens to (or, suits) every man." The Greek συμβαίνειν means both "to happen" and "to fit together": builders say that "squared stones in walls or the pyramids" are "suitable," "when they fit them to one another in some kind of connexion." So events "fit" us, and each lies in its place in the common masonry. "And as the universe is made up out of all bodies to be such a body as it is, so out of all existing causes necessity (destiny) is made up to be such a cause as it is."
 
@@ -174,7 +174,7 @@ The river again, as in [[04-43|4.43]], but now it is not only time that flows: "
 
 And beside us lies "this boundless abyss of the past and of the future in which all things disappear," and a man stands on the narrow strip of the present between two abysses.
 
-Marcus puts the conclusion as a question: "How then is he not a fool who is puffed up with such things or plagued about them and makes himself miserable? for they vex him only for a time, and a short time." All three feelings, pride, agitation and complaint, assume that the thing will last long, and the stream removes them at once.
+Marcus puts the conclusion as a question: "How then is he not a fool who is puffed up with such things or plagued about them and makes himself miserable? for they vex him only for a time, and a short time." All three feelings, pride, agitation and complaint, assume that the thing will last, and the stream soon carries it away.
 
 **Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole and flow without ceasing]]. One who often thinks how everything rushes past has no reason to be proud of what passes or to complain of it: all one can do is [[app-d-map-of-practice#^amor-fati|accept]] it.
 
@@ -200,7 +200,7 @@ Marcus puts the conclusion as a question: "How then is he not a fool who is puff
 
 To live with the gods, in Greek συζῆν θεοῖς, is to show them one's soul constantly in two states. First, the soul must be "satisfied with that which is assigned to him": to complain of one's lot is to reproach the gods with having ordered the world badly. Second, the soul "does all that the daemon wishes."
 
-We know the daemon (δαίμων) from Book III, but here Marcus speaks of it most clearly. Zeus has given it "to every man for his guardian and guide," and it is "a portion of himself," in Greek ἀπόσπασμα, literally "a piece broken off." Most important: "this is every man's understanding and reason." The inner god, then, is a man's own reason.
+We know the daemon (δαίμων) from Book III, but here Marcus speaks of it more clearly than anywhere else. Zeus has given it "to every man for his guardian and guide," and it is "a portion of himself," in Greek ἀπόσπασμα, literally "a piece broken off." Most important: "this is every man's understanding and reason." The inner god, then, is a man's own reason.
 
 Zeus for the Stoics is not a bearded Olympian with thunderbolts but the reason that governs the world. If every man has a portion of this reason, then to obey one's own reason is to live with God, and there is no need to go to Olympus or to a temple to find him.
 
@@ -222,7 +222,7 @@ One can leave life as one leaves a room full of smoke: this short passage on fre
 
 Then Marcus speaks of the extreme case: if men do not permit you to live so, "then get away out of life, yet so as if thou wert suffering no harm." The Stoics allowed a reasoned departure from life when a worthy life becomes impossible, and we met this thought in [[03-01|3.1]]. The image of smoke in a room comes from Epictetus; in Marcus it is compressed into three Greek words, καπνὸς καὶ ἀπέρχομαι, which Long renders "The house is smoky, and I quit it." And he strips the act of heroism and pathos: "Why dost thou think that this is any trouble?"
 
-The heart of the passage, however, is not the departure but what remains while the door is not needed: "so long as nothing of the kind drives me out, I remain, am free, and no man shall hinder me from doing what I choose." Freedom, then, lies not in circumstances but in the fact that no one can force me to will what is bad. And these choices are not arbitrary: "I choose to do what is according to the nature of the rational and social animal."
+The heart of the passage, however, is not the departure but what remains as long as the door is not needed: "so long as nothing of the kind drives me out, I remain, am free, and no man shall hinder me from doing what I choose." Freedom, then, lies not in circumstances but in the fact that no one can force me to will what is bad. And this choice is not arbitrary: "I choose to do what is according to the nature of the rational and social animal."
 
 **Doctrines.** Circumstances are not in our power, but [[app-d-map-of-practice#^dichotomy-of-control|our choice is]], and the freedom to choose according to nature cannot be taken away. And to choose according to nature is to [[app-d-map-of-practice#^live-according-to-nature|live according to the nature]] of a rational and social being.
 
@@ -262,4 +262,4 @@ The heart of the passage, however, is not the departure but what remains while t
 
 **Key thought.** Book V begins in the morning with the question of what one rises for, and the whole of it answers that question ([[05-01|5.1]]). The work of a human being is a common work, because the good of a rational being lies in society ([[05-16|5.16]]). It also lies in acceptance of fate and in loyalty to one's own reason, the daemon that Zeus has given to every man as a portion of himself ([[05-27|5.27]]).
 
-**Practice: the morning meditation.** Marcus's own formula is this: "I am rising to the work of a human being" ([[05-01|5.1]]); he tells himself to say it at once, when he does not want to get up. The exercise is, after waking and before business and people, to remind oneself of three things: what the day begins for; what may be difficult in it and how to answer it; and what everything rests on (the good lies only in virtue, externals do no harm, men are kin to one another). A few minutes are enough; one can also write it down: the *Meditations*, it seems, were partly such notes.
+**Practice: the morning meditation.** Marcus's own formula is this: "I am rising to the work of a human being" ([[05-01|5.1]]); he tells himself to say it the moment he does not want to get up. The exercise is, after waking and before business and people, to remind oneself of three things: what the day begins for; what may be difficult in it and how to answer it; and what everything rests on (the good lies only in virtue, externals do no harm, men are kin to one another). A few minutes are enough; one can also write it down: the *Meditations*, it seems, were partly such notes.

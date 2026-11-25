@@ -8,7 +8,7 @@ passages: 39
 commented: 8
 ---
 
-## Line of the Book
+## The Thread of the Book
 
 **What the Rational Soul Can Do.** Book XI opens with the properties of the rational soul (11.1) and tests them on hard cases: on indifferent things (11.16), on anger (11.18), on the death of a child (11.33, 11.34). At the end, in the extracts from Epictetus, we find what seems to be the source of the three disciplines Marcus Aurelius practiced (11.37).
 
@@ -16,7 +16,7 @@ Eight key passages: the properties of the rational soul (11.1) → tragedy as a 
 
 ## Introduction
 
-Book XI begins with an inventory of the properties of the rational soul (11.1). Its most vivid image is of judgment as writing on wax, which one need not write or can wipe out at once (11.16); its most detailed passage is a set of ten "gifts" against anger (11.18).
+Book XI begins with an inventory of the properties of the rational soul (11.1). Its most vivid image presents judgment as writing on wax: one need not write it, and if it has been written, one can wipe it out at once (11.16); its most detailed passage is a set of ten "gifts" against anger (11.18).
 
 The book also gives a direct answer to the bitter admission of Book VIII, that the life of a philosopher is no longer within Marcus's reach (8.1): "How plain does it appear that there is not another condition of life so well suited for philosophizing as this in which thou now happenest to be" (11.7).
 
@@ -49,7 +49,7 @@ Then follows the view from above, carried to its limit: the soul traverses "the 
 
 The end of the passage turns to people: the rational soul has "love of one's neighbour, and truth and modesty." And the last sentence: "Thus the right reason differs not at all from the reason of justice." Justice is not something added to reason; it is reason itself turned toward others.
 
-**Doctrines.** [[app-d-map-of-practice#^virtue-is-sufficient|Virtue is sufficient for happiness]]: the fruit of a good deed goes to the doer, and in full at any moment. [[app-d-map-of-practice#^eternal-recurrence|Everything comes round again]], and a man of forty has seen it all.
+**Doctrines.** [[app-d-map-of-practice#^virtue-is-sufficient|Virtue is sufficient for happiness]]: the fruit of a good deed goes to the doer, and in full at any moment. [[app-d-map-of-practice#^eternal-recurrence|Everything comes around again]], and a man of forty has seen it all.
 
 ## 11.2
 
@@ -79,7 +79,7 @@ Of tragedy he says that it was brought on the stage "as means of reminding men o
 
 Then come three extracts from Euripides. Marcus has already copied them separately in Book VII, in the section of extracts ([[07-38|7.38]], [[07-40|7.40]], [[07-41|7.41]]); here he gathers them together and drops the second line of two of them.
 
-The old comedy, he says, was useful by its very plainness of speaking "in reminding men to beware of insolence," and even Diogenes took from it. Of the middle and new comedy, which "gradually sank down into a mere mimic artifice," Marcus pronounces not a verdict but a question: "the whole plan of such poetry and dramaturgy, to what end does it look?" It is the same question that in [[07-04|7.4]] he told himself to put to every act: to what end?
+The old comedy, he says, was useful by its very plainness of speaking "in reminding men to beware of insolence," and even Diogenes took from it. Of the middle and new comedy, which "gradually sank down into a mere mimic artifice," Marcus passes no verdict but asks a question: "the whole plan of such poetry and dramaturgy, to what end does it look?" It is the same question that in [[07-04|7.4]] he told himself to put to every act: to what end?
 
 **Doctrines.** Tragedy reminds us that things happen according to nature, and so they are to be [[app-d-map-of-practice#^amor-fati|accepted]] on the larger stage as on the smaller. This is to [[app-d-map-of-practice#^live-according-to-nature|live according to nature]].
 
@@ -233,7 +233,7 @@ The stars are given as an example because each does its own work, and always "in
 
 The comparison of figs in winter with a dead child is taken from Epictetus, and Marcus copies it without a name: Epictetus will be named in the next passage.
 
-The comparison rests not on insensibility but on the logic of the impossible: both are a demand for what is not there. No one is angry with winter for having no figs, because everyone understands that the season has passed.
+The comparison rests not on insensibility but on the logic of the impossible: to look for figs in winter and to look for a child who is gone are both demands for what is not there. No one is angry with winter for having no figs, because everyone understands that the season has passed.
 
 Long is exact here: "when it is no longer allowed," for the Greek ὅτε οὐκέτι δίδοται, literally "when it is no longer given." The child was given, and the gift has ended; for such a loss there is no one to blame.
 

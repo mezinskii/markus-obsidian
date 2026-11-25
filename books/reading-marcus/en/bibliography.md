@@ -14,7 +14,7 @@ Listed here are the editions on which this book relies or from which it quotes. 
 ## Other Ancient Authors
 
 - Diogenes Laertius. *Lives of Eminent Philosophers*. Translated by R. D. Hicks. 2 vols. Loeb Classical Library. London: William Heinemann; New York: G. P. Putnam's Sons, 1925.
-- Epictetus. *The Discourses of Epictetus, with the Encheiridion and Fragments*. Translated by George Long. London: George Bell and Sons, 1877. Quoted from the Project Gutenberg edition of Long's selection (eBook #10661).
+- Epictetus. *The Discourses of Epictetus, with the Encheiridion and Fragments*. Translated by George Long. London: George Bell and Sons, 1877. Quoted from the Project Gutenberg edition of Long's selection (eBook #10661) and, where a passage is not in the selection, from the Perseus Digital Library text of Long's translation (London: George Bell and Sons, 1890).
 - *Historia Augusta*. Translated by David Magie. 3 vols. Loeb Classical Library. London: William Heinemann; New York: G. P. Putnam's Sons, 1921–1932. Latin text consulted at LacusCurtius.
 - Marcus Cornelius Fronto. *The Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus*. Translated by C. R. Haines. 2 vols. Loeb Classical Library. London: William Heinemann; New York: G. P. Putnam's Sons, 1919–1920. The letters can be read at [readaurelius.org/fronto](https://readaurelius.org/fronto).
 - Seneca. *Ad Lucilium Epistulae Morales*. Translated by Richard M. Gummere. 3 vols. Loeb Classical Library. London: William Heinemann; New York: G. P. Putnam's Sons, 1917–1925.

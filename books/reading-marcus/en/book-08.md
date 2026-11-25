@@ -8,7 +8,7 @@ passages: 61
 commented: 12
 ---
 
-## Line of the Book
+## The Thread of the Book
 
 **A Philosopher Despite His Station.** Book VIII opens with an admission: Marcus Aurelius can no longer live the life of a philosopher, and his own station stands in the way (8.1). What remains is what no station can take away: sound judgment, the common work, and a mind that cannot be taken by storm.
 
@@ -41,7 +41,7 @@ The emperor admits that he can no longer win the reputation of a philosopher: "t
 
 In antiquity a philosopher was not someone who wrote treatises but someone who had chosen the philosophical way of life. Marcus admits that it is plain to him and to others that he has not lived that way. He is probably too hard on himself: his contemporaries already saw in him a philosopher on the throne.
 
-Since the reputation of a philosopher is out of reach, he can stop caring about it: "throw away the thought, How thou shalt seem to others, and be content if thou shalt live the rest of thy life in such wise as thy nature wills." Long follows the Greek closely here: τὸ μὲν τί δόξεις ἄφες, "let go of how you will seem." Epictetus says the same: "Be satisfied then in everything with being a philosopher; and if you wish to seem also to any person to be a philosopher, appear so to yourself, and you will be able to do this" (*Enchiridion* 23, trans. Long).
+Since the reputation of a philosopher is out of reach, he can stop caring about it: "throw away the thought, How thou shalt seem to others, and be content if thou shalt live the rest of thy life in such wise as thy nature wills." Long follows the Greek closely here: τὸ μὲν τί δόξεις ἄφες, "let go of how you will seem." Epictetus says the same: "Be satisfied then in every thing with being a philosopher; and if you wish to seem also to any person to be a philosopher, appear so to yourself, and you will be able to do this" (*Enchiridion* 23, trans. Long).
 
 Where, then, is the good life to be found? Marcus runs through the places he has looked: "not in syllogisms, nor in wealth, nor in reputation, nor in enjoyment, nor anywhere." What remains is "doing what man's nature requires." For that one needs principles "from which come his affects and his acts," and the chief of them is "the belief that there is nothing good for man, which does not make him just, temperate, manly, free."
 
@@ -57,7 +57,7 @@ Where, then, is the good life to be found? Marcus runs through the places he has
 
 **Commentary.**
 
-Alexander, Caesar and Pompey conquered nations; Diogenes lived in poverty, and Socrates was put to death by his fellow citizens. Marcus sets them side by side, and the question already suggests its answer: the fame of rulers fades beside those who were masters not of lands but of themselves.
+Alexander, Caesar and Pompey conquered nations; Diogenes lived in poverty, and Socrates was put to death by his fellow citizens. Marcus sets them side by side and asks what the conquerors are beside the philosophers; the question already suggests its answer: the fame of rulers fades beside those who were masters not of lands but of themselves.
 
 Why are the philosophers greater? "They were acquainted with things, and their causes (forms), and their matter." This is the stripped view of [[06-13|6.13]] and [[07-29|7.29]]: whoever sees a thing through to its material and its cause cannot be enslaved by it. That is why "the ruling principles of these men were the same," that is, they stayed true to themselves.
 
@@ -75,7 +75,7 @@ Why are the philosophers greater? "They were acquainted with things, and their c
 
 **Commentary.**
 
-First calm, then the work: that is the order in which Marcus instructs himself. "This is the chief thing: Be not perturbed, for all things are according to the nature of the universal; and in a little time thou wilt be nobody and nowhere, like Hadrian and Augustus." Two arguments come at once: what happens is lawful, and the one who frets will not last long.
+First calm, then the work: that is the order in which Marcus instructs himself. "This is the chief thing: Be not perturbed, for all things are according to the nature of the universal; and in a little time thou wilt be nobody and nowhere, like Hadrian and Augustus." Two arguments come at once: what happens accords with nature, and the one who frets will not last long.
 
 The two names are well chosen. Augustus was the first emperor; Hadrian adopted Antoninus and so was Marcus's grandfather by adoption. If even they are "nobody and nowhere," the reputation of a philosopher, discussed in [[08-01|8.1]], is all the less worth worrying about.
 
@@ -99,7 +99,7 @@ First, that "in its thoughts it assents to nothing false or uncertain": this is 
 
 A comparison follows: each particular nature is part of the common nature, "as the nature of the leaf is a part of the nature of the plant." The leaf belongs to a nature "which has not perception or reason, and is subject to be impeded"; man belongs to a nature "which is not subject to impediments, and is intelligent and just." Anything can hinder a leaf; nothing hinders the nature of which man is a part, and so his reason too can be free of hindrance.
 
-**Doctrines.** Desire and aversion are directed only to what depends on us, and for that one must [[app-d-map-of-practice#^dichotomy-of-control|distinguish what is in our power from what is not]]. The right way of a rational being is [[app-d-map-of-practice#^live-according-to-nature|life according to nature]]. And what the common nature sends is accepted without complaint: this is [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
+**Doctrines.** Desire and aversion are directed only to what is up to us, and for that one must [[app-d-map-of-practice#^dichotomy-of-control|distinguish what is in our power from what is not]]. The right way of a rational being is [[app-d-map-of-practice#^live-according-to-nature|life according to nature]]. And what the common nature sends is accepted without complaint: this is [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
 
 ## 8.8
 
@@ -135,7 +135,7 @@ The last question is: "And how long does it subsist?" The stripped view includes
 
 "When thou risest from sleep with reluctance, remember": so begins the second morning meditation in the *Meditations*, after [[05-01|5.1]]. Against the reluctance to rise Marcus sets two arguments: man's purpose is to "perform social acts," whereas sleeping "is common also to irrational animals." The choice between sleep and work is thus presented as a choice between the animal and the human in oneself.
 
-Marcus then answers the lazy objection already met in [[05-01|5.1]]: "But this is more pleasant." What accords with each nature "is also more peculiarly its own, and more suitable to its nature, and indeed also more agreeable." Long's "more peculiarly its own" renders the Greek οἰκειότερον exactly. From the same root comes the Stoic οἰκείωσις, "appropriation," the doctrine that every living thing from birth reaches for what is its own. For man what is his own is the common good, while sleep he shares with the animals. Hence the answer to "more pleasant": for the Stoics pleasure is not the goal a living thing strives for but what follows when a nature obtains what is its own. Diogenes Laertius reports their teaching thus: "pleasure, if it is really felt, they declare to be a by-product" (VII.86, trans. Hicks); the Greek is ἐπιγέννημα. Whoever does his own work finds it pleasant.
+Marcus then answers the objection of laziness already met in [[05-01|5.1]]: "But this is more pleasant." What accords with each nature "is also more peculiarly its own, and more suitable to its nature, and indeed also more agreeable." Long's "more peculiarly its own" renders the Greek οἰκειότερον exactly. From the same root comes the Stoic οἰκείωσις, "appropriation," the doctrine that every living thing from birth reaches for what is its own. For man what is his own is the common good, while sleep he shares with the animals. Hence the answer to "more pleasant": for the Stoics pleasure is not the goal a living thing strives for but what follows when a nature obtains what is its own. Diogenes Laertius reports their teaching thus: "pleasure, if it is really felt, they declare to be a by-product" (VII.86, trans. Hicks); the Greek is ἐπιγέννημα. Whoever does his own work finds it pleasant.
 
 Sleep is necessary, but even so natural a need has a measure, and in [[05-01|5.1]] Marcus says plainly that "nature has fixed bounds to this too: she has fixed bounds both to eating and drinking." Sleep must be proportioned to activity, and in this temperance shows itself.
 
@@ -325,7 +325,7 @@ Marcus goes through the sources of grief. If something external pains you, "it i
 
 **Commentary.**
 
-The first words are "Say nothing more to thyself." The passage is not about what happens around us but about what a person says inside. Between an impression and a feeling there is almost always a short sentence the mind adds on its own: "this is bad," "I have been wronged," "all is lost." We hardly notice it, yet it is what makes the event an evil; remove it, and the distress goes with it.
+The first words are "Say nothing more to thyself." The passage is not about what happens around us but about what a person says to himself. Between an impression and a feeling there is almost always a short sentence the mind adds on its own: "this is bad," "I have been wronged," "all is lost." We hardly notice it, yet it is what makes the event an evil; remove it, and the distress goes with it.
 
 Marcus gives two examples. The first is built like a messenger's report: ἤγγελται τοῦτο, "this has been reported"; ὅτι βέβλαψαι, οὐκ ἤγγελται, "that thou hast been injured, that has not been reported." The injury, then, you added yourself. In the second, the child is sick, that much is visible, "but that he is in danger, I do not see": danger is already a forecast built by fear. Here Marcus writes as a father who lost many of his children in infancy. He does not forbid himself to care for the child; he separates what he sees from what fear paints in.
 

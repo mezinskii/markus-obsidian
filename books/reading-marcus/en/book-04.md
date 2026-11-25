@@ -8,15 +8,15 @@ passages: 51
 commented: 11
 ---
 
-## Line of the Book
+## The Thread of the Book
 
-**The Retreat Within.** In 4.3 Marcus Aurelius tells himself that one can retire not to the sea or the mountains but into oneself. The retreat, however, is only as good as what is stored in it, and he reduces this store to two truths: things do not touch the soul, and everything you see will soon change and be no more. The book then repeats both truths in many keys: the first Marcus compresses into a formula in 4.7, the second he conveys in images: the river of time, names grown antiquated, the ripe olive.
+**The Retreat Within.** In 4.3 Marcus Aurelius tells himself that one can retire not to the sea or the mountains but into oneself. The retreat, however, is only as good as what is stored in it, and he reduces this store to two truths: things do not touch the soul, and everything you see will soon change and be no more. The book then repeats both truths in many keys: Marcus compresses the first into a formula in 4.7 and conveys the second in images: the river of time, names grown antiquated, the ripe olive.
 
 Eleven key passages: retiring into oneself (4.3) → death as a mystery of nature (4.5) → the juice in the fig tree (4.6) → take away the opinion (4.7) → return into the whole (4.14) → do not live as if you had ten thousand years (4.17) → the times of Vespasian (4.32) → names grown antiquated (4.33) → everything is a seed (4.36) → the river of time (4.43) → the ripe olive (4.48).
 
 ## Introduction
 
-Book IV has three times as many passages as Book III: fifty-one. Many of them are very short, a sentence or two, and these seem to be the very principles "brief and fundamental" that Marcus in [[04-03|4.3]] tells himself to keep at hand.
+Book IV has more than three times as many passages as Book III: fifty-one. Many of them are very short, a sentence or two, and these seem to be the very principles "brief and fundamental" that Marcus in [[04-03|4.3]] tells himself to keep at hand.
 
 The passages fall into several themes to which he returns again and again.
 
@@ -28,7 +28,7 @@ The passages fall into several themes to which he returns again and again.
 - **Death as a work of nature:** 4.5, 4.14, 4.15, 4.21, 4.32, 4.48, 4.50.
 - **No more delay:** 4.17, 4.37, 4.47.
 
-The book is rich in images: the juice in the fig tree (4.6), "many grains of frankincense on the same altar" (4.15), "the rose in spring and the fruit in summer" (4.44), the ripe olive (4.48), the promontory "against which the waves continually break" (4.49). An image too serves as a doctrine at hand: one remembers it sooner than a long argument.
+The book is rich in images: the juice in the fig tree (4.6), "many grains of frankincense on the same altar" (4.15), "the rose in spring and the fruit in summer" (4.44), the ripe olive (4.48), the promontory "against which the waves continually break" (4.49). An image, too, can serve as a principle kept at hand: it comes to mind sooner than a long argument.
 
 ## 4.1
 
@@ -46,9 +46,9 @@ The book is rich in images: the juice in the fig tree (4.6), "many grains of fra
 
 This passage was quoted in the book's introduction; here it is read in full. It speaks of a retreat that lies within a man. The image of a citadel will come later, in [[08-48|8.48]]: from it Pierre Hadot took the title of his book on Marcus, *The Inner Citadel*.
 
-"Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much." Marcus answers himself that this is "altogether a mark of the most common sort of men"; the Greek ἰδιωτικώτατον means literally "most like a layman." One can retire at any moment without going anywhere. This exercise later came to be called the retreat into oneself, ἀναχώρησις εἰς ἑαυτόν.
+"Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much." Marcus answers himself that this is "altogether a mark of the most common sort of men"; the Greek ἰδιωτικώτατον means literally "most like a layman." One can retire at any moment without going anywhere. The name of the exercise comes from Marcus's own words: εἰς ἑαυτὸν ἀναχωρεῖν, "to retire into oneself."
 
-It comes most easily, however, to one who finds within "such thoughts that by looking into them he is immediately in perfect tranquility." Marcus explains tranquility at once: it "is nothing else than the good ordering of the mind," in Greek εὐκοσμία, inner order. One can get away from the outside, but not from oneself, and if the soul is in disorder, retiring into it will give little peace.
+It comes most easily, however, to one who finds within "such thoughts that by looking into them he is immediately in perfect tranquility." Marcus explains tranquility at once: it "is nothing else than the good ordering of the mind," in Greek εὐκοσμία, inner order. One can escape one's surroundings, but not oneself, and if the soul is in disorder, retiring into it will give little peace.
 
 What, then, should be found within? Principles "brief and fundamental," which "will be sufficient to cleanse the soul completely." Then Marcus shows how they work, in the form of questions and answers. Are you discontented with "the badness of men"? Recall "that rational animals exist for one another, and that to endure is a part of justice, and that men do wrong involuntarily." Dissatisfied with your lot? Recall the alternative: "either there is providence or atoms." Do bodily things trouble you? The mind "mingles not with the breath, whether moving gently or violently, when it has once drawn itself apart and discovered its own power." Does fame draw you? "The whole earth is a point."
 
@@ -100,7 +100,7 @@ Both sentences in the Greek are built on one verb: Ἆρον… ἦρται, "ta
 
 This is how an offense is born. First there is an event, then a judgment about it (ὑπόληψις); from the judgment grows the feeling "I have been harmed" (βέβλαμμαι), and only that makes the event a harm (βλάβη). Marcus breaks the chain at the root: remove the judgment, and everything else collapses.
 
-It is the same thought we read in the introduction in [[08-47|8.47]]: what pains us is not the thing but our judgment about it. Its source is in Epictetus, who taught that men are disturbed not by things but by their opinions about things. Marcus compresses it into a formula that can be repeated in an instant.
+It is the same thought as in [[08-47|8.47]], quoted in the introduction: what pains us is not the thing but our judgment about it. Its source is in Epictetus, who taught that men are disturbed not by things but by their opinions about things. Marcus compresses it into a formula that can be repeated in an instant.
 
 One should remember that "harm" here is not bodily damage. For the Stoic there is only one real harm: one's own corruption, assent to what is bad, and no one can inflict it from outside. Everything else seems a harm only as long as we ourselves call it so.
 
@@ -234,7 +234,7 @@ The view from above can be turned not only on space but on time. "Consider, for 
 
 The list is long on purpose. It contains not a single event that would distinguish the age, only what is always repeated, and so it is easy to see one's own age from outside as well.
 
-From whole epochs Marcus moves to those who soon fell after great efforts, and most of all he tells himself to think "of those whom thou hast thyself known distracting themselves about idle things, neglecting to do what was in accordance with their proper constitution," that is, what they were made for.
+From whole epochs Marcus moves to those who, after great efforts, soon fell, and most of all he tells himself to think "of those whom thou hast thyself known distracting themselves about idle things, neglecting to do what was in accordance with their proper constitution," that is, what they were made for.
 
 Hence the final counsel: the attention given to each thing should match its value. If you apply yourself "to smaller matters no further than is fit," then "thou wilt not be dissatisfied."
 
@@ -310,7 +310,7 @@ This continues [[04-14|4.14]]: there a man after death returned into the "semina
 
 **Commentary.**
 
-Time is pictured here as a river.
+Here time is pictured as a river.
 
 In the Greek, time here is αἰών, "age," "span of life," the time that passes. The waters of this river are τὰ γινόμενα, "the things that come to be": events, things, people. Long renders it "a river made up of the events which happen, and a violent stream." The swiftness is conveyed by a pair of verbs, ὤφθη καὶ παρενήνεκται, "it has been seen and already carried past": "as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too." Long renders the end exactly: τὸ δὲ ἐνεχθήσεται, "and this will be carried away too."
 
@@ -366,4 +366,4 @@ Then come those one has known: "One man after burying another has been laid out 
 
 **Key thought.** One can escape one's troubles not by going to the sea or the mountains but by retiring into oneself ([[04-03|4.3]]), yet this inner retreat is only as good as the few brief principles stored in it. The chief of them is this: take away the opinion, and the harm is gone ([[04-07|4.7]]). The second reminds us that everything we see will soon change and be no more, like the water in the river of time ([[04-43|4.43]]).
 
-**Practice: retiring into oneself (ἀναχώρησις εἰς ἑαυτόν).** Marcus reminds himself that "it is in thy power whenever thou shalt choose to retire into thyself" ([[04-03|4.3]]). The exercise is, in the midst of business and without going anywhere, to return to the few brief principles kept ready and to apply the right one to whatever is troubling now: vexation with people, with one's lot, with the body, the desire for fame. There are two chief principles: "things do not touch the soul, for they are external and remain immovable," and "all these things which thou seest change immediately and will no longer be." One should return like this often: "Constantly then give to thyself this retreat, and renew thyself." Marcus adds, however, that peace comes most easily to one who has order within.
+**Practice: retiring into oneself (ἀναχώρησις εἰς ἑαυτόν).** Marcus reminds himself that "it is in thy power whenever thou shalt choose to retire into thyself" ([[04-03|4.3]]). The exercise is, in the midst of business and without going anywhere, to return to the few brief principles kept ready and to apply the right one to whatever is troubling one now: vexation with people, with one's lot, with the body, the desire for fame. There are two chief principles: "things do not touch the soul, for they are external and remain immovable," and "all these things which thou seest change immediately and will no longer be." One should return like this often: "Constantly then give to thyself this retreat, and renew thyself." Marcus adds, however, that peace comes most easily to one who has order within.

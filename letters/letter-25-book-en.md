@@ -33,7 +33,7 @@ Hello,
 
 For the past year I have been working on a book, and today it is out on Kindle. It is called *Reading Marcus Aurelius: The Meditations as Spiritual Exercises*.
 
-Many readers meet the *Meditations* the way I first did: a few sentences stay with you, but the book as a whole seems a scatter of notes that keep repeating the same few things. What changed this for me was a different question. Not "what is wrong with this text?" but "why did Marcus write it at all?" He wrote for himself. His notes were exercises, and they make sense once they are read as exercises.
+Many readers meet the *Meditations* the way I first did: a few sentences stay with you, but the book as a whole seems a scattering of notes that keep repeating the same few things. What changed this for me was a different question. Not "what is wrong with this text?" but "why did Marcus write it at all?" He wrote for himself. His notes were exercises, and they make sense once they are read as exercises.
 
 What is inside:
 

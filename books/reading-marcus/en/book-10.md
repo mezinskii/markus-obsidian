@@ -8,9 +8,9 @@ passages: 38
 commented: 8
 ---
 
-## Line of the Book
+## The Thread of the Book
 
-**Time to Become One.** Book X opens with a question put to his own soul (10.1), and almost all of it says the same thing: stop discussing what a good man should be and be one (10.16), give yourself not rules but names (10.8), turn every circumstance into material for the work (10.33).
+**Time to Become One.** Book X opens with a question Marcus Aurelius puts to his own soul (10.1), and almost all of it says the same thing: stop discussing what a good man should be and be one (10.16), give yourself not rules but names (10.8), turn every circumstance into material for the work (10.33).
 
 Eight key passages: perishing as change (10.7) → names instead of rules (10.8) → method and magnanimity (10.11) → a morning question about praise (10.13) → time to be such (10.16) → everything as it were dies (10.18) → where are they all (10.31) → what to make of the material (10.33).
 
@@ -282,4 +282,4 @@ The last argument is taken from the life of a city: "nothing harms him who is re
 
 **Key thought.** Marcus has long known what he ought to be, and Book X is about the distance between knowledge and life. Reasoning will not shorten it ([[10-16|10.16]]). It can be shortened otherwise: by holding to a few names and returning to them when they are lost ([[10-08|10.8]]), and by asking in any situation what it would be most right to do now ([[10-33|10.33]]).
 
-**Practice: the remembrance of death (meditatio mortis).** In Book X Marcus returns to it many times: to see every thing as "already in dissolution" ([[10-18|10.18]]), to ask of the great men of the past "Where then are those men?" ([[10-31|10.31]]), to remember that "short is the little which remains to thee of life" ([[10-15|10.15]]). The most personal argument he keeps for his own last hour: even those close to him may breathe more freely when he is gone, and say, "Let us at last breathe freely, being relieved from this schoolmaster" ([[10-36|10.36]]). And at once comes the qualification: "Do not, however, for this reason go away less kindly disposed to them."
+**Practice: the remembrance of death (meditatio mortis).** In Book X Marcus returns to it many times: to see every thing as "already in dissolution" ([[10-18|10.18]]), to ask of the great men of the past "Where then are those men?" ([[10-31|10.31]]), to remember that "short is the little which remains to thee of life" ([[10-15|10.15]]). He keeps the most personal argument for his own last hour: even those close to him may breathe more freely when he is gone, and say, "Let us at last breathe freely, being relieved from this schoolmaster" ([[10-36|10.36]]). And at once comes the qualification: "Do not, however, for this reason go away less kindly disposed to them."

@@ -60,7 +60,7 @@ const L = {
     intro: '00-introduction.md', introTitle: 'Introduction', introPrefix: /^Introduction:\s*/,
     chapter: (b) => `book-${pad(b)}.md`, bookWord: 'Book',
     commentary: 'Commentary', notes: 'Notes', backToText: 'Back to text',
-    parts: { 'Line of the Book': 'liniya', 'Introduction': 'vstuplenie', 'The Book in Brief': 'glavnoe' },
+    parts: { 'The Thread of the Book': 'liniya', 'Introduction': 'vstuplenie', 'The Book in Brief': 'glavnoe' },
     appendices: [
       ['app-a-text-and-translation.md', 'o-tekste.xhtml'], ['app-b-glossary.md', 'slovar.xhtml'], ['app-c-names.md', 'imena.xhtml'],
       ['app-d-map-of-practice.md', 'karta-praktiki.xhtml'], ['app-e-chronology.md', 'hronologiya.xhtml'],

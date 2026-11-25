@@ -8,7 +8,7 @@ passages: 75
 commented: 16
 ---
 
-## Line of the Book
+## The Thread of the Book
 
 **Fanning the Coals.** The key to Book VII lies in its second passage: principles die if the impressions that correspond to them are not fanned into a flame (7.2). Almost the whole book is such fanning: short formulas, commands and extracts.
 
@@ -36,13 +36,13 @@ Among the passages without commentary, two deserve notice: 7.61, "The art of lif
 
 **Commentary.**
 
-Book VII opens with a question: "What is badness?" The answer removes the fright: "It is that which thou hast often seen." Vice, then, is no novelty but the most worn-out story in the world.
+Book VII opens with a question: "What is badness?" The answer takes away the fear: "It is that which thou hast often seen." Vice, then, is no novelty but the most worn-out story in the world.
 
 Marcus tells himself to keep this thought ready, in Greek πρόχειρον ἔχε, for everything that happens: "keep this in mind, that it is that which thou hast often seen." An expected blow loses its force.
 
 The same things fill "the old histories... those of the middle ages and those of our own day," and "cities and houses are filled" with them now. History invents no new events; it only changes the names. The conclusion: "There is nothing new: all things are both familiar and short-lived." Since everything is familiar, there is nothing to wonder at; since everything is short-lived, there is nothing to fear and nothing to cling to.
 
-**Doctrines.** [[app-d-map-of-practice#^eternal-recurrence|Everything comes round again]]: there is nothing new in the world.
+**Doctrines.** [[app-d-map-of-practice#^eternal-recurrence|Everything comes around again]]: there is nothing new in the world.
 
 ## 7.2
 
@@ -200,7 +200,7 @@ In the strict sense there is only one harm: the corruption of one's own soul, an
 
 The words here are words of fire, as in [[07-02|7.2]]: comeliness is "extinguished," and it "cannot be again lighted up," which renders the Greek ἐξαφθῆναι exactly. Principles go out if they are not fanned; the habit of anger puts out the light of a face.
 
-"For if even the perception of doing wrong shall depart, what reason is there for living any longer?" As long as vice is felt as vice, a man is alive as a moral being. The only thing worse than anger is to do wrong without noticing it. This echoes [[03-01|3.1]], where reason failed before the body.
+"For if even the perception of doing wrong shall depart, what reason is there for living any longer?" As long as vice is felt as vice, a man is alive as a moral being. The only thing worse than anger is to do wrong without noticing it. This echoes [[03-01|3.1]], where reason may fail before the body.
 
 **Doctrines.** Anger is contrary to nature, and this can be seen even in the face; it is proper to man to [[app-d-map-of-practice#^live-according-to-nature|live according to nature]].
 
@@ -228,7 +228,7 @@ The words here are words of fire, as in [[07-02|7.2]]: comeliness is "extinguish
 
 This is the densest passage in the book and perhaps a summary of almost all of Marcus's practice: behind each of the seven commands stands a whole exercise.
 
-"Wipe out the imagination": the Greek ἐξάλειψον is used of wiping writing off wax. "Stop the pulling of the strings": the puppet again, στῆσον τὴν νευροσπαστίαν. "Confine thyself to the present": the Greek περίγραψον means "draw a line round" the present. "Understand well what happens either to thee or to another," that is, first see the event and only then judge it. "Divide and distribute every object into the causal [formal] and the material": this is the stripped view of [[06-13|6.13]]. "Think of thy last hour." And the last: "Let the wrong which is done by a man stay there where the wrong was done"; another's fault lives in another's soul, not in yours.
+"Wipe out the imagination": the Greek ἐξάλειψον is used of wiping writing off wax. "Stop the pulling of the strings": the puppet again, στῆσον τὴν νευροσπαστίαν. "Confine thyself to the present": the Greek περίγραψον means "draw a line around" the present. "Understand well what happens either to thee or to another," that is, first see the event and only then judge it. "Divide and distribute every object into the causal [formal] and the material": this is the stripped view of [[06-13|6.13]]. "Think of thy last hour." And the last: "Let the wrong which is done by a man stay there where the wrong was done"; another's fault lives in another's soul, not in yours.
 
 **Doctrines.** Imagination, impulse and judgment about others' faults are [[app-d-map-of-practice#^dichotomy-of-control|in our power]]; others' faults themselves are not.
 
@@ -248,7 +248,7 @@ This is the densest passage in the book and perhaps a summary of almost all of M
 
 Passages 7.32–7.34 are three short notes in succession, with headings: on death, on pain, on fame. This is what Marcus in [[07-01|7.1]] tells himself to keep at hand: a ready answer to each chief threat.
 
-The answer about death is again built as the dilemma "providence or atoms" of [[06-10|6.10]]. The Greek is precise: if the world is atoms, death is dispersion; if the world is a unity, death is "either extinction or change," ἤτοι σβέσις ἢ μετάστασις, either dissolution into the whole or passage into another state. Long blurs this structure by listing "a dispersion, or a resolution into atoms, or annihilation" side by side, but he keeps the conclusion exactly. There are no other outcomes, and none of them is terrible: dispersion and extinction leave no one to whom it could be bad, and change does not destroy. Whatever picture of the world one takes, there is nothing to fear.
+The answer about death is again built as the dilemma "providence or atoms" of [[06-10|6.10]]. The Greek is precise: if the world is atoms, death is dispersion; if the world is a unity, death is "either extinction or change," ἤτοι σβέσις ἢ μετάστασις, either dissolution into the whole or passage into another state. Long blurs this structure by listing "a dispersion, or a resolution into atoms, or annihilation" side by side, but he keeps the conclusion exactly. There are no other outcomes, and none of them is terrible: dispersion and extinction leave no one for whom it could be bad, and change does not destroy. Whatever picture of the world one takes, there is nothing to fear.
 
 **Doctrines.** [[app-d-map-of-practice#^providence|The world is ordered by providence]], and death in it is no evil. And even if the world were made of atoms, there would still be nothing to fear.
 
@@ -268,7 +268,7 @@ The answer about death is again built as the dilemma "providence or atoms" of [[
 
 This passage begins a distinct part of Book VII, the extracts from other writers: Plato, Antisthenes, Euripides and others follow one after another almost to 7.51.
 
-The first extract comes from Plato's *Republic* (486a), and in it Marcus finds the ground of his own exercise. "Takes a view of all time and of all substance" is in Greek θεωρία παντὸς μὲν χρόνου, πάσης δὲ οὐσίας, "the contemplation of all time and all substance," an exact definition of the view from above. The conclusion: to one for whom life does not seem great, death will not seem an evil either. The fear of death, then, grows with the overvaluing of life, and it is cured by scale.
+The first extract comes from Plato's *Republic* (486a), and in it Marcus finds the ground of his own exercise. "Takes a view of all time and of all substance" is in Greek θεωρία παντὸς μὲν χρόνου, πάσης δὲ οὐσίας, "the contemplation of all time and all substance," an exact definition of the view from above. The conclusion: to one for whom life does not seem great, death will not seem an evil either. The fear of death, then, grows with the overvaluing of life, and it is cured by a sense of scale.
 
 **Doctrines.** One who sees life on the scale of all time will not think death terrible, and will accept it as he accepts all that happens: in this lies [[app-d-map-of-practice#^amor-fati|acceptance of fate]].
 
@@ -324,7 +324,7 @@ The first extract comes from Plato's *Republic* (486a), and in it Marcus finds t
 
 One sentence holds two exercises. The first: "Look round at the courses of the stars, as if thou wert going along with them." The Greek συμπεριθέοντα means "running round with them": not looking at the stars from below, but circling with them in thought at a height where earthly affairs shrink. The second: "constantly consider the changes of the elements into one another," earth becoming water, water air, air fire, and back again.
 
-What is this for? Such thoughts "purge away the filth of the terrene life"; the Greek is τὸν ῥύπον τοῦ χαμαὶ βίου, "the filth of life down on the ground." What acts here is not argument but a change of the picture before one's eyes: in place of the bustle of the marketplace one sets before oneself the circling of the stars and the cycle of the elements, and pettiness leaves of itself.
+What is this for? Such thoughts "purge away the filth of the terrene life"; the Greek is τὸν ῥύπον τοῦ χαμαὶ βίου, "the filth of life down on the ground." What acts here is not argument but a change of the picture before one's eyes: in place of the bustle of the marketplace one sets before oneself the circling of the stars and the cycle of the elements, and pettiness falls away of itself.
 
 **Doctrines.** [[app-d-map-of-practice#^unity-of-cosmos|All things are bound into one whole]] and pass continually into one another.
 
@@ -400,7 +400,7 @@ What, then, must a man do? "That which is according to its constitution," and Ma
 
 "Look within," Long writes, but the Greek is Ἔνδον σκάπτε, "dig within": not "look into yourself" or "listen to yourself," but dig, as a laborer digs. At the end of the passage Long too has the verb: "if thou wilt ever dig."
 
-The image changes the usual view. We seek the good outside: impressions, recognition, things. The image suggests that one should not bring in the new but clear away. The fountain, πηγή, is already within. A man without external goods is not empty but buried: under the silt of others' opinions, valuations, fears and habits lies a pure spring, but one must dig down to it.
+The image changes the usual view. We seek the good outside: impressions, recognition, things. The image suggests that one should not bring in something new but clear away what covers it. The fountain, πηγή, is already within. A man without external goods is not empty but buried: under the silt of others' opinions, valuations, fears and habits lies a pure spring, but one must dig down to it.
 
 The condition is named too: the spring "will ever bubble up, if thou wilt ever dig." Long keeps the double ἀεί of the Greek, "ever... ever." The spring lives as long as it is kept open. It is the same thought as in [[07-02|7.2]]: principles go out if they are not fanned.
 
@@ -484,6 +484,6 @@ The third step widens the very notion of pain. Many disagreeable things "are the
 
 ## The Book in Brief
 
-**Key thought.** Book VII rests on the thought of its second passage: principles die out if the impressions that correspond to them are not fanned, and fanning them is always in our power ([[07-02|7.2]]). That is why it holds so many formulas at hand: seven commands ([[07-29|7.29]]), answers to death, pain and fame, extracts from Plato and the tragedians. The fountain of good is within, and it bubbles up as long as one keeps digging ([[07-59|7.59]]).
+**Key thought.** Book VII rests on the thought of its second passage: principles die out if the impressions that correspond to them are not fanned, and fanning them is always in our power ([[07-02|7.2]]). That is why it holds so many formulas to keep at hand: seven commands ([[07-29|7.29]]), answers to death, pain and fame, extracts from Plato and the tragedians. The fountain of good is within, and it bubbles up as long as one keeps digging ([[07-59|7.59]]).
 
 **Practice: the view from above.** Marcus attributes the formula to Plato: "he who is discoursing about men should look also at earthly things as if he viewed them from some higher place" ([[07-48|7.48]]). The exercise is to rise above the earth in thought and see human affairs all at once, like an anthill: assemblies, armies, marriages, courts, feasts and lamentations; then to see that in other ages life was the same ([[07-49|7.49]]); and finally to find oneself in this spectacle. From above, human affairs do not only shrink: Marcus sees in them "a mixture of all things and an orderly combination of contraries," the order of the whole, of which the one who looks remains a part.

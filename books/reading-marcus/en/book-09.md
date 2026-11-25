@@ -8,7 +8,7 @@ passages: 42
 commented: 8
 ---
 
-## Line of the Book
+## The Thread of the Book
 
 **Living Among Men.** Book IX opens with a charge of impiety: to act unjustly toward men is to sin against nature and the gods (9.1). It closes with a long argument against anger at the shameless (9.42). Between the two runs a single theme: how to live and act among people who think otherwise, expecting from them neither agreement nor gratitude.
 
@@ -42,7 +42,7 @@ Marcus then widens the circle. The liar too is impious, since the same nature "i
 
 Impious too is the man who "pursues pleasure as good, and avoids pain as evil." Such a man must often find fault with nature because the bad enjoy pleasure and the good have pain for their share, and complaint against the order of the world is itself impiety.
 
-The conclusion follows. Pain and pleasure, death and life, honor and dishonor are things "which the universal nature employs equally"; the Greek ἐπίσης means "evenly, alike." Whoever wishes to follow nature must be "equally affected" toward them as well. What the Stoics call indifference to indifferent things here becomes piety: to treat unevenly what nature treats evenly is to quarrel with God.
+The conclusion follows. Pain and pleasure, death and life, honor and dishonor are things "which the universal nature employs equally"; the Greek ἐπίσης means "evenly, alike." Whoever wishes to follow nature must be "equally affected" toward them as well. What the Stoics call indifference to indifferent things here becomes piety: to treat unevenly what nature treats evenly is to quarrel with the gods.
 
 **Doctrines.** [[app-d-map-of-practice#^oikeiosis|Men are born for one another]], and that is why injustice is impiety. [[app-d-map-of-practice#^providence|The world is ordered by providence]]. Whoever wishes to [[app-d-map-of-practice#^live-according-to-nature|live according to nature]] treats evenly what nature treats evenly.
 
@@ -58,7 +58,7 @@ The conclusion follows. Pain and pleasure, death and life, honor and dishonor ar
 
 "Do not despise death, but be well content with it, since this too is one of those things which nature wills." Contempt for death would still be a pose; Marcus asks for something quieter, to be "neither careless nor impatient nor contemptuous with respect to death."
 
-He places death among the other works of nature: "to be young and to grow old, and to increase and to reach maturity, and to have teeth and beard and grey hairs, and to beget, and to be pregnant and to bring forth." Dissolution belongs to the same order as everything else in the life of the body. Hence the comparison: "As thou now waitest for the time when the child shall come out of thy wife's womb, so be ready for the time when thy soul shall fall out of this envelope." The word "now" matters: when Marcus wrote this, Faustina was apparently expecting a child. Birth and death are described as one and the same crossing.
+He places death among the other works of nature: "to be young and to grow old, and to increase and to reach maturity, and to have teeth and beard and grey hairs, and to beget, and to be pregnant and to bring forth." Dissolution belongs to the same order as everything else in the life of the body. Hence the comparison: "As thou now waitest for the time when the child shall come out of thy wife's womb, so be ready for the time when thy soul shall fall out of this envelope." The word "now" may be no more than a manner of speaking, though some have taken it to mean that Faustina was expecting a child when Marcus wrote this. Birth and death are described as one and the same crossing.
 
 Then comes what Long calls "a vulgar kind of comfort"; the Greek ἰδιωτικός means plain, the comfort of an ordinary man rather than of a philosopher. It is to look at what one is leaving and at the people one is leaving. One must not be offended with men; it is "thy duty to care for them and to bear with them gently." And yet one should remember that the parting "will not be from men who have the same principles as thyself." The only thing that could hold us to life would be "to be permitted to live with those who have the same principles as ourselves," and that is not granted. At the end comes an almost bitter cry: "Come quick, O death, lest perchance I, too, should forget myself." A long life among people who think otherwise is a danger: one may forget one's own principles.
 
@@ -276,7 +276,7 @@ The book ends with its longest and most systematic passage: five remedies agains
 
 The first remedy. When someone's shamelessness offends you, ask yourself: "Is it possible, then, that shameless men should not be in the world? It is not possible. Do not, then, require what is impossible." This is the fig tree of [[04-06|4.6]]: to demand that the shameless man not be shameless is to refuse to "allow the fig-tree to have juice." Remember this, and "thou wilt become more kindly disposed towards every one individually."
 
-The second remedy. Against every wrong nature has given a virtue: "as an antidote against the stupid man, mildness." Long's "stupid" is too weak for the Greek ἀγνώμων, the unfeeling and ungrateful man. Against anger, then, we already have a remedy at hand, and it is always possible "to correct by teaching the man who is gone astray; for every man who errs misses his object."
+The second remedy. Against every wrong nature has given a virtue: "as an antidote against the stupid man, mildness." Long's "stupid" misses the Greek ἀγνώμων, which means the unfeeling and ungrateful man. Against anger, then, we already have a remedy at hand, and it is always possible "to correct by teaching the man who is gone astray; for every man who errs misses his object."
 
 The third remedy. "Besides wherein hast thou been injured?" None of those against whom you are irritated "has done anything by which thy mind could be made worse," and only there can evil and harm to you have their foundation.
 
@@ -290,4 +290,4 @@ The fifth remedy, "most of all," as Marcus says. If you complain of ingratitude,
 
 **Key thought.** One can live among those who disagree without demanding their agreement and without losing oneself. Injustice toward them is impiety, because men are made for one another ([[09-01|9.1]]). For such a life three things are enough: sound judgment, action for the common good, and contentment with what comes from outside ([[09-06|9.6]]). And there is no reason to be angry with the shameless: the world cannot be without them, and they do no harm to the mind ([[09-42|9.42]]).
 
-**Practice: the contemplation of nature (φυσιολογία).** Marcus looks at the world as unceasing motion: "The periodic movements of the universe are the same, up and down from age to age" ([[09-28|9.28]]). The exercise is to take what weighs on one, including another's fault or "the discordance of those who live together" ([[09-03|9.3]]), and to see it as one of the works of nature: how it arose, what it will pass into, how short its term is. Marcus applies this to himself as well.
+**Practice: the contemplation of nature (φυσιολογία).** Marcus looks at the world as unceasing motion: "The periodic movements of the universe are the same, up and down from age to age" ([[09-28|9.28]]). The exercise is to take what weighs on one, including another's fault or "the discordance of those who live together" ([[09-03|9.3]]), and to see it as one of the works of nature: how it arose, what it will pass into, how short its term is. Marcus applies this to his own life as well.
