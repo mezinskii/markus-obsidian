@@ -2,7 +2,8 @@
 // Запуск: npm run book:pdf  [-- --only 4]  [-- --print]
 //   --only N  собрать только содержание и книгу N (пробные страницы)
 //   --print   вариант для печати: акцент чёрным, без ссылок
-//   --format ridero|kdp  формат страницы: ridero (A5, по умолчанию) или kdp (6×9, для будущего английского издания)
+//   --format ridero|kdp  формат страницы: ridero (A5, по умолчанию) или kdp (6×9, для английского издания)
+//   --en      английская версия (главы en/, текст Лонга); по умолчанию формат kdp
 // Выход: books/reading-marcus/dist/chitaya-marka-avreliya.pdf (или -print.pdf)
 
 import fs from 'node:fs';
@@ -16,13 +17,35 @@ import footnote from 'markdown-it-footnote';
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(HERE, '../../..');
 const BOOKDIR = path.join(ROOT, 'books/reading-marcus');
-const BOOK = path.join(BOOKDIR, 'ru');
+const EN = process.argv.includes('--en');
+const BOOK = path.join(BOOKDIR, EN ? 'en' : 'ru');
+const pad0 = (n) => String(n).padStart(2, '0');
+// всё, что зависит от языка: файлы, заголовки разделов, подписи
+const L = EN ? {
+  intro: '00-introduction.md', chap: (b) => `book-${pad0(b)}.md`,
+  apps: [['A', 'app-a-text-and-translation.md'], ['B', 'app-b-glossary.md'], ['C', 'app-c-names.md'], ['D', 'app-d-map-of-practice.md'], ['E', 'app-e-chronology.md']],
+  appTitles: [['A', 'The Text and the Translation'], ['B', 'Glossary of Terms'], ['C', 'Index of Names'], ['D', 'A Map of Practice'], ['E', 'Chronology of the Life of Marcus Aurelius']],
+  back: [['literatura', 'bibliography.md', 'Bibliography'], ['ob-avtore', 'about-the-author.md', 'About the Author']],
+  mapFile: 'app-d-map-of-practice', section: 'Английский', attribution: /^\*\(Long\)\*\s*$/m,
+  line: 'The Thread of the Book', brief: 'The Book in Brief', commentary: '**Commentary.**', doctrines: 'Doctrines.',
+  introWord: 'Introduction', introSub: 'How to Read Marcus Aurelius', book: (r) => `Book ${r}`, appendix: (k) => `Appendix ${k}`,
+  meditations: 'The Meditations', appendices: 'Appendices', out: 'reading-marcus-aurelius',
+} : {
+  intro: '00-vvedenie.md', chap: (b) => `kniga-${pad0(b)}.md`,
+  apps: [['A', 'pril-a-o-tekste.md'], ['B', 'pril-b-slovar.md'], ['C', 'pril-c-imena.md'], ['D', 'pril-d-karta-praktiki.md'], ['E', 'pril-e-hronologiya.md']],
+  appTitles: [['A', 'О тексте и переводе'], ['B', 'Словарь терминов'], ['C', 'Указатель имён'], ['D', 'Карта практики'], ['E', 'Хронология жизни Марка Аврелия']],
+  back: [['literatura', 'literatura.md', 'Литература'], ['ob-avtore', 'ob-avtore.md', 'Об авторе']],
+  mapFile: 'pril-d-karta-praktiki', section: 'Русский', attribution: /^\*\(пер\.[^)]*\)\*\s*$/m,
+  line: 'Линия главы', brief: 'Главное в книге', commentary: '**Комментарий.**', doctrines: 'Догматы.',
+  introWord: 'Введение', introSub: 'Как читать Марка Аврелия', book: (r) => `Книга ${r}`, appendix: (k) => `Приложение ${k}`,
+  meditations: 'Размышления', appendices: 'Приложения', out: 'chitaya-marka-avreliya',
+};
 const PASS = path.join(ROOT, 'marcus-aurelius/passages');
 const OUT_DIR = path.join(BOOKDIR, 'dist');
 const args = process.argv.slice(2);
 const ONLY = args.includes('--only') ? args[args.indexOf('--only') + 1].split(',').map(Number) : null;
 const PRINT = args.includes('--print');
-const FORMAT = args.includes('--format') ? args[args.indexOf('--format') + 1] : 'ridero';
+const FORMAT = args.includes('--format') ? args[args.indexOf('--format') + 1] : (EN ? 'kdp' : 'ridero');
 if (!['ridero', 'kdp'].includes(FORMAT)) throw new Error('--format: ridero или kdp');
 const ROMAN = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'];
 const BOOKS = ONLY || [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
@@ -37,15 +60,12 @@ const pad = (n) => String(n).padStart(2, '0');
 const fid = (b, m) => `f-${pad(b)}-${pad(m)}`;
 
 // какие метки будут в документе (ссылки на отсутствующие Typst не простит)
-const APPENDICES = [
-  ['A', 'pril-a-o-tekste.md'], ['B', 'pril-b-slovar.md'], ['C', 'pril-c-imena.md'],
-  ['D', 'pril-d-karta-praktiki.md'], ['E', 'pril-e-hronologiya.md'],
-];
+const APPENDICES = L.apps;
 // разделы после приложений: литература и «Об авторе»
-const BACKMATTER = [['literatura', 'literatura.md', 'Литература'], ['ob-avtore', 'ob-avtore.md', 'Об авторе']];
+const BACKMATTER = L.back;
 const labels = new Set(['vvedenie', ...APPENDICES.map(([k]) => `pril-${k}`), ...BACKMATTER.map(([l]) => l)]);
 // статьи карты практики: ### Название ^slug → метка d-slug
-for (const m of read(path.join(BOOK, 'pril-d-karta-praktiki.md')).matchAll(/^### .*?\s+\^([\w-]+)\s*$/gm)) labels.add(`d-${m[1]}`);
+for (const m of read(path.join(BOOK, `${L.mapFile}.md`)).matchAll(/^### .*?\s+\^([\w-]+)\s*$/gm)) labels.add(`d-${m[1]}`);
 for (const b of BOOKS) {
   labels.add(`kniga-${b}`);
   for (const f of fs.readdirSync(path.join(PASS, `book ${b}`))) {
@@ -74,14 +94,14 @@ function wikiLinks(s) {
     const m = target.match(/^(\d\d)-(\d\d)$/);
     if (m) return `[${alias ?? `${+m[1]}.${+m[2]}`}](#${fid(+m[1], +m[2])})`;
     // догмат или упражнение в карте практики → ссылка на статью приложения D
-    if (target === 'pril-d-karta-praktiki' && anchor) return `[${alias ?? target}](#d-${anchor})`;
+    if (target === L.mapFile && anchor) return `[${alias ?? target}](#d-${anchor})`;
     return alias ?? target;
   });
 }
 function fragmentMd(id) {
   const t = read(path.join(PASS, `book ${+id.slice(0, 2)}`, `${id}.md`));
-  let s = (t.split(/^## Русский\s*$/m)[1] || '').split(/^## /m)[0];
-  s = s.replace(/^\*\(пер\.[^)]*\)\*\s*$/m, '').trim();
+  let s = (t.split(new RegExp(`^## ${L.section}\\s*$`, 'm'))[1] || '').split(/^## /m)[0];
+  s = s.replace(L.attribution, '').trim();
   return wikiLinks(s);
 }
 
@@ -148,8 +168,30 @@ function render(node, ctx) {
   }
 }
 
+// английский текст: прямые кавычки и апострофы → типографские (“…” ‘…’ ’).
+// Кавычка открывающая, если перед ней (не считая * и _ разметки) начало, пробел или скобка/тире.
+function curlyQuotes(src) {
+  const out = [...src];
+  for (let i = 0; i < out.length; i++) {
+    const c = out[i];
+    if (c !== '"' && c !== "'") continue;
+    let j = i - 1;
+    while (j >= 0 && (out[j] === '*' || out[j] === '_')) j--;
+    const prev = j >= 0 ? out[j] : '';
+    const next = out[i + 1] || '';
+    // перед пробелом, знаком препинания или концом строки кавычка всегда закрывающая
+    const open = (prev === '' || /[\s(\[{—–\-\/“‘]/.test(prev)) && next !== '' && !/[\s.,;:!?)\]]/.test(next);
+    // элизии Лонга: ’scape, ’tis, ’twas
+    const elision = c === "'" && /^(scape|tis|twas)/.test(out.slice(i + 1, i + 6).join(''));
+    if (c === '"') out[i] = open ? '“' : '”';
+    else out[i] = open && !elision && /[A-Za-z0-9]/.test(next) ? '‘' : '’';
+  }
+  return out.join('');
+}
+
 // markdown-фрагмент → Typst; сноски становятся заметками на поле в месте ссылки
 function toTypst(src) {
+  if (EN) src = curlyQuotes(src);
   let html = md.render(src);
   const notes = new Map();
   const sec = html.match(/<hr class="footnotes-sep">\s*<section class="footnotes">([\s\S]*?)<\/section>\s*$/);
@@ -171,7 +213,7 @@ function bookTitle(lineMd) {
 const tocBooks = [];
 function buildBook(b) {
   noteNo = 0;
-  const { content } = matter(read(path.join(BOOK, `kniga-${pad(b)}.md`)));
+  const { content } = matter(read(path.join(BOOK, L.chap(b))));
   const parts = content.split(/^## /m).slice(1);
   let out = '';
   let title = null;
@@ -180,23 +222,23 @@ function buildBook(b) {
     const head = p.slice(0, nl).trim();
     let rest = p.slice(nl + 1).trim();
     const fm = head.match(/^(\d+)\.(\d+)$/);
-    if (head === 'Линия главы') {
+    if (head === L.line) {
       title = bookTitle(rest);
       const line = rest.replace(/^\s*\*\*[^*]+\*\*\s*/, '');
-      out += `#chapter("kniga-${b}", "${ROMAN[b]}", ${title ? `[${escText(title)}]` : 'none'}, "Книга ${ROMAN[b]}", [${toTypst(wikiLinks(line))}])\n\n`;
-    } else if (head === 'Главное в книге') {
+      out += `#chapter("kniga-${b}", "${ROMAN[b]}", ${title ? `[${escText(title)}]` : 'none'}, "${L.book(ROMAN[b])}", [${toTypst(wikiLinks(line))}])\n\n`;
+    } else if (head === L.brief) {
       out += `#glavnoe[${toTypst(wikiLinks(rest))}]\n\n`;
     } else if (fm) {
       const id = `${pad(+fm[1])}-${pad(+fm[2])}`;
       if (BREAK_BEFORE.has(`${+fm[1]}.${+fm[2]}`)) out += '#pagebreak(weak: true)\n';
       out += `#frag("${+fm[1]}.${+fm[2]}", "${fid(+fm[1], +fm[2])}")\n${toTypst(fragmentMd(id))}`;
-      rest = rest.replace(/^!\[\[[^\]]*#Русский\]\]\s*$/m, '').trim();
-      if (rest.includes('**Комментарий.**')) {
-        const com = rest.replace(/^\*\*Комментарий\.\*\*\s*/m, '');
+      rest = rest.replace(new RegExp(`^!\\[\\[[^\\]]*#${L.section}\\]\\]\\s*$`, 'm'), '').trim();
+      if (rest.includes(L.commentary)) {
+        const com = rest.replace(L.commentary, '').replace(/^\s+/, '');
         // на поле напротив «Догматы.»: страницы этих догматов в карте практики
-        const slugs = [...new Set([...com.matchAll(/\[\[pril-d-karta-praktiki#\^([\w-]+)/g)].map((x) => x[1]))].filter((s) => labels.has(`d-${s}`));
+        const slugs = [...new Set([...com.matchAll(new RegExp(`\\[\\[${L.mapFile}#\\^([\\w-]+)`, 'g'))].map((x) => x[1]))].filter((s) => labels.has(`d-${s}`));
         let ct = toTypst(wikiLinks(com));
-        if (slugs.length) ct = ct.replace('#strong[Догматы.]', `#dogmaref((${slugs.map((s) => `"${s}"`).join(', ')},))#strong[Догматы.]`);
+        if (slugs.length) ct = ct.replace(`#strong[${L.doctrines}]`, `#dogmaref((${slugs.map((s) => `"${s}"`).join(', ')},))#strong[${L.doctrines}]`);
         out += `#commentary-label\n${ct}`;
       }
     } else {
@@ -210,9 +252,9 @@ function buildBook(b) {
 // ---------- введение ----------
 function buildIntro() {
   noteNo = 0;
-  const { data, content } = matter(read(path.join(BOOK, '00-vvedenie.md')));
-  const sub = String(data.title).replace(/^Введение:\s*/, '');
-  return `#section-open("vvedenie", none, [Введение], "Введение")
+  const { data, content } = matter(read(path.join(BOOK, L.intro)));
+  const sub = String(data.title).replace(/^(Введение|Introduction):\s*/, '');
+  return `#section-open("vvedenie", none, [${L.introWord}], "${L.introWord}")
 #align(center, text(style: "italic", size: 11pt)[${escText(sub[0].toUpperCase() + sub.slice(1))}])
 #v(1.5em)
 ${toTypst(wikiLinks(content).replace(/^### /gm, "## "))}`;
@@ -237,10 +279,10 @@ function placesMap() {
 function commentedSet() {
   const set = new Set();
   for (let b = 1; b <= 12; b++) {
-    const parts = read(path.join(BOOK, `kniga-${pad(b)}.md`)).split(/^## /m);
+    const parts = read(path.join(BOOK, L.chap(b))).split(/^## /m);
     for (const p of parts) {
       const m = p.match(/^(\d+)\.(\d+)\s*\n/);
-      if (m && p.includes('**Комментарий.**')) set.add(`${pad(+m[1])}-${pad(+m[2])}`);
+      if (m && p.includes(L.commentary)) set.add(`${pad(+m[1])}-${pad(+m[2])}`);
     }
   }
   return set;
@@ -258,8 +300,8 @@ function buildAppendices() {
   for (const [k, file] of APPENDICES) {
     noteNo = 0;
     const { data, content } = matter(read(path.join(BOOK, file)));
-    const title = String(data.title).replace(/^Приложение\s+[A-ZА-Я]\.\s*/, '');
-    out += `#section-open("pril-${k}", [Приложение ${k}], [${escText(title)}], "Приложение ${k}")\n`;
+    const title = String(data.title).replace(/^(Приложение|Appendix)\s+[A-ZА-Я]\.\s*/, '');
+    out += `#section-open("pril-${k}", [${L.appendix(k)}], [${escText(title)}], "${L.appendix(k)}")\n`;
     if (k !== 'D') { out += toTypst(wikiLinks(content)); continue; }
     for (const p of content.split(/^(?=### |## )/m)) {
       const m = p.match(/^### (.*?)\s+\^([\w-]+)\s*\n([\s\S]*)$/);
@@ -287,32 +329,40 @@ const chapters = BOOKS.map(buildBook).join('\n');
 const allTitles = new Map(tocBooks.map((t) => [t.b, t.title]));
 for (let b = 1; b <= 12; b++) {
   if (allTitles.has(b)) continue;
-  const { content } = matter(read(path.join(BOOK, `kniga-${pad(b)}.md`)));
-  const line = (content.split(/^## Линия главы\s*$/m)[1] || '').trim();
+  const { content } = matter(read(path.join(BOOK, L.chap(b))));
+  const line = (content.split(new RegExp(`^## ${L.line}\\s*$`, 'm'))[1] || '').trim();
   allTitles.set(b, bookTitle(line));
 }
 const tocEntry = (kicker, title, lab) => `#toc-entry([${kicker}], ${title ? `[${escText(title)}]` : 'none'}, ${labels.has(lab) ? `label("${lab}")` : 'none'})`;
 let toc = '#toc-page[\n';
-toc += tocEntry('Введение', 'Как читать Марка Аврелия', 'vvedenie') + '\n';
-toc += '#toc-band[Размышления]\n';
-for (let b = 1; b <= 12; b++) toc += tocEntry(`Книга ${ROMAN[b]}`, allTitles.get(b), `kniga-${b}`) + '\n';
-toc += '#toc-band[Приложения]\n';
-for (const [k, t] of [['A', 'О тексте и переводе'], ['B', 'Словарь терминов'], ['C', 'Указатель имён'], ['D', 'Карта практики'], ['E', 'Хронология жизни Марка Аврелия']]) toc += tocEntry(`Приложение ${k}`, t, `pril-${k}`) + '\n';
+toc += tocEntry(L.introWord, L.introSub, 'vvedenie') + '\n';
+toc += `#toc-band[${L.meditations}]\n`;
+for (let b = 1; b <= 12; b++) toc += tocEntry(L.book(ROMAN[b]), allTitles.get(b), `kniga-${b}`) + '\n';
+toc += `#toc-band[${L.appendices}]\n`;
+for (const [k, t] of L.appTitles) toc += tocEntry(L.appendix(k), t, `pril-${k}`) + '\n';
 for (const [lab, , t] of BACKMATTER) toc += tocEntry(t, null, lab) + '\n';
 toc += ']\n';
 
-const colophon = [
+const colophon = (EN ? [
+  '© Ian Mezinskii, 2026. Introduction, commentary and appendices.',
+  "The complete text of the Meditations is given in the translation of George Long (1862), checked against the Greek of J. H. Leopold's edition (Oxford, 1908). The passages follow the standard numbering.",
+  'A commentary on every passage: readaurelius.org.',
+  'Cover: bust of Marcus Aurelius, Glyptothek, Munich.',
+  'Fonts: EB Garamond (Georg Duffner, Octavio Pardo), Cormorant (Christian Thalmann), Gentium Plus (SIL International); SIL Open Font License 1.1.',
+] : [
   '© Ян Мезинский, 2026. Комментарий, введение, приложения.',
   'Текст «Размышлений» дан полностью в переводе С. М. Роговина (1914), сверенном с греческим по изданию Леопольда (Oxford, 1908). Нумерация фрагментов каноническая.',
   'Подробный комментарий к каждому фрагменту: readaurelius.org/ru.',
   'На обложке бюст Марка Аврелия из Мюнхенской глиптотеки.',
   'Шрифты: EB Garamond (Georg Duffner, Octavio Pardo), Cormorant (Christian Thalmann), Gentium Plus (SIL International); лицензия SIL Open Font License 1.1.',
-].map(escText).join('\n\n');
+]).map(escText).join('\n\n');
 const doc = `#import "/scripts/pdf/template.typ": *
 #show: book
 #set page(numbering: "i")
-${PRINT ? '' : '#cover("/cover/cover-ebook.jpg")\n#counter(page).update(1)'}
-#titlepage([Ян Мезинский], [Читая Марка Аврелия], [Как читать «Размышления»], [Перевод «Размышлений» С. М. Роговина])
+${PRINT ? '' : `#cover("${EN ? '/cover/en/cover-ebook.jpg' : '/cover/cover-ebook.jpg'}")\n#counter(page).update(1)`}
+${EN
+  ? '#titlepage([Ian Mezinskii], [Reading], [MARCUS AURELIUS], [The Meditations as Spiritual Exercises], [The Meditations in the translation of George Long])'
+  : '#titlepage([Ян Мезинский], [Читая], [МАРКА  АВРЕЛИЯ], [Как читать «Размышления»], [Перевод «Размышлений» С. М. Роговина])'}
 #colophon[${colophon}]
 ${toc}
 #pagebreak(to: "odd", weak: true)
@@ -327,13 +377,13 @@ const work = path.join(OUT_DIR, 'pdf');
 fs.mkdirSync(work, { recursive: true });
 const typFile = path.join(work, 'book.typ');
 fs.writeFileSync(typFile, doc);
-const pdfOut = path.join(OUT_DIR, `chitaya-marka-avreliya${ONLY ? `-kniga-${ONLY.join('-')}` : ''}-${FORMAT}${PRINT ? '-print' : ''}.pdf`);
+const pdfOut = path.join(OUT_DIR, `${L.out}${ONLY ? `-kniga-${ONLY.join('-')}` : ''}-${FORMAT}${PRINT ? '-print' : ''}.pdf`);
 
 const typst = process.env.TYPST || [
   path.join(process.env.LOCALAPPDATA || '', 'Microsoft/WinGet/Packages/Typst.Typst_Microsoft.Winget.Source_8wekyb3d8bbwe/typst-x86_64-pc-windows-msvc/typst.exe'),
 ].find((p) => fs.existsSync(p)) || 'typst';
 const targs = ['compile', '--root', BOOKDIR, '--font-path', path.join(BOOKDIR, 'tools/fonts'), '--font-path', path.join(HERE, 'fonts'),
-  '--input', `print=${PRINT ? 1 : 0}`, '--input', `format=${FORMAT}`, typFile, pdfOut];
+  '--input', `print=${PRINT ? 1 : 0}`, '--input', `format=${FORMAT}`, '--input', `lang=${EN ? 'en' : 'ru'}`, typFile, pdfOut];
 execFileSync(typst, targs, { stdio: 'inherit' });
 if (args.includes('--png')) {
   execFileSync(typst, [...targs.slice(0, -1), path.join(work, 'p{0p}.png'), '--ppi', '110'], { stdio: 'inherit' });

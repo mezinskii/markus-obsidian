@@ -26,12 +26,21 @@
 // build-pdf.mjs --format ridero|kdp
 #let formats = (
   ridero: (w: 145mm, h: 205mm, inner: 15mm, far: 5mm, note: 31mm, sep: 4mm, top: 16mm, bottom: 19mm, size: 10pt),
-  kdp: (w: 152mm, h: 229mm, inner: 16mm, far: 6mm, note: 34mm, sep: 4mm, top: 18mm, bottom: 22mm, size: 10.5pt),
+  kdp: (w: 152.4mm, h: 228.6mm, inner: 17mm, far: 7.5mm, note: 34mm, sep: 4mm, top: 18mm, bottom: 22mm, size: 10.5pt),
 )
 #let fmt = formats.at(sys.inputs.at("format", default: "ridero"))
+// язык издания: подписи в оформлении
+#let en = sys.inputs.at("lang", default: "ru") == "en"
+#let T = if en {
+  (contents: [Contents], book: [Book], line: [The Thread of the Book], commentary: [Commentary], brief: [The Book in Brief],
+   places: [Places], map: [Map of Practice, p.], title: "Reading Marcus Aurelius", author: "Ian Mezinskii", lang: "en")
+} else {
+  (contents: [Содержание], book: [Книга], line: [Линия главы], commentary: [Комментарий], brief: [Главное в книге],
+   places: [Места], map: [Карта практики, с.], title: "Читая Марка Аврелия", author: "Ян Мезинский", lang: "ru")
+}
 
 #let book(body) = {
-  set document(title: "Читая Марка Аврелия", author: "Ян Мезинский")
+  set document(title: T.title, author: T.author)
   set page(width: fmt.w, height: fmt.h)
   show: marginalia.setup.with(
     inner: (far: fmt.inner, width: 0mm, sep: 0mm),
@@ -41,7 +50,7 @@
     book: true,
     clearance: 4pt,
   )
-  set text(font: serif, size: fmt.size, lang: "ru", fill: ink, hyphenate: true)
+  set text(font: serif, size: fmt.size, lang: T.lang, fill: ink, hyphenate: true)
   set smartquote(enabled: false)
   set par(justify: true, leading: 0.62em, spacing: 0.62em, first-line-indent: 1.2em)
   set quote(block: true)
@@ -66,14 +75,28 @@
     let marks = query(selector(<running>).before(here()))
     let name = if marks.len() > 0 { marks.last().value } else { none }
     let num = text(fill: accent, style: "italic", size: 10pt, counter(page).display())
+    // диапазон фрагментов: только внутри главы (после её начала), иначе пусто
+    let opens = query(selector(<chapter-open>).before(here()))
+    let range = none
+    if opens.len() > 0 {
+      let frs = query(selector(<fragnum>).after(opens.last().location()).before(here()))
+      let on = frs.filter(m => m.location().page() == p)
+      let before = frs.filter(m => m.location().page() < p)
+      let first = if before.len() > 0 { before.last().value } else if on.len() > 0 { on.first().value } else { none }
+      let last = if on.len() > 0 { on.last().value } else { first }
+      if first != none {
+        range = if first == last { first } else { first + "–" + last }
+      }
+    }
+    let label-text(name) = if range == none { caps(name) } else [#caps(name)#h(0.5em)·#h(0.5em)#text(size: 8.5pt, tracking: 0.04em, range)]
     let bar = box(height: 0.9em, stroke: (left: 0.4pt + luma(60%)), inset: 0pt)
     set text(size: 8pt)
     if opener or name == none {
       align(if calc.odd(p) { right } else { left }, num)
     } else if calc.odd(p) {
-      align(right, [#text(fill: accent, caps(name)) #h(0.6em) #bar #h(0.6em) #num])
+      align(right, [#text(fill: accent, label-text(name)) #h(0.6em) #bar #h(0.6em) #num])
     } else {
-      align(left, [#num #h(0.6em) #bar #h(0.6em) #text(fill: accent, caps(name))])
+      align(left, [#num #h(0.6em) #bar #h(0.6em) #text(fill: accent, label-text(name))])
     }
   })
   body
@@ -94,7 +117,7 @@
   pagebreak(to: "odd", weak: true)
   [#metadata(none) <chapter-open>]
   set par(first-line-indent: 0em, justify: false, leading: 0.5em)
-  align(center, text(fill: accent, caps([Содержание], size: 1.05em, track: 0.2em)))
+  align(center, text(fill: accent, caps(T.contents, size: 1.05em, track: 0.2em)))
   v(1.2em)
   body
 }
@@ -109,16 +132,16 @@
   v(10mm)
   set par(first-line-indent: 0em, justify: false)
   align(center)[
-    #text(fill: accent, caps([Книга], size: 1em, track: 0.3em)) #label(label-id)
+    #text(fill: accent, caps(T.book, size: 1em, track: 0.3em)) #label(label-id)
     #v(0.2em)
     #text(font: display, size: 54pt, fill: accent, weight: "medium", roman)
     #if title != none {
       v(1.2em)
-      text(font: serif, size: 15pt, tracking: 0.08em, upper(title))
+      text(font: serif, size: 15pt, tracking: 0.08em, hyphenate: false, upper(title))
     }
   ]
   v(2.2em)
-  text(fill: accent, caps([Линия главы], size: 0.85em, track: 0.12em))
+  text(fill: accent, caps(T.line, size: 0.85em, track: 0.12em))
   v(0.2em)
   set par(first-line-indent: 0em, spacing: 0.9em)
   text(style: "italic", size: 10.5pt, line)
@@ -131,15 +154,15 @@
 
 // номер фрагмента: держится со следующим абзацем
 #let frag(num, label-id) = [#block(above: 1.3em, below: 0.45em, sticky: true,
-  text(fill: accent, size: 9.5pt, tracking: 0.06em, weight: "semibold", num))#label(label-id)]
+  text(fill: accent, size: 9.5pt, tracking: 0.06em, weight: "semibold", num))#label(label-id)#metadata(num) <fragnum>]
 
 #let commentary-label = block(above: 1.1em, below: 0.85em, sticky: true,
-  text(fill: accent, caps([Комментарий], size: 0.8em, track: 0.16em)))
+  text(fill: accent, caps(T.commentary, size: 0.8em, track: 0.16em)))
 
 // «Главное в книге»: отдельный блок цвета акцента, как «Image»/«Authority» у Грина
 #let glavnoe(body) = {
   v(1em)
-  align(center, text(fill: accent, caps([Главное в книге], size: 0.9em, track: 0.18em)))
+  align(center, text(fill: accent, caps(T.brief, size: 0.9em, track: 0.18em)))
   v(0.4em)
   block(inset: (x: 4mm), {
     set par(first-line-indent: 0em, spacing: 0.8em)
@@ -157,7 +180,7 @@
   v(14mm)
   align(center)[
     #if kicker != none [#text(fill: accent, caps(kicker, size: 0.95em, track: 0.3em)) \ #v(0.6em)]
-    #text(font: serif, size: 17pt, tracking: 0.08em, upper(title)) #label(label-id)
+    #text(font: serif, size: 17pt, tracking: 0.08em, hyphenate: false, upper(title)) #label(label-id)
   ]
   v(2em)
 }
@@ -168,7 +191,7 @@
   align(center + horizon, image(path, height: 100%)))
 
 // титул и его оборот
-#let titlepage(author, title, subtitle, translator) = page(footer: none, margin: (x: 18mm, top: 18mm, bottom: 22mm), {
+#let titlepage(author, kicker, title, subtitle, translator) = page(footer: none, margin: (x: 18mm, top: 18mm, bottom: 22mm), {
   set par(first-line-indent: 0em, justify: false)
   set text(hyphenate: false)
   let big(w) = block(above: 0.25em, below: 0.25em,
@@ -177,9 +200,9 @@
   align(center)[
     #text(caps(author, size: 1em, track: 0.3em))
     #v(16mm)
-    #text(fill: accent, size: 13pt, tracking: 0.25em, upper[Читая])
+    #text(fill: accent, size: 13pt, tracking: 0.25em, upper(kicker))
     #v(0.5em)
-    #par(leading: 0.45em, text(font: display, fill: accent, size: 38pt, weight: "medium", tracking: 0.04em)[МАРКА  АВРЕЛИЯ])
+    #par(leading: 0.45em, text(font: display, fill: accent, size: 38pt, weight: "medium", tracking: 0.04em, title))
     #v(0.6em)
     #v(0.4em)
     #line(length: 22mm, stroke: 0.7pt + accent)
@@ -204,7 +227,7 @@
 #let places(n, body) = block(above: 0.4em, {
   set par(first-line-indent: 0em, justify: false)
   set text(size: 9pt)
-  [#text(fill: accent, caps([Места], size: 0.85em, track: 0.1em)) (#n): #body]
+  [#text(fill: accent, caps(T.places, size: 0.85em, track: 0.1em)) (#n): #body]
 })
 
 // ---------- навигация на полях ----------
@@ -221,5 +244,5 @@
       seen.push(p)
       parts.push(if print { str(p) } else { link(l, str(p)) })
     }
-    [Карта практики, #if parts.len() > 1 [с.] else [с.] #parts.join(", ")]
+    [#T.map #parts.join(", ")]
   })

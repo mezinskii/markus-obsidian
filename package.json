@@ -12,6 +12,8 @@
     "prayers:check": "tsx antique-prayers/scripts/check.ts",
     "prayers:to-sanity": "tsx antique-prayers/scripts/to-sanity.ts",
     "book:pdf": "node books/reading-marcus/scripts/build-pdf.mjs",
+    "book:pdf:en": "node books/reading-marcus/scripts/build-pdf.mjs --en --print",
+    "book:cover:en": "typst compile --root books/reading-marcus --font-path books/reading-marcus/tools/fonts --font-path books/reading-marcus/scripts/fonts --input pages=288 books/reading-marcus/cover/en/paperback-cover.typ books/reading-marcus/dist/reading-marcus-aurelius-kdp-cover.pdf",
     "book:docx": "node books/reading-marcus/scripts/build-docx.mjs",
     "letter:copy": "node letters/scripts/copy-letter.mjs",
     "book:epub:en": "node books/reading-marcus/scripts/build-epub.mjs --en"
